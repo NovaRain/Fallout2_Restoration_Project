@@ -35,7 +35,7 @@
 {134}{}{Na minimální úrovni.}
 {135}{}{Nelze snížit.}
 {136}{}{Nemáš dost dovednostních bodů.}
-{137}{}{Base:}
+{137}{}{:}
 {138}{}{TALENTY}
 {139}{}{CHARAKTEROVÉ RYSY}
 {140}{}{Tvá postava může mít maximálně}
@@ -68,8 +68,8 @@
 {205}{}{Dobré}
 {206}{}{Bezva}
 {207}{}{Skvělé}
-{208}{}{Skvělé}
-{209}{}{Úžasné}
+{208}{}{Úžasné}
+{209}{}{Super}
 {300}{editor}{Hit body}
 {301}{}{Akční body}
 {302}{editor}{Třída zbroje}
@@ -80,7 +80,7 @@
 {307}{}{Odol. v. radiaci}
 {308}{editor}{Postřeh}
 {309}{editor}{Uzdravování}
-{310}{editor}{Šance na kritický zásah}
+{310}{editor}{Kritický zásah}
 {311}{editor}{Nosnost}
 {312}{}{Otrava}
 {313}{}{Ozáření}
@@ -161,10 +161,10 @@
 {651}{}{ ::: Perky :::}
 {652}{}{ ::: Karma :::}
 {653}{}{ ::: Dovednosti :::                ::: Zářezy :::}
-{654}{}{  ::: Inventář :::}
+{654}{}{ ::: Inventář :::}
 {655}{}{  Celková váha:}
 {656}{}{ ::: Závislosti :::}
-{657}{}{   ::: Reputace :::}
+{657}{}{ ::: Reputace :::}
 {1000}{}{Reputace (Obecně) }
 {1001}{}{Berserk}
 {1002}{}{Šampión}

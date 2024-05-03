@@ -2,7 +2,7 @@
 {101}{}{Vidíš Chrise, obsluhu čerpací stanice.}
 {102}{}{Vidíš starce oblečeného ve špinavém fialovém rouchu.}
 {103}{}{Zdravím tě, cizinče. Och! Podívejme se na to krásný auto. Už léta jsem žádné neviděl. Co pro tebe může starý Chris udělat?}
-{104}{}{Zdravím tě, cizinče. Nikdy jsem tě v těhlech končinách neviděl. Co pro tebe může starý Chris udělat?}
+{104}{}{Zdravím tě, cizinče. Nikdy jsem tě v těchto končinách neviděl. Co pro tebe může starý Chris udělat?}
 {105}{}{Co být tohle za místo?}
 {106}{}{Hledat Navarro. To být tady?}
 {107}{}{Vidět ty letět tady ocelové ptáky?}
@@ -101,7 +101,9 @@
 {200}{}{Počkej chvíli. Snažíš se mi říct, že jsi jeden z těch vojáků, kteří sem byli přeloženi?}
 {201}{}{Hmm... jo tak.}
 {202}{}{Přesně tak.}
-{203}{}{Sákryš. Promiň mi to lhaní. Chodí nám sem spousta nováčků a mým úkolem je oddělit zrno od plev. Jdi nahoru k bráně, projdi skrz stromy a řekni jim heslo. Je to 'Ovčí hlava.' Jo a neuhýbej z té cesty!}
+{203}{}{Sákryš. Promiň mi to lhaní.
+ Chodí nám sem spousta nováčků a mým úkolem je oddělit zrno od plev.
+ Jdi nahoru k bráně, projdi skrz stromy a řekni jim heslo. Je to 'Ovčí hlava.' Jo a neuhýbej z té cesty!}
 {204}{}{Díky!}
 {205}{}{Počkej chvíli, blbečku. Snažíš se mi říct, že jsi jeden z těch vojáků, kteří sem byli přeloženi? Proč tedy nejsi sám?}
 {206}{}{Počkej chvíli. Snažíš se mi říct, že jsi jeden z těch vojáků, kteří sem byli přeloženi? Proč tedy nejsi sám?}
