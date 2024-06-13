@@ -1,21 +1,21 @@
-{100}{}{You see a stout nun.}
-{101}{}{You see Elaine.}
-{102}{}{You still see her.}
-{200}{}{Greetings!}
-{201}{}{Hi, what's your name?}
-{202}{}{What can you tell me about the Abbey?}
-{203}{}{Bye.}
-{300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
-{301}{}{I see. A few more questions...}
-{400}{}{Of course. What would you like to know?}
+{100}{}{B?n th?y m?t n? tu m?p m?p.}
+{101}{}{B?n th?y Elaine.}
+{102}{}{B?n v?n th?y bà ta.}
+{200}{}{Xin chào!}
+{201}{}{Chào, tên bà là g??}
+{202}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
+{203}{}{Chào.}
+{300}{}{N?u c?u mu?n t?m hi?u thêm v? h?i c?a chúng tôi, h?y nói chuy?n v?i Tr? tr?. C?u có th? t?m th?y ông trong ph?ng riêng ? t?ng ba.}
+{301}{}{Tôi hi?u r?i. H?i thêm nhé...}
+{400}{}{D? nhiên r?i. C?u mu?n bi?t g? nào?}
 {401}{}{What is your name?}
 {402}{}{Nothing really, bye.}
-{403}{}{What can you tell me about the Abbey?}
+{403}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {500}{}{My name is Elaine.}
-{501}{}{I see. A few more questions...}
-{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
- basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down
- all those stairs. Would it trouble you too much to bring him this part for me?}
+{501}{}{Tôi hi?u r?i. H?i thêm nhé...}
+{600}{}{Này! Trư?c khi đi, có l? c?u có th? giúp tôi m?t vi?c. Tôi c?n ph?i mang b? ph?n máy này cho Max ? ph?ng
+sao ch?p dư?i t?ng h?m. Nhưng c?u th?y đ?y, cái đ?u g?i bên trái c?a tôi d?o này sưng tư?ng lên, làm tôi đau ê ?m
+m?i l?n lên xu?ng c?u thang. N?u không phi?n th? c?u có th? mang th? này cho ông ta h? tôi đư?c không?}
 {601}{}{Sure.}
 {602}{}{Sorry, I don't have time for this. Bye.}
 {603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}

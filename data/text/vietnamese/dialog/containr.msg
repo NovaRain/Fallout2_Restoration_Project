@@ -126,10 +126,10 @@
 {163}{}{You see an old container with a lock on it.}
 {164}{}{You see an old container with no apparent locking device.}
 {165}{}{You see an old container with an old, rusty lock.}
-{166}{}{You set off the trap and were hit for }
-{167}{}{ points of damage.}
-{168}{}{ sets off the trap and was hit for }
-{169}{}{ points of damage.}
+{166}{}{B?n b? dính b?y và đ? nh?n }
+{167}{}{ đi?m sát thương.}
+{168}{}{ đ? dính b?y và nh?n }
+{169}{}{ đi?m sát thương.}
 {170}{}{You deftly pick the lock on the container.}
 {171}{}{Your lack of skill has jammed the lock on this container.}
 {172}{}{You fail to pick the lock on this container.}
@@ -137,22 +137,22 @@
 {174}{}{'s lack of skill has jammed the lock on this container.}
 {175}{}{ failed to pick the lock on this container.}
 {176}{}{You bust the lock off the container.}
-{177}{}{You strain your back while trying to bust the lock and
- take a point of damage.}
-{178}{}{You strain your back while trying to bust the lock and
- take }
-{179}{}{ points of damage.}
-{180}{}{You are too weak to bust the lock.}
+{177}{}{B?n b? căng cơ lưng khi c? g?ng phá khóa và
+nh?n m?t đi?m sát thương.}
+{178}{}{B?n b? căng cơ lưng khi c? g?ng phá khóa và
+nh?n }
+{179}{}{ đi?m sát thương.}
+{180}{}{B?n quá y?u đ? có th? phá khóa.}
 {181}{}{ busts the lock off the container.}
-{182}{}{ strains his back while trying to bust the lock and takes
- a point of damage.}
-{183}{}{ strains his back while trying to bust the lock and takes }
-{184}{}{ points of damage.}
-{185}{}{ is too weak to bust the lock.}
-{186}{}{ strains her back while trying to bust the lock and takes
- a point of damage.}
-{187}{}{ strains her back while trying to bust the lock and takes }
-{188}{}{ points of damage.}
+{182}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
+ đi?m sát thương.}
+{183}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n }
+{184}{}{ đi?m sát thương.}
+{185}{}{ quá y?u đ? có th? phá khóa.}
+{186}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n m?t
+ đi?m sát thương.}
+{187}{}{ b? căng cơ lưng khi c? g?ng phá khóa và nh?n}
+{188}{}{ đi?m sát thương.}
 {189}{}{You deftly lock the container.}
 {190}{}{You fail to lock the container.}
 {191}{}{ deftly locks the container.}
@@ -160,12 +160,12 @@
 {193}{}{The explosives don't even put a scratch on the container.}
 {194}{}{You find a trap on the container.}
 {195}{}{You fail to find any traps on the container.}
-{196}{}{You skillfully disarm the trap.}
-{198}{}{You fail to disarm the trap.}
+{196}{}{B?n khéo léo vô hi?u hóa b?y.}
+{198}{}{B?n không vô hi?u hóa đư?c b?y.}
 {199}{}{ finds a trap on the container.}
 {200}{}{ fails to find any traps on the container.}
-{201}{}{ skillfully disarms the trap.}
-{202}{}{ fails to disarm the trap.}
+{201}{}{ khéo léo vô hi?u hóa b?y.}
+{202}{}{ không vô hi?u hóa đư?c b?y.}
 {203}{}{The container appears to be locked.}
 {204}{}{You notice a trap on the container.}
 {205}{}{ notices a trap on the container jamb.}

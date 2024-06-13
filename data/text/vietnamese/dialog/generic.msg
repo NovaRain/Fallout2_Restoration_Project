@@ -1,7 +1,7 @@
 {100}{}{You gain }
 {101}{}{ experience points.}
 {102}{}{You successfully disarm the trap.}
-{103}{}{You fail to disarm the trap.}
+{103}{}{B?n không vô hi?u hóa đư?c b?y.}
 {104}{}{You accidentally set off the trap.}
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}
@@ -26,7 +26,7 @@
 {353}{}{[CONTINUE]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
-{375}{}{Bye.}
+{375}{}{Chào.}
 {376}{}{Goodbye.}
 {400}{}{You die due to the lethal injection from Dr. Troy.}
 {450}{}{The coast is clear. Let's move out!}
