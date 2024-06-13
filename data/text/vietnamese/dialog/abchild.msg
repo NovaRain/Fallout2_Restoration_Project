@@ -1,8 +1,8 @@
-{100}{}{You see a small child.}
-{101}{}{The child appears to be happy.}
+{100}{}{B?n th?y m?t đ?a tr? nh?.}
+{101}{}{Đ?a tr? trông có v? h?nh phúc.}
 {200}{}{Whee!}
-{201}{}{This place is nice.}
-{202}{}{Have you seen my invisible friend?}
-{203}{}{You smell!}
-{204}{}{Hi!}
-{500}{}{Mommy!}
+{201}{}{Nơi này tuy?t đ?y.}
+{202}{}{Chú có th?y b?n ma c?a cháu không?}
+{203}{}{Chú hôi quá!}
+{204}{}{Chào!}
+{500}{}{M? ơi!}

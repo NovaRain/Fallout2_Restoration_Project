@@ -1,7 +1,7 @@
 {100}{}{You see a computer monk.}
 {101}{}{You see Brother Paul.}
 {102}{}{This monk looks like a computer geek.}
-{200}{}{Hi!}
+{200}{}{Chào!}
 {201}{}{Hello.}
 {202}{}{Now, did I backup those computer files today...}
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
@@ -13,7 +13,7 @@
 {305}{}{Do you know where I could find Vault 13?}
 {306}{}{Bye.}
 {307}{}{I am in need of some specific information.}
-{308}{}{Such as?}
+{308}{}{Như là?}
 {400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
  each and every day. There's just so much information to preserve, but, of course, it must be done.}
 {401}{}{Of course. Anyway, I have some other questions.}

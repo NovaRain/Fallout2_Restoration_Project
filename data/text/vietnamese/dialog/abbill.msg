@@ -1,55 +1,54 @@
-{100}{}{You see trader Bill.}
-{101}{}{You see an older looking merchant.}
-{200}{}{Hello there, traveler. Name's Bill. What can I get for you?}
-{201}{}{Welcome back. Need something else?}
-{202}{}{Let's barter.}
-{203}{}{I hear you're the man to talk to about caravans.}
-{204}{}{Nevermind. Bye.}
-{210}{}{Say, I've noticed a lot of old equipment and items have been collected here at the Abbey.
- I don't suppose you've found anything... special, during your time here?}
-{211}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special... hmm, [He glances over at Marcus.] It's funny you should ask, I just might have something that
- would interest your friend here.}
-{212}{}{Heh, so you noticed that, huh? Yeah, the Abbey folks have a bit of a fascination with anything pre-war,
- especially if it's tech related. They've formed some kind of kooky religion around it. I don't quite understand it,
- myself, but they're nice people and they pay good money for anything pre-war I manage to get my hands on. But anyway,
- as for something special... hmm, [He glances over your party.] Sorry, I don't think I have anything special you'd find
- useful right now.}
-{213}{}{Oh, well. Let's see what you have in stock instead.}
-{214}{}{That's alright. Let me ask you something else.}
-{215}{}{Such as?}
-{216}{}{You see, a caravan came through here not too long ago, claiming to have come up from the deep south. Said they'd
- been attacked by some of them vile mutants (turning to Marcus) no offense, big guy. Anyway, they did a lot of bragging
- about how they'd wasted all the muties. Claimed there'd been nearly a dozen of 'em, and I called bullshit. But it turns
- out they had some proof.}
-{217}{}{Yeah? What was that?}
-{218}{}{A hulking set of mutant armor they'd managed to salvage off one of the corpses. Of course, for all I know, they
- stole it off the bones of some long dead mutie they'd stumbled upon in the wastes, but who knows? Anyway, they weren't
- eager to keep lugging the heavy thing around, so they offered it to me for dirt cheap. I didn't know what I'd ever do
- with it, but I figured a deals a deal.}
-{219}{}{Well, I'm sure Marcus here could benefit from this. How much for it?}
-{220}{}{That's interesting. Well, Marcus here is tough enough. I don't think we'll be needing that item. Let me ask you
- something else.}
-{221}{}{Well, this bad boy could easily be melted down to make three or four sets of metal armor. Let's say $3000.}
-{222}{}{I've got enough for that.}
-{223}{}{I think I'll pass for right now. Let me ask you something else.}
-{224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
-{225}{}{[Done]}
-{226}{}{Hey, this fits nicely!}
-{300}{}{I might know a thing or two. What would you like to know?}
-{301}{}{How often do you get resupplied?}
-{302}{}{Are the caravans hiring?}
-{303}{}{On second thought, I have to go.}
-{304}{}{I get a new shipment of supplies twice a month. Frankly, I wish they'd come more often, but we're only on a
- minor trade route so I guess this is the best we can get.}
-{305}{}{I'm not quite sure. Usually, the ones that stop by here are pretty well equipped and not really interested in
- hanging around very long. But if you're looking to hook up with one of em, I'd head over to Redding or even down to NCR.
- They've got pretty active caravans and good help is always wanted.}
-{306}{}{Interesting. I was curious about something else.}
-{307}{}{Thanks. Let's barter.}
-{308}{}{Well, thanks for the information. See you around.}
-{400}{}{Found everything you need?}
-{401}{}{Actually, I'd like to take another look at your goods.}
-{402}{}{Yes I did. See you around.}
+{100}{}{B?n g?p thương gia Bill.}
+{101}{}{B?n g?p m?t thương gia có ngo?i h?nh đ?ng tu?i.}
+{200}{}{Xin chào, l? khách. Tên tôi là Bill. Tôi có th? giúp g? cho c?u?}
+{201}{}{Chào m?ng quay l?i. C?u c?n thêm g? không?}
+{202}{}{H?y giao d?ch.}
+{203}{}{Tôi nghe nói mu?n bi?t v? đoàn l? hành th? đ?n g?p ông.}
+{204}{}{Không có g?. Xin chào.}
+{210}{}{Này, tôi th?y ? Tu vi?n h? đ? sưu t?p r?t nhi?u đ? và v?t d?ng c?.
+Tôi t? h?i li?u ông có t?m th?y th? g? đó... đ?c bi?t trong lúc ? đây không?}
+{211}{}{H?, v?y là c?u c?ng đ? ? h?? Đúng v?y, nh?ng ngư?i ? Tu vi?n khá là thích nh?ng đ? trư?c chi?n tranh,
+nh?t là m?y món công ngh?. H? đ? d?ng lên c? m?t th? tôn giáo k? quái cho s? thích này. Tôi không hi?u l?m,
+nhưng h? là nh?ng ngư?i t?t và tr? đ?m ti?n cho b?t c? th? g? trư?c chi?n tranh mà tôi ki?m đư?c. Nhưng mà,
+th? g? đó đ?c bi?t à... H?m, [Ông ta li?c nh?n Marcus]. T?nh c? th?t đ?y, tôi có đúng th? này mà anh b?n
+đây có th? s? c?n.}
+{212}{}{H?, v?y là c?u c?ng đ? ? h?? Đúng v?y, nh?ng ngư?i ? Tu vi?n khá là thích nh?ng đ? trư?c chi?n tranh,
+nh?t là m?y món công ngh?. H? đ? d?ng lên c? m?t th? tôn giáo k? quái cho s? thích này. Tôi không hi?u l?m,
+nhưng h? là nh?ng ngư?i t?t và tr? đ?m ti?n cho b?t c? th? g? trư?c chi?n tranh mà tôi ki?m đư?c. Nhưng mà,
+th? g? đó đ?c bi?t à... H?m, [Ông ta li?c nh?n nhóm c?a b?n]. R?t ti?c, tôi e là hi?n t?i tôi không có th? g?
+đ?c bi?t mà c?u c?n.}
+{213}{}{V?y à. Th? th? xem ông đang có g? trong kho nào.}
+{214}{}{Đư?c r?i. Tôi mu?n h?i v? th? khác.}
+{215}{}{Như là?}
+{216}{}{C?u th?y đ?y, m?t đoàn l? hành có ghé qua ch? này cách đây không lâu, t? nh?n đ?n t? phía Nam xa xôi. H? nói
+b? m?t đám đ?t bi?n x?u xa t?n công (quay sang Marcus) tôi không có ? g? đâu, anh chàng to l?n ?. Mà r?i h? c? huyên
+thuyên v? vi?c đ? di?t g?n c? đám g?n n?a tá đ?t bi?n, c?n tôi th? cho r?ng đ?y ch? là chuy?n b? láo. ?y th? mà th?c t?
+là h? l?i có b?ng ch?ng.}
+{217}{}{?? Th? g? v?y?}
+{218}{}{M?t b? áo giáp kh?ng l? dành cho ngư?i đ?t bi?n mà h? đ? l?y ra đư?c t? m?t cái xác. D? nhiên, theo như tôi đoán th?
+có th? đám này đ? moi đư?c t? xương m?t g? đ?t bi?n đ? t?ch t? lâu mà h? t?nh c? g?p trong hoang m?c, nhưng ai mà
+bi?t đư?c? Dù sao th? h? c?ng không mu?n vác đ?ng t? đ?y m?i nên đ? bán cho tôi v?i giá đ?ng nát. Tôi c?n ch?ng bi?t
+s? làm g? v?i c?c n? này, nhưng ch?c v?n là món h?i.}
+{219}{}{Chà, tôi ch?c là Marcus có th? dùng đư?c th? này. Giá nhiêu th??}
+{220}{}{H?p d?n đ?y. Mà Marcus đ? c?ng r?i. Tôi e là b?n tôi s? không c?n th? này. Tôi mu?n h?i v? chuy?n khác.}
+{221}{}{?, c?c n? này b? n?i đun ra c?ng ph?i đúc đư?c t?m ba ho?c b?n b? giáp s?t. Ch?t giá 3000$ nhé.}
+{222}{}{Đư?c, tôi mua.}
+{223}{}{Ch?c là đ? sau đi. Tôi mu?n h?i v? chuy?n khác.}
+{224}{}{V?y là ch?t kèo. B? giáp này c?n đ?n hai ngư?i khiêng cơ, nên đ? tôi l?p đ? cho c?u b?n đây.}
+{225}{}{[Đ? xong]}
+{226}{}{?y, v?a zin luôn!}
+{300}{}{Ch?c là tôi bi?t đ?y. C?u mu?n h?i g? nào?}
+{301}{}{Bao lâu th? ông l?i nh?p hàng m?t l?n?}
+{302}{}{Đoàn l? hành có tuy?n ngư?i không?}
+{303}{}{Mà thôi, tôi ph?i đi đây.}
+{304}{}{Tôi nh?p hàng hai l?n m?i tháng. Nói th?t th? tôi ư?c g? b?n h? có th? đ?n thư?ng xuyên hơn, nhưng ch? kh? ho
+c? gáy này th? đành ch?p nh?n v?y thôi.}
+{305}{}{Tôi không ch?c l?m. Thư?ng th? nh?ng ngư?i đ?n đây đ?u đeo đ? kín ngư?i và không mu?n ? l?i quá lâu.
+Nhưng n?u c?u mu?n nh?p đoàn v?i m?t trong s? h? th? tôi ch?c là có đoàn đi Redding ho?c th?m chí là đ?n
+t?n NCR. M?y đoàn này di chuy?n nhi?u và h? luôn c?n thêm ngư?i đ? l?c.}
+{306}{}{Hay đ?y. Tôi đang th?c m?c v? th? khác.}
+{307}{}{Cám ơn. Giao d?ch nào.}
+{308}{}{?, cám ơn v? thông tin. G?p ông sau.}
+{400}{}{Đ? t?m th?y nh?ng th? c?u c?n chưa?}
+{401}{}{À tôi mu?n xem kho hàng thêm l?n n?a.}
+{402}{}{Tôi xong r?i. G?p ông sau.}
