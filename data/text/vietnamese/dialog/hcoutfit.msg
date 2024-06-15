@@ -9,7 +9,7 @@
 {108}{}{What can you tell me about Chad?}
 {109}{}{Sorry about Chad. He had it coming.}
 {110}{}{Guess your caravan master Chad is in deep shit now.}
-{111}{}{Who are you?}
+{111}{}{Ông là ai?}
 {112}{}{Sorry, kid, but I can't make out a word of what you're saying. Have a lollipop.}
 {113}{}{Oooh!}
 {114}{}{Sure. There's a heap of brahmin crap out back. Shovel that for a day and I'll give you $100.
@@ -24,7 +24,7 @@
 {120}{}{I'll do the caravan to NCR.}
 {121}{}{How about Vault City?}
 {122}{}{I changed my mind. I'd like something else, instead.}
-{123}{}{Bye!}
+{123}{}{Chào!}
 {124}{}{Yeah? What do you wanna buy?}
 {125}{}{You got questions about Chad? Like what?}
 {126}{}{Is he skimming off the top?}
@@ -51,7 +51,7 @@
 {145}{}{What can you tell me about Chad?}
 {146}{}{Sorry about Chad. He had it coming.}
 {147}{}{Guess your caravan master's in deep shit now.}
-{148}{}{Who are you?}
+{148}{}{Ông là ai?}
 {149}{}{Nice dealin' with ya'. You want anything more from me?}
 {150}{}{Sorry. That doesn't cut it for me. You want anything more from me?}
 {151}{}{No. Bye!}

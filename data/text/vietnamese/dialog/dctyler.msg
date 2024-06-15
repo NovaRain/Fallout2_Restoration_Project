@@ -24,8 +24,8 @@
 {251}{}{So, what do you want this time?}
 {252}{}{Metzger sent me.}
 {253}{}{I'm here to inspect the church.}
-{254}{}{Nevermind. Goodbye.}
-{255}{}{Me }
+{254}{}{Không có g?. Xin chào.}
+{255}{}{Ng? }
 {256}{}{Aruwa?}
 {260}{}{What the hell for? His stuff's not going anywhere.}
 {261}{}{His crap still hasn't moved an inch.}

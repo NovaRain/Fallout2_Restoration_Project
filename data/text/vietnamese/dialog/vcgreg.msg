@@ -22,7 +22,7 @@
 {121}{}{I'm sorry... can I help you?}
 {122}{}{Hep yew.}
 {123}{}{Shamble off}
-{124}{}{Who are you?}
+{124}{}{Ông là ai?}
 {125}{}{Just looking around, thanks.}
 {126}{}{Yet ANOTHER Servant that has strayed from his rounds?! I'll put Barkus on report if he keeps letting them wander about... now, you... Shoo! Shoo!}
 {127}{}{SHOOT yew? Ok-ay.}
@@ -66,7 +66,7 @@
 {165}{}{Thanks for your time. Goodbye.}
 {166}{}{You wish to take the test? Excellent, excellent! Nothing pleases me more than testing potential applicants... but I must warn you, the test is several hours long. Do you wish to take it now?}
 {167}{}{Well, anyone may take the test. I think in your case, however, it would be a waste of time... for both of us. Someone of your caliber is simply not Citizen material.}
-{168}{}{Sure.}
+{168}{}{Đư?c thôi.}
 {169}{}{Not now. Can I ask you some other questions?}
 {170}{}{Maybe some other time.}
 {171}{}{I'd like to take the test anyway.}
