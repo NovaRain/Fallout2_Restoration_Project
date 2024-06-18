@@ -1,28 +1,29 @@
-{100}{}{You see Jack, the Abbey's medic.}
-{101}{}{He has a red cross on his shoulder.}
-{200}{}{If you are injured, talk to me.}
-{300}{}{How can I help you?}
-{301}{}{I'm injured, can you help me?}
-{302}{}{[Drool.]}
-{303}{}{So, what do you do here at the Abbey?}
+{100}{}{B?n th?y Jack, bác s? c?a Tu vi?n.}
+{101}{}{Ông ta đeo bi?u tư?ng ch? th?p đ? trên vai.}
+{200}{}{N?u c?u b? thương th? đ?n g?p tôi.}
+{300}{}{Tôi giúp g? đư?c nh??}
+{301}{}{Tôi b? thương, ông giúp tôi đư?c không?}
+{302}{}{[Ch?y nư?c d?i].}
+{303}{}{V?y ông làm g? ? Tu vi?n v?y?}
 {304}{}{Chào.}
-{400}{}{It is done!}
-{401}{}{Thanks.}
-{402}{}{Stop that!}
-{403}{}{[GO ON]}
-{404}{}{[LEAVE]}
-{405}{}{STOP IT! STOP IT! STOP IT!}
-{406}{}{[GO ON]}
-{407}{}{[STOP]}
-{408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
-{409}{}{What the fu...}
-{500}{}{Hey, don't steal my medical supplies!}
-{501}{}{You gain 200 experience points for making Jack melt. Are you happy now, you sick fuck?}
-{600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
-{601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}
-{602}{}{Where did you get all your medical equipment?}
-{603}{}{Interesting. I think I will be leaving now.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
+{400}{}{Xong r?i!}
+{401}{}{Cám ơn.}
+{402}{}{D?ng l?i!}
+{403}{}{[TI?P T?C]}
+{404}{}{[B? ĐI]}
+{405}{}{D?NG L?I! D?NG L?I! D?NG L?I!}
+{406}{}{[TI?P T?C]}
+{407}{}{[D?NG]}
+{408}{}{(Đ?t nhiên, Jack b?t đ?u ch?y ra) TÔI ĐANG CH?Y, TÔI ĐANG CH?Y RA, ÔI GI?I...}
+{409}{}{Cái đi...}
+{500}{}{Này, đ?ng có ăn tr?m v?t tư ? t? c?a tôi!}
+{501}{}{B?n nh?n đư?c 200 đi?m kinh nghi?m v? đ? làm Jack tan ch?y. Vui l?m nh?, đ? b?nh ho?n?}
+{600}{}{Tôi là bác s?. Tôi đ? chăm sóc m?i ngư?i ? Tu vi?n này trong kho?ng, ?, t?m 15 năm r?i, ch?c v?y.}
+{601}{}{V?y ư. Dành t?ng đ?y năm đ? đ?c toàn b? ch? sách y h?c trư?c chi?n tranh trong thư vi?n, ch?c h?n ông là bác s? gi?i l?m.}
+{602}{}{Ông ki?m đâu ra ch? thi?t b? y t? này th??}
+{603}{}{Hay đ?y. Tôi e là tôi ph?i đi đây.}
+{604}{}{[Ông ta cau mày]. Tôi t? cho m?nh là bác s? gi?i, nhưng tôi có h?c đư?c quái g? đâu khi mà tôi c?n ch?ng đư?c phép... mà thôi, b? qua đi. Cha tôi là bác s?, và ông truy?n l?i nh?ng
+ki?n th?c này cho tôi.}
 {605}{}{Ah, I see.}
 {700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
 {701}{}{Interesting, bye.}

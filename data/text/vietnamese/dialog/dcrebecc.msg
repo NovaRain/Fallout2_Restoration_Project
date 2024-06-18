@@ -136,7 +136,7 @@
 {430}{}{You came to the Den and you don't know who Metzger is? He's the slave master.
  He's on the east side of town. Hard to miss.}
 {431}{}{I have another question.}
-{432}{}{Thanks.}
+{432}{}{Cám ơn.}
 {440}{}{Murderer!}
 {441}{}{Childkiller!}
 {442}{}{Please leave.}
@@ -157,7 +157,7 @@
  Metal Armor, an Uzi, 5 clips of ammo, a Plasma Grenade, and a flower]}
 {491}{}{Thanks!}
 {500}{}{No problem. I was just holding them for you. Well, I better get back to work.}
-{501}{}{Thanks, bye.}
+{501}{}{Cám ơn, chào.}
 {510}{}{Didn't you hear! He's dead! Oh, I know I shouldn't be happy, but he was a very
  evil man.}
 {511}{}{He sure put up a good fight.}
@@ -177,7 +177,7 @@
  world a great service.}
 {541}{}{You are a wonderful woman. Even though I don't condone your actions. You did the
  world a great service.}
-{542}{}{Thanks.}
+{542}{}{Cám ơn.}
 {550}{}{You are not welcome here. Please leave.}
 {551}{}{Please leave.}
 {560}{}{Why did you destroy my still? What did I ever do to you?}

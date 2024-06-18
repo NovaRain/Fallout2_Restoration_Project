@@ -4,7 +4,7 @@
 {103}{}{Why do you want to hurt us?}
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
-{106}{}{How can I help you?}
+{106}{}{Tôi giúp g? đư?c nh??}
 {107}{}{What do you want?}
 {108}{}{Da... oooh...}
 {109}{}{Ông là ai?}
@@ -15,7 +15,7 @@
 {114}{}{Không có g?. Xin chào.}
 {115}{}{Ummm... oookay. Whatever. Say, what's that over there?
 [As you turn to look, he whips back to what he was doing and ignores you.]}
-{116}{}{[DONE]}
+{116}{}{[XONG]}
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}

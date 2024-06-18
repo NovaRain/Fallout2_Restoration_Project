@@ -29,7 +29,7 @@
 {410}{}{In fact, we do. Take a look on that computer over there. Here, you can use this card to access our encrypted files. [He hands you an access card.]}
 {411}{}{Wow, thanks a lot!}
 {412}{}{I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.}
-{413}{}{Thanks.}
+{413}{}{Cám ơn.}
 {414}{}{That computer near me should have the information you seek, but you'd need an access card to use it.
  We're very selective with who we give access to, but if you speak to the Abbot, perhaps he'll grant you permission.}
 {415}{}{Ok, thanks.}
@@ -66,4 +66,4 @@
  information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
 {4220}{}{I don't think I want to contribute to your plant obsession. Sorry.}
 {4221}{}{Oh, well then. Fine, forget I asked.}
-{4222}{}{Let me ask you something else.}
+{4222}{}{Đ? tôi h?i chuy?n khác.}

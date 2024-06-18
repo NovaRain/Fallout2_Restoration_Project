@@ -37,7 +37,7 @@
 {136}{}{Yes.}
 {137}{}{No. I've had enough tests in the last several months to last me a lifetime.}
 {138}{}{I do not believe the Emperor would like to see you. I have been told to forbid entrance to those who offend me or who reek of evil. You do both, traveler. Good day.}
-{139}{}{[DONE]}
+{139}{}{[XONG]}
 {140}{}{Insults will get you nowhere, traveler, except removed from the Steel Palace. Kindly control your tongue.}
 {141}{}{Make me.}
 {142}{}{Fine.}
@@ -55,7 +55,7 @@
 {154}{}{No. My real name is}
 {155}{}{It's all the name you need, old man.}
 {156}{}{That will be quite impossible. Good day.}
-{157}{}{[DONE]}
+{157}{}{[XONG]}
 {158}{}{Surely you must give me more credit than that. I know how the "biz" works. I have traveled to New Reno before.}
 {159}{}{Okay, my name is}
 {160}{}{That's my real name! Now let me talk to the Emperor!}
@@ -82,7 +82,7 @@
 {181}{}{Well, I have more questions.}
 {182}{}{Yeah, poor you. Bye.}
 {183}{}{You are certainly a worthy recipient of our fuel. I believe I can trust you with our secrets. In the back room, you will find that the force field to the large computer has been turned off. Enter the password "CSPDMSHR-Shih-huang-ti-X9372" and you will find yourself connected to the Emperor Computer. The Emperor will be able to direct our fuel to where you need it.}
-{184}{}{Thanks.}
+{184}{}{Cám ơn.}
 {185}{}{Guards! The enemy is among us! Guards!}
 {186}{}{Have they really? Perhaps you would like to turn the tables on them? I can promise you our aid if you will agree to kill AHS-9. }
 {187}{}{He's as good as dead.}
