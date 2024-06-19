@@ -2,7 +2,7 @@
 {101}{}{You see Ken Lee, advisor to the Emperor.}
 {102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
 {103}{}{What would you like, friend?}
-{104}{}{What do you want?}
+{104}{}{Mu?n g??}
 {105}{}{What can I do for you?}
 {106}{}{You?}
 {107}{}{Ông là ai?}
@@ -63,7 +63,7 @@
 {162}{}{You got it.}
 {163}{}{Forget it.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Nope.}
+{165}{}{Không h?.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}

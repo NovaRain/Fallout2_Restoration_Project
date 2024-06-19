@@ -82,7 +82,7 @@
 {181}{}{Chào.}
 {182}{mcs22}{Great. Let me know when you've found something, right?}
 {183}{}{Sure. I have more questions.}
-{184}{}{Will do. Bye.}
+{184}{}{Đư?c thôi. T?m bi?t.}
 {185}{mcs23}{Yeah? What?}
 {186}{}{You wanted me to find those missing people. I've found some tunnels below the city. They might be there.}
 {187}{}{I've found those missing people. They're in tunnels beneath the city.}
@@ -216,7 +216,7 @@
 {315}{}{Don't ask me. I don't know. }
 {316}{}{Yep.}
 {317}{}{Right.}
-{318}{}{Nope.}
+{318}{}{Không h?.}
 {319}{}{Why're you talking to me like this?}
 {320}{}{Not very nice.}
 {321}{}{Thanks. }
