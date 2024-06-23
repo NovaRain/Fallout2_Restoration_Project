@@ -1,50 +1,51 @@
-{100}{}{You see a middle aged monk.}
-{101}{}{You see Brother Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
-{200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
-{201}{}{Here we collect, the holy relics of an age long past.}
-{202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
-{203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
-{204}{}{We must guard and care for it, though the flame has gone cold;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
-{209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
-{210}{}{We must preserve and protect it, but never shall we use.}
-{211}{}{So go now my friends, and let your spirits be lifted;}
-{212}{}{For the guardians of knowledge, we have each, been gifted.}
-{213}{}{Now, please take a moment and reflect on what I have said.}
-{224}{}{Now, please take a moment and reflect on what I have said.}
-{300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
- spread the word about the importance of preserving the knowledge of the old ones.}
-{301}{}{It's good to meet you Matt. My name is }
-{302}{}{ and I am on a quest for the holy GECK.}
-{303}{}{Sorry, I must be going.}
-{400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
- be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
- possible he'll grant you access. It couldn't hurt to try, anyway. Oh, and feel free to browse through our collection
- of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
-{401}{}{I think I just might. I have some questions though.}
-{402}{}{Thanks. I think I'll go do that now.}
-{500}{}{I am at your service. What would you like to know?}
-{501}{}{What can you tell me about this place?}
-{502}{}{You seem to be very poetic in your preaching. Any reason for this?}
-{503}{}{Nevermind. Take care.}
-{600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
- visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
- this old monastery not long after the great Flame Deluge.}
-{601}{}{Go on.}
-{602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
- here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
- in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
- fancy ourselves the keepers and guardians of that wisdom.}
-{603}{}{Very interesting. Another question.}
-{604}{}{Interesting. Well, I must be going.}
-{700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
- and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
-{701}{}{Fair enough. Another question.}
-{800}{}{It is good to see you again }
-{801}{}{. What can I do for you?}
-{802}{}{I have some questions.}
-{803}{}{Nothing. See you around.}
+{100}{}{B?n th?y m?t th?y tu trung niên.}
+{101}{}{B?n th?y Th?y Matthew.}
+{102}{}{Ông ta đang đ?ng trên b?c gi?ng kinh cho ngư?i dân c?a Tu vi?n.}
+{200}{}{Nh?ng cư dân thi?n lành c?a Tu vi?n. H?y dành th?i gian l?ng nghe, v? ta có nhi?u đi?u mu?n nói.}
+{201}{}{T?i đây, chúng ta thu th?p nh?ng đ? thánh tích t? quá kh? xa xưa.}
+{202}{}{B? tr?n Đ?i h?a thiêu r?i, chúng ta ch?m vào đêm đen.}
+{203}{}{D?ng nên Kho k? v?t, chúng ta b?o t?n trí tu? xưa c?.}
+{204}{}{Chúng ta ph?i canh gác và gi? g?n, dù cho ng?n l?a đ? tàn;}
+{205}{}{L?a v?n có th? bùng lên, n?u trí tu? b? dùng cho m?c đích sai trái.}
+{206}{}{Và không ai có th? h?c h?i đư?c n?a, trong n?i s? tr?n Đ?i h?a.}
+{207}{}{Nhưng m?t ngày, nhân lo?i s? vư?t lên đư?c ham mu?n tàn phá.}
+{208}{}{Và Kho k? v?t s? ? đó, ch? đư?c đưa tr? l?i.}
+{209}{}{V? v?y chúng ta h?y th?c hành ngh?a v? thiêng liêng c?a m?nh,
+k?o t?t c? trí tu? s? ch?m vào s? l?ng quên.}
+{210}{}{Chúng ta ph?i lưu gi? và b?o v?, nhưng không đư?c phép s? d?ng.}
+{211}{}{V?y nên gi? đây, các b?n c?a ta, h?y đ? tâm h?n đư?c nâng đ?;}
+{212}{}{V?i tư cách ngư?i b?o v? ki?n th?c, m?i ngư?i trong chúng ta, đ?u đư?c ban phư?c.}
+{213}{}{Gi? th? h?y dành th?i gian đ? suy ng?m v? nh?ng đi?u ta v?a nói.}
+{224}{}{Gi? th? h?y dành th?i gian đ? suy ng?m v? nh?ng đi?u ta v?a nói.}
+{300}{}{Xin chào, ngư?i b?n. Ta ngh? r?ng m?nh chưa t?ng g?p b?n ? đây trư?c kia. Tên ta là Th?y Matthew và ta
+giúp truy?n bá v? t?m quan tr?ng c?a vi?c gi? g?n ki?n th?c c?a ti?n nhân.}
+{301}{}{R?t vui đư?c g?p ông Matt. Tên tôi là }
+{302}{}{ và tôi đang trên đư?ng đi t?m GECK th?n thánh.}
+{303}{}{Xin l?i, tôi ph?i đi đây.}
+{400}{}{GECK à? Ta nh? là h?nh như ta đ? đ?c đi?u g? đó v? th? này trong m?t l?n phiên d?ch sách. V?y nên th? này h?n
+ph?i có trong cơ s? d? li?u, nhưng ta e là máy tính c?a chúng ta b? h?n ch? quy?n truy c?p. Tuy v?y, n?u b?n h?i
+Th?y tr? tr? th? có th? b?n s? đư?c c?p quy?n. C?ng đâu có m?t g?. ?, và c? t? do ng?m qua b? sưu t?p các đ? k? v?t
+trư?c chi?n tranh ? đây. Đúng ra th? ta s? yêu c?u b?n không làm h?ng th? g?, nhưng ta e là m?i th? đ?u h?ng r?i.}
+{401}{}{Ch?c là tôi s? làm v?y. Mà tôi có vài câu h?i.}
+{402}{}{Cám ơn. Đ? tôi đi h?i ngay.}
+{500}{}{S?n l?ng ph?c v? b?n. B?n mu?n bi?t g? nào?}
+{501}{}{Ông có th? nói g? v? nơi này?}
+{502}{}{Ông có v? v?a thuy?t gi?ng v?a làm thơ. Có lí do g? không?}
+{503}{}{Không có g?. B?o tr?ng.}
+{600}{}{Tu vi?n chào đón t?t c?, mi?n là h? không gây r?c r?i. Chúng ta là m?t c?ng đ?ng đ?c l?p và thi tho?ng m?i có khách
+như b?n. H?u h?t nh?ng ngư?i b?n th?y ? đây đ?u là h?u du? c?a nh?ng ngư?i sáng l?p ban đ?u v?n đ?nh cư ? tu vi?n
+c? này không lâu sau tr?n Đ?i H?a.}
+{601}{}{Ti?p t?c đi.}
+{602}{}{S? yên t?nh và b?nh yên t?i nơi này đ? khi?n tu vi?n tr? thành ngôi nhà h?p d?n nhi?u l? khách khác ghé vào 
+trong nhi?u năm, t?m ki?m nơi ?n tr?n kh?i s? h?n lo?n u ám c?a hoang m?c. D? nhiên, giá tr? th?c s? c?a nơi này
+n?m ? thư vi?n đ? s? x?p đ?y nh?ng cu?n sách c?, ch?a đ?ng trí tu? k? l? c?a th?i đ? m?t. Theo th?i gian, chúng ta
+d?n t? coi m?nh là ngư?i gi? g?n và b?o v? ngu?n trí tu? này.}
+{603}{}{Thú v? đ?y. Đ? tôi h?i câu khác.}
+{604}{}{Hay đ?y. Mà tôi ph?i đi đây.}
+{700}{}{[Ông ta cư?i khúc khích trư?c câu h?i c?a b?n] Không, không có lí do g? c?. Ta ch? đ?c r?t nhi?u thơ trong su?t
+cu?c đ?i và thích đưa thơ vào l?i thuy?t gi?ng. Vi?c đó t?o ra ?n tư?ng l?n hơn cho ngư?i nghe.}
+{701}{}{C?ng đúng. Đ? tôi h?i câu khác.}
+{800}{}{R?t vui đư?c g?p l?i b?n }
+{801}{}{. Ta có th? giúp g? cho b?n?}
+{802}{}{Tôi có vài câu h?i.}
+{803}{}{Không có g?. G?p l?i ông sau.}

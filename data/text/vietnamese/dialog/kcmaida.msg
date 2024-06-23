@@ -28,7 +28,7 @@
 {233}{}{What may I help you with?}
 {234}{}{Well, you just better be more civil from now on. Just what do you want anyway? What can I help
  you with here?}
-{235}{}{I have some questions for you.}
+{235}{}{Tôi có vài câu h?i.}
 {236}{}{I was looking for someplace to stay.}
 {237}{}{I need to buy some things.}
 {238}{}{I'd like a drink.}
@@ -183,7 +183,7 @@
 {542}{}{Oh, maybe I'll come back when I have more. Goodbye.}
 {550}{}{I'll sure be glad to have that damn (sob) tribal (sob) away (sob, sob) from
  here. (sob)}
-{600}{}{[MORE]}
+{600}{}{[THÊM]}
 {700}{}{I found out what's been happening to your brahmin.}
 {701}{}{You have? That's great, but mom's the one you'll want to talk to about that.}
 {702}{}{Sure, I'll go talk to her then.}

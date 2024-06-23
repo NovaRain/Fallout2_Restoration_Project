@@ -1,34 +1,34 @@
-{100}{}{You see Brother John.}
-{101}{}{You see one of the Abbey's older Monks.}
-{102}{}{You see an old monk. He looks to be in his early seventies.}
-{300}{}{Hi there, youngster.}
+{100}{}{B?n th?y Th?y John.}
+{101}{}{B?n th?y m?t trong s? các Th?y tu già c?a Tu vi?n.}
+{102}{}{B?n th?y m?t th?y tu già. Có v? như ông ta hơn 70 tu?i.}
+{300}{}{Xin chào, ngư?i tr?.}
 {301}{}{Ông là ai?}
-{302}{}{Have you heard anything about a GECK or Vault 13?}
+{302}{}{Ông có bi?t g? v? GECK ho?c Vault 13 không?}
 {303}{}{Chào.}
-{400}{}{My name is John, I'm one of the oldest monks here.}
-{401}{}{So, what's your job?}
-{402}{}{I see, bye.}
-{403}{}{Well, I used to work on a farm, but it was bad for my heart.}
-{404}{}{You have heart problems?}
-{405}{}{That's too bad, bye!}
-{406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
- to find medicine for that problem in today's world you know.}
-{407}{}{I might have a solution for your heart problems...}
-{408}{}{Sorry to hear that, Bye.}
+{400}{}{Tên ta là John, ta là m?t trong s? các th?y tu già nh?t ? đây.}
+{401}{}{V?y, ông làm g? ? đây?}
+{402}{}{Tôi hi?u r?i, t?m bi?t.}
+{403}{}{Ta t?ng đi cày ngoài đ?ng, nhưng vi?c đó khi?n ta b? đau tim.}
+{404}{}{Ông b? b?nh tim à?}
+{405}{}{T? th?t đ?y, chào nhé!}
+{406}{}{?, ta b? d? t?t tim. N?u ta v?n c?n thu?c tr? tim th? cu?c s?ng này s? d? th? hơn nhi?u. R?t khó đ? t?m
+đư?c thu?c đi?u tr? tim trong th? gi?i hi?n t?i.}
+{407}{}{Tôi có th? có cách gi?i quy?t b?nh tim c?a ông...}
+{408}{}{Đáng ti?c th?t đ?y. T?m bi?t.}
 {410}{}{Chào.}
-{411}{}{You do? Are you saying that you actually HAVE heart pills?}
-{412}{}{Yes, I do. It would be a pleasure to give them to you.}
-{413}{}{Yeah, I have heart pills. You can have them for $400.}
-{414}{}{I was only joking. I don't have any heart pills.}
-{415}{}{[He takes the pills from you.] Thank you, my friend! Here, please take this item as a gesture of gratitude.}
-{416}{}{Happy to help, and thanks for the item. Bye!}
-{417}{}{(He becomes quite angry, but then calms down) Ok, fine, here's your money. Now give me the pills!}
-{418}{}{I have decided to keep the pills myself. Thanks for the money!}
-{419}{}{Nice doing business with you, Bye.}
-{420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
-{421}{}{I'll do that, thanks. Now I have some other questions.}
-{422}{}{If I weren't so sick, I would beat the shit out of you. NOW GET OUT OF HERE!}
-{423}{}{Fine, I'll go.}
-{500}{}{Thank you again for those heart pills, my friend. Good luck on your travels.}
-{600}{}{Just go away, please.}
-{700}{}{You showed John just how cruel the world is.}
+{411}{}{Th?t à? C?u đang nói là c?u th?t s? CÓ thu?c tr? tim?}
+{412}{}{Đúng v?y. Tôi s? r?t vui đư?c đưa chúng cho ông.}
+{413}{}{Đúng v?y, tôi có thu?c tr? tim. Ông có th? mua v?i giá 400$.}
+{414}{}{Đùa thôi. Tôi làm g? có thu?c tr? tim.}
+{415}{}{[Ông ta nh?n thu?c t? tay b?n] Cám ơn con! Đây, vui l?ng nh?n th? này thay l?i c?m ơn.}
+{416}{}{R?t vui v? đ? giúp đư?c ông, và cám ơn v? món đ?. T?m bi?t!}
+{417}{}{(Ông ta n?i cơn t?c gi?n, nhưng sau đó b?nh t?nh l?i) Ok, đư?c r?i, ti?n c?a c?u đây. Gi? th? đưa thu?c cho ta!}
+{418}{}{Tôi quy?t đ?nh gi? l?i thu?c cho m?nh r?i. Cám ơn v? ch? ti?n nhé!}
+{419}{}{R?t vui đư?c giao d?ch v?i ông. T?m bi?t.}
+{420}{}{H?m, xin l?i, ta không bi?t. H?y nói chuy?n v?i Th?y tr? tr?, ông ta có th? s? bi?t g? đó.}
+{421}{}{Cám ơn, tôi s? làm v?y. Gi? th? tôi mu?n h?i chuy?n khác.}
+{422}{}{N?u ta mà không b?nh th? ta đ? đánh cho c?u ph?t c?t ra r?i. GI? TH? CÚT ĐI!}
+{423}{}{Đư?c, tôi đi.}
+{500}{}{Cám ơn con l?n n?a v? nh?ng viên thu?c tim này. Chúc con may m?n trên cu?c hành tr?nh.}
+{600}{}{Đi ch? khác đi, làm ơn.}
+{700}{}{B?n cho John th?y th? gi?i này t?i t? đ?n th? nào.}

@@ -11,9 +11,9 @@
  you with?}
 {109}{}{Me got questions.}
 {110}{}{Nothing. Me say hi.}
-{111}{}{I have some questions for you.}
+{111}{}{Tôi có vài câu h?i.}
 {112}{}{Nothing. But it's nice to see you again. Bye.}
-{113}{}{What do you want to know?}
+{113}{}{Mu?n bi?t g? nào?}
 {114}{}{You prisoner.}
 {115}{}{You leave when want?}
 {116}{}{What know about D'claws?}
@@ -59,7 +59,7 @@
 {147}{}{Chào.}
 {148}{}{You're welcome.}
 {149}{}{I'll see ya.}
-{150}{}{Hello.}
+{150}{}{Chào.}
 {151}{}{Hello again. How's it going?}
 {152}{}{I have no quarrel with you. }
 {153}{}{. I hope everything worked out for you at the Squat.}

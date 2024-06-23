@@ -3,9 +3,9 @@
  to have difficulty breathing.}
 {151}{}{You see Louis Salvatore. He is carrying an oxygen tank, and he seems
  to have difficulty breathing.}
-{200}{}{*Cough*}
+{200}{}{*Ho*}
 {201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{202}{}{*Ho kh?c kh?c*}
 {210}{}{Guards! Gu...*cough* *cough*...Guards!}
 {215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
  of a second, then makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}
@@ -85,7 +85,7 @@
 {405}{}{(Puts his fingers together.) And... the money. Has it been recovered?}
 {406}{}{No, I couldn't find the money.}
 {407}{}{No, Lloyd already spent the money.}
-{408}{}{Yes.}
+{408}{}{Đúng v?y.}
 {410}{}{No, Mr. Salvatore, I couldn't find the money.}
 {411}{}{No, Mr. Salvatore, Lloyd already spent the money.}
 {412}{}{Yes, Mr. Salvatore.}

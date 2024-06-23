@@ -107,9 +107,9 @@
 {206}{}{No problem.}
 {207}{mcs29}{Well, in that case, we'd better be sure to stop him. Want to come along?}
 {208}{}{Đư?c thôi.}
-{209}{}{No, thanks.}
+{209}{}{Không, cám ơn.}
 {210}{mcs30}{You want me to come along with you? Ah, what the hell, I'm too old to settle down. We goin' now?}
-{211}{}{Yes.}
+{211}{}{Đúng v?y.}
 {212}{}{No, not right now.}
 {213}{mcs31}{Ah, there's too much going on right now. When things calm down, then I just might.}
 {214}{}{Sure. I got more questions.}

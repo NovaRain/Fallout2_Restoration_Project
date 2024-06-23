@@ -389,7 +389,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {435}{}{I, uh, don't remember.}
 {436}{}{You'll have to catch me first.}
 {437}{lyn061}{Hmmmm... very well. But do not appear again until you have your Citizenship papers. Good day.}
-{438}{}{Goodbye.}
+{438}{}{T?m bi?t.}
 {439}{}{Good day, First Citizen.}
 {440}{lyn062}{Oh, really? That confirms my suspicions. Your Vault City access is now revoked. Hand
  over your Day Pass and go with my guards to the front gate.}
@@ -651,7 +651,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {666}{lyn108}{You have? Excellent! But the city guards are already stretched thin... What about you?
  Could you end the attacks? I'll pay you.}
 {667}{}{No, I'm too busy at the moment.}
-{668}{}{I'll see what I can do.}
+{668}{}{Đ? tôi xem tôi có th? làm g?.}
 {669}{lyn109}{Very well. If you'll excuse me, I am also very busy. You can find your own way out.}
 {670}{}{I had some other questions I wanted to ask you first...}
 {671}{}{All right, I'm leaving.}
@@ -822,14 +822,14 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {815}{}{My little dreadlocks are cute.}
 {816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
-{818}{}{Very well.}
+{818}{}{Đư?c r?i.}
 {819}{}{Good day.}
 {820}{}{Good day, Citizen.}
 {821}{}{I'll take that.}
 {822}{}{Give me that.}
 {823}{}{I don't know anything about that.}
 {824}{}{I don't know.}
-{825}{}{Yes.}
+{825}{}{Đúng v?y.}
 {826}{}{No.}
 {827}{}{Certainly.}
 {828}{}{Of course.}

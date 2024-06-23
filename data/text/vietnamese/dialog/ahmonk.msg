@@ -1,7 +1,7 @@
 {100}{}{You see the Abbot, the spiritual leader of the Abbey.}
 {101}{}{There's something about this monk that leads you to believe he's rather important.}
 {200}{}{Welcome traveler.}
-{201}{}{Peace to you.}
+{201}{}{B?nh an nhé.}
 {202}{}{We are the guardians of knowledge.}
 {203}{}{I'm sorry, but knowledge of our books is of no use to you.}
 {300}{}{Welcome to the Abbey, traveler. How can I help you?}
@@ -9,7 +9,7 @@
 {302}{}{Have you ever heard of a device called a GECK?}
 {303}{}{Do you know where I could find Vault 13?}
 {304}{}{Chào.}
-{400}{}{What do you want to know?}
+{400}{}{Mu?n bi?t g? nào?}
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
@@ -35,7 +35,7 @@
 {416}{}{Hello, my friend.}
 {417}{}{I've killed your beast, and I've got your book.}
 {418}{}{Excellent! Let me have it!}
-{419}{}{Here you go.}
+{419}{}{Đây.}
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}

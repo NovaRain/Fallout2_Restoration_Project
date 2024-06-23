@@ -28,12 +28,12 @@
 {127}{}{Then I guess we got to kill you.}
 {128}{}{Done with your meeting?}
 {129}{}{Westin. Job. Me}
-{130}{}{Me go.}
+{130}{}{Ng? đi.}
 {131}{}{Fine, he wants you to have a job; I got a job for you. Someone, or something, kill moo-moos. You come me. You guard. Keep moo-moos safe. Make boss happy. Okay?}
 {132}{}{Okay.}
 {133}{}{No. Me no kill.}
 {134}{}{Back again, are you? Job done?}
-{135}{}{Yes.}
+{135}{}{Đúng v?y.}
 {136}{}{No.}
 {137}{}{Yeah, he left orders. He's been expecting you.}
 {138}{}{HEY YOU! Get away from there!}

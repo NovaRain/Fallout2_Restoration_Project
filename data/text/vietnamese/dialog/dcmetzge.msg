@@ -79,7 +79,7 @@
 {303}{}{Oh, okay. Bye.}
 {310}{}{What do you know, you didn't even cry. I'm so proud of you... actually, that tat
  looks pretty good on you. Just give a holler when you're ready for your first slave run.}
-{311}{}{Thanks. Bye.}
+{311}{}{Cám ơn. T?m bi?t.}
 {312}{}{I'm ready right now.}
 {313}{}{Me Kill NOW!}
 {314}{}{Okey-Dokey.}
@@ -253,7 +253,7 @@
 {711}{}{What?}
 {712}{}{Oh boy...}
 {720}{}{I'm glad we're in agreement. [Metzger looks to his guards.] Men, it's payday.}
-{721}{}{Uh...}
+{721}{}{?...}
 {730}{}{Yes. It's a shame really. This person just doesn't seem to get it, but
  I think they are about to. [You see Metzger making a small hand gesture to his
  men.] Play time.}

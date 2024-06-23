@@ -1,0 +1,34 @@
+{100}{}{B?n th?y Th?y John.}
+{101}{}{B?n th?y m?t trong s? các Th?y tu già c?a Tu vi?n.}
+{102}{}{B?n th?y m?t th?y tu già. Có v? như ông ta hơn 70 tu?i.}
+{300}{}{Xin chào, ngư?i tr?.}
+{301}{}{Ông là ai?}
+{302}{}{Ông có bi?t g? v? GECK ho?c Vault 13 không?}
+{303}{}{Chào.}
+{400}{}{Tên ta là John, ta là m?t trong s? các th?y tu già nh?t ? đây.}
+{401}{}{V?y, ông làm g? ? đây?}
+{402}{}{Tôi hi?u r?i, t?m bi?t.}
+{403}{}{Ta t?ng đi cày ngoài đ?ng, nhưng vi?c đó khi?n ta b? đau tim.}
+{404}{}{Ông b? b?nh tim à?}
+{405}{}{T? th?t đ?y, chào nhé!}
+{406}{}{?, ta b? d? t?t tim. N?u ta v?n c?n thu?c tr? tim th? cu?c s?ng này s? d? th? hơn nhi?u. R?t khó đ? t?m
+đư?c thu?c đi?u tr? tim trong th? gi?i hi?n t?i.}
+{407}{}{Tôi có th? có cách gi?i quy?t b?nh tim c?a ông...}
+{408}{}{Đáng ti?c th?t đ?y. T?m bi?t.}
+{410}{}{Chào.}
+{411}{}{Th?t à? Cô đang nói là cô th?t s? CÓ thu?c tr? tim?}
+{412}{}{Đúng v?y. Tôi s? r?t vui đư?c đưa chúng cho ông.}
+{413}{}{Đúng v?y, tôi có thu?c tr? tim. Ông có th? mua v?i giá 400$.}
+{414}{}{Đùa thôi. Tôi làm g? có thu?c tr? tim.}
+{415}{}{[Ông ta nh?n thu?c t? tay b?n] Cám ơn con! Đây, vui l?ng nh?n th? này thay l?i c?m ơn.}
+{416}{}{R?t vui v? đ? giúp đư?c ông, và cám ơn v? món đ?. T?m bi?t!}
+{417}{}{(Ông ta n?i cơn t?c gi?n, nhưng sau đó b?nh t?nh l?i) Ok, đư?c r?i, ti?n c?a cô đây. Gi? th? đưa thu?c cho ta!}
+{418}{}{Tôi quy?t đ?nh gi? l?i thu?c cho m?nh r?i. Cám ơn v? ch? ti?n nhé!}
+{419}{}{R?t vui đư?c giao d?ch v?i ông. T?m bi?t.}
+{420}{}{H?m, xin l?i, ta không bi?t. H?y nói chuy?n v?i Th?y tr? tr?, ông ta có th? s? bi?t g? đó.}
+{421}{}{Cám ơn, tôi s? làm v?y. Gi? th? tôi mu?n h?i chuy?n khác.}
+{422}{}{N?u ta mà không b?nh th? ta đ? đánh cho cô ph?t c?t ra r?i. GI? TH? CÚT ĐI!}
+{423}{}{Đư?c, tôi đi.}
+{500}{}{Cám ơn con l?n n?a v? nh?ng viên thu?c tim này. Chúc con may m?n trên cu?c hành tr?nh.}
+{600}{}{Đi ch? khác đi, làm ơn.}
+{700}{}{B?n cho John th?y th? gi?i này t?i t? đ?n th? nào.}

@@ -36,7 +36,7 @@
 {127}{}{Analyzing Command Please Wait...
                                   Overriding User Command
                                             Access Denied}
-{128}{}{[MORE]}
+{128}{}{[THÊM]}
 {129}{}{To Deactivate Alarm Press - 1
                                     To Run Diagnostic Program Press - 2
                              To Exit Press - 3}
@@ -46,7 +46,7 @@
 {133}{}{Exit}
 {134}{}{Warning! This program works best if you shut down all
  programs. Do you wish to do so now?}
-{135}{}{Yes.}
+{135}{}{Đúng v?y.}
 {136}{}{No.}
 {137}{}{Exit}
 {138}{}{Shutting Down Skynet Security Program
@@ -71,7 +71,7 @@
                                       Access to this Terminal is Terminated.}
 {145}{}{Exit}
 {146}{}{Exiting Diagnostic Program.}
-{147}{}{[MORE]}
+{147}{}{[THÊM]}
 {300}{}{ - ID Confirmed: }
 {301}{}{
             Terminal Last Accessed: }

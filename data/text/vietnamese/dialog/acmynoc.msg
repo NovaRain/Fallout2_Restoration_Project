@@ -1,25 +1,24 @@
-{100}{}{You see the bridge guard.}
-{101}{}{You see Mynoc, the bridge guard.}
-{150}{}{Before you stands a large warrior of your village,
- holding a spear.}
-{151}{}{[TALK]}
-{152}{}{Hello, Chosen One. Off to find the GECK?}
-{153}{}{Yes.}
-{154}{}{Yes. But before I go, I would like to ask you some
- questions.}
-{155}{}{Not just yet. I'm going to look around a little
- bit more.}
-{156}{}{Well, may the gods watch over you.}
-{157}{}{Thank you, goodbye.}
-{158}{}{What do you want to know?}
-{159}{}{What can you tell me of the men who trade with our
- village?}
-{160}{}{What can you tell me about this object I have from
- a vault?}
-{161}{}{Nothing, never mind.}
-{162}{}{Very well, but don't waste too much time. Without the GECK,
- we're doomed.}
-{163}{}{I know, don't worry -- I've got it all under control.}
+{100}{}{B?n th?y ngư?i gác c?u.}
+{101}{}{B?n th?y Mynoc, ngư?i gác c?u.}
+{150}{}{Đ?ng trư?c b?n là m?t chi?n binh cao to c?a làng,
+n?m trong tay m?t ng?n giáo.}
+{151}{}{[NÓI CHUY?N]}
+{152}{}{Chào, C?u tinh. Đi t?m GECK h??}
+{153}{}{Đúng v?y.}
+{154}{}{Đúng v?y. Nhưng trư?c khi đi, tôi mu?n h?i vài câu.}
+{155}{}{Chưa. Tôi đang đi v?ng quanh xem xét thêm
+m?t lát đ?.}
+{156}{}{?, c?u các th?n phù h? cho c?u.}
+{157}{}{Cám ơn, t?m bi?t.}
+{158}{}{Mu?n bi?t g? nào?}
+{159}{}{Anh có th? nói cho tôi bi?t v? ngư?i trao đ?i hàng hóa
+v?i làng chúng ta không?}
+{160}{}{Anh có th? nói g? v? th? mà tôi có đư?c t? m?t
+h?m không?}
+{161}{}{Không, không có g?.}
+{162}{}{Đư?c r?i, nhưng đ?ng có m?t nhi?u th?i gian quá. Không có
+GECK, chúng ta tiêu tùng đ?y.}
+{163}{}{Tôi bi?t, đ?ng lo -- M?i chuy?n đ?u trong t?m ki?m soát.}
 {164}{}{Why?}
 {165}{}{I must be going. Goodbye.}
 {166}{}{The traders? They come from Klamath about every two months. There
@@ -34,7 +33,7 @@
 {171}{}{Thank you. I must be going. Goodbye.}
 {172}{}{I hope you do.}
 {173}{}{Your overconfidence makes all of us suffer! Goodbye!}
-{174}{}{Goodbye.}
+{174}{}{T?m bi?t.}
 {175}{}{Why? Look around you -- our village dies. The gardens wither and
  every day children and old ones collapse. You must bring Eden to us before
  it is too late!}
@@ -44,7 +43,7 @@
 {178}{}{I don't remember his name, just that he was old and loud -- too
  loud for proper manners -- but he knew many things. He was from Klamath, east
  like I said.}
-{179}{}{Thank you, goodbye.}
+{179}{}{Cám ơn, t?m bi?t.}
 {180}{}{Are you still here? You must go find the GECK. Staying here
  doesn't help us.}
 {181}{}{This bridge is all you need to worry about,
@@ -53,7 +52,7 @@
 {183}{}{I will speak to you no longer, insubordinate pig!}
 {184}{}{I would like to ask you another question.}
 {185}{}{That was quick! Have you found the holy Vault 13?}
-{186}{}{Yes.}
+{186}{}{Đúng v?y.}
 {187}{}{No, not yet.}
 {188}{}{You have? Wonderful! Did you bring back the
  GECK?}
@@ -71,7 +70,7 @@
 {199}{}{I have found the vault!}
 {200}{}{I have not been able to find Vault 13.}
 {201}{}{Well, look, it's the Chosen One.}
-{202}{}{Hello.}
+{202}{}{Chào.}
 {203}{}{Shut up.}
 {204}{}{Can I ask you a question?}
 {205}{}{No, I've no time for you.}
@@ -97,7 +96,7 @@
 {305}{}{Yes, I have some right here.}
 {306}{}{Not yet.}
 {307}{}{It's a good piece. Give me your spear.}
-{308}{}{Here you go.}
+{308}{}{Đây.}
 {309}{}{I guess I don't have one.}
 {310}{}{Now, you put the pieces like so...}
 {311}{}{The Chosen One without a spear? Well, you'll have to take one of
@@ -160,12 +159,12 @@
 {611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
 {612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}
 {613}{}{What a jerk.}
-{614}{}{Go on.}
+{614}{}{Ti?p t?c đi.}
 {615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
-{616}{}{Go on.}
+{616}{}{Ti?p t?c đi.}
 {617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
 {618}{}{He made his way through the Temple, quickly reaching the final test: a hand-to-hand battle with a fellow warrior.}
-{619}{}{Go on.}
+{619}{}{Ti?p t?c đi.}
 {620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
 {621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
 {622}{}{Sorry. Please continue.}

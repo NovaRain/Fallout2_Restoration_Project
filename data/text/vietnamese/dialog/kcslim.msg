@@ -41,7 +41,7 @@
 {181}{}{What did you want to know about?}
 {182}{}{Do you ever go to the north side?}
 {183}{}{Tell me about trapping geckos.}
-{184}{}{Do you know anything about a Garden of Eden Creation Kit?}
+{184}{}{Anh có bi?t g? v? B? t?o Vư?n đ?a đàng không?}
 {185}{}{You sure have a lot of cars here.}
 {186}{}{Rats? Tell me more about rats.}
 {187}{}{Thanks for the info. I don't think I need to know about anything else. Goodbye.}
@@ -85,7 +85,7 @@
 {252}{}{I'm interested in getting that key from you.}
 {253}{}{That's all I need to know for now. Goodbye.}
 {260}{}{You're interested in trapping, huh? (He looks you up and down.)}
-{261}{}{[MORE]}
+{261}{}{[THÊM]}
 {270}{}{I don't think I'd try it if I were you. You might get your hands all dirty and callused.
  (heh, hee, hee) Anything else you want to know about?}
 {271}{}{Well, I sure wouldn't want to get my hands dirty. Tell me something else.}

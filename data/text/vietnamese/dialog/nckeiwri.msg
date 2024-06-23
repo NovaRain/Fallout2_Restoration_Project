@@ -19,7 +19,7 @@
 {259}{}{I'm looking for a job. Chris sent me by. Is Family Wright hiring?}
 {262}{}{Hey, Keith. I ran into your Mom.}
 {263}{}{Can you tell me about your brother Richard?}
-{264}{}{Nevermind. Sorry to bother you.}
+{264}{}{Không có g?. Xin l?i đ? làm phi?n.}
 {280}{}{Get outta here, dimbulb. Next time you talk to me, I'll plug you fulla holes.}
 {281}{}{Holes holes holes in my soles}
 {282}{}{Shamma Lamma DING DONG}
@@ -31,7 +31,7 @@
 {310}{}{I'm Keith Wright of the Family Wright. Now, you gonna tell me what yer doing here?}
 {312}{}{Chris told me to stop by. I'm looking for work. Can you help me?}
 {313}{}{Keith Wright, huh? I ran into your mother.}
-{315}{}{What is this place?}
+{315}{}{Đây là nơi nào?}
 {325}{}{This is the Family Wright HOUSE. Now, you gonna tell me what yer doing here?}
 {335}{}{Chris sent you, huh?}
 {336}{}{That's right. He said you might have some work for me.}

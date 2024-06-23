@@ -1,6 +1,6 @@
-{100}{}{You see a guard.}
+{100}{}{B?n th?y m?t lính gác.}
 {150}{}{The guard is guarding the old church.}
-{151}{}{[TALK]}
+{151}{}{[NÓI CHUY?N]}
 {152}{}{How dare you show your face again!}
 {153}{}{[Đ? xong]}
 {154}{}{Ho! No one enters the Family Wright warehouse at night!}
@@ -43,4 +43,4 @@
 {203}{}{Just finish up your business, thank you.}
 {250}{}{You know, pal, I've had enough of your shit!}
 {251}{}{You know, bitch, I've had enough of your shit!}
-{252}{}{[END]}
+{252}{}{[K?T THÚC]}

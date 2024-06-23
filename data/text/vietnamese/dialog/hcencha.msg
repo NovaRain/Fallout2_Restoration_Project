@@ -10,12 +10,12 @@
 {107}{}{I was wondering if I could ask you a few questions about Chad.}
 {108}{}{Ông là ai?}
 {109}{}{Sorry about Chad. Who's the new boss?}
-{110}{}{No, thanks.}
+{110}{}{Không, cám ơn.}
 {111}{}{If you're looking for work, you might want to talk to Bill, the guy inside there. In-SIDE. He
  might understand you. Good luck!}
 {112}{}{Duhhhh...}
 {113}{}{That'd be }
-{114}{}{Yes.}
+{114}{}{Đúng v?y.}
 {115}{}{No.}
 {116}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {117}{}{What's he like?}

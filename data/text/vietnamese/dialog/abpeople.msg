@@ -1,22 +1,22 @@
-{100}{}{You see a peasant.}
-{101}{}{You see a healthy looking peasant.}
-{102}{}{You see a person.}
-{103}{}{Drinking too much booze lately?}
-{104}{}{Stay away from the alcohol for a while.}
-{105}{}{I see that you drank Hank's "special" mix.}
-{106}{}{Welcome, hero!}
-{107}{}{You really showed those Enclave bastards!}
-{108}{}{You are truly a hero!}
-{109}{}{I've heard that you destroyed the Enclave, well done!}
-{110}{}{Hello.}
-{111}{}{I hope that it starts to rain soon, or my crops will not survive.}
-{112}{}{We don't get too many visitors here.}
-{113}{}{Welcome!}
-{114}{}{Yeah, I know. It's pretty boring here, but at least we're safe from raiders and such...}
-{115}{}{Hi, tribal.}
-{116}{}{It sure is a hot day today!}
-{117}{}{Good farming grounds here...}
-{118}{}{Have a nice day.}
-{119}{}{Welcome to the Abbey, wanderer!}
-{120}{}{Impressive monastery we have here, eh?}
-{200}{}{Get your freaking hands off me!}
+{100}{}{B?n th?y m?t nông dân.}
+{101}{}{B?n th?y m?t nông dân kh?e m?nh.}
+{102}{}{B?n th?y m?t ngư?i.}
+{103}{}{Bú nhi?u rư?u quá à?}
+{104}{}{T?m cai rư?u m?t th?i gian đi.}
+{105}{}{Tôi th?y c?u đ? u?ng lo?i "đ?c bi?t" c?a Hank.}
+{106}{}{Chào m?ng, ngư?i hùng!}
+{107}{}{Anh đ? cho l? kh?n Enclave bi?t m?t!}
+{108}{}{Anh đúng là m?t ngư?i hùng th?c s?!}
+{109}{}{Tôi nghe nói anh đ? phá h?y Enclave, làm t?t l?m!}
+{110}{}{Chào.}
+{111}{}{Tôi hi v?ng là tr?i s? s?m mưa, n?u không th? cây tr?ng c?a tôi s? ch?t h?t.}
+{112}{}{Chúng tôi không có nhi?u khách đ?n đây.}
+{113}{}{Xin chào!}
+{114}{}{? tôi bi?t. ? đây bu?n t? l?m, nhưng ít nh?t chúng tôi c?ng không b? cư?p hay g? c?...}
+{115}{}{Chào, t?c nhân.}
+{116}{}{Hôm nay nóng th?t đ?y!}
+{117}{}{Đ?t ru?ng ? đây t?t l?m...}
+{118}{}{Chúc m?t ngày t?t lành.}
+{119}{}{Chào m?ng đ?n v?i Tu vi?n, ngư?i l? khách!}
+{120}{}{Tu vi?n ? đây ?n tư?ng đ?y ch? h??}
+{200}{}{B? cái tay c?a ngươi kh?i ngư?i ta ngay!}

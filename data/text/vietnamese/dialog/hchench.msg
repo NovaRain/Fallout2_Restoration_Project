@@ -22,10 +22,10 @@
 {201}{}{Yes, I'm looking for the caravan master.}
 {202}{}{I was wondering if I could ask you a few questions about Chad.}
 {203}{}{Ông là ai?}
-{204}{}{No, thanks.}
+{204}{}{Không, cám ơn.}
 {205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
 {206}{}{I have some more questions.}
-{207}{}{Thanks. Bye.}
+{207}{}{Cám ơn. T?m bi?t.}
 {208}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {209}{}{What's he like?}
 {210}{}{Can he be trusted?}
@@ -42,7 +42,7 @@
 {219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
  who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
  more questions?}
-{220}{}{Yes.}
+{220}{}{Đúng v?y.}
 {221}{}{No.}
 {222}{}{All right. See ya, then.}
 {223}{}{Chào.}

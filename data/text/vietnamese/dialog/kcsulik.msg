@@ -268,7 +268,7 @@
  the rest. Let's ease on down.}
 {795}{}{Uh, yeah. OK, Sulik.}
 {796}{slk54}{What can we and I do ya for?}
-{797}{}{I have some questions for you.}
+{797}{}{Tôi có vài câu h?i.}
 {798}{}{Where can I find trade, a healer, or a room?}
 {799}{}{Ever hear of a Garden of Eden Creation Kit?}
 {800}{}{What's going on in town?}
@@ -446,7 +446,7 @@
 {3006}{}{To the rising sun.}
 {3007}{}{To the Northeast.}
 {3008}{}{We don't know anything about that.}
-{3009}{}{Yes.}
+{3009}{}{Đúng v?y.}
 {3010}{}{No.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
@@ -488,7 +488,7 @@
  your home so soon.}
 {3057}{slk89}{Good to see home, but not while sis is still gone. Be wanting to stay in your
  company, OK?}
-{3058}{}{Yes.}
+{3058}{}{Đúng v?y.}
 {3059}{}{No, I think it's time you looked for her yourself.}
 {3060}{slk90}{Maybe so. We and I miss you, though. Good spirits be with you, fren.}
 {3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}
@@ -512,7 +512,7 @@
 {3088}{}{Thanks again for everything, fren.}
 {3090}{}{This here be our village. We and I go speak with our friends.}
 {3091}{}{We and I go speak with our friends again before headin out.}
-{3100}{}{[MORE]}
+{3100}{}{[THÊM]}
 {3101}{}{Where exactly is your tribe, Sulik?}
 {3102}{}{Thanks. Let me ask you something else.}
 {3103}{}{You too, Sulik. Take care of yourself.}

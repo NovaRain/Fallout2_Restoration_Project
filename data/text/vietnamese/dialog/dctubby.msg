@@ -2,7 +2,7 @@
 {101}{}{You see Tubby.}
 {150}{}{This is the store owner.}
 {151}{}{This is Tubby, the shop store owner.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{I would prefer that you take your business elsewhere.}
 {154}{}{You are a business man. Let's conduct business.}
 {155}{}{Can I ask you something.}
@@ -15,12 +15,12 @@
  you?}
 {162}{}{Yes, let's trade.}
 {163}{}{I need some information.}
-{164}{}{Goodbye.}
+{164}{}{T?m bi?t.}
 {165}{}{Hello, madam. I am called Tubby by my friends, and I welcome you
  to my store. How may I help you?}
 {166}{}{I want to buy some things.}
 {167}{}{I need some information.}
-{168}{}{Goodbye.}
+{168}{}{T?m bi?t.}
 {169}{}{I would prefer that you leave, instead.}
 {170}{}{Chào.}
 {171}{}{What would you like to know?}

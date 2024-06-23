@@ -23,7 +23,7 @@
 {122}{}{Is that so? Well, I know EVERY Citizen in Vault City, and I don't recognize you. Where's your papers?}
 {123}{}{You want them? Come get them.}
 {124}{}{I don't have them on me.}
-{125}{}{Here you go.}
+{125}{}{Đây.}
 {126}{}{Then stop wasting my time, "Citizen." Come on, let's move it.}
 {127}{}{Your business is over for the day. Come on, let's move it.}
 {128}{}{I'm not going anywhere. You try and move me, you'll regret it.}
@@ -304,7 +304,7 @@
 {402}{}{About that village...}
 {403}{}{You killed all those big ugly rats? Really?}
 {404}{}{I was told you plan on turning the people of that village into servants, and that the mole rats were preventing you from doing it -- that's the real reason you wanted them exterminated.}
-{405}{}{Yes.}
+{405}{}{Đúng v?y.}
 {406}{}{Not yet.}
 {407}{}{Oh, you heard that, did you? Well, you heard right -- it's for their own good. Here, they'd be well fed and taken care of. I'm sure they'd come to realize how much better it is to serve in the great Vault City than dwell in their little village with rat shit up to their knees.}
 {408}{}{They're happy right where they are.}

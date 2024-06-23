@@ -5,7 +5,7 @@
 {104}{}{Whaddya want?}
 {105}{}{Nyug aarg.}
 {106}{}{Ông là ai?}
-{107}{}{What is this place?}
+{107}{}{Đây là nơi nào?}
 {108}{}{Ever hear of a GECK?}
 {109}{}{Say, Eric asked me to adjust the power ration to his house. He said that he's sweating too much.}
 {110}{}{Hey, Eric's really happy in his nice cool house. And I notice the power hasn't failed across the city.}
@@ -33,7 +33,7 @@
 {132}{}{Well, no, it's not. Not really. I mostly just sit here and make sure none of the dials flip out. I make some minor adjustments. I flip some switches. That's about all. Anyone could do it.}
 {133}{}{So, say, you could send more power to Eric's home?}
 {134}{}{Anyone, eh? I have other questions.}
-{135}{}{Thanks. Bye.}
+{135}{}{Cám ơn. T?m bi?t.}
 {136}{}{Well, with the uranium mine right there, and with atomic power being the power of the future, it seems only right that we keep up with the times. We might be small, but we're progressive.}
 {137}{}{Hmm. Right. I have other questions.}
 {138}{}{Right. Bye.}

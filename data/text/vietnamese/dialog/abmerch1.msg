@@ -1,62 +1,61 @@
-{100}{}{You see a merchant.}
-{102}{}{You see a merchant who is trying to fix the waterpump.}
-{103}{}{I just can't get this thing working!}
-{104}{}{This seems to be very hard to fix.}
-{105}{}{What a piece of shit this is!}
-{106}{}{Stubborn little sonnuva bitch are we?}
-{107}{}{Could you lend me a hand?}
-{108}{}{Maybe you'll have better luck with this.}
-{109}{}{Hey, thanks for fixing the waterpump!}
-{110}{}{You should notify the headmonk that the waterpump is now fixed.}
-{200}{}{Thanks for helping us with this thing.}
-{300}{}{Ah, what a piece of shi- umm, I'm a little busy right now. Do you need something or are
- you just wasting my time?}
-{301}{}{Actually yes, the Abbot sent me. He said the water pump is having some trouble.}
-{302}{}{Heh, "having trouble" is an understatement. This ol' thing is totally busted. There's no way
- it's going to run again.}
-{303}{}{I see. Then I guess it wouldn't hurt anything if I took a look at it.}
-{304}{}{Sure, be my guest. Not like you could break it any more.}
-{305}{}{I don't mean to bother, but what seems to be the trouble here?}
-{306}{}{The main water pump for the Abbey is busted. The damn thing was breathing its last the past few days
- and now it's finally gone out.}
-{307}{}{I'm a bit of a techie, mind if I take a look?}
-{308}{}{Well, I'm not that great with machines, but perhaps I can see if something can be done.}
-{309}{}{Sure, no one's stopping you.}
-{310}{}{Uh, sorry. Bye.}
-{311}{}{I'll see what I can do then.}
-{312}{}{I thought I might be able to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{313}{}{I told the Abbot I'd be willing to help, but if you want to be an asshole about it, then you're welcome to figure it out on your own.}
-{320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
- real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
-{321}{}{Well, what seems to be the problem then?}
-{322}{}{Whatever, bye.}
-{330}{}{Come back and talk to me in the morning.}
-{400}{}{Oh, it's you again. Any luck?}
-{401}{}{No, not yet. I'll get back to you if I do.}
-{402}{}{Actually, yes. I looked inside and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
-{500}{}{Hmm... the connectors are shot on the main motor, eh? Well, I got some wires here with me that will work, but not
- that specific motor. I am sure Vault City has the part though. Go there and speak with Harry in the main courtyard. Tell him
- Dave sent you. Damn motor is expensive, but he should give you a good deal.}
-{501}{}{I'll head there now. Be back soon.}
-{502}{}{Whoa, hold on a second. I was happy to help you figure out the problem, but who said I'm willing to trek across
- the wastes to go buy you an expensive motor? If you want my help, it's going to cost you.}
-{503}{}{How 'bout *you* tell Harry that when you go fetch it your damn self? I'm not your fucking errand boy. Bye.}
-{510}{}{Alright, I wouldn't expect someone to do work for free. The part will cost you bout 500 and I think 100 more for
- your trouble is reasonable. Here's 600.}
-{511}{}{That's better. I'll be back with the part.}
-{600}{}{Any luck on that part? This machine won't fix itself.}
-{601}{}{No, not yet. I'll be back when I get it.}
-{602}{}{Yep, got the part right here.}
-{700}{}{Excellent. Want me to install the damn thing, or do you want the pleasure?}
-{701}{}{I think I can handle it. Step aside.}
-{702}{}{Actually, I think I've done enough on this job. Go ahead and install it yourself.}
-{800}{}{Alright fine, hand it over.}
-{801}{}{Here you go.}
-{900}{}{That should do it.}
-{901}{}{The water pump has been repaired.}
-{910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
-{911}{}{The Abbot said you might need some assistance. What seems to be the trouble?}
+{100}{}{B?n th?y m?t thương gia.}
+{102}{}{B?n th?y m?t thương gia đang c? g?ng s?a máy bơm nư?c.}
+{103}{}{M? nó m?i đéo ch?y!}
+{104}{}{Th? này có v? r?t khó s?a.}
+{105}{}{Đúng là c?c c?t đ?ng nát!}
+{106}{}{C?a n? này c?ng đ?u vl nh??}
+{107}{}{C?u giúp tôi m?t tay đư?c không?}
+{108}{}{Có th? c?u s? h?p v?i th? này hơn.}
+{109}{}{Này, cám ơn đ? s?a máy bơm nư?c!}
+{110}{}{C?u nên báo v?i th?y tu trư?ng là máy bơm nư?c đ? s?a đư?c r?i.}
+{200}{}{Cám ơn đ? giúp chúng tôi s?a th? này.}
+{300}{}{À, đúng là c?c cư- ?, tôi đang d? tay. C?u có c?n g? không hay ch? mu?n tán g?u thôi?}
+{301}{}{Th?c ra là có. Th?y tr? tr? c? tôi đ?n. Ông ta nói máy bơm nư?c có v?n đ?.}
+{302}{}{H?, "có v?n đ?" cái c? c?i. C?c s?t v?n này nát như tương r?i. Đ?ch có chuy?n nó ti?p t?c
+ch?y n?a đâu.}
+{303}{}{Hi?u r?i. V?y ch?c không v?n đ? g? n?u tôi ngó th? nh?.}
+{304}{}{Đư?c ch?, c? t? nhiên. Đ?ng nào c?ng có h?ng hơn đư?c n?a đâu.}
+{305}{}{Tôi không mu?n làm phi?n, nhưng có chuy?n g? ? đây th??}
+{306}{}{Cái máy bơm nư?c chính cho Tu vi?n t?ch r?i. Th? ch?t ti?t này són đư?c vài gi?t cu?i cùng m?y ngày
+trư?c và đ?n gi? th? chính th?c đi đ?i r?i.}
+{307}{}{Tôi bi?t m?t chút v? k? thu?t, có phi?n không n?u tôi ngó qua chút?}
+{308}{}{?, tôi không gi?i máy móc l?m, nhưng có l? tôi có th? xem li?u có làm g? đư?c không.}
+{309}{}{Đư?c, ch?ng ai c?m c?.}
+{310}{}{?, xin l?i. T?m bi?t.}
+{311}{}{Đ? tôi xem tôi có th? làm g?.}
+{312}{}{Tôi ngh? là m?nh có th? giúp, nhưng n?u ông c? ch?i b?i như v?y th? t? đi mà s?a l?y nhé.}
+{313}{}{Tôi có nói v?i Th?y tr? tr? là tôi s?n sàng giúp, nhưng n?u ông c? ch?i b?i như v?y th? t? đi mà s?a l?y nhé.}
+{320}{}{[Ông ta nheo m?t nh?n b?n m?t thoáng, r?i ch?m ch?m th? dài m?t hơi]. Xin l?i anh b?n, th? này m?i không
+ch?y và nó làm tôi phát điên lên đư?c. Tôi không có ? ch?i ai c?.}
+{321}{}{?, v?y v?n đ? là g? th??}
+{322}{}{Sao c?ng đư?c, t?m bi?t.}
+{330}{}{H?y quay l?i nói chuy?n v?i tôi vào bu?i sáng.}
+{400}{}{?, l?i là c?u. Có t?m th?y g? không?}
+{401}{}{Không, chưa th?y g?. T?m th?y g? th? tôi s? báo.}
+{402}{}{Th?c ra là có. Tôi đ? xem bên trong và có v? như đ?ng cơ ch?t h?n r?i. Dây n?i c?ng cháy r?i, nên chúng ta s?
+c?n t?m m?t b? đ?ng cơ m?i và vài đo?n dây đ? n?i m?i th? l?i.}
+{500}{}{H?m... đ?u n?i trên đ?ng cơ chính cháy r?i à? ?, tôi có s?n dây ? đây r?i, nhưng đ?ng cơ cho cái máy này th? không.
+Tôi ch?c là Thành ph? Vault có đ?y. H?y đi đ?n đó và nói v?i Harry ? sân chính. B?o h?n ta là Dave c? c?u đ?n.
+C?c đ?ng cơ đ?t đ?y, nhưng ch?c h?n ta s? gi?m giá cho c?u.}
+{501}{}{Tôi s? đ?n đó ngay. G?p l?i sau.}
+{502}{}{Chà, gư?m chút đ?. Tôi r?t vui v? đ? giúp ông t?m ra v?n đ?, nhưng ai nói là tôi s?n sàng vư?t qua hoang m?c
+đ? mua cho ông c?c đ?ng cơ đ?t ti?n v?y? N?u mu?n tôi giúp th? x? ti?n ra đây.}
+{503}{}{Sao *ông* không t? vác xác đ?n mà nói v?i Harry ?y? Tôi đâu ph?i tay sai v?t c?a ông. Chào nhé.}
+{510}{}{Đư?c r?i, tôi c?ng không ngh? là có ngư?i làm mi?n phí đâu. B? ph?n này có giá kho?ng 500 và tôi ngh? tr? công
+cho c?u 100 là h?p lí. 600 đây.}
+{511}{}{T?t hơn r?i đ?y. Tôi s? mang b? ph?n quay l?i.}
+{600}{}{Có t?m th?y b? ph?n chưa v?y? Cái máy này không t? s?a đâu.}
+{601}{}{Chưa. Tôi s? quay l?i khi nào có.}
+{602}{}{Có, b? ph?n ngay đây r?i.}
+{700}{}{Tuy?t. Mu?n tôi l?p c?a n? đ?y vào không, hay c?u mu?n t? chơi hơn?}
+{701}{}{Tôi ngh? m?nh làm đư?c. Tránh ra nào.}
+{702}{}{Th?c ra tôi ngh? là m?nh làm th? là đ? r?i. Ông t? đi mà l?p l?y đi.}
+{800}{}{Đư?c r?i, đưa b? ph?n đây.}
+{801}{}{Đây.}
+{900}{}{V?y là xong.}
+{901}{}{Máy bơm nư?c đ? đư?c s?a ch?a.}
+{910}{}{(Lau m? hôi trán). ?, c?n g? không?}
+{911}{}{Th?y tr? tr? nói ông có th? c?n tr? giúp. Có v?n đ? g? v?y?}
 {912}{}{Không có g?. Xin chào.}
-{913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+{913}{}{Tôi đ? xem máy bơm nư?c và có v? như đ?ng cơ ch?t h?n r?i. Dây n?i c?ng cháy r?i, nên chúng ta s?
+c?n t?m m?t b? đ?ng cơ m?i và vài đo?n dây đ? n?i m?i th? l?i.}

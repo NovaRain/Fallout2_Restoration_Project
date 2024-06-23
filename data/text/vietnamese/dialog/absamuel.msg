@@ -1,75 +1,75 @@
-{100}{}{You see the monastery graveyard keeper.}
-{101}{}{You see Brother Samuel, the graveyard keeper.}
-{102}{}{He looks drunk and a bit drowsy.}
-{200}{}{*hickup* Why, 'ello there, my name's Samuel. What, uh, *hickup* brings you here?}
-{201}{}{*hickup* Hello again.}
-{202}{}{I'm just looking around. Do you tend to this graveyard?}
-{203}{}{Do you know a Father Tully?}
-{204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah... I *hickup* 'member Tully.
- How's that fella doin anyway? I 'aven't seen him since he was kicked out of 'ere long time *hiccup* long time ago.
- [He grins drunkenly as he reflects.] Boy he was a hoot. Him and me together, *hickup* what a combo.}
-{205}{}{He lives in New Reno now, preachin' the good word, er, something like that. You know, you two seem a lot alike.}
-{206}{}{New Reno, huh? [He leans on his shovel, pulls out a small flask and takes a big swig.] I 'member him sayin he'd
- *hickup* be headin that way. I'm glad he made it there safely. I always *hickup* liked that fella. A real hoot. If you
- see him again, tell him Ol' Sammy is still alive an' kickin.}
-{207}{}{I'll do that. I got some other questions though.}
-{208}{}{I'll do that. Take care Sam.}
-{209}{}{Nevermind. Sorry to bother you.}
-{210}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. I got some other questions though.}
-{211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
-{300}{}{What do you *hickup* wanna know?}
-{301}{}{Are you the gravekeeper?}
+{100}{}{B?n th?y ngư?i gác ngh?a trang c?a tu vi?n.}
+{101}{}{B?n th?y Th?y Samuel, ngư?i gác ngh?a trang.}
+{102}{}{Ông ta trông có v? say rư?u và hơi bu?n ng?.}
+{200}{}{*n?c* ?y, kh?e ch?, Samuel đây. Cái, ? *n?c* c?u đ?n đây làm g? th??}
+{201}{}{*n?c* Chào.}
+{202}{}{Ch? ngó quanh thôi. Ông trông coi khu ngh?a trang này à?}
+{203}{}{Ông có bi?t Cha Tully không?}
+{204}{}{Cha Tully à? [Ông ta có v? như đang nhíu h?t c? n?o đ? nh? l?i]. ?... ta *n?c* có nh? Tully. Mà g? đ?y sao r?i? Ta
+chưa g?p l?i h?n t? lúc h?n ta b? đá đít kh?i ch? này t? h?i xưa *n?c* xưa l?m r?i. [Ông ta cư?i toe toét trong
+say x?n khi nh? l?i] Chà, h?n ta nói d?i như cu?i nhá. H?n và ta cùng nhau, *n?c* m?t c?p bài trùng.}
+{205}{}{Ông ta gi? s?ng ? New Reno, rao gi?ng kinh thánh, ?, đ?i lo?i th?. Bi?t g? không, hai ông gi?ng h?t nhau.}
+{206}{}{New Reno à? [Ông ta d?a vào cái x?ng, lôi ra m?t b?ch nh? r?i t?p m?t ng?m th?t sâu]. Ta nh? là h?n ta có nói
+*n?c* s? đi l?i đ?y. M?ng là h?n ta đ? đ?n nơi an toàn. Ta luôn *n?c* thích g? này. M?t tay l?a th? thi?t. N?u g?p l?i
+th? b?o g? là Sammy già v?n đang s?ng nhăn răng nhé.}
+{207}{}{Tôi s? làm v?y. Mà tôi v?n c?n m?y câu h?i n?a.}
+{208}{}{Tôi s? làm v?y. B?o tr?ng nhé Sam.}
+{209}{}{Không có g?. Xin l?i đ? làm phi?n.}
+{210}{}{Th?t ra là tôi đang đ?nh nói là ông ta g?i l?i chào. Tôi s? nói v?i ông ta là ông c?ng g?i l?i chào. Mà tôi v?n c?n m?y câu c?n h?i.}
+{211}{}{Th?t ra là tôi đang đ?nh nói là ông ta g?i l?i chào. Tôi s? nói v?i ông ta là ông c?ng g?i l?i chào. B?o tr?ng nhé Sam.}
+{300}{}{C?u *n?c* mu?n bi?t g? nào?}
+{301}{}{Ông là ngư?i gác ngh?a trang à?}
 {302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
-{303}{}{Anything I can help you with?}
-{400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
- not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy
- eyebrows at you.]}
-{401}{}{No. I don't know what you mean, and I never want to. Bye.}
-{402}{}{No. I don't know what you mean. But I think I'd rather ask you something else. }
-{403}{}{No. I don't know what you mean, but I'm morbidly curious...}
-{404}{}{Hell yeah I do. Nothing turns me on like a rotten cadaver.}
-{410}{}{Why, I get to be outdoors, and no one's 'round to tell Ol' Sammy when he's had enough. I *know* when I've
- 'ad enough... when 'ere's none left! [He cackles, which quickly turns into a hideous cough. After coughing up a lung
- or two, he smiles at you.]}
-{411}{}{Oh, of *course* that's what you meant. [Sigh of relief.] Let me ask you something else, though.}
-{420}{}{[His eyes go wide with shock and he seems to instantly sober.] That's not what I meant, you... you MONSTER! FIEND!
- Get away from me! }
-{421}{}{Whatever, you drunk old fuck. You don't know what you're missing.}
-{430}{}{Foul demon! Be gone!}
-{500}{}{The Abbey, well, this place *hickup* has been my 'ome fer most of my life. Everone 'ere *hickup* is nice, and
- anyone's welcome, long as they *hickup* don't cause trouble. I, myself, don't spend too much time in th'
- mona-*hickup*-monastery, but I know our 'puters have all kinds of info that's been collected over th' years. Maybe
- some of it *hickup* might be of some use to you.}
-{501}{}{You don't spend much time in the church? You are a monk, aren't you?}
-{502}{}{[He grins, revealing a gap filled set of rotten teeth.] Well, *hickup* let's just say that th' other monks don't
- take *hickup* too kindly to my, uh, drinking habits.}
-{503}{}{Makes sense I guess. I got some more questions.}
-{504}{}{I guess so. See you around Sammy.}
-{505}{}{I see. Look I must be going.}
-{600}{}{Hmm... *hickup* lemme... lemme tink a minute. Yeah, I might got somethin, if yer up to it.}
-{601}{}{Uh, nevermind Sam. I must be going now.}
-{602}{}{Sure Sam, what do you need?}
-{603}{}{Well, th' past coupla days I've *hickup* noticed some of these graves are bein dug up. Now, whoever's doin this
- don't appear to be gettin that far, but it's a *hickup* a pain fer me to fill 'em back up.}
-{604}{}{Hmm, well did you try and figure out who has been doing this?}
-{605}{}{Sure *hickup* I tried. One night I stayed around till midnight or so and no one showed up. I must've fallen asleep
- soon afterwards. Too much drinking I s'pose. [He grins, pulls out his flask and takes a hefty swig.] So, what do you
- *hickup* say? You wanna help out?}
-{606}{}{Alright, I'll see what I can do. Do you know anything else that might help me?}
-{607}{}{Well, now that you mention it, I do *hickup* 'member Mr. Peterson sayin something about hearing some noises comin
- from his field. He might know something about this. He and that pretty little wife a his live right over there.
- [He points to the building south of the graveyard.]}
-{608}{}{I'll see what I can do.}
-{609}{}{I think I'll pass. I must be going.}
-{700}{}{I took care of the grave digging situation. You shouldn't have any more problems out here.}
-{701}{}{Well, that's *hickup* good news. Glad I won't be falling into any more open *hickup* graves. Thanks fer th' help.}
-{702}{}{Glad to help. I got some questions though.}
-{703}{}{Well, take care then.}
-{704}{}{I don't think open graves are the real reason you're falling down Samuel, but you take it easy now.}
-{1000}{}{*Whistle*}
-{1001}{}{*Cough* *Cough*}
-{1002}{}{*Clears throat*}
-{1003}{}{*Cough*}
-{1004}{}{*Sigh*}
-{1005}{}{*Hickup*}
-{2000}{}{It's been a *hickup* long day. Come back in th' morning.}
+{303}{}{Tôi có th? giúp g? đư?c ông không?}
+{400}{}{?, *n?c* ta chăm sóc khu ngh?a trang này. Không ai mu?n *n?c* làm vi?c này, v?y nên Sammy già có vi?c làm.
+C?ng không t? như h? ngh?. Có nhi?u... đi?m t?t, c?u bi?t đ?y. [Ông ta toét mi?ng cư?i s?c và nheo nheo
+c?p mày r?m].}
+{401}{}{Không, tôi không bi?t và c?ng không mu?n bi?t. T?m bi?t.}
+{402}{}{Không. Tôi không bi?t. Nhưng tôi mu?n h?i ông v? chuy?n khác.}
+{403}{}{Không. Tôi không bi?t, nhưng tôi t? m? đ?n ch?t đi đư?c...}
+{404}{}{Đ?u má tôi bi?t ch?. Không g? kích thích hơn c?nh m?t cái xác th?i r?a c?.}
+{410}{}{Sao ch?, ta đư?c ra ngoài và ch?ng ma nào đ?n đây đ? b?o Sammy già d?ng l?i c?. Ta *bi?t* khi nào ta say ch?...
+khi c?n không c?n gi?t nào! [Ông ta cư?i l?n, nhưng nhanh chóng g?p ph?i cơn ho s?c s?a. Sau khi ho đ?n
+v? tung c? ph?i, ông ta m?m cư?i v?i b?n].}
+{411}{}{?, d? *nhiên* ? ông là th?. [Th? dài nh? nh?m]. Đ? tôi h?i ông chuy?n khác.}
+{420}{}{[Ông ta tr?n m?t v? s?c và dư?ng như t?nh táo tr? l?i]. ? ta không ph?i v?y, đ?... đ? QUÁI V?T! QU? ĐÓI!
+Tránh xa ta ra!}
+{421}{}{Sao c?ng đư?c, l?o già say x?n. L?o không bi?t m?nh đang b? l? đi?u g? đâu.}
+{430}{}{Ác qu? x?u xa! Bi?n đi!}
+{500}{}{Tu vi?n, ?, đây là nơi *n?c* ta đ? s?ng c? đ?i ? đây. M?i ngư?i ? đây *n?c* r?t t?t, và ai c?ng đư?c đón chào,
+mi?n là h? *n?c* không gây r?c r?i. B?n thân ta tuy không ? lâu trong tu *n?c* vi?n, nhưng ta bi?t trong
+máy tính có r?t nhi?u th? h? đ? sưu t?p trong nhi?u năm. Có th? c?u s? t?m th?y th? g? đó *n?c* có ích
+trong đó.}
+{501}{}{Ông không ? lâu trong nhà th? ư? Ch?ng ph?i ông là th?y tu sao?}
+{502}{}{[Ông ta phá ra cư?i, đ? l? ra hàm răng sâu nham nh?]. ? th? *n?c* ch?c là các th?y tu khác không
+thích l?m *n?c* cái thói u?ng rư?u c?a ta.}
+{503}{}{Ch?c là v?y. Tôi có thêm câu h?i.}
+{504}{}{Ch?c v?y. G?p l?i ông sau Sammy.}
+{505}{}{Hi?u r?i. Tôi ph?i đi đây.}
+{600}{}{H?m... *n?c* đ? ta... đ? ta ngh? m?t chút. ?, ta có vi?c này, n?u c?u mu?n giúp.}
+{601}{}{?, không có g? đâu Sam. Gi? tôi ph?i đi đây.}
+{602}{}{Đư?c ch? Sam, ông c?n g? nào?}
+{603}{}{?, m?y ngày g?n đây ta *n?c* đ? ? th?y có m?y ngôi m? b? đào lên. Tuy là k? nào làm vi?c đó có v? như chưa
+đ?n m?c quá đà, nhưng mà *n?c* m?t công ta đi l?p chúng l?i.}
+{604}{}{H?m, ông có th? t?m xem là ai đang làm vi?c đó chưa?}
+{605}{}{Ch?c ch?n *n?c* là có ch?. Có đêm ta th?c đ?n canh hai hay t?m đó, nhưng ch?ng th?y ai xu?t hi?n c?. Sau đó ta
+ng? g?c m?t. Ch?c là hơi quá chén. [Ông ta cư?i khà, lôi b?ch rư?u ra tu m?t ng?m l?n]. Gi? c?u ngh? *n?c* sao?
+Có mu?n giúp không?}
+{606}{}{Đư?c r?i, đ? tôi xem tôi có th? làm g?. Ông có bi?t đi?u g? khác có ích không?}
+{607}{}{?, nh?c m?i nh?, ta nh? *n?c* là Ông Peterson có nói v? vi?c nghe th?y ti?ng đ?ng g? đó t? khu ru?ng. C?u ta
+có th? bi?t g? đó v? chuy?n này. C?u ta cùng cô v? bé nh? xinh đ?p s?ng ? ngay kia. [Ông ta ch? tay v? phía
+t?a nhà phía Nam c?a ngh?a trang].}
+{608}{}{Đ? tôi xem tôi có th? làm g?.}
+{609}{}{Ch?c là thôi. Tôi ph?i đi đây.}
+{700}{}{Tôi đ? lo xong v? đào tr?m m? r?i. Ch?c là ông không c?n có v?n đ? g? n?a đâu.}
+{701}{}{?, th?t là *n?c* tin đáng đ? tu m?t hơi dài. M?ng là ta s? không c?n ng? vào ngôi m? *n?c* h? nào n?a. Cám ơn đ? giúp.}
+{702}{}{R?t vui khi giúp đư?c ông. Tôi v?n c?n vài câu h?i n?a.}
+{703}{}{Đư?c r?i, b?o tr?ng nhé.}
+{704}{}{Tôi không ngh? m?y ngôi m? h? là lí do chính khi?n ông ng? đâu Samuel, nhưng t? gi? ông có th? thư gi?n r?i.}
+{1000}{}{*Hu?t sáo*}
+{1001}{}{*Ho kh?c kh?c*}
+{1002}{}{*H?ng gi?ng*}
+{1003}{}{*Ho*}
+{1004}{}{*Th? dài*}
+{1005}{}{*N?c*}
+{2000}{}{Đúng là m?t *n?c* ngày dài. Sáng mai quay l?i nhé.}

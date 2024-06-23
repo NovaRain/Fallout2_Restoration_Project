@@ -26,12 +26,12 @@
 {151}{}{Keeter. Heh, heh, heh.}
 {152}{}{Who're you?}
 {153}{}{What do you do here?}
-{154}{}{I have some questions for you.}
+{154}{}{Tôi có vài câu h?i.}
 {155}{}{Oh, okay. I'll talk to Skeeter then. Thanks.}
 {160}{}{Hello there. Since you've already invited yourself in -- what can I do for you?}
 {161}{}{Me hungry.}
 {162}{}{Uh, I was wondering where Skeeter is?}
-{163}{}{I have some questions for you.}
+{163}{}{Tôi có vài câu h?i.}
 {164}{}{Oh, sorry. I didn't mean to barge in. Goodbye.}
 {170}{}{I guard the brahmin or help Skeeter in his workshop.}
 {171}{}{Who's Skeeter?}
@@ -65,7 +65,7 @@
  I understand, the uranium is mined by mutants down there. But they have humans trade the stuff for
  them.}
 {231}{}{Why do they have humans trade the stuff for them?}
-{240}{}{What do you want to know?}
+{240}{}{Mu?n bi?t g? nào?}
 {241}{}{Aren't you the curious one? Well, okay. What do you want to know?}
 {242}{}{What do you want to know now?}
 {243}{}{What's all that junk in the yard?}

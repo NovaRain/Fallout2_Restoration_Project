@@ -152,12 +152,12 @@
  allow you to join my cult. Isn't there something you should be doing right now?}
 {442}{}{(crunch, munch, crunch) Mmmm, I love Cheezy Poofs, they're so, well, uh, Cheesy.}
 {443}{}{(crunch, munch, crunch) Mmmm, I love Cheezy Poofs, they're so, well, uh, Cheesy.}
-{444}{}{Uh...}
+{444}{}{?...}
 {450}{}{So be it. Zomak! Kill this fool for me. But be careful with the Cheezy Poofs!}
 {460}{}{You have to use the Reactor Data disk on Vault City's Central Computer. You can either sneak
  in and use it or, if you have the Economic Data disk, you can go to McClure.}
 {461}{}{Economic Data disk?}
-{462}{}{Oh, okay.}
+{462}{}{?, okay.}
 {463}{}{Just bring the Analyzed Reactor Data disk to Festus and he'll input the data to get the
  reactor running efficiently.}
 {464}{}{Well, once you get a Hydroelectric Magnetosphere Regulator from Vault City, bring it back

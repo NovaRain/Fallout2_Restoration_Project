@@ -20,7 +20,7 @@
 {119}{}{What sort of computer stuff do you do?}
 {120}{}{I'll bet your band sucked.}
 {121}{}{Was the band any good?}
-{122}{}{Thanks. Bye.}
+{122}{}{Cám ơn. T?m bi?t.}
 {123}{}{Uhh... okay.}
 {124}{}{Chào!}
 {125}{}{You oughta talk to Marc or the Captain about that.}
@@ -28,7 +28,7 @@
 {127}{}{Where can I find the Captain?}
 {128}{}{I'm the resident computer genius.}
 {129}{}{What sort of computer stuff do you do?}
-{130}{}{Thanks. Bye.}
+{130}{}{Cám ơn. T?m bi?t.}
 {131}{}{Don't pester me. ::He farts:: I'm working on it, all right?}
 {132}{}{All right, all right. Just let me know when you're done.}
 {133}{}{Well, let's just say I'm an information retrieval specialist.}
@@ -83,13 +83,13 @@
 {182}{}{Good. I need to ask you something.}
 {183}{}{Good for you. I didn't want to talk to you.}
 {184}{}{Thank you, thank you, thank you. I can't thank you enough for saving her. What do you want?}
-{185}{}{I have some questions.}
+{185}{}{Tôi có vài câu h?i.}
 {186}{}{Your gratitude is enough for me. So long.}
 {187}{}{Okay, I got into the Shi computers. I don't know if I made it out undetected. I guess now the best thing is to hide. You want anything else?}
-{188}{}{Yes.}
+{188}{}{Đúng v?y.}
 {189}{}{No. See ya.}
 {190}{}{Got the Hubologists. No problem. Need anything else?}
-{191}{}{Yes.}
+{191}{}{Đúng v?y.}
 {192}{}{No. See ya.}
 {193}{}{You just made a big mistake, pal. I just turned the Shi against you through their computers. You're finished in San Francisco. }
 {194}{}{I guess I'd better kill you then.}

@@ -114,7 +114,7 @@
 {483}{}{I'm looking for work. Do you have any?}
 {484}{}{Where do you get all your equipment from?}
 {490}{}{Have you collected the pelts as I requested?}
-{491}{}{Yes, here they are.}
+{491}{}{Vâng, ? đây ?.}
 {492}{}{No, not as yet.}
 {500}{}{Wonderful! Excellent! Let me see... ahh yes, these will do nicely! Now then, do you want another job?}
 {501}{}{Yes, if you have anything}
@@ -153,7 +153,7 @@
 {703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
 {704}{}{But, the great war was over many, many years ago.}
 {705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
-{706}{}{[MORE]}
+{706}{}{[THÊM]}
 {707}{}{I couldn't believe their scientific short-sightedness... their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
 {708}{}{You killed them!?}
 {709}{}{Understandable.}

@@ -6,7 +6,7 @@
 {105}{}{No, me come back later.}
 {106}{}{Very well. I have to live with you grunts so I might as well make
  an effort to get along with you.}
-{107}{}{What do you want to know?}
+{107}{}{Mu?n bi?t g? nào?}
 {108}{}{Who you?}
 {109}{}{What you do?}
 {110}{}{What this place?}
@@ -16,7 +16,7 @@
 {114}{}{Me got go now.}
 {115}{}{Ông là ai?}
 {116}{}{What do you do here?}
-{117}{}{What is this place?}
+{117}{}{Đây là nơi nào?}
 {118}{}{Why is this room soundproofed?}
 {119}{}{Why is there a deathclaw in the other room?}
 {120}{}{What's with the dog statue by the door?}
@@ -134,7 +134,7 @@
 {196}{}{I'm not a hostile, don't shoot me.}
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}
-{200}{}{[MORE]}
+{200}{}{[THÊM]}
 {201}{}{I wanted to ask you some questions.}
 {202}{}{Not right now. Sorry to bother you.}
 {800}{}{You killed Doctor Schreber.}

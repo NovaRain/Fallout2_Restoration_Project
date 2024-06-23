@@ -43,7 +43,7 @@
 {140}{}{Your secret's safe. I got it from a reliable source.}
 {141}{}{You might try the caves or the area near the homes. I understand there are plenty of monsters
  there.}
-{142}{}{Thanks. Bye.}
+{142}{}{Cám ơn. T?m bi?t.}
 {143}{}{Humanoids, eh? Any humanoids in particular?}
 {144}{}{Humans.}
 {145}{}{Ghouls.}
@@ -74,7 +74,7 @@
 {167}{}{Cám ơn.}
 {168}{}{Coincidentally, I got rid of all the guns I had except what you see here. Help you with
  somethin' else?}
-{169}{}{Yes.}
+{169}{}{Đúng v?y.}
 {170}{}{No.}
 {171}{}{I ain't sellin' to you. Get out of my store.}
 {172}{}{[XONG]}

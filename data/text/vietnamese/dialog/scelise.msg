@@ -51,7 +51,7 @@
 {150}{}{What was it you wanted done?}
 {151}{}{Shouldn't you be doing something? Don't come back here until the job's done.}
 {152}{}{I've heard the news already. You freed the slaves. Good work! So, you ready to become a Ranger?}
-{153}{}{Yes.}
+{153}{}{Đúng v?y.}
 {154}{}{No.}
 {155}{}{I hear you're the one who freed all the slaves outside the city gates. That was a fine thing you did and I just want to shake your hand.}
 {156}{}{Cám ơn.}
@@ -59,7 +59,7 @@
 {158}{}{The Rangers sound like a group I'd be proud to join. Sign me up.}
 {159}{}{Interesting... I'll have to think about what you've said.}
 {160}{}{Do you swear to fight slavery whenever the opportunity arises and to help your fellow Rangers whenever they're in need?}
-{161}{}{Yes.}
+{161}{}{Đúng v?y.}
 {162}{}{No.}
 {163}{}{Congratulations, you're now a Ranger.}
 {164}{}{Well-met, fellow Ranger. Afraid there's not much for you to do around here at this time. Most our people are already out on patrol. I'll spread the word that you're one of us now. I wouldn't want you getting shot by one of us.}
@@ -117,7 +117,7 @@
 {230}{}{I still need more time.}
 {231}{}{I am ready to go. Let's do it.}
 {232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
-{233}{}{[END]}
+{233}{}{[K?T THÚC]}
 {234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
 {235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
 {236}{}{You aid the Rangers in their continual struggle against slavery.}
@@ -136,7 +136,7 @@
 {273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
 {274}{}{You're welcome. Now why don't you tell me who you are?}
 {280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
-{281}{}{Thanks. Bye.}
+{281}{}{Cám ơn. T?m bi?t.}
 {282}{}{Thanks. Now why don't you tell me who you are?}
 {290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
 {291}{}{Let's hear it.}

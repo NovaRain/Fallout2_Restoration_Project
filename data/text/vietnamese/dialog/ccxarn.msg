@@ -1,5 +1,5 @@
 {100}{}{Greetings, human. I am the warrior Xarn. Are you to be my executioner?}
-{101}{}{Yes.}
+{101}{}{Đúng v?y.}
 {102}{}{No, me here rescue you.}
 {103}{}{Not know. Me want know why you here.}
 {104}{}{Yes I am.}
@@ -67,7 +67,7 @@
 {142}{}{Very well... I am saddened by your decision but it is
  your choice. If you change your mind, I will be here.}
 {143}{}{Chào.}
-{144}{}{Goodbye.}
+{144}{}{T?m bi?t.}
 {145}{}{I would ask you to help me escape this place. Will you?}
 {146}{}{Yes, me do.}
 {147}{}{Me think about it.}
@@ -85,10 +85,10 @@
 {159}{}{No. I'll be leaving now.}
 {160}{}{All right, let's get it over with.}
 {161}{}{Hello again. Have you changed your mind? Will you help me?}
-{162}{}{Yes.}
+{162}{}{Đúng v?y.}
 {163}{}{No.}
 {164}{}{Hello again. Have you changed your mind? Will you help me?}
-{165}{}{Yes.}
+{165}{}{Đúng v?y.}
 {166}{}{No. Me still think about it.}
 {167}{}{No. Me not help.}
 {168}{}{No, I'm still thinking.}
@@ -121,7 +121,7 @@
 {194}{}{You're on your own pal. I'm out of here.}
 {195}{}{I thank you, human. Let us kick some Enclave ass! Pack Gruthar! Grrrrrrrhh!}
 {196}{}{Okay.}
-{200}{}{[MORE]}
+{200}{}{[THÊM]}
 {201}{}{Yes. Who are you?}
 {202}{}{Yes. Why?}
 {300}{}{Very well. The Enclave created my people as a slave warrior race.

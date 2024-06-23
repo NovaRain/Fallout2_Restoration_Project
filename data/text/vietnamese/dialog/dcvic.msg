@@ -2,7 +2,7 @@
 {101}{}{You see Vic.}
 {150}{}{This slave seems to be kept under tight surveillance.}
 {151}{}{This is Vic.}
-{152}{}{[TALK]}
+{152}{}{[NÓI CHUY?N]}
 {153}{}{Would you tell him I can't... wait. Who are you? You're not a
  slaver. What are you doing here?}
 {154}{}{My name is }
@@ -25,7 +25,7 @@
 {168}{}{Where can I get the parts?}
 {169}{}{Maybe I can repair it.}
 {170}{}{Can you use this radio I found?}
-{171}{}{I'll see what I can do.}
+{171}{}{Đ? tôi xem tôi có th? làm g?.}
 {172}{}{Spa pa?}
 {173}{}{I know I can do it, I just need some spare parts. There is an old radio in
  my shack back in Klamath that has exactly what I need. You been to the Dunton's?
@@ -47,7 +47,7 @@
 {189}{}{Vault 13? There's a Vault City east of here. I trade there,
  sometimes.}
 {190}{}{Want to go there with me?}
-{191}{}{Thanks. Bye.}
+{191}{}{Cám ơn. T?m bi?t.}
 {192}{}{Sure, I'll join up with you! This old fart has one big adventure left
  in him. I'm sure of it! I'm pretty good at repairing things too, despite what
  Metzger says.}
@@ -93,7 +93,7 @@
  Only problem is that Metzger's got me locked up here until I fix this radio and
  I don't have the parts I need.}
 {753}{}{Where can I get the parts you need?}
-{754}{}{I'll see what I can do.}
+{754}{}{Đ? tôi xem tôi có th? làm g?.}
 {760}{}{It's a long story. I guess you could say that Metzger's keeping me here until
  I fix this darn radio. The crystal's shot and I don't have any spare parts. How does
  he expect me to fix it?}
@@ -204,7 +204,7 @@
 {2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
 {2810}{}{Let's go.}
 {2811}{}{Stay here. I'll be right back.}
-{2812}{}{Me go.}
+{2812}{}{Ng? đi.}
 {3100}{}{What? Uh... okay, Boss. If you say so.}
 {3101}{}{Can I put something else on, Boss? I'm a little worried.}
 {3102}{}{Okay... you're not going to leave me here... Are you, Boss?}

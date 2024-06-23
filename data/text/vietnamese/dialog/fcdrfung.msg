@@ -8,7 +8,7 @@
 {107}{}{Do you have any stimpaks? I'd like to buy some.}
 {108}{}{Ông là ai?}
 {109}{}{I have a friend who's missing a spleen. Can you help him?}
-{110}{}{What can you tell me about this place?}
+{110}{}{Ông có th? nói g? v? nơi này?}
 {111}{}{Chào.}
 {112}{}{Let me take a look at that. Hmm. Yes. I'll have to charge you, of course.}
 {113}{}{How much?}
@@ -75,12 +75,12 @@
 {189}{}{-more-}
 {190}{}{We rebuilt with what we could find, and we have scientists and technology the world must envy. We are rebuilding civilization, but not as that horrid Master creature did.}
 {191}{}{I see. I have more questions.}
-{192}{}{Thanks. Bye.}
+{192}{}{Cám ơn. T?m bi?t.}
 {193}{}{Of course I can. And since you are aware of Doc Holliday... I will do it for no more than the sake of friendship. Tell your spleenless friend to come here and I will replace it for him.}
 {194}{}{Thanks! I have more questions.}
 {195}{}{Thanks!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
-{197}{}{Yes.}
+{197}{}{Đúng v?y.}
 {198}{}{No.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}

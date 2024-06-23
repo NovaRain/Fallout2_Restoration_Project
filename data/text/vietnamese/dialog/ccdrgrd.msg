@@ -6,7 +6,7 @@
 {105}{}{Uh... me new here.}
 {106}{}{Me here clean.}
 {107}{}{Me not remember. Me go.}
-{108}{}{What is this place?}
+{108}{}{Đây là nơi nào?}
 {109}{}{Hi, I'm new here.}
 {110}{}{I'm here to clean the commander's office.}
 {111}{}{Never mind.}
@@ -16,7 +16,7 @@
 {115}{}{I have business with the commander.}
 {116}{}{All right.}
 {117}{}{What is the nature of your business, sir?}
-{118}{}{Uh...}
+{118}{}{?...}
 {119}{}{Shit. Me screw up...}
 {120}{}{Never mind. Me go.}
 {121}{}{Well...}

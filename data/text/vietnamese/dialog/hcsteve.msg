@@ -36,20 +36,20 @@
 {128}{}{We're a small mining community. We were founded several decades ago by our sheriff, Marcus, and
  a man named Jacob. The two of them chose this site because it was near some uranium deposits. Would
  you like to hear more?}
-{129}{}{Yes.}
+{129}{}{Đúng v?y.}
 {130}{}{No.}
 {131}{}{We're a collective of humans, mutants, and ghouls. We don't have the racial tensions that
  plague Vault City; in our eyes, everyone's equal.}
 {132}{}{You live next to mutants? Don't you know they're evil?}
 {133}{}{Equal?}
-{134}{}{Thanks. Bye.}
+{134}{}{Cám ơn. T?m bi?t.}
 {135}{}{Nominally, Sheriff Marcus is in charge of the city. He helped found it, and he helps us through
  our crises. In truth, though, everyone in the city has a voice.}
 {136}{}{That seems unworkable.}
 {137}{}{That sounds like a good way to run things.}
-{138}{}{Go on.}
+{138}{}{Ti?p t?c đi.}
 {139}{}{The guy who helped create the city's still in charge? That would make him very, very old.}
-{140}{}{Thanks. Bye.}
+{140}{}{Cám ơn. T?m bi?t.}
 {141}{}{Aside from the mutants all being DEAD and this town being DOOMED...}
 {142}{}{Aside from the mutants being dead and our only source of livelihood destroyed...}
 {143}{}{Aside from you being a hero for exposing the corruption in our midst...}
@@ -71,7 +71,7 @@
 {159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
  communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
  own power. More?}
-{160}{}{Yes.}
+{160}{}{Đúng v?y.}
 {161}{}{No.}
 {162}{}{Everyone's equal. We all came from humans; we all have the same core underneath the exterior.
  To say that someone's evil just because of their appearance indicates only ignorance.}
@@ -92,7 +92,7 @@
 {175}{}{So now we're eking out a living, creating our own version of civilization, and doing our best
  to avoid giving in to Vault City or NCR -- we don't need their style of government. That's all.}
 {176}{}{Great. I have more questions.}
-{177}{}{Thanks. Bye.}
+{177}{}{Cám ơn. T?m bi?t.}
 {178}{}{If you're going to persist in believing you can judge someone's mind by what you see on the
  outside, then yes. You are undeniably ignorant.}
 {179}{}{To hell with you, pal. YOU'RE the ignorant one.}
@@ -122,7 +122,7 @@
 {197}{}{Chào.}
 {198}{}{Marcus, are you sure you don't want to stick around and lead us for a while?}
 {199}{}{Marcus: Ain't no future in it. You'll do fine without me.}
-{200}{}{[MORE]}
+{200}{}{[THÊM]}
 {201}{}{Pal, you're not wanted here. You've done enough damage.}
 {202}{}{[XONG]}
 {300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the

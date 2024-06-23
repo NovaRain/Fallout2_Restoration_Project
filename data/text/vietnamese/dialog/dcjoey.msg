@@ -1,7 +1,7 @@
 {100}{}{You see a thug.}
 {101}{}{You see Joey.}
 {150}{}{This guy doesn't look too friendly.}
-{151}{}{[TALK]}
+{151}{}{[NÓI CHUY?N]}
 {152}{}{I'm gonna cut you up, fucker!}
 {153}{}{Yeah? Come on and try.}
 {154}{}{Hey, wait just one minute!}
@@ -37,7 +37,7 @@
 {182}{}{Then I guess I have to kill you.}
 {183}{}{Hey. How's it goin'?}
 {184}{}{OK, and you?}
-{185}{}{Not so good.}
+{185}{}{Không ?n l?m.}
 {186}{}{Did you take a locket from that haunted house?}
 {187}{}{What do you know about that ghost that comes around here at night?}
 {188}{}{Hey, man, I'm Joey. What're you doin' on my turf?}

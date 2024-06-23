@@ -1,6 +1,6 @@
-{100}{}{You see a merchant.}
-{101}{}{He seems to be assisting the man who is fixing the pump.}
-{102}{}{This is taking longer than we thought.}
-{103}{}{Check with the boss if you think you can help.}
-{104}{}{Great job with fixing the pump.}
-{105}{}{Thanks again for your help.}
+{100}{}{B?n th?y m?t thương gia.}
+{101}{}{Trông như ông ta đang tr? giúp ngư?i đàn ông s?a máy bơm.}
+{102}{}{Vi?c này lâu hơn chúng ta ngh?.}
+{103}{}{H?y nói v?i s?p n?u c?u ngh? m?nh giúp đư?c.}
+{104}{}{Làm t?t l?m.}
+{105}{}{Cám ơn đ? giúp.}
