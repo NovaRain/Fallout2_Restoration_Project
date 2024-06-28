@@ -36,6 +36,12 @@ variable msg;
     or (obj_pid(x) == PID_ROENTGEN_RUM) \
     or (obj_pid(x) == PID_ROT_GUT) )
 
+#define is_booze(x) \
+    (  (obj_pid(x) == PID_BOOZE) \
+    or (obj_pid(x) == PID_ABBEY_BOOZE) \
+    or (obj_pid(x) == PID_ROENTGEN_RUM) \
+    or (obj_pid(x) == PID_ROT_GUT) )
+
 /**
  * Displays message `x` from **game** message file `msg`
  * @arg {int} x - message number
@@ -79,6 +85,8 @@ procedure drink(variable who, variable item) begin
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_addict) then chance = chance * 2;
     // Drug resistant: half chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_resistant) then chance = chance * 0.5;
+    if is_booze(item) then chance = chance * 2;
+    display_msg("Final chance was"+chance);
     if (roll > chance) then return;
 
     display_mymsg(MSG_became_addicted);
