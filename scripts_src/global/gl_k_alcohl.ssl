@@ -55,14 +55,17 @@ variable msg;
  * @arg {ObjPtr} item - item being used
  */
 procedure drink(variable who, variable item) begin
-    variable roll, chance;
-    variable last_drink_date = get_sfall_global_int(SGVAR_last_drink_date);
-    set_sfall_global(SGVAR_last_drink_date, game_time);
+    variable roll, chance, last_drink_date;
 
-    // target is not dude
+    // target is not PC
     if (who != dude_obj) then return;
     // not alcohol
     if not is_alcohol(item) then return;
+
+    // PC is drinking
+    last_drink_date = get_sfall_global_int(SGVAR_last_drink_date);
+    set_sfall_global(SGVAR_last_drink_date, game_time);
+
     // already addicted
     if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then return;
 
