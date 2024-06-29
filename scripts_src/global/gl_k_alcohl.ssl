@@ -2,6 +2,7 @@
 #include "../headers/define.h"
 #include "../headers/scripts.h"
 #include "../headers/command.h"
+#include "../sfall/sfall.h"
 
 procedure start;
 
@@ -23,6 +24,7 @@ variable msg;
 #define MSG_relieved 4
 
 #define SGVAR_last_drink_date "k_alco_d"
+#define SGVAR_time_of_alcohol_addiction "k_alco_a"
 
 /**
  * True is `x` is an alcohol bottle, False otherwise.
@@ -68,30 +70,32 @@ procedure drink(variable who, variable item) begin
     // regular drinking increases chances
     if ((game_time - last_drink_date) >= SPORADIC_ALCOHOL_USAGE_TIME) then begin
         chance = 1;
-        display_msg("<test> last drink longer than a week ago. Your base chance of addiction is :"+chance);
+        display_msg("<test> last drink longer than a week ago. Your base chance of addiction is : "+chance);
     end
     else if ((game_time - last_drink_date) >= MEDIUM_ALCOHOL_USAGE_TIME) then begin
         chance = 5;
-        display_msg("<test> last drink longer than 3 days ago. Your base chance of addiction is :"+chance);
+        display_msg("<test> last drink longer than 3 days ago. Your base chance of addiction is : "+chance);
     end
     else begin
         chance = 10;
-        display_msg("test last drink less than 3 days ago. Your base chance of addiction is :"+chance);
+        display_msg("test last drink less than 3 days ago. Your base chance of addiction is : "+chance);
     end
     roll = random(1, 100);
-    display_msg("<test> the addiction roll was:"+roll);
+    display_msg("<test> the addiction roll was: "+roll);
 
     // Drug reliant: double chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_addict) then chance = chance * 2;
     // Drug resistant: half chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_resistant) then chance = chance * 0.5;
     if is_booze(item) then chance = chance * 2;
-    display_msg("Final chance was"+chance);
+    display_msg("<test> Final chance was: "+chance);
     if (roll > chance) then return;
 
     display_mymsg(MSG_became_addicted);
     set_critter_stat(dude_obj, STAT_ag, -1);
+    display_msg(string_format (message_str_game(GAME_MSG_ITEM, 2), 1, message_str_game(GAME_MSG_STAT, 105) ) ); // "You lost 1 Agility"
     set_critter_stat(dude_obj, STAT_ch, -1);
+    display_msg(string_format (message_str_game(GAME_MSG_ITEM, 2), 1, message_str_game(GAME_MSG_STAT, 103) ) ); // "You lost 1 Charisma"
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
     timer_shakes = game_time;
@@ -150,6 +154,8 @@ procedure start begin
         set_critter_stat(dude_obj, STAT_ag, 1);
         set_critter_stat(dude_obj, STAT_ch, 1);
         display_mymsg(MSG_relieved);
+        display_msg(string_format (message_str_game(GAME_MSG_ITEM, 1), 1, message_str_game(GAME_MSG_STAT, 105) ) ); // "You gained 1 Agility"
+        display_msg(string_format (message_str_game(GAME_MSG_ITEM, 1), 1, message_str_game(GAME_MSG_STAT, 103) ) ); // "You gained 1 Charisma"
         if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
         count = 0;                                    // resetting the counter for the next addiction cycle
     end
