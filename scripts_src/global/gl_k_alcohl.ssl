@@ -8,7 +8,6 @@ procedure start;
 
 variable count;
 variable timer_shakes;
-variable timer_relief;
 variable msg;
 
 #define SHAKES_TIME (2*ONE_GAME_DAY)
@@ -98,8 +97,8 @@ procedure drink(variable who, variable item) begin
     display_msg(string_format (message_str_game(GAME_MSG_ITEM, 2), 1, message_str_game(GAME_MSG_STAT, 103) ) ); // "You lost 1 Charisma"
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
+    set_sfall_global(SGVAR_time_of_alcohol_addiction, game_time);
     timer_shakes = game_time;
-    timer_relief = game_time;    
 end
 
 // Use from main game window (hands)
@@ -127,6 +126,8 @@ procedure start begin
         msg = add_extra_msg_file(MSG_FILE);
         register_hook_proc(HOOK_USEOBJON, use_obj_on_obj_handler);
         register_hook_proc(HOOK_USEOBJ, use_obj_handler);
+        variable time_of_addiction;
+        timer_shakes = get_sfall_global_int(SGVAR_time_of_alcohol_addiction);
         ndebug("initialized");
         return;
     end
@@ -135,6 +136,7 @@ procedure start begin
 
     // Below: has addiction
 
+    time_of_addiction = get_sfall_global_int(SGVAR_time_of_alcohol_addiction);
 
     // shakes
     if ((game_time - timer_shakes) >= SHAKES_TIME) then begin
@@ -149,7 +151,7 @@ procedure start begin
     end
 
     // relief
-    if ((game_time - timer_relief) >= DURATION_OF_ADDICTION) then begin
+    if ((game_time - time_of_addiction) >= DURATION_OF_ADDICTION) then begin
         set_global_var(GVAR_ALCOHOL_ADDICT, 0);
         set_critter_stat(dude_obj, STAT_ag, 1);
         set_critter_stat(dude_obj, STAT_ch, 1);
