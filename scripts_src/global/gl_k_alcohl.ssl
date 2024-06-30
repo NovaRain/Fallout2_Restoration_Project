@@ -79,9 +79,7 @@ procedure drink(variable who, variable item) begin
 
     display_mymsg(MSG_became_addicted);
     set_critter_stat(dude_obj, STAT_ag, -1);
-    display_msg(string_format (message_str_game(GAME_MSG_ITEM, 2), 1, message_str_game(GAME_MSG_STAT, 105) ) ); // "You lost 1 Agility"
     set_critter_stat(dude_obj, STAT_ch, -1);
-    display_msg(string_format (message_str_game(GAME_MSG_ITEM, 2), 1, message_str_game(GAME_MSG_STAT, 103) ) ); // "You lost 1 Charisma"
     if not is_iface_tag_active(INTERFACE_TAG_ADDICT) then show_iface_tag(INTERFACE_TAG_ADDICT);
     set_global_var(GVAR_ALCOHOL_ADDICT, 1);
     set_sfall_global(SGVAR_time_of_alcohol_addiction, game_time);
@@ -143,8 +141,6 @@ procedure start begin
         set_critter_stat(dude_obj, STAT_ag, 1);
         set_critter_stat(dude_obj, STAT_ch, 1);
         display_mymsg(MSG_relieved);
-        display_msg(string_format (message_str_game(GAME_MSG_ITEM, 1), 1, message_str_game(GAME_MSG_STAT, 105) ) ); // "You gained 1 Agility"
-        display_msg(string_format (message_str_game(GAME_MSG_ITEM, 1), 1, message_str_game(GAME_MSG_STAT, 103) ) ); // "You gained 1 Charisma"
         if not dude_trait(TRAIT_drug_addict) then hide_iface_tag(INTERFACE_TAG_ADDICT);
         count = 0;                                    // resetting the counter for the next addiction cycle
     end
