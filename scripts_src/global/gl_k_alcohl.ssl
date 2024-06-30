@@ -72,25 +72,20 @@ procedure drink(variable who, variable item) begin
     // regular drinking increases chances
     if ((game_time - last_drink_date) >= SPORADIC_ALCOHOL_USAGE_TIME) then begin
         chance = 1;
-//        display_msg("<test> last drink longer than a week ago. Your base chance of addiction is : "+chance);
     end
     else if ((game_time - last_drink_date) >= MEDIUM_ALCOHOL_USAGE_TIME) then begin
         chance = 5;
-//        display_msg("<test> last drink longer than 3 days ago. Your base chance of addiction is : "+chance);
     end
     else begin
         chance = 10;
-//        display_msg("<test> last drink less than 3 days ago. Your base chance of addiction is : "+chance);
     end
     roll = random(1, 100);
-//    display_msg("<test> the addiction roll was: "+roll);
 
     // Drug reliant: double chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_addict) then chance = chance * 2;
     // Drug resistant: half chance
     if has_trait(TRAIT_TRAIT, dude_obj, TRAIT_drug_resistant) then chance = chance * 0.5;
     if is_booze(item) then chance = chance * 2;
-//    display_msg("<test> Final chance was: "+chance);
     if (roll > chance) then return;
 
     display_mymsg(MSG_became_addicted);
