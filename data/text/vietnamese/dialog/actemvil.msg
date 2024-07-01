@@ -97,15 +97,15 @@ cánh c?a đ?y.}
 {307}{}{Anh h?c nhanh l?m, C?u tinh. Tôi ngh? là anh có th? t? m?nh chi?n đ?u đươc r?i. Tuy nhiên, h?y nh? là ngay c? nh?ng chi?n binh d?ng m?nh nh?t đôi khi c?ng c?n ph?i rút lui. Không vi?c g? ph?i x?u h? khi b?o toàn m?ng s?ng đ? ti?p t?c chi?n đ?u.}
 {308}{}{Ng? cám ơn, Cameron.}
 {309}{}{Cám ơn, Cameron. Tôi s? ghi nh? l?i anh.}
-{310}{}{Very well. Return to me if you change your mind.}
+{310}{}{Đư?c. Quay l?i đây n?u anh đ?i ?.}
 {311}{}{Ng? cám ơn, Cameron.}
-{312}{}{Thanks, Cameron. I will remember your offer.}
-{400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
-{401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
-{402}{}{No reason. I'll talk with you later, Cameron.}
-{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
-{410}{}{Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.}
-{411}{}{And may that day be a long time coming. Good day, Cameron.}
-{412}{}{Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?}
-{420}{}{There will always be a need to test the might of our people. And I take great honor in doing my part.}
-{421}{}{Alright, I'll see you later, Cameron.}
+{312}{}{Cám ơn, Cameron. Tôi s? nh? đ? ngh? c?a anh.}
+{400}{}{Anh có bao gi? ngh? v? vi?c r?i kh?i v? trí th? thách cu?i cùng c?a Ngôi đ?n không? ? tôi là vi?c này nguy hi?m ph?t.}
+{401}{}{Cu?c s?ng lúc nào c?ng đ?y r?y nguy hi?m, C?u tinh à. M?i sáng th?c d?y, m?i ngư?i chúng ta đ?u m?o hi?m bư?c ra kh?i nhà đ? chào ngày m?i b?t đ?nh. Sao anh l?i h?i v?y?}
+{402}{}{Không có g?. Nói chuy?n v?i anh sau, Cameron.}
+{403}{}{?, tôi ch? ngh? v? đi?u đ? x?y ra v?i ngư?i ti?n nhi?m c?a anh, trong tr?n đ?u v?i... ?, "K?-không-đư?c-g?i-tên".}
+{410}{}{À, đó đúng là m?t ngày đen t?i, khi b? t?c chúng ta m?t hai ngư?i t?t: m?t thân th? và m?t linh h?n. Nhưng s? vi?c t?i t? hôm đó không ?nh hư?ng đ?n tôi. Th?i kh?c c?a tôi s? đ?n khi các Th?n quy?t đ?nh như v?y.}
+{411}{}{Và c?u cho ngày đó c?n xa m?i đ?n. Chào nhé, Cameron.}
+{412}{}{B?n h? v?n c?n ti?p t?c cho nh?ng ngư?i khác th? vào Đ?n à? Ch?ng ph?i tôi chính là C?u tinh sao?}
+{420}{}{Luôn c?n ph?i th? thách s? d?ng m?nh c?a nh?ng ngư?i trong b? t?c. Và tôi luôn vinh d? th?c hi?n ph?n vi?c c?a m?nh.}
+{421}{}{Đư?c r?i, g?p l?i anh sau, Cameron.}

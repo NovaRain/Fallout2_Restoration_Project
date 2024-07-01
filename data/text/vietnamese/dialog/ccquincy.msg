@@ -6,7 +6,7 @@
 {104}{}{Me need ask you something.}
 {105}{}{Nothing.}
 {106}{}{Hi. I need to ask you something.}
-{107}{}{Never mind.}
+{107}{}{Không có g?.}
 {108}{}{All right, but make it quick. I have inventory to do.}
 {109}{}{What do you need to know?}
 {110}{}{What this place?}
