@@ -13,7 +13,7 @@
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
-{404}{}{I don't know anything about that.}
+{404}{}{Tôi không bi?t g? v? chuy?n đó.}
 {405}{}{Well, thanks anyway.}
 {406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
  the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
