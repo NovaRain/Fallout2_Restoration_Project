@@ -37,71 +37,70 @@ cô có th? l?y l?i cu?n sách th? tôi s? r?t bi?t ơn. Nói luôn là tôi s? 
 {418}{}{Tuy?t v?i! H?y đưa cho tôi!}
 {419}{}{Đây.}
 {420}{}{T? t? đ?. Cu?n sách này đáng giá bao nhiêu?}
-{421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
- have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
+{421}{}{[Ông ta nh?n cu?n sách t? tay b?n và vu?t ve b?a sách như th? đ? an ?i]. Cô đ? giúp chúng tôi r?t nhi?u. Gi?
+th? cô có đ?y đ? quy?n truy c?p vào máy tính trong thư vi?n. H?y nói v?i Huynh Paul là tôi c?p quy?n truy c?p cho cô.}
 {422}{}{Cám ơn.}
-{423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
-{424}{}{Thanks for the money, bye.}
-{425}{}{You should look on a second floor computer, now that you have full access there.}
+{423}{}{Cô mu?n l?y ti?n à? Đư?c r?i, c?m l?y 250$. Đ?n g?p Huynh Paul đ? l?y quy?n truy c?p máy tính.}
+{424}{}{Cám ơn v? ch? ti?n, t?m bi?t.}
+{425}{}{Cô nên dùng máy tính trên t?ng hai, gi? th? cô đ? có đ?y đ? quy?n truy c?p r?i.}
 {426}{}{Ok, t?m bi?t.}
-{430}{}{What is the purpose of your order?}
-{431}{}{What is the history behind the Abbey?}
-{432}{}{Hmm, I don't have any questions at the moment.}
-{433}{}{Our holy mission is to read, copy and take care of our sacred books of knowledge and other relics of the lost age.
- It is our hope that with this knowledge we are able to create a Memorabilia that might one day help humanity emerge from
- its self-imposed Dark Age. Any information that we come across is recorded, lest it be lost like so much was in the
- great Flame Deluge.}
-{434}{}{After the Great War, the guiding hands of fate directed our ancestors to this old Abbey in the mountains. Due to
- its remote location, the monastery survived the Flame Deluge mostly unscathed. As our ancestors explored the building,
- they discovered an extensive library of books. And not just religious texts, oh no, this library contained the gamut of
- written works, from literary classics, to scientific encyclopedias.}
-{435}{}{What happened then?}
-{436}{}{I've heard enough.}
-{437}{}{They soon realized the true treasure trove of wisdom stored within those books--especially the scientific tomes.
- Here were the chronicles of a fallen civilization. A lost age. There were a few who thought it might be best to
- destroy this knowledge, for fear that it would once again guide humanity towards apocalypse. But it was eventually
- decided that they would instead dedicate themselves to ensuring the preservation of the books, to be released when,
- and if, the world was ready for it.}
-{438}{}{(More)}
-{439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
- into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
- others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
-{440}{}{Thanks for the story.}
-{441}{}{Where did your ancestors come from?}
-{442}{}{They never told where they originally came from. We suspect that they came here originally from the east.}
-{443}{}{Well, thanks for the story.}
-{444}{}{Do you need any help here at the monastery?}
-{445}{}{I found out what's wrong with your water pump.}
-{446}{}{Do you know anything about the original founders?}
-{447}{}{I do not know all the names of our founders, but the most important one I am aware of is Miller.
- Before the Great War he was an electrical engineer working for the United States government. Shortly thereafter,
- he converted to Catholicism and made an oath with himself that we would spend the rest of his life preserving the
- knowledge of the past. His greatest fear was that this knowledge would be lost forever and thus needed to be preserved
- so that future generations may benefit.}
-{448}{}{You must be quite knowledgeable having read so much.}
-{449}{}{I have indeed read much in my life. Yet you might be disappointed at the limitations of my knowledge. You see,
- we record and preserve. We are forbidden to act upon the wisdom of these books, therefore our understanding of the text is quite limited.}
-{450}{}{Wait, you're telling me that you just blindly transcribe these books without even trying to comprehend them?}
-{451}{}{As I've said, it is our job to preserve this knowledge, not to understand it. Before this knowledge can be
- returned to mankind, he must first prove to have risen above his tendency of mass genocide. That's the only way to
- ensure that history does not repeat itself.}
-{452}{}{Well, I've got news for you: that day's never going to come. And while you're hoarding all this knowledge in your
- little mountain paradise here, people out in the wasteland are struggling every day to survive. In fact, my entire tribe
- is on the brink of destruction. The knowledge contained in these books could help cure diseases, improve crops, and greatly
- increase the chance of humanity's survival.}
-{453}{}{Ah, well I suppose you make a good point. But it just seems like the information stored here could help out a lot
- of people. Even if you don't think the world's ready for this knowledge, I don't see why *you* can't at least try to learn from it.
- Otherwise, what's the point of keeping it?}
-{454}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years... that would be blasphemous against our faith. No, I feel we must continue
- to live by the rules set by our ancestors.}
-{455}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years... that would be blasphemous against our faith. Still, I shall consider
- your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
-{456}{}{Thanks. I'd like to know something else though.}
-{457}{}{Very well. I'd like to know something else though.}
+{430}{}{H?i này có m?c đích g? v?y?}
+{431}{}{L?ch s? c?a Tu vi?n ra sao?}
+{432}{}{H?m, tôi hi?n không có câu h?i nào.}
+{433}{}{Nhi?m v? th?n thánh c?a chúng tôi là đ?c, sao chép và b?o qu?n nh?ng cu?n sách ki?n th?c thiêng liêng cùng
+nh?ng b?o v?t khác t? th?i đ? m?t. Chúng tôi hi v?ng là v?i ki?n th?c này, chúng tôi có th? t?o ra Khu k? v?t đ? m?t ngày
+nào đó giúp nhân lo?i thoát kh?i th?i k? Đen t?i do m?nh t? gây ra. T?t c? nh?ng thông tin chúng tôi t?m th?y đ?u đư?c
+ghi l?i đ? kh?i b? m?t như r?t nhi?u th? khác trong cơn Đ?i H?a.}
+{434}{}{Sau Đ?i chi?n, bàn tay d?n l?i c?a v?n m?nh đ? ch? đư?ng cho t? tiên chúng tôi đ?n v?i Tu vi?n c? trong núi này. Nh?
+v? trí bi?t l?p, tu vi?n đ? thoát kh?i cơn Đ?i H?a mà không b? hư h?i nhi?u. Trong lúc khám phá t?a nhà, t? tiên chúng tôi
+phát hi?n m?t thư vi?n đ?y sách. Và không ch? có sách tôn giáo, ?, thư vi?n này c?n ch?a đ?ng r?t nhi?u tác ph?m vi?t
+n?a, t? văn h?c c? đi?n đ?n bách khoa toàn thư khoa h?c.}
+{435}{}{Sau đó th? sao?}
+{436}{}{Tôi nghe đ? r?i.}
+{437}{}{H? nhanh chóng nh?n ra kho báu ki?n th?c th?t s? ch?a trong nh?ng cu?n sách này -- nh?t là nh?ng cu?n
+khoa h?c. Đây là biên niên s? v? m?t n?n văn minh đ? s?p đ?. M?t th?i đ? m?t. Có m?t s? ngư?i tin r?ng t?t nh?t
+nên h?y nh?ng ki?n th?c này, s? r?ng chúng s? m?t l?n n?a hư?ng nhân lo?i đ?n t?n th?. Nhưng cu?i cùng h?
+quy?t đ?nh r?ng thay vào đó, h? s? c?ng hi?n c? đ?i đ? b?o qu?n nh?ng cu?n sách, đ? đưa ki?n th?c tr? l?i khi và
+n?u, th? gi?i đ? s?n sàng đón nh?n.}
+{438}{}{(Thêm)}
+{439}{}{Và như v?y, s? d?ng m?t máy in nh?, h? b?t đ?u sao chép các cu?n sách c?ng như ghi chép l?i chúng vào
+máy tính c?a Tu vi?n đ? b?o qu?n d?ng s?, ph?ng khi sách b?n g?c b? hư h?i. Qua nhi?u năm dài, nh?ng ngư?i khác
+đ? đ?n Tu vi?n và m?t s? đ? ch?n ? l?i đ? s?ng đ?i t?nh l?ng trong ngôi nhà trên núi này.}
+{440}{}{Cám ơn v? câu chuy?n.}
+{441}{}{T? tiên c?a các ông đ?n t? đâu?}
+{442}{}{H? ch?ng nói g? v? ngu?n g?c ban đ?u c?. Chúng tôi ng? r?ng h? ban đ?u đ?n t? phía Đông.}
+{443}{}{?, cám ơn v? câu chuy?n.}
+{444}{}{Ông có c?n giúp g? ? tu vi?n không?}
+{445}{}{Tôi đ? t?m ra lí do máy bơm nư?c b? h?ng r?i.}
+{446}{}{Ông có bi?t g? v? nh?ng ngư?i sáng l?p ban đ?u không?}
+{447}{}{Tôi không bi?t t?t c? tên c?a nh?ng ngư?i sáng l?p, nhưng ngư?i quan tr?ng nh?t mà tôi bi?t là Miller.
+Trư?c Đ?i chi?n ông là m?t k? sư đi?n làm vi?c cho chính ph? Hoa K?. Không lâu sau đó, ông c?i sang đ?o Công giáo
+và l?p l?i th? r?ng s? dành c? cu?c đ?i đ? b?o t?n ki?n th?c trong quá kh?. Đi?u khi?n ông s? nh?t là ki?n th?c s? b?
+m?t đi m?i m?i và do đó, c?n đư?c b?o t?n đ? các th? h? tương lai đư?c hư?ng l?i.}
+{448}{}{Ông đ?c nhi?u th? ch?c ph?i bi?t nhi?u l?m.}
+{449}{}{Đúng là tôi đ? đ?c r?t nhi?u trong su?t cu?c đ?i. Nhưng có th? cô s? th?y th?t v?ng trư?c gi?i h?n ki?n th?c
+c?a tôi. Cô th?y đ?y, chúng tôi ghi chép và b?o t?n. Chúng tôi b? c?m s? d?ng tri th?c trong sách, do đó chúng tôi ch? hi?u m?t ph?n thôi.}
+{450}{}{Ch? đ?, ông đang nói là các ông ch? nh?m m?t chép l?i sách ch? không thèm t?m hi?u chúng có ngh?a g??}
+{451}{}{Như đ? nói, công vi?c c?a chúng tôi là b?o t?n ki?n th?c ch? không ph?i đ? hi?u. Trư?c khi nh?ng ki?n th?c
+này tr? l?i v?i nh?n lo?i, loài ngư?i đ?u tiên c?n ch?ng minh h? đ? vư?t lên trên cái thói di?t ch?ng hàng lo?t. Đó là
+cách duy nh?t đ? đ?m b?o r?ng l?ch s? s? không l?p l?i.}
+{452}{}{?, v?y th? tôi có tin t?c cho ông đây: ngày đó s? ch?ng bao gi? đ?n c?. Trong lúc các ông đang ôm m? ki?n th?c trong
+thiên đư?ng nh? trên núi này, nh?ng ngư?i khác ? hoang m?c đang v?t l?n h?ng ngày đ? sinh t?n. Th?c ra, c? t?c tôi đang
+trên b? v?c di?t vong. Nh?ng ki?n th?c có trong đ?ng sách này có th? giúp ch?a b?nh, c?i t?o cây tr?ng và nâng cao kh? năng
+s?ng sót c?a nhân lo?i đ?y.}
+{453}{}{Ah, ch?c là ông nói có đi?m đúng. Nhưng có v? nh?ng thông tin đư?c lưu tr? ? đây có th? giúp đ? r?t nhi?u ngư?i.
+Dù cho các ông có ngh? r?ng th? gi?i chưa s?n sàng đ? đón nh?n ki?n th?c, nhưng tôi không hi?u t?i sao *ông* chí ít
+không th? h?c h?i chúng. N?u không th? vi?c lưu gi? có ngh?a lí g??}
+{454}{}{Tôi hi?u là cô th?y khó ch?u v?i l? s?ng này, nhưng cô ph?i hi?u r?ng đây là cách mà chúng tôi luôn tuân theo.
+Gi? mà thay đ?i, sau bao nhiêu năm... đi?u đó s? trái ngư?c hoàn toàn v?i đ?c tin c?a chúng tôi. Không, tôi th?y là
+chúng tôi c?n ti?p t?c s?ng theo các gi?i lu?t do t? tiên đ?t ra.}
+{455}{}{Tôi hi?u là cô th?y khó ch?u v?i l? s?ng này, nhưng cô ph?i hi?u r?ng đây là cách mà chúng tôi luôn tuân theo.
+Gi? mà thay đ?i, sau bao nhiêu năm... đi?u đó s? trái ngư?c hoàn toàn v?i đ?c tin c?a chúng tôi. Tuy v?y, tôi s? suy
+ngh? v? l?i c?a cô. Tôi c?m nh?n đư?c trí tu? c?a cô, ngư?i l? khách. Th?t ti?c là tôi ch? g?p đư?c s? ít ngư?i như cô.}
+{456}{}{Cám ơn. Tôi mu?n h?i v? vi?c khác n?a.}
+{457}{}{Đư?c r?i. Tôi mu?n h?i v? vi?c khác n?a.}
 {500}{}{D?ng l?i!}
-{501}{}{You gain 200 experience points for bringing back the book.}
+{501}{}{B?n nh?n đư?c 200 đi?m kinh nghi?m v? đ? mang cu?n sách tr? l?i.}
 {600}{}{I fixed your broken waterpump.}
 {601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they
  could take care of it, but they didn't seem to be making much progress. It's a good thing you came along. Thank you again.}
