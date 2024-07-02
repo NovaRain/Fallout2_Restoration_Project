@@ -8,13 +8,9 @@
 {150}{}{Du erhältst }
 {151}{}{ Erfahrungspunkte, weil du das GECK gefunden hast.}
 {400}{}{Du kapierst nichts vom Text, aber die Bilder sind recht informativ.}
-{500}{}{Du bist süchtig nach Alkohol. Die Gier nach Alkohol wird dich bald vernichten.}
 {600}{}{In deinem Magen fühlt sich etwas nicht richtig an.}
 {601}{}{Du spürst einen starken Druck in deinem Magen.}
 {700}{}{Du fügst die zerrissenen Papierstücke zusammen, um eine Liste mit drei Passwörtern zu erhalten.}
-{800}{}{Das Verlangen wird immer schlimmer.}
-{801}{}{You've got the shakes. You have this intense urge to drink something with alcohol in it.}
-{802}{}{You feel as if a great burden has been lifted from your mind. No longer do you crave the need to drink alcohol.}
 {900}{}{In deinem Magen fühlt sich etwas nicht richtig an.}
 {901}{}{Du spürst einen starken Druck in deinem Magen.}
 {1000}{}{Du kannst nicht klar denken. Du fühlst das brennende Verlangen, noch eine Schachtel Tragic Karten zu öffnen.}
