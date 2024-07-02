@@ -28,7 +28,7 @@
 {262}{}{Sure what's that?}
 {263}{}{Maybe later.}
 {270}{}{Let me know if you change your mind.}
-{271}{}{All right.}
+{271}{}{Đư?c r?i.}
 {280}{}{Well, there's a church east of here. Metzger has some people guarding whatever
  is inside. Find out what and I'll pay you $200.}
 {281}{}{That was easy. I already know.}
@@ -66,7 +66,7 @@
 {390}{}{So did you find out what's in there?}
 {391}{}{Raw chemical compounds in large crates.}
 {392}{}{Big containers holding chemicals of some kind.}
-{393}{}{Not yet.}
+{393}{}{Chưa.}
 {400}{}{So did you talk to him yet? What did he say?}
 {401}{}{He said yes. If you win, you can have their job, like before.}
 {402}{}{Na.}
@@ -110,7 +110,7 @@
 {511}{}{Well, have you changed your mind?}
 {512}{}{Let's go. I'm ready.}
 {513}{}{Okay, I'll be right back.}
-{514}{}{No.}
+{514}{}{Không.}
 {515}{}{Uk}
 {520}{}{Because of you we blew our chance.}
 {521}{}{Coward!}
@@ -119,7 +119,7 @@
 {524}{}{Sorry, you're not reliable.}
 {525}{}{I can't trust you.}
 {530}{}{We did it!}
-{531}{}{Thank you for your help.}
+{531}{}{Cám ơn đ? giúp.}
 {532}{}{Special thanks to you!}
 {533}{}{I've finally paid Tyler back for what he did to my brother.}
 {534}{}{Thank you again.}

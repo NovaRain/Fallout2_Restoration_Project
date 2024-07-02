@@ -113,7 +113,7 @@
 {288}{}{Submarine?}
 {290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
  I enjoyed the company of a charming woman like yourself.}
-{291}{}{[CONTINUE]}
+{291}{}{[TI?P T?C]}
 {300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
 {301}{}{hhh... What happened?}
 {310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.
@@ -155,9 +155,9 @@
 {452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
 {453}{}{No deal.}
 {460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
-{461}{}{Thank you. Goodbye.}
+{461}{}{Cám ơn. T?m bi?t.}
 {470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
-{471}{}{Thank you. Goodbye.}
+{471}{}{Cám ơn. T?m bi?t.}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}
 {482}{}{No deal.}

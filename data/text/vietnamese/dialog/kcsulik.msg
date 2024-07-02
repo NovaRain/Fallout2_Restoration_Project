@@ -38,7 +38,7 @@
 {143}{}{Ok... Can I ask you something else?}
 {150}{slk6b}{That be funny, fren. At least, Grampy Bone think so. He say you got wit. Say
  you going to need it.}
-{151}{}{Why?}
+{151}{}{T?i sao?}
 {152}{}{Who's Grampy Bone?}
 {153}{}{Can I ask you something else?}
 {160}{slk6c}{Him got feeling about you. Grampy Bone one smart spirit.}
@@ -60,7 +60,7 @@
 {222}{}{Đ? tôi h?i chuy?n khác.}
 {223}{}{I guess that's all I need to know for now. Goodbye.}
 {230}{slk8}{We and I thank you. Name's Sulik. How can we repay?}
-{231}{}{Uh.}
+{231}{}{?.}
 {232}{}{Bye bye.}
 {233}{}{Who's "we?"}
 {234}{}{I was happy to help, Sulik. Tell me about yourself.}
@@ -102,7 +102,7 @@
 {321}{slk26b}{The spirits are sometimes hard to understand. They see things you and we can't.}
 {322}{slk26c}{Spirits be willing to talk. What you want?}
 {323}{}{Uh?}
-{324}{}{Nuh.}
+{324}{}{N?.}
 {325}{}{Nuh-uh.}
 {326}{}{What do they tell you about this place?}
 {327}{}{What do they tell you about our chances?}
@@ -218,7 +218,7 @@
 {747}{slk41c}{What's ours is yours, fren.}
 {750}{slk42}{We and I thank you. You try to do a good thing, just don't have the bread. Maybe you
  can raise some?}
-{751}{}{Uh.}
+{751}{}{?.}
 {752}{}{Sorry, I must have miscounted. Goodbye.}
 {753}{}{I thought I had enough. Sorry. Let me ask you something.}
 {754}{slk43a}{Yeah. We be giving this to Maida. Then we be free. Want us to walk by-and-by?}
@@ -261,7 +261,7 @@
 {790}{slk52a}{You're bad news walking. Grampy Bone say we be stacking up the bad karma just being
  near you.}
 {791}{slk52b}{We're there. Grampy Bone say we might find sis with you.}
-{792}{}{Uh.}
+{792}{}{?.}
 {793}{}{I hope so. In any case it will be nice to travel with you, and, uh, your Grandfather's
  bone.}
 {794}{slk53}{Not just Grampy Bone, all tribe's spirits. Grampy Bone just wiser and stronger than
@@ -346,7 +346,7 @@
 {892}{}{I want you to use your best weapon.}
 {893}{}{I want you to use your best armor.}
 {894}{}{I want you to change your aggressiveness.}
-{895}{}{Never mind.}
+{895}{}{Không có g?.}
 {900}{slk67}{What distance you need us at?}
 {901}{}{I want you to stay at only a Short distance.}
 {902}{}{I want you to stay at Medium distance.}
@@ -447,7 +447,7 @@
 {3007}{}{To the Northeast.}
 {3008}{}{We don't know anything about that.}
 {3009}{}{Đúng v?y.}
-{3010}{}{No.}
+{3010}{}{Không.}
 {3011}{}{What do you expect from us?}
 {3012}{}{That not be nice.}
 {3013}{}{Thank-you.}

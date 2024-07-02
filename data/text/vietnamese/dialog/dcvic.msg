@@ -174,13 +174,13 @@
 {2310}{}{He should be around here somewhere.}
 {2311}{}{Vault City. Check that fancy map thing of yours.}
 {2403}{}{Where did you get the Vault 13 water flask?}
-{2404}{}{Never mind.}
+{2404}{}{Không có g?.}
 {2500}{}{Sure, Boss.}
 {2501}{}{Ask anything, Boss.}
 {2502}{}{I'll help you if I can, Boss.}
 {2503}{}{I'm not in trouble am I, Boss?}
 {2504}{}{Did I do something wrong, Boss?}
-{2505}{}{Of course.}
+{2505}{}{D? nhiên r?i.}
 {2600}{}{What'll we do now, Boss?}
 {2601}{}{What's the plan, Boss?}
 {2602}{}{Doing my best, Boss.}

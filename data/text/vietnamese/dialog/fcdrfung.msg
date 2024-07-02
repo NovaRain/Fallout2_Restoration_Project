@@ -55,7 +55,7 @@
 {169}{}{We're done. Now, you go and be careful!}
 {170}{}{Tanks!}
 {171}{}{You need more?}
-{172}{}{I need healing.}
+{172}{}{Tôi c?n tr? thương.}
 {173}{}{I have a friend who needs healing.}
 {174}{}{Ông là ai?}
 {175}{}{Tell me about this place.}
@@ -81,7 +81,7 @@
 {195}{}{Thanks!}
 {196}{}{Yes. I can do this. It will cost you $1000 dollars to do it. Up front. Do you accept?}
 {197}{}{Đúng v?y.}
-{198}{}{No.}
+{198}{}{Không.}
 {199}{}{Tell your friend to come here and I will replace it for him.}
 {200}{}{Thanks. I have more questions.}
 {201}{}{Cám ơn.}

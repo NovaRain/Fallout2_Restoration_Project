@@ -4,7 +4,7 @@
 {103}{}{My name's Zeke, stranger. I'm sorry, but I don't have time to talk to you -- and I don't think
  there's anything in this town for you, anyway. You should move on.}
 {104}{}{Uh, okay.}
-{105}{}{Me got questions.}
+{105}{}{Ng? mu?n h?i.}
 {106}{}{All right, I'll leave.}
 {107}{}{I just wanted to ask a couple of questions.}
 {108}{}{Well, I think you'll find that we're all out of answers here. Why don't you come back when we
@@ -15,7 +15,7 @@
 {111}{}{Done.}
 {112}{}{Rebecca has told me what you did for her. I want to apologize for the treatment you received
  here. You certainly didn't deserve it. What can I help you with?}
-{113}{}{Me got questions.}
+{113}{}{Ng? mu?n h?i.}
 {114}{}{Nothing. Wavy.}
 {115}{}{I've got some questions for you.}
 {116}{}{Nothing for now, thanks.}
@@ -33,7 +33,7 @@
 {128}{}{Yes, I do. I act as the middle man between him and the people up here. I'm not very happy about
  the fact, now that I know what he's up to.}
 {129}{}{Okay.}
-{130}{}{I see.}
+{130}{}{Hi?u r?i.}
 {131}{}{Nothing. They have the guns, they control the water, and they control the food. That means
  they are in charge. Period. We have no skills and no means of support without the backing of Darion.
  How can we turn against him? We're at his mercy.}

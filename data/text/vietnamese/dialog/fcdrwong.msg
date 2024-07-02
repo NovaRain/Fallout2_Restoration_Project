@@ -61,7 +61,7 @@
 {160}{}{You have certain schematics to give to me?}
 {161}{}{Ken Lee told me to give these to you.}
 {162}{}{Yes. Now what do I get?}
-{163}{}{No, not yet.}
+{163}{}{Chưa.}
 {164}{}{Speak to Ken Lee, and he shall discuss what happens in your future. Thank you. We shall be able to verify some of our test data with these. Good day.}
 {165}{}{I actually had other questions.}
 {166}{}{So long.}
@@ -160,7 +160,7 @@
 {530}{}{[Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.}
 {531}{}{I agree. He's quite the madman.}
 {540}{}{*clutches heart* Wahh.}
-{541}{}{Urgh.}
+{541}{}{Ch?c.}
 {542}{}{Dr. Wong!}
 {600}{}{You eliminate Dr. Sheng for the Shi.}
 {601}{}{You deliver the plant sample to Dr. Wong.}

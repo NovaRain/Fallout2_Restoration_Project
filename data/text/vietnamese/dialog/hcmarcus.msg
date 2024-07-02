@@ -13,11 +13,11 @@
 {112}{}{You wanna travel with me?}
 {113}{}{Chào.}
 {114}{mcs3}{Yeah, I'm a ugly mutant. I also run this place. You got a problem with that?}
-{115}{}{Uh!}
-{116}{}{Nuh.}
+{115}{}{?!}
+{116}{}{N?.}
 {117}{mcs4}{You wanna fight me?}
-{118}{}{Uh!}
-{119}{}{Nuh.}
+{118}{}{?!}
+{119}{}{N?.}
 {120}{mcs5}{Take your best shot, human.}
 {121}{mcs6a}{Good.}
 {122}{mcs6b}{Keep your nose clean and you won't get into trouble.}
@@ -37,7 +37,7 @@
 {136}{mcs10}{Right... After the Master and the vats were destroyed, I wandered a bit. No place to go. One day got attacked by this fool wearin' power armor.}
 {137}{}{Really?}
 {138}{mcs11}{That was Jacob, from the Brotherhood of Steel. He'd sworn some oath to destroy muties. We tussled for a while -- probably a day or two. After a while, we just started laughing. What was the point?}
-{139}{}{Then what?}
+{139}{}{Sau đó th? sao?}
 {140}{mcs12}{We became friends. Headed off together. Then other people started following us. Guess they figured if they weren't safe with a mutie and a Steel Knight, safe just wasn't going to happen. }
 {141}{}{So you set up here. Why?}
 {142}{mcs13}{Uranium mine. I knew there was one around from old maps. Now anybody's welcome here -- 'long as they act right. Others might not think much of us, but nobody's more free than we are. There ya go.}
@@ -200,10 +200,10 @@
 {299}{mcs111c}{You got anything to help?}
 {300}{mcs111d}{Maybe you should have a look at this.}
 {301}{}{Use your skills to heal yourself.}
-{302}{}{Never mind.}
+{302}{}{Không có g?.}
 {303}{}{OK}
 {304}{mcs160}{I'll just stay here and tighten the vises on my shoulder.}
-{305}{}{Never mind.}
+{305}{}{Không có g?.}
 {306}{}{OK}
 {307}{}{North.}
 {308}{}{Northwest.}
@@ -251,7 +251,7 @@
  what did you mean?}
 {350}{mcs113}{Didn't your folks explain this to you?}
 {351}{}{No, I mean, I thought all you mutants were sterile.}
-{352}{}{Never mind.}
+{352}{}{Không có g?.}
 {353}{mcs114}{What? Where the hell did you hear that?}
 {354}{}{So... you AREN'T sterile?}
 {355}{}{Nevermind.}

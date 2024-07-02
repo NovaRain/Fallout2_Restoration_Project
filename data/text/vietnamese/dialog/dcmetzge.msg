@@ -95,7 +95,7 @@
 {325}{}{Get a move on it then.}
 {326}{}{Good. See me when you're done.}
 {327}{}{Okay.}
-{328}{}{Uh.}
+{328}{}{?.}
 {340}{}{Just kill all the hostile ones. If they attack you, kill them. I don't
  want to deal with them anymore, too big of a fucking hassle. Once you're done,
  the other slavers will round up and tag the rest.}
@@ -104,7 +104,7 @@
 {350}{}{Once they start tagging the slaves, you can head back if you like. It takes
  special training, so don't try to subdue the others yourself. You can do whatever
  you want just as long as you don't damage the goods.}
-{351}{}{All right.}
+{351}{}{Đư?c r?i.}
 {352}{}{Uh huh.}
 {360}{}{Ah, yeah. She's pretty nice. I'll give you $}
 {361}{}{He's okay. I could probably take him off your hands for, oh, say $}
@@ -120,7 +120,7 @@
 {369}{}{Fine.}
 {370}{}{Okay.}
 {371}{}{Not worth it.}
-{372}{}{No.}
+{372}{}{Không.}
 {380}{}{All right, boys, put him in the pens.}
 {381}{}{All right, boys, put her in the pens.}
 {382}{}{Right, boss.}
@@ -181,7 +181,7 @@
 {510}{}{Okay, he's yours, but get his ass out of here before I change my mind
  and put a bullet in that stupid fucking head of his.}
 {511}{}{Can I ask you some more questions first?}
-{512}{}{Thank you.}
+{512}{}{Cám ơn.}
 {520}{}{Oh, yes. We can work everything out nice and smooth... I'll give you
  half off if you make it worth my while...}
 {521}{}{You had best stop teasing me, girly. I'm not much with patience.}

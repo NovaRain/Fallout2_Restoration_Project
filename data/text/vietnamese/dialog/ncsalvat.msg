@@ -62,7 +62,7 @@
 {339}{}{It could be a rough assignment: Can I have one of those laser weapons your family uses?}
 {340}{}{Uh, I don't do contract hits. I'll be leaving now.}
 {350}{}{Mason will have... the details. (Nods at exit.) Go now.}
-{351}{}{All right.}
+{351}{}{Đư?c r?i.}
 {352}{}{Thank you, Mr. Salvatore. I will go ask Mason.}
 {360}{}{Then you are of... no use to me. Leave now.}
 {361}{}{Uh, waitaminute... I changed my mind. I'll do it.}
@@ -76,7 +76,7 @@
 {385}{}{(Salvatore looks up at you, takes a breath from the mask.) Have... you disposed of the thief?}
 {386}{}{Naw... Lloyd left town with the money.}
 {387}{}{Yep. The vultures are probably shitting pieces of him out right now.}
-{388}{}{Not yet.}
+{388}{}{Chưa.}
 {389}{}{No, Mr. Salvatore. Lloyd left town with the money.}
 {390}{}{Yes. I made an example of him, Mr. Salvatore.}
 {391}{}{Not yet, Mr. Salvatore.}
@@ -170,7 +170,7 @@
 {621}{}{How about...}
 {630}{}{(Nods) That is a... good name. Now go speak to Mason. He will have...
 something for you.}
-{640}{}{Greetings, }
+{640}{}{Xin chào,}
 {645}{}{I have no further need of your services, }
 {650}{}{...}
 {651}{}{...hurkkk...}

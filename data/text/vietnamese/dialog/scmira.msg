@@ -17,10 +17,10 @@
 {116}{}{What ya did to Lenny - it was wicked!}
 {117}{}{Oh my, a stunning conversationalist. What'll ya take - a Rad-A-Waster? Only ten bucks.}
 {118}{}{Đúng v?y.}
-{119}{}{No.}
+{119}{}{Không.}
 {120}{}{You gonna buy a drink? $10.}
 {121}{}{Đúng v?y.}
-{122}{}{No.}
+{122}{}{Không.}
 {123}{}{One Rad-A-Waster coming up! $10.}
 {124}{}{Okay.}
 {125}{}{Ten bucks? Too much for me.}
@@ -73,10 +73,10 @@
 {172}{}{Well, thanks. I'll remember that.}
 {173}{}{Hmm -- work? Want job? Help Mira?}
 {174}{}{Đúng v?y.}
-{175}{}{No.}
+{175}{}{Không.}
 {176}{}{Listen -bad man hurt Mira. Bad man name Jack. Hurt bad man. Mira like ya, give ya nice gun. Good?}
 {177}{}{Đúng v?y.}
-{178}{}{No.}
+{178}{}{Không.}
 {179}{}{Good! Mira have rope over wall. Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun.}
 {180}{}{Go night. Find rope. Sneak in. Go big place by gate. Find Jack. Hurt Jack. Mira give ya gun. Now go away. Me be seen with ya - not good. Help Mira and come back. Understand?}
 {181}{}{Mira hear Jack got hurt. Good work, Dumbo. Here gun, ya take. Thanks.}
@@ -93,7 +93,7 @@
 {192}{}{Not much now. I killed him.}
 {193}{}{You're kidding? That's the best news I've had all day! I hope his brains made nice wallpaper. Damn psycho deserved it. Have a Rad-a-Waster on me.}
 {194}{}{Me like.}
-{195}{}{Me go now.}
+{195}{}{Ng? đi gi?.}
 {196}{}{Thanks - I guess. Say, got time for a question?}
 {197}{}{Thanks. Just figured you ought to know.}
 {198}{}{You did what? Oh, if I wasn't on duty, I'd climb over this bar and... well, kiss you. The little prick deserved it. In fact, don't tell anyone but I was hoping to get some stupid ox to do the job for me. Had a little reward all set aside. It's yours now - as far as I'm concerned you earned it.}

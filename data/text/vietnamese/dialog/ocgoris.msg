@@ -50,7 +50,7 @@
 {139}{}{No, I can leave any time I like. I haven't done so because I don't want to travel alone. I'm
  pretty tough and can take care of myself, but I would still be one person alone in the desert if
  anything happened.}
-{140}{}{I see.}
+{140}{}{Hi?u r?i.}
 {141}{}{Ah, too much of a wimp to make it on your own. I got it.}
 {142}{}{I don't like traveling alone either, so I can't blame you.}
 {143}{}{Uh... a few months actually. I came here from the coast a while back.}
@@ -94,7 +94,7 @@
 {164}{}{No, only what I've told you. Wait, there is one other thing. The Enclave showed an interest in some ruins to the west of here. Why, I don't know. That's about it.}
 {165}{}{Well, every little bit of information helps, and I thank you for it.}
 {166}{}{This happens to be a very important subject to me and you've let me down!}
-{167}{}{I see.}
+{167}{}{Hi?u r?i.}
 {168}{}{I think it's called the FEV virus. The Enclave is, or was, doing extensive research on it. I'm
  sorry, but I don't know anything more.}
 {169}{}{That's okay; on to other things.}
@@ -119,7 +119,7 @@
 {185}{}{Yeah, you know, well traveled... knowledgeable... experienced... You don't have a clue what I'm
  talking about, do you? }
 {186}{}{Food seasoned, not me.}
-{187}{}{Me go now.}
+{187}{}{Ng? đi gi?.}
 {188}{}{Uh huh. Well, your IQ may be smaller than your shoe size, but you obviously have something
  going for you to have survived in the world this long... Ok, let's try this. Me want leave this place.
  Me want travel with you. Ok?}

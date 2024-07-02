@@ -9,7 +9,7 @@
 {108}{}{Chào.}
 {109}{}{Yes, I do talk. Better than some people, it seems. I'd smile at you right now, but I just don't have a mouth. [it laughs] Say, could you do me a big favor?}
 {110}{}{'Es.}
-{111}{}{Nuh.}
+{111}{}{N?.}
 {112}{}{I'm looking for a better place to be. Right here is nice and all, but frankly, these plants aren't much for conversation. I was thinking over there, by the building with all the ghouls in it... Would you replant me?}
 {113}{}{'Es!}
 {114}{}{Nuh!}
@@ -61,7 +61,7 @@
 {156}{}{-done-}
 {157}{}{That's a pity, that's a pity indeed. I do hope you'll change your mind at some point. Perhaps the pollen of your
  indecision will blow my way again. Good day.}
-{158}{}{Uh.}
+{158}{}{?.}
 {159}{}{Good day indeed.}
 {160}{}{Oooh... the soil here feels so... different. Cleaner, somehow. Probably because I don't have to share it with
  those other plants. Ahhh. Oh! Yes! If you ever run across the Professor and his scorpion, remember this chess

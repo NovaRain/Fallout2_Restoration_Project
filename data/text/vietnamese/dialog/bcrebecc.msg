@@ -43,7 +43,7 @@
 {133}{}{Need think before decide.}
 {134}{}{Ok, me seem be hero type lately.}
 {135}{}{Sorry, not interested.}
-{136}{}{I need to think about this.}
+{136}{}{Con c?n ngh? v? vi?c đó.}
 {137}{}{All right, Rebecca. I'll try to help you.}
 {138}{}{If I help you, what's in it for me?}
 {139}{}{Mu?n bi?t g? nào?}
@@ -65,13 +65,13 @@
  ancestral home, and they want it back.}
 {153}{}{Okay.}
 {154}{}{What here they want?}
-{155}{}{I see.}
+{155}{}{Hi?u r?i.}
 {156}{}{What is here that they want so badly?}
 {157}{}{Well... there is a vault here; I think it's number 15. They want to loot it for any of the old
  technology that may still be there.}
 {158}{}{Ah. Me understand.}
 {159}{}{I knew there had to be something here other than the waste-of-flesh inhabitants.}
-{160}{}{Got it.}
+{160}{}{Hi?u r?i.}
 {161}{}{That explains a lot. You've been very helpful. I need to ask some more questions, though.}
 {162}{}{That would be Zeke. He runs everything up here. You can find him in the building over there.
  ::points north-east::}
@@ -91,7 +91,7 @@
  anything to say, he says it through Zeke. I've only met him once, and he seemed like a nice guy.}
 {172}{}{Okay.}
 {173}{}{Nice guys finish last. I wonder what he's up to?}
-{174}{}{I see.}
+{174}{}{Hi?u r?i.}
 {175}{}{That's okay. You are very helpful.}
 {176}{}{I have nothing to give you other than my undying gratitude.}
 {177}{}{That's more than enough. I'll help you.}
@@ -129,7 +129,7 @@
  think, we've been helping him hide his operations as a raider. I can guarantee you we won't stand for
  it any longer. I'll talk to Zeke and explain everything. I'm sure he'll want to see you. You should go
  talk to him later.}
-{202}{}{Thank you.}
+{202}{}{Cám ơn.}
 {203}{}{I hope you find Chrissy soon.}
 {204}{}{Me looking.}
 {205}{}{I'll continue to search for her.}

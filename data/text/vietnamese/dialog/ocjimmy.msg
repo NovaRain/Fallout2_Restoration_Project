@@ -50,7 +50,7 @@
 {149}{}{Uh... what you said.}
 {150}{}{À, tôi hi?u r?i.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
-{152}{}{Why?}
+{152}{}{T?i sao?}
 {153}{}{Okay, me ask more.}
 {154}{}{Why? I mean, isn't that unusual?}
 {155}{}{I see. Let's change the subject.}
@@ -67,7 +67,7 @@
 {166}{}{You think they threat to people?}
 {167}{}{Do you think they are a threat to human society?}
 {168}{}{Oh, absolutely. They are far superior to us physically and they are our equals mentally. That makes them a pretty big threat. However, it all comes down to morals and ethics in the end. Fortunately, they seem to be ethical and morally well developed.}
-{169}{}{Me see.}
+{169}{}{Ng? th?y.}
 {170}{}{Yeah, I see what you mean.}
 {171}{}{Hi there. It's good to see you again. What can I help you with?}
 {172}{}{Need ask question.}

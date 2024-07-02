@@ -28,7 +28,7 @@
 {172}{}{Mess-aj.}
 {173}{}{Farm?}
 {174}{}{Bad things all gone!}
-{175}{}{I go.}
+{175}{}{Tôi đi.}
 {176}{}{I'll be back when I have more to report.}
 {179}{}{There's a drunkard in the Den who matches Karl's description. Says he used to be a farmer too.}
 {180}{}{Those bodies are fake. Just dummies covered in Brahmin guts. They were there to scare you away from the crops.}
@@ -134,7 +134,7 @@
 {262}{}{Well, spit it out. I can't help you if you don't tell me what you're looking for, and I sure
  ain't going to stand here and try to guess what you're looking for.}
 {263}{}{I am looking for the holy GECK.}
-{264}{}{Never mind.}
+{264}{}{Không có g?.}
 {265}{}{Since I rely heavily on the products of the people of Modoc, I don't have much to trade for. You
  know, with the drought and all. You still interested?}
 {266}{}{Let's do some business.}

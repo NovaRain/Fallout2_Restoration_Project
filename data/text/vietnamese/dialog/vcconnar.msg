@@ -7,7 +7,7 @@
 {106}{}{Why you Yell!}
 {107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
 {108}{}{Well, it's a little late for that.}
-{109}{}{Why?}
+{109}{}{T?i sao?}
 {110}{}{Sorry, I have a job to do.}
 {111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
 {112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
@@ -57,7 +57,7 @@
 {152}{}{Of course. Here, this is all we can afford. [He hands you $5,000.] I might be a damn fool for trusting it to a
  stranger, but you're the only hope we've got of staying free. Speak to Old Joe in Vault City's courtyard. He's usually
  in or around the bar. He'll know what to do.}
-{153}{}{I'm on my way.}
+{153}{}{Con đi đây.}
 {154}{}{Can I ask you a few questions?}
 {155}{}{Certainly, what's on your mind?}
 {156}{}{Where did these mole rats come from, and why aren't they aggressive?}

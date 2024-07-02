@@ -86,7 +86,7 @@
 {160}{}{All right, let's get it over with.}
 {161}{}{Hello again. Have you changed your mind? Will you help me?}
 {162}{}{Đúng v?y.}
-{163}{}{No.}
+{163}{}{Không.}
 {164}{}{Hello again. Have you changed your mind? Will you help me?}
 {165}{}{Đúng v?y.}
 {166}{}{No. Me still think about it.}
@@ -95,9 +95,9 @@
 {169}{}{I don't want to help you.}
 {170}{}{Hello again. Have you found the key to the door?}
 {171}{}{Yes, me open for you.}
-{172}{}{Me still look.}
+{172}{}{Ng? v?n t?m.}
 {173}{}{Yeah, I've got it. I'll open the door for you.}
-{174}{}{I'm still looking.}
+{174}{}{Tôi v?n đang t?m.}
 {175}{}{Thank you. I will not forget this.}
 {176}{}{You welcome.}
 {177}{}{You are welcome.}

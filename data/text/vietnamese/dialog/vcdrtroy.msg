@@ -50,7 +50,7 @@
 {144}{}{No, I'm not.}
 {145}{}{A pleasure to meet you, }
 {146}{}{. If you are ever in need of my services, you can find me here.}
-{147}{}{Thanks. Goodbye.}
+{147}{}{Cám ơn. T?m bi?t.}
 {148}{}{You're not a Vault City native, though, am I right? I'm certain I would remember someone like
  you. Where are you from?}
 {149}{}{Hold on a moment... you're an Outsider, correct? Where are you from?}
@@ -235,7 +235,7 @@
 {295}{}{Nothing today. Good day, Doctor.}
 {296}{}{Certainly. I'm sorry... it's been some time since I actually had to administer them. Most
  Citizens received theirs many, many years ago. Let me prep the Auto-Doc for the procedure...}
-{297}{}{All right.}
+{297}{}{Đư?c r?i.}
 {298}{}{All finished. A word of caution: This vaccination doesn't make you immune to poison and
  radiation, but it does bolster your natural resistance.}
 {299}{}{Much appreciated. Say, I had some other questions I wanted to ask you...}

@@ -34,7 +34,7 @@
 {133}{}{Probably not enough to interest you. I'll be back when I have some more.}
 {134}{}{Never mind. Maybe we'll talk later.}
 {135}{}{Well, there's a few things you can do. One is become a Citizen. They never search Citizens. Of course, your chances of becoming a Citizen are next to nothing.}
-{136}{}{Why?}
+{136}{}{T?i sao?}
 {137}{}{What else could I do?}
 {138}{}{Nevermind. Maybe we'll talk some other time.}
 {139}{}{If you're not born a Citizen, then you have to take a test to become a Citizen. Number of Outsiders that have taken the test and become Citizens? Zero. Your chances? LESS than zero.}
@@ -75,7 +75,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {170}{}{Never mind. Maybe we'll talk some other time.}
 {171}{}{Hmmm. Well, all right... I'm feeling charitable today. But don't tell any of your other Outsider
  friends you got them so cheap.}
-{172}{}{All right.}
+{172}{}{Đư?c r?i.}
 {173}{}{Just give me the damn papers.}
 {174}{}{All right, they're all done printing. Here you are..."Citizen." And don't tell anyone about this,
  ESPECIALLY Wallace, all right?}
@@ -109,7 +109,7 @@ They don't seem to catch on that anyone would let Servants carry anything import
 {198}{}{I'd like to buy those fake Citizenship papers you were offering before.}
 {199}{}{I've decided to turn you in for selling fake Citizenship papers.}
 {200}{}{Since you're a part of customs and all, I was wondering if you had any 'advice' on how to bring certain items within the city.}
-{201}{}{Never mind.}
+{201}{}{Không có g?.}
 {202}{}{Look, dim, get out of here, or I'll call the guards.}
 {203}{}{Look, dim, get out of h -- Mmmm. Wait a minute. Maybe...}
 {204}{}{Hurnh?}

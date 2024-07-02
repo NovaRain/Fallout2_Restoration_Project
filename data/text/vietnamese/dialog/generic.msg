@@ -6,7 +6,7 @@
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}
 {107}{}{ accidentally sets off the trap.}
-{200}{}{Thank you.}
+{200}{}{Cám ơn.}
 {201}{}{Good Day.}
 {202}{}{Cám ơn.}
 {203}{}{Thanks!}
@@ -14,7 +14,7 @@
 {205}{}{No thanks.}
 {206}{}{Đư?c thôi.}
 {207}{}{Đúng v?y.}
-{208}{}{No.}
+{208}{}{Không.}
 {209}{}{OK.}
 {300}{}{Ug.}
 {301}{}{Og.}
@@ -23,7 +23,7 @@
 {350}{}{[K?T THÚC]}
 {351}{}{[BYE]}
 {352}{}{[THÊM]}
-{353}{}{[CONTINUE]}
+{353}{}{[TI?P T?C]}
 {354}{}{[COMBAT]}
 {355}{}{[GIVE MONEY]}
 {375}{}{Chào.}

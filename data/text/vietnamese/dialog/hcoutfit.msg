@@ -42,7 +42,7 @@
 {136}{}{Chào.}
 {137}{}{All right. Gecko it is. Come back on the 1st of the month and you'll be on your way. Want anything else?}
 {138}{}{Đúng v?y.}
-{139}{}{No.}
+{139}{}{Không.}
 {140}{}{All right. The Republic it is. Come back on the 11th of the month and you'll be on your way. Want anything else?}
 {141}{}{All right. Vault City it is. Come back on the 21st of the month and you'll be on your way. Want anything else?}
 {142}{}{Mu?n g??}
@@ -98,7 +98,7 @@
 {183}{}{Yeah? Fine. Get out of my store. Come back when you got enough guts to make the trip.}
 {184}{}{Great. Then get going.}
 {185}{}{I wanted something else first.}
-{186}{}{All right.}
+{186}{}{Đư?c r?i.}
 {187}{}{Pal, I can't do anything else for you now. With all the mutants dead, we got no one to work the
  mine effectively. This town's gonna ghost in a year or two. Ain't nothing else here. So long.}
 {188}{}{Sorry, pal. I got nothing for you to do anymore. Ya' shoveled all the crap I had.}

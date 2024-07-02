@@ -13,7 +13,7 @@
 {401}{}{Okay. I'd like to know something else.}
 {402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
 {403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
-{404}{}{I don't know anything about that.}
+{404}{}{Tôi không bi?t g? v? chuy?n đó.}
 {405}{}{Well, thanks anyway.}
 {406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
  the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
@@ -39,7 +39,7 @@
 {420}{}{Not so fast. How much is it worth to you?}
 {421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
  have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
-{422}{}{Thank you.}
+{422}{}{Cám ơn.}
 {423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
 {424}{}{Thanks for the money, bye.}
 {425}{}{You should look on a second floor computer, now that you have full access there.}
@@ -114,7 +114,7 @@
 {701}{}{What!? [He sighs deeply.] It is most unfortunate that you were unable to recover that book. But you say you've
  killed the beast? Hm, then it should be safe to send our own people down to continue searching for it. Anyway, for your
  service, I shall grant you access to our computers. Go see Brother Paul for the access key.}
-{702}{}{Thank you.}
+{702}{}{Cám ơn.}
 {800}{}{Actually, yes. Our main water pump has been acting up for some time, and now it finally seems to have broken down
  completely. If you know anything about machinery, do you think you could take a look and see if something could be done?
  There are a few merchants already working on it. I fear that little progress has been made though.}

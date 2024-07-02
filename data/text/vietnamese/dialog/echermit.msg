@@ -2,7 +2,7 @@
 {101}{}{You see a hermit.}
 {102}{}{It looks as if he hasn't washed in years.}
 {103}{}{Can guess you why I hermit? [It seems he hasn't spoken to anyone in years.]}
-{104}{}{Why?}
+{104}{}{T?i sao?}
 {105}{}{Just passing through.}
 {106}{}{Ug.}
 {107}{}{Me want left alone.}
@@ -25,4 +25,4 @@
 {124}{}{Leave home!}
 {125}{}{How you dare me attack!}
 {126}{}{Leave alone me.}
-{127}{}{I go.}
+{127}{}{Tôi đi.}

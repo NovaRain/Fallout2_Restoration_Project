@@ -1,74 +1,74 @@
-{100}{}{You see a male villager.}
-{101}{}{You see a female villager.}
-{150}{}{A kindly member of your village.}
+{100}{}{B?n th?y m?t ngư?i đàn ông trong làng.}
+{101}{}{B?n th?y m?t ph? n? trong làng.}
+{150}{}{M?t thành viên t?t b?ng trong làng.}
 {151}{}{[NÓI CHUY?N]}
-{152}{}{Hello! I hear you are the Chosen One. Now, perhaps, our village can be saved.}
-{153}{}{Can you tell me where I can find more healing powder?}
-{154}{}{What can you tell me of the traders who trade with us?}
-{155}{}{It is good to see you, but I must be going.}
-{156}{}{Gods protect you on your journey.}
-{157}{}{I do have a question for you.}
-{158}{}{Goodbye, my friend.}
-{159}{}{Go see Hakunin in the northern corner of the village. He can help you.}
-{160}{}{Thank you. Goodbye.}
-{161}{}{Oh, it's not my place to deal with the traders. Talk to Mynoc, the guardian of the
- great bridge. He sees them all.}
-{162}{}{Thank you. Goodbye.}
-{163}{}{Could you tell me where the great bridge is located?}
-{164}{}{One more question, if I may.}
-{165}{}{Good joke, Chosen One! You know where it is. That way -- to the south.}
-{166}{}{Thank you. Goodbye.}
-{167}{}{One more question, if I may.}
-{168}{}{Of course, what is it?}
-{169}{}{Could you tell me where I can find some healing herbs?}
-{170}{}{What can you tell me of the traders who trade with us?}
-{171}{}{Never mind.}
-{172}{}{Oh gods -- may the spirit of the Founder guide you. If you're the Chosen One, we're
- going to need it.}
-{173}{}{Uun Ga.}
-{174}{}{Have a safe journey.}
+{152}{}{Xin chào! Tôi nghe nói anh là C?u tinh. Có l? ngôi làng s?p đư?c c?u r?i.}
+{153}{}{Có th? nói cho tôi ch? t?m b?t ch?a thương đư?c không?}
+{154}{}{Nói cho tôi bi?t v? thương gia hay đ?n đây mua bán đư?c không?}
+{155}{}{Nói chuy?n vui l?m, nhưng tôi ph?i đi đây.}
+{156}{}{Các th?n phù h? cho hành tr?nh c?a anh.}
+{157}{}{Tôi có câu h?i này.}
+{158}{}{Chào nhé, b?n tôi.}
+{159}{}{Đ?n g?p Hakunin ? góc phía B?c ngôi làng. Ông ta s? giúp.}
+{160}{}{Cám ơn. T?m bi?t.}
+{161}{}{?, tôi không tr?c ti?p mua bán v?i ông ta. H?y đ?n nói chuy?n v?i Mynoc, ngư?i gác
+cây c?u l?n. Anh ta lo vi?c đón khách.}
+{162}{}{Cám ơn. T?m bi?t.}
+{163}{}{Cây c?u l?n ? ch? nào nh??}
+{164}{}{Tôi h?i thêm câu n?a nhé.}
+{165}{}{Đùa hay đ?y, C?u tinh! Ai c?ng bi?t mà. L?i đó -- v? phía Nam.}
+{166}{}{Cám ơn. T?m bi?t.}
+{167}{}{Tôi h?i thêm câu n?a nhé.}
+{168}{}{D? nhiên r?i, g? th??}
+{169}{}{Tôi có th? t?m th?o dư?c ? đâu đư?c?}
+{170}{}{Nói cho tôi bi?t v? thương gia hay đ?n đây mua bán đư?c không?}
+{171}{}{Không có g?.}
+{172}{}{Ơi các th?n linh -- c?u cho linh h?n c?a Ngư?i sáng l?p d?n đư?ng cho anh. N?u qu? th?c
+anh là C?u tinh th? chúng ta s? c?n đư?c phù h? như v?y.}
+{173}{}{Ù gà.}
+{174}{}{Lên đư?ng an toàn.}
 {175}{}{????}
-{176}{}{We're doomed! You have failed your quest.}
-{177}{}{You cannot continue like this.}
-{180}{}{You are a traitor to your own people.}
-{181}{}{Why do you do this?}
-{182}{}{You are evil. The Chosen One is evil!}
-{183}{}{They come to our village from the east, but their goods are poor.}
-{184}{}{Could you tell me where I can find some healing herbs?}
-{185}{}{Thank you. Goodbye.}
-{186}{}{One more question, if I may.}
-{300}{}{Hello, Chosen One. Nice to see you again. I pray that your holy quest is going well. Is there something I can help you with?}
-{301}{}{Chosen One, our people are dying. You must hurry your search for the holy GECK. What may I do to aid you in this most holy of quests?}
-{302}{}{We are running out of time, Chosen One. Please, finish your holy quest soon. We cannot afford to wait much longer. If there's anything I can do to help you to save us, let me know.}
-{303}{}{Chosen One, our village is almost dead... you're our only hope. Is there anything
- I could tell you that would aide you in our salvation?}
-{400}{}{Is there anything you could tell me about Kaga?}
-{401}{}{[The villager stares at you, wide-eyed, then slowly steps away from you while glancing around nervously.]}
-{402}{}{Alright, I guess not.}
-{1000}{}{Elder}
-{1001}{}{Founder}
-{1002}{}{Vault Dweller}
+{176}{}{Chúng ta tiêu r?i! Anh đ? th?t b?i.}
+{177}{}{Anh không th? ti?p t?c th? này đư?c.}
+{180}{}{Mày đ? ph?n b?i chính nh?ng ngư?i đ?ng t?c.}
+{181}{}{T?i sao mày l?i làm th??}
+{182}{}{Mày là ác qu?. C?u tinh là ác qu?!}
+{183}{}{H? đ?n t? phía Đông, nhưng đ? c?a h? chán l?m.}
+{184}{}{Tôi có th? t?m th?o dư?c ? đâu đư?c?}
+{185}{}{Cám ơn. T?m bi?t.}
+{186}{}{Tôi h?i thêm câu n?a nhé.}
+{300}{}{Chào, C?u tinh. R?t vui đư?c g?p l?i. C?u cho nhi?m v? th?n thành luôn suôn s?. Tôi có th? giúp g? không?}
+{301}{}{C?u tinh, m?i ngư?i đang ch?t d?n. C?n ph?i đi t?m GECK th?n thánh nhanh lên. Tôi có th? giúp g? đ? giúp đ? nhi?m v? th?n thánh đây?}
+{302}{}{Chúng ta s?p h?t th?i gian r?i, C?u tinh ơi. Làm ơn s?m hoàn thành nhi?m v? th?n thánh đi. Chúng ta không ch? đư?c lâu hơn n?a đâu. N?u tôi có th? giúp g? đ? c?u chúng ta th? h?y nói đi.}
+{303}{}{C?u tinh, ngôi làng s?p tiêu r?i... Anh là ni?m hi v?ng duy nh?t c?a chúng ta. Li?u
+tôi có th? giúp g? đ? c?u chúng ta không?}
+{400}{}{Có th? cho tôi bi?t v? Kaga đư?c không?}
+{401}{}{[Ngư?i dân làng này tr?n m?t nh?n b?n, sau đó lùi bư?c d?n trong lúc run r?y li?c nh?n xung quanh].}
+{402}{}{Đư?c r?i, ch?c là không.}
+{1000}{}{Trư?ng l?o}
+{1001}{}{Ngư?i m? làng}
+{1002}{}{C? t? t? Vault}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{C?u tinh}
+{1007}{}{Th?y cúng}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{B?t ch?a thương}
+{1010}{}{C?u}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
-{1104}{}{That's a trading outpost a few days east of here.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
-{1107}{}{He heals us with his herbs and magic. He is in the northern part
- of our village.}
-{1108}{}{He heals us with his herbs and magic. He is in the northern part
- of our village.}
-{1109}{}{It is a magic powder which will heal you, but will make you
- sleepy.}
-{1110}{}{The Great Bridge exits our village in the south.}
-{1111}{}{He guards the bridge leading into our village.}
+{1100}{}{Trư?ng l?o là m? c?u đ?ng th?i là trư?ng làng.}
+{1101}{}{C? t? v? đ?i đ? truy?n ki?n th?c cho chúng ta.}
+{1102}{}{Ngư?i đ?u tiên chi?n đ?u và chi?n th?ng cái x?u.}
+{1103}{}{Đó là ngôi làng xinh đ?p c?a chúng ta.}
+{1104}{}{Đó là m?t khu buôn bán cách nơi này vài ngày v? phía Đông.}
+{1105}{}{Vault là thiên đư?ng.}
+{1106}{}{C?u là C?u tinh.}
+{1107}{}{Ông ta ch?a thương b?ng th?o dư?c và phép thu?t. Ông ta ? khu
+phía B?c c?a ngôi làng.}
+{1108}{}{Ông ta ch?a thương b?ng th?o dư?c và phép thu?t. Ông ta ? khu
+phía B?c c?a ngôi làng.}
+{1109}{}{Đây là b?t ch?a thương có th? ch?a lành cho anh, nhưng s? khi?n
+anh th?y bu?n ng?.}
+{1110}{}{Cây C?u L?n d?n ra ngoài làng ? phía Nam.}
+{1111}{}{Anh ta canh gác cây c?u d?n vào làng chúng ta.}

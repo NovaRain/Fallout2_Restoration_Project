@@ -52,7 +52,7 @@
 {151}{}{Shouldn't you be doing something? Don't come back here until the job's done.}
 {152}{}{I've heard the news already. You freed the slaves. Good work! So, you ready to become a Ranger?}
 {153}{}{Đúng v?y.}
-{154}{}{No.}
+{154}{}{Không.}
 {155}{}{I hear you're the one who freed all the slaves outside the city gates. That was a fine thing you did and I just want to shake your hand.}
 {156}{}{Cám ơn.}
 {157}{}{Simple. We believe slavery is wrong and we'll do what we must to fight it. In NCR, we got a lot of friends in high places. Thanks to them we've already banned slavery down south, but now we're hoping to spread the word north.}
@@ -60,7 +60,7 @@
 {159}{}{Interesting... I'll have to think about what you've said.}
 {160}{}{Do you swear to fight slavery whenever the opportunity arises and to help your fellow Rangers whenever they're in need?}
 {161}{}{Đúng v?y.}
-{162}{}{No.}
+{162}{}{Không.}
 {163}{}{Congratulations, you're now a Ranger.}
 {164}{}{Well-met, fellow Ranger. Afraid there's not much for you to do around here at this time. Most our people are already out on patrol. I'll spread the word that you're one of us now. I wouldn't want you getting shot by one of us.}
 {165}{}{Well, we're always looking for good people to further our cause. If you change your mind, look me up. Are you sure you won't take the opportunity to join now?}
@@ -78,7 +78,7 @@
 {177}{}{Try it!}
 {178}{}{We've got agents and sympathizers in some of the towns up north. We're spreading the word and hitting slavers wherever we can.}
 {179}{}{Hello again. Have you changed your mind about joining us?}
-{180}{}{Never mind.}
+{180}{}{Không có g?.}
 {181}{}{That doesn't belong to you. Now leave or I will get violent.}
 {182}{}{I don't know what you did to Gond, but you're going to pay!}
 {200}{}{Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.}
@@ -121,7 +121,7 @@
 {234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
 {235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
 {236}{}{You aid the Rangers in their continual struggle against slavery.}
-{240}{}{Thank you. Goodbye.}
+{240}{}{Cám ơn. T?m bi?t.}
 {250}{}{Actually, one more thing. You look like someone to be trusted. Someone who doesn't take a liking to Slavers.}
 {251}{}{Well, I did just wipe out an entire camp of them. What do you have in mind?}
 {252}{}{I think I've done enough for humanity today. See you around.}

@@ -42,7 +42,7 @@
 {140}{}{Med lab's been taken over by an Enclave egghead named Schreber. Mean son of a bitch; don't care
  for nothing or nobody. He's been doing some sort of experiments on deathclaws down there, don't know
  what though. Anyway, he was making all kinds of noise until the commander ordered the room soundproofed.}
-{141}{}{Got it.}
+{141}{}{Hi?u r?i.}
 {142}{}{That's interesting. }
 {143}{}{Ha! We're talking romance, my friend. It seems one of the computer geeks has fallen for one of the grunts, the guard outside med lab. Even has one of those cutesy names for her. Calls her "Snookie" of all things.}
 {144}{}{Cute.}
@@ -51,10 +51,10 @@
 {147}{}{Why ya interested in those? Oh well, no matter. Quincy keeps them over in maintenance I think. }
 {148}{}{Okay.}
 {149}{}{Where that?}
-{150}{}{I see.}
+{150}{}{Hi?u r?i.}
 {151}{}{Where's that?}
 {152}{}{Northeast corner of the base, friend. Can't miss it.}
-{153}{}{Okay. Thanks.}
+{153}{}{Okay. Cám ơn.}
 {156}{}{I'm surprised ya don't know, ya must be a local, I guess. Anyway, main base's in the middle of the goddamned
  ocean. Well, not smack ass in the middle, but it might as well be. Only way to get there is by ship or vertibird
  and the damn ship's been tinkered with. Ya need a fob to operate the damn thing.}

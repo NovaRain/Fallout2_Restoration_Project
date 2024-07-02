@@ -22,14 +22,14 @@
  out of trouble, and you will always be welcome here.}
 {116}{}{Forgive me. I do not mean to be rude, but I do not see that this is relevant to our conversation.
  I can speak your tongue, I can read your written word. What more needs be said?}
-{117}{}{I see.}
+{117}{}{Hi?u r?i.}
 {118}{}{I don't mean to pry, but surely you can understand my interest in this matter.}
 {119}{}{Yeah, well, how about letting me decide what is or is not relevant?}
 {120}{}{Yes, I certainly can. Very well. If we part as friends, human, you should speak with Goris. He
  has more understanding in this matter than I. He can usually be found in the vault library.}
 {121}{}{Thank you. I look forward to meeting Goris.}
 {122}{}{I have no intention of adding a deathclaw to my list of friends. Bye!}
-{123}{}{All right.}
+{123}{}{Đư?c r?i.}
 {124}{}{They are gone, human. We did not kill them and take their home. It is not our way to kill. I
  understand that you may not believe me, but I hope that you will judge me by my actions toward you and
  not out of fear or prejudice.}
@@ -58,7 +58,7 @@
  sense little evil in you. Very well, I shall place my trust in you.}
 {140}{}{(Gruthar stares at you intently for a moment.) I think not. I can sense the evil in you, human.
  I cannot risk the lives of those I protect by taking a chance with you.}
-{141}{}{Thank you.}
+{141}{}{Cám ơn.}
 {142}{}{Fine. I think a bullet lobotomy is a viable solution to my problem.}
 {143}{}{Sorry you feel that way, Gruthar.}
 {144}{}{I'll be leaving, then.}
@@ -115,7 +115,7 @@
 {175}{}{Done.}
 {176}{}{I shall return, you have my word.}
 {177}{}{Hello}
-{178}{}{No, I'm still looking.}
+{178}{}{Không, tôi v?n đang t?m.}
 {179}{}{Yes, and here it is!}
 {180}{}{}
 {181}{}{You have restored my faith in humans. I thank you for all that you have done for the pack. Is

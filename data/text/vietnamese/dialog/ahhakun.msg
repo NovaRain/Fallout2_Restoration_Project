@@ -1,130 +1,130 @@
-{100}{}{Before you stands Hakunin, the village shaman. He appraises you with his crazy eyes from somewhere in the world only he inhabits....}
-{101}{}{You see Hakunin lying on the ground. He's badly wounded.}
-{102}{}{You see Hakunin. He's very near death.}
-{103}{}{Hakunin is badly burned. He smells like roast chicken, looks like burnt meatloaf, and you don't know how he's managed to stay alive this long.}
-{104}{hak001}{Greetings, Chosen. Why does the earth before me warm to the touch of your passing?}
-{105}{}{Uh? }
-{106}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{107}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{108}{}{You are doing just way too many drugs. I'm outta here. }
-{109}{}{I'm hurt. Can you heal me?}
-{110}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{111}{hak001a}{Please reveal to clouded eyes the purpose of your passage.}
-{112}{}{Uh? }
-{113}{}{I've come to say goodbye. I'm leaving on my holy quest. }
-{114}{}{I'm heading out. I was hoping just this once you'd talk like a real person. }
-{115}{}{You are doing just way too many drugs. I'm outta here. }
-{116}{}{There were some pretty nasty plants infesting your garden- I've taken care of them for you.}
-{117}{hak002}{The Earth sings with the news of a champion upon the land.... Perhaps, before you go, you would bestow a kindness?}
-{118}{}{Sure. What do you need?}
-{119}{}{It depends... what'll you give me?}
-{120}{hak002a}{The views of the world are many - a lesson you will learn soon.... Perhaps, before you reap the experiences of life, you would bestow a kindness?}
-{121}{}{Did you just ask me to do you a favor? If so, sure, why not?}
-{122}{}{I'll do something for you, but since I have to work this hard just to understand you, this task will cost.}
-{123}{hak003}{A blessing on you, for you are truly a child of nature. Would you please use your special talents and rid my garden of the plants of dark soul?}
-{124}{}{Uh-huh. }
-{125}{}{Nuh-uh. Youuu. Giv. Hed hurt.}
-{126}{hak004}{May your aura grace my presence when you are... Oh, come to my door when you're done and I'll give you something good.}
-{127}{}{Urgh.}
-{128}{hak005}{The plants of dark soul have infested my garden again. Many seasons have touched my bones and I am too frail for that fight which is eternal in nature. I ask that you be my champion.}
-{129}{}{I don't think so. I need to start my quest right away.}
-{130}{}{I know you're not a bad guy, but I've got a headache already, so I think I'll have to pass.}
-{131}{}{Forget it. I'm the future leader of this tribe and it would be undignified for me to do your gardening for you.}
-{132}{}{I'd be honored, holy one.}
-{133}{}{Did you just ask me to weed your garden? If that's the case, okay.}
-{134}{}{For a price.}
-{135}{hak006}{To ask payment for a gift will bring you less than the gift itself. I will give you such and add the lesson of your self-disappointment at the receiving.}
-{136}{}{Good enough. Where's the garden?}
-{137}{}{You know, a nice gift would be to SPEAK ENGLISH!}
-{138}{}{What if I give you a lesson in disappointment and leave right now? Bye.}
-{139}{}{Well, if that's your attitude, I don't think I'm interested. Goodbye.}
-{140}{hak006a}{If we speak the same words, do we mean the same thing? Do words always carry the same touch of a soul?}
-{141}{}{Oh, yeah. Much better. And the lesson I learned is to shut up and just ask where the garden is.}
-{142}{}{Let's try the word, "goodbye." It means I'm leaving. }
-{143}{hak007}{Surely you remember it is to the northeast, foolish one.}
-{144}{}{Thank you for your help.}
-{145}{}{Thanks. I actually understood that.}
-{146}{}{Are you calling me a fool? I don't think I want to help you, after all. }
-{147}{}{I'll be back for my payment soon.}
-{148}{hak008}{The burden you carry now will grow ever heavier.}
-{149}{hak009}{May the gods bless your efforts, Chosen. May your aura grace my presence when the earth breathes clean again.}
-{150}{}{I take it you want to see me again when I'm done... You could have just said so, you know.}
+{100}{}{Trư?c m?t b?n là Hakunin, pháp sư c?a làng. L?o ta soi b?n b?ng c?p m?t thao láo, như th? đang nh?n t? m?t th? gi?i c?a riêng l?o v?y...}
+{101}{}{B?n th?y Hakunin đang n?m trên m?t đ?y. L?o ta b? thương r?t n?ng.}
+{102}{}{B?n th?y Hakunin. L?o ta g?n như ch?t r?i.}
+{103}{}{Hakunin b? b?ng r?t n?ng. Mùi ch?ng khác nào gà rán, nh?n như mi?ng th?t băm cháy r?i, và b?n không bi?t làm th? nào mà l?o v?n c?n s?ng đư?c đ?n gi?.}
+{104}{hak001}{Xin chào, C?u tinh. Sao kho?nh đ?t trư?c m?t ta l?i đư?c con d?m lên v?y?}
+{105}{}{??}
+{106}{}{Tôi đ?n đ? chào t?m bi?t. Tôi s?p lên đư?ng th?c hi?n nhi?m v? th?n thánh.}
+{107}{}{Tôi s?p đi. Tôi hi v?ng là l?n này l?o có th? nói chuy?n như ngư?i b?nh thư?ng.}
+{108}{}{L?o bú c?n quá đ? r?i đ?y. Tôi bi?n kh?i đây đây.}
+{109}{}{Tôi b? thương. L?o ch?a đư?c không?}
+{110}{}{Vư?n c?a l?o b? m?y cái cây t?m v?i m?c chen vào, tôi nh? s?ch chúng cho l?o r?i.}
+{111}{hak001a}{H?y cho c?p m?t m? đ?c này th?y con đư?ng c?a con.}
+{112}{}{??}
+{113}{}{Tôi đ?n đ? chào t?m bi?t. Tôi s?p lên đư?ng th?c hi?n nhi?m v? th?n thánh.}
+{114}{}{Tôi s?p đi. Tôi hi v?ng là l?n này l?o có th? nói chuy?n như ngư?i b?nh thư?ng.}
+{115}{}{L?o bú c?n quá đ? r?i đ?y. Tôi bi?n kh?i đây đây.}
+{116}{}{Vư?n c?a l?o b? m?y cái cây t?m v?i m?c chen vào, tôi nh? s?ch chúng cho l?o r?i.}
+{117}{hak002}{M?t đ?t ngân lên ti?ng ca v? v? anh hùng giáng th?... Có l? trư?c khi đi, con có th? th? hi?n s? hào hi?p đư?c chăng?}
+{118}{}{Đư?c ch?. L?o c?n g? nào?}
+{119}{}{Đ? xem... L?o s? tr? công tôi th? nào?}
+{120}{hak002a}{Có vô s? cách quan sát th? gi?i – đi?u mà con s? s?m h?c đư?c... Có l?, trư?c khi con hái qu? ng?t t? cây đ?i kinh nghi?m, con có th? th? hi?n s? hào hi?p chăng?}
+{121}{}{Ch?ng ph?i l?o v?a m?i nh? tôi giúp sao? N?u v?y th? đư?c r?i, sao l?i không ch??}
+{122}{}{Tôi s? giúp l?o, nhưng v? l?o c? huyên thuyên khó hi?u v?i nên giúp ph?i tính công đ?y.}
+{123}{hak003}{Các th?n phù h? con, con đúng là m?t đ?a tr? t?t b?ng. Li?u con có th? s? d?ng tài năng đ?c bi?t và gi?i thoát cho m?nh vư?n c?a ta kh?i nh?ng cái cây c?a linh h?n h?c ám?}
+{124}{}{? h?.}
+{125}{}{Khôn. L?ooo. Đưa. Đau đ?u.}
+{126}{hak004}{C?u cho hào quang c?a con r?i chi?u lên ta khi con xong... ?, quay l?i l?u c?a ta sau khi xong và ta s? đưa cho con đ? t?t.}
+{127}{}{Ch?c.}
+{128}{hak005}{Nh?ng cái cây c?a linh h?n h?c ám m?t l?n n?a l?i xâm chi?m m?nh vư?n c?a ta. Nh?ng đ?t xương này đ? già c?i sau nhi?u mùa và ta đ? tr? nên quá y?u trư?c cu?c chi?n trư?c thiên nhiên v?nh h?ng. Ta c?n con làm ngư?i b?o h?.}
+{129}{}{Tôi không ngh? v?y. Tôi c?n ph?i b?t đ?u nhi?m v? ngay bây gi?.}
+{130}{}{Tôi bi?t là l?o không ph?i là ngư?i x?u, nhưng tôi đau đ?u quá, nên ch?c là thôi nhé.}
+{131}{}{Quên đi. Tôi là trư?ng t?c tương lai cơ mà. Đâu l?i có chuy?n trư?ng t?c đi nh? c? cho l?o.}
+{132}{}{R?t vinh d?, thưa pháp sư th?n thánh.}
+{133}{}{L?o nh? tôi nh? c? trong vư?n à? N?u v?y th? đư?c thôi.}
+{134}{}{Tr? công nhé.}
+{135}{hak006}{Đ?i tr? công cho m?t món quà s? khi?n con ch?ng nh?n đư?c g? c?. Ta s? trao cho con như v?y, cùng v?i bài h?c v? s? th?t v?ng mà con c?n nh?n l?nh.}
+{136}{}{?n đ?y. Khu vư?n ? đâu th??}
+{137}{}{L?o bi?t đ?y, m?t món quà t?t th? c?n ph?i BI?T NÓI CHO ĐÚNG!}
+{138}{}{Th? th? sao tôi l?i không cho l?o bài h?c v? s? th?t v?ng và đi kh?i đây nh?? T?m bi?t.}
+{139}{}{?, n?u ông thái đ? th? tôi c?ng đ?ch quan tâm. Chào nhé.}
+{140}{hak006a}{N?u chúng ta nói cùng m?t t? th? li?u chúng có cùng m?t ngh?a không? M?i t? có luôn khi?n các linh h?n rung đ?ng như nhau không?}
+{141}{}{? đ?y. T?t hơn r?i đ?y. Cái tôi v?a h?c đư?c là thôi kh?i c?i và ch? c?n h?i khu vư?n ? đâu.}
+{142}{}{Th? th? th? t? này đi, "t?m bi?t". Nó có ngh?a là tôi đi đây.}
+{143}{hak007}{H?n con ph?i nh? là khu vư?n ? phía Đông B?c ch?, đ? đ?n.}
+{144}{}{Cám ơn đ? giúp.}
+{145}{}{Cám ơn. Nói v?y tôi l?i hi?u đ?y.}
+{146}{}{L?o dám g?i tôi là đ?n à? Th? th? tôi đéo mu?n giúp n?a đâu.}
+{147}{}{Tôi s? s?m quay l?i đ? l?y công.}
+{148}{hak008}{Gánh n?ng mà con mang trên m?nh gi? s? c?n n?ng hơn.}
+{149}{hak009}{C?u các th?n linh phù h? cho n? l?c c?a con, C?u tinh. C?u cho hào quang c?a con chi?u r?i lên m?nh ta sau khi m?nh đ?t đư?c thanh l?c tr? l?i.}
+{150}{}{Tôi coi đ?y là l?o mu?n g?p l?i sau khi tôi xong... L?o ch? c?n nói th?ng ra mà.}
 {151}{}{T?m bi?t.}
-{152}{hak010}{Ha! The founder's spirit lives in you. Focus in to fortify the self to expand the greatness to enable such to touch the world. Of course, the rewards will be more than those of the spirit. }
-{153}{}{Sounds good. I'll be back when I'm done.}
-{154}{}{So, I'm getting an actual thing in payment. Good enough. See ya later.}
-{155}{}{I think you've been playing with those plants way too much. To avoid your fate, I'm staying away from the garden.}
-{156}{hak011}{Time can neither be wasted or saved- it must always be now. The actions create the fabric of your life.}
-{157}{}{Uh, right. Like I said, I've got to go. Goodbye. }
-{158}{}{You know, talking to you makes me wonder about that time can't be wasted idea. I'm outta here. }
-{159}{}{If only I had your wisdom, wise one. Forgive me- of course I'll take care of it for you.}
-{160}{hak012}{You may bear the mantle of the Chosen, but your dark soul cries from within.}
-{161}{}{I beg your forgiveness, holy one. How can I cleanse my soul? }
-{162}{}{That's right, Hakunin, and you'd be a real wise man not to forget it.}
-{163}{}{My head aches from within listening to you. I'm gone.}
-{164}{}{Booka!}
-{165}{hak013}{Cleanse your soul as you would banish demons from my garden.}
-{166}{}{It shall be done, wise one. I will come seek your forgiveness after I have purified your garden.}
-{167}{}{You're trying to say that weeding your garden will be good for me, right? Well, okay, I'll give it a try.}
-{168}{}{I kinda like my soul the way it is. Bye.}
-{169}{}{I'm not worthy. I'll take my leave now.}
-{170}{hak014}{Chosen, once again the wholeness of your being is like a land blessed.}
-{171}{}{Thank you.}
-{172}{}{You mean I'm better, right?}
-{173}{hak015}{To make one whole instills a sense of fullness that you would be well to understand, Chosen.}
-{174}{}{Wait, don't tell me. I'm better and you felt good doing it, right? Thanks.}
-{175}{}{You are wise and kind, Holy One.}
-{176}{hak017}{In what way may I touch the chosen soul, Seed of the Dweller?}
-{177}{}{Uh, where exactly is your garden?}
-{178}{}{I'm hurt. Can you heal me?}
-{179}{}{Oh, nothing. Goodbye.}
-{180}{hak018}{Ahh. You return the spirit of the Dweller to the world and bring a smile to the soul of an old man in passing. For this, I give you powders of healing. Remember, they fog the mind as they cleanse the body.}
-{181}{}{Thank you.}
-{182}{hak018a}{And also, will I mix the broc flower with the xander root together whenever you bring both to me. May your pathways be true and your heart follow suit. }
-{183}{}{Where can I find these things?}
-{184}{}{Thank you.}
-{185}{}{I'm almost sorry to go. I can just about understand you now. Bye.}
-{186}{hak019}{Ah, Chosen, my garden is well- how is yours?}
-{187}{}{I'm all right.}
-{188}{}{I need healing.}
-{189}{}{Where did you say the plants were?}
-{190}{}{I don't have a garden- what the hell are you talking about this time?}
-{191}{}{I'd like you to make some healing powder for me.}
-{192}{}{Oh, never mind. I've got to go.}
-{193}{}{Ow?}
-{194}{}{Ooog! Bak!}
-{195}{hak020}{The pleasure of these words fills me. Alas, the gods whisper for my ear. Goodbye.}
+{152}{hak010}{Ha! Linh h?n t? tiên s?ng trong con. H?y t?p trung b?i dư?ng b?n thân nh?m nâng cao khí l?c đ? khai m? h?ng ch?m đ?n gi?i giác ng?. D? nhiên, ph?n thư?ng s? không ch? là nh?ng đó c?a lin h?n.}
+{153}{}{?n đ?y. Tôi s? quay l?i khi nào xong.}
+{154}{}{V?y là tôi s? nh?n đư?c th? th?c t? g? đó à. ?n đ?y. G?p l?i l?o sau.}
+{155}{}{Tôi ngh? là l?o chơi v?i m?y cái cây trong vư?n nhi?u quá r?i đ?y. Đ? tránh b? như l?o, tôi s? tránh xa kh?i cái khu vư?n đó.}
+{156}{hak011}{Không th? l?ng phí hay ti?t ki?m th?i gian – chúng ta luôn s?ng ? hi?n t?i. Chính hành đ?ng là n?n t?ng xây d?ng cu?c s?ng c?a con.}
+{157}{}{?, ch?c th?. Như v?a nói, tôi ph?i đi đây. T?m bi?t.}
+{158}{}{L?o bi?t đ?y, nói chuy?n v?i l?o làm tôi t? h?i v? cái ? không nên l?ng phí th?i gian. Tôi bi?n đây.}
+{159}{}{Ư?c g? tôi có đư?c trí tu?, ngư?i thông thái. Th? l?i cho tôi – d? nhiên là tôi s? lo vi?c đó.}
+{160}{hak012}{Con có th? mang l?p v? C?u tinh, nhưng linh h?n x?u xa đang gào thét bên trong.}
+{161}{}{Tôi c?u xin s? tha th?, ? đ?ng th?n thánh. Làm th? nào tôi có th? g?t r?a linh h?n m?nh?}
+{162}{}{Đúng v?y, Hakunin, và l?o nên đ? khôn đ? không quên đi?u đó.}
+{163}{}{Nghe l?o nói làm tôi đau đ?u v?i. Bi?n thôi.}
+{164}{}{Ú ?a!}
+{165}{hak013}{H?y g?t r?a linh h?n trong lúc thanh tr? ác qu? kh?i m?nh vư?n c?a ta.}
+{166}{}{Nh?t đ?nh r?i, ngư?i thông thái. Tôi s? đ?n c?u s? tha th? sau khi đ? thanh t?y khu vư?n.}
+{167}{}{L?o đang mu?n nói r?ng nh? c? trong vư?n là t?t cho tôi, ph?i không? ?, đư?c r?i, đ? tôi th?.}
+{168}{}{Tôi thích linh h?n c?a m?nh như v?y. Chào.}
+{169}{}{Tôi không x?ng đáng như v?y. Tôi s? đi đây.}
+{170}{hak014}{C?u tinh, m?t l?n n?a s? hi?n di?n toàn v?n c?a con l?i mang đ?n s? phù h? c?a đ?t tr?i.}
+{171}{}{Cám ơn.}
+{172}{}{? l?o là tôi đ? tr? nên t?t hơn, đúng ch??}
+{173}{hak015}{Đ? t?o nên cái toàn v?n c?n đ?n c?m giác tr?n v?n mà con đ? trí tu? đ? hi?u r?, C?u tinh.}
+{174}{}{Ch? đ?, đ?ng nói. Tôi tr? nên t?t hơn và ông cám th?y vui, đúng ch?. Cám ơn.}
+{175}{}{Ngư?i th?t là trí tu? và thánh thi?n, Đ?ng th?n thánh.}
+{176}{hak017}{B?ng cách nào ta có th? ch?m đ?n linh h?n c?u tinh đây, H?t gi?ng c?a T? tiên?}
+{177}{}{?, chính xác là m?nh vư?n ? đâu th??}
+{178}{}{Tôi b? thương. L?o ch?a đư?c không?}
+{179}{}{?, không có g?. T?m bi?t.}
+{180}{hak018}{À. Con đ? mang linh h?n c?a T? tiên tr? l?i v?i th? gi?i c?ng như mang n? cư?i đ?n v?i linh h?n c?a m?t ông l?o s?p ra đi. V? v?y, ta trao cho con ch? b?t ch?a thương này. H?y nh?, chúng s? làm lu m? tâm trí trong lúc thanh t?y cơ th?.}
+{181}{}{Cám ơn.}
+{182}{hak018a}{Và c?n n?a, ta s? xào hoa broc cùng r? xander b?t c? lúc nào con mang c? hai đ?n cho ta. C?u cho con luôn bư?c trên con đư?ng đúng và gi? v?ng tâm h?n.}
+{183}{}{Tôi có th? t?m nh?ng th? này ? đâu?}
+{184}{}{Cám ơn.}
+{185}{}{Tí n?a th? tôi đi m?t r?i. Gi? th? tôi hơi b?t đ?u hi?u l?o đ?y. T?m bi?t.}
+{186}{hak019}{À, C?u tinh, m?nh vư?n c?a ta v?n ?n, c?a con th? sao?}
+{187}{}{Tôi v?n ?n.}
+{188}{}{Tôi c?n tr? thương.}
+{189}{}{L?o nói m?y cái cây ? đâu th? nh??}
+{190}{}{Tôi làm g? có vư?n. L?o đang nói cái đéo g? th??}
+{191}{}{Tôi mu?n nh? l?o xào ít b?t ch?a thương.}
+{192}{}{?, không có g?. Tôi ph?i đi đây.}
+{193}{}{??}
+{194}{}{Ong! Bư?m!}
+{195}{hak020}{Nh?ng l?i này th?m đ?m tai khi?n ta th?t khoan khoái. Than ôi, các th?n linh đang th? th?m vào tai ta. T?m bi?t.}
 {196}{}{Chào.}
-{197}{}{Still mixing the herbs, huh? See you later.}
-{198}{hak021}{We all have gardens. May your journeys act as tending. Be well. I must seek audience with the gods now.}
-{199}{}{See ya.}
-{200}{}{I'm betting you carry your audience with you wherever you go. Be well.}
-{201}{hak022}{Look to the north, Chosen, and the way will be open.}
-{202}{}{Okay. Thanks.}
-{203}{hak023}{I am honored to serve the Chosen.}
-{204}{hak024}{Such is life. Two creates a third. You will need both xander root and broc flower for the healing powder.}
-{205}{}{Oh. Thanks}
-{206}{}{Poo.}
-{207}{hak025}{May this be of no use.}
-{208}{}{Okay. Thanks.}
-{209}{}{Uh!}
-{210}{hak026}{You are well.}
-{211}{}{Thank you.}
-{212}{}{No lessons? No incomprehensible speeches? You sure you're okay?}
-{213}{hak027}{Welcome, Chosen. Bless us with words that the GECK will be found soon. Our village ails, our need is great, our time, short.}
-{214}{}{Nuh.}
-{215}{}{And your ability to speak normally, non-existent. I'm still trying.}
-{216}{}{I'm on it. }
-{217}{}{Get off my back, old man. I'm doing the best I can.}
-{218}{}{I'm still looking, holy one. I hope to have the GECK soon.}
-{219}{hak028a}{May the Earth cushion the steps you must take.}
-{220}{hak028b}{May the Waters soothe your journey.}
-{221}{hak028c}{May the Wind guide you to your goal.}
-{222}{hak028d}{May the Fire toast your bottom until you get this done.}
+{197}{}{V?n đang xào đ? à? G?p l?i l?o sau.}
+{198}{hak021}{T?t c? chúng ta đ?u có m?t khu vư?n. C?u cho hành tr?nh c?a con c?ng đư?c gi?ng như làm vư?n v?y. H?y gi? g?n. Ta ph?i đi c?u nguy?n các đ?ng th?n linh đây.}
+{199}{}{G?p l?i sau.}
+{200}{}{Tôi ch?c là đi đâu l?o c?ng luôn l?m b?m trong đ?u. B?o tr?ng.}
+{201}{hak022}{H?y nh?n v? phía B?c, C?u tinh à, và l?i đi s? m? ra.}
+{202}{}{Okay. Cám ơn.}
+{203}{hak023}{Ta th?y th?t vinh d? đư?c ph?c v? C?u tinh.}
+{204}{hak024}{Cu?c s?ng là v?y. Hai t?o nên ba. Con s? c?n c? r? xander và hoa broc đ? ch? b?t ch?a thương.}
+{205}{}{?, cám ơn.}
+{206}{}{C?t.}
+{207}{hak025}{C?u cho th? này là không c?n thi?t.}
+{208}{}{Okay. Cám ơn.}
+{209}{}{?!}
+{210}{hak026}{Con ?n r?i.}
+{211}{}{Cám ơn.}
+{212}{}{Không có bài h?c nào? C?ng ch?ng có l?i d?y vô ngh?a nào à? L?o có ch?c là l?o v?n ?n không th??}
+{213}{hak027}{Chào m?ng, C?u tinh. H?y ban cho chúng ta l?i truy?n r?ng GECK s? s?m đư?c t?m th?y. Ngôi làng đang y?u d?n, chúng ta c?n quá nhi?u, nhưng th?i gian l?i quá ng?n.}
+{214}{}{N?.}
+{215}{}{Và ông v?n không nói đư?c như ngư?i b?nh thư?ng. Tôi v?n đang c? đây.}
+{216}{}{Tôi v?n đang t?m.}
+{217}{}{Bi?n đi l?o già. Tôi đang c? h?t s?c đây.}
+{218}{}{Tôi v?n đang t?m, thưa thánh nhân. Tôi hi v?ng s? s?m t?m th?y GECK.}
+{219}{hak028a}{C?u cho Đ?t ti?p s?c cho bư?c chân c?a con.}
+{220}{hak028b}{C?u cho Nư?c xuôi d?ng cu?c hành tr?nh c?a con.}
+{221}{hak028c}{C?u cho Gió d?n đư?ng con đ?n đích.}
+{222}{hak028d}{C?u cho L?a đ?t cháy mông thôi thúc con cho đ?n khi hoàn thành.}
 {223}{}{Cám ơn.}
-{224}{}{Say what?!}
-{225}{}{Uh.}
-{226}{}{Huh?!}
+{224}{}{Cái đm?!}
+{225}{}{?.}
+{226}{}{H??!}
 {227}{hak029}{Welcome back, Chosen. I see by your face the salvation of the GECK is not yet ours. Be tireless as the ant before our reserves run out. You are our last hope.}
 {228}{}{Uh-huh.}
 {229}{}{I'm trying. I'd like to see the ant covering the miles I am.}
@@ -147,7 +147,7 @@
 {246}{hak035}{Chosen? Chosen? Do you hear me? The village dies. All of our futures die, too. We have little left in both time and essence... Hurry. Hurry...}
 {247}{hak101}{Chosen - the shadow of darkness arrived before you.}
 {248}{}{Owwww!}
-{249}{}{What happened?}
+{249}{}{Chuy?n g? đ? x?y ra th??}
 {250}{}{You look bad. Let me help.}
 {251}{hak102}{Child of Nature, how could we put such a burden on your shoulders? (sigh) Your people have been taken.}
 {252}{}{Uhh?}
@@ -187,8 +187,8 @@
 {286}{hak120}{An ocean of tears, cried by a mother for her children.}
 {287}{}{Oh, the ocean. But what shall I do?}
 {288}{hak121}{A strange mist stole their minds and sent them to the land of Sleep. The evil ones walked among the dreamers, yet did not dream.}
-{289}{}{And then?}
+{289}{}{R?i sau đó?}
 {290}{hak122}{Too many seasons and too many wounds, Chosen. Instead, you must listen.}
-{291}{}{All right.}
+{291}{}{Đư?c r?i.}
 {300}{}{Those who steal carry a great burden. Remember this, Chosen One.}
 {301}{}{You must now pay for your sins, Chosen One.}

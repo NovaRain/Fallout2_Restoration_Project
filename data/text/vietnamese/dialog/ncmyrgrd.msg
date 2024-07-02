@@ -77,12 +77,12 @@
 {400}{}{Nope. Now piss OFF, you little shit.}
 {401}{}{I'm staying until you let me in. In fact, I'd like to see you TRY and move me.}
 {402}{}{I'm staying until you let me in. In fact, I'd like to see you sorry sacks of shit TRY and move me.}
-{404}{}{All right.}
+{404}{}{Đư?c r?i.}
 {411}{}{Neither have I...}
 {412}{}{Defend yourself.}
 {425}{}{Yeah? Lemme see. Hmmmm. (Checks badge, shrugs.) All right, but keep it quick. Myron's busy, and he don't
  like being disturbed.}
-{426}{}{Got it.}
+{426}{}{Hi?u r?i.}
 {435}{}{(Eyes roam up and down your body.) Yeah, for now... heh heh... though, I might need ANOTHER fill a little
  later on. When you're done inside, that is.}
 {436}{}{I'll... keep that in mind. Can I head on in?}

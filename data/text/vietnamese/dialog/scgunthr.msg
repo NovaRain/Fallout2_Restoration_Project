@@ -34,14 +34,14 @@
 {133}{}{I have no idea what you are talking about. Do you have real question?}
 {134}{}{I'm searching for Vault 13.}
 {135}{}{I understand the president has a job to be done.}
-{136}{}{Never mind.}
+{136}{}{Không có g?.}
 {137}{}{Ah yes. Well, she's instructed me to send in anyone asking about it. You're buzzed in. It's the door to my right.}
 {138}{}{Madam President is finished with you? How did things go?}
 {139}{}{Good. Me bye-bye.}
 {140}{}{Just fine. Now, I'm out of here.}
 {141}{}{Here to report the outcome of Vault 15?}
 {142}{}{Đúng v?y.}
-{143}{}{No.}
+{143}{}{Không.}
 {144}{}{Well, I'm sorry, but Madam President is very busy. Why don't you come back when the job is done?}
 {145}{}{Okay.}
 {146}{}{Excellent! I'll buzz you right in.}

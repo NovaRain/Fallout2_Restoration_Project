@@ -1,111 +1,111 @@
-{100}{}{You see Cameron, a fellow tribesman.}
-{101}{}{You see Cameron.}
+{100}{}{B?n th?y Cameron, m?t ngư?i đ?ng t?c.}
+{101}{}{B?n th?y Cameron.}
 {102}{}{B?n th?y m?t c?u trai tr? có cơ b?p cu?n cu?n v?i dáng v? r?t t? tin.}
-{103}{}{Greetings, }
-{104}{}{. I have the honor of being your final challenge. To continue in your quest you must defeat
- me in unarmed combat. Shall we begin?}
-{105}{}{Me got questions.}
-{106}{}{Okay, we fight.}
-{107}{}{No, me get ready first.}
-{108}{}{I've got some questions for you first.}
-{109}{}{Sure, let's party.}
-{110}{}{I think I need a moment to prepare for this.}
-{111}{}{What would you like to know? }
-{112}{}{Why we fight?}
-{113}{}{We fight to death?}
-{114}{}{We fight unarmed?}
-{115}{}{Okay, we fight now.}
-{116}{}{Me need get ready.}
-{117}{}{Why do we have to fight?}
-{118}{}{Is this a fight to the death?}
-{119}{}{You say that we are to fight unarmed?}
-{120}{}{Let's get this fight over with.}
-{121}{}{I need a moment to prepare for the fight.}
-{122}{}{The path of the Chosen One is not an easy trail to walk, }
-{123}{}{. You will be faced with many challenges throughout your lifetime, and the most difficult
- of these will be dealing with your fellow man. There will come a time when diplomacy and tact
- will prove to be useless and your hand must be raised instead. This challenge prepares you to face
- another human, look him in the eyes, and know that you may have to kill him.}
+{103}{}{Xin chào,}
+{104}{}{. Tôi có vinh d? đư?c làm th? thách cu?i cùng c?a anh. Đ? ti?p t?c nhi?m v?, anh ph?i th?ng
+tôi trong cu?c đ?u tay không. Chúng ta b?t đ?u đư?c ch??}
+{105}{}{Ng? mu?n h?i.}
+{106}{}{Đư?c, ta đánh.}
+{107}{}{Không, ng? s?n sàng trư?c.}
+{108}{}{Tôi có m?y câu c?n h?i trư?c.}
+{109}{}{Đư?c r?i, nh?y nào.}
+{110}{}{Tôi ngh? là m?nh c?n chu?n b? m?t chút.}
+{111}{}{Anh mu?n bi?t g? nào?}
+{112}{}{Sao ta l?i đánh?}
+{113}{}{Ta đánh đ?n ch?t?}
+{114}{}{Ta đánh tay không?}
+{115}{}{Okê, đánh thôi.}
+{116}{}{Ng? c?n s?n sàng.}
+{117}{}{T?i sao chúng ta l?i ph?i đánh nhau?}
+{118}{}{Chúng ta có c?n đánh nhau đ?n ch?t không?}
+{119}{}{Anh nói là chúng ta s? đánh tay không à?}
+{120}{}{H?y b?t đ?u tr?n đ?u nào.}
+{121}{}{Tôi c?n chu?n b? cho tr?n đ?u m?t chút.}
+{122}{}{Ch?ng đư?ng c?a C?u tinh không h? d? dàng,}
+{123}{}{. Anh s? ph?i đ?i di?n v?i r?t nhi?u th? thách trong su?t cu?c đ?i, và th? thách khó khăn nh?t
+chính là đ?i đ?u v?i ngư?i đ?ng t?c. S? có lúc l?i nói và ng? đi?u không có tác d?ng g? c?, ch? có
+th? gi?i quy?t b?ng n?m đ?m mà thôi. Th? thách này giúp anh đ?i m?t v?i ngư?i khác, nh?n th?ng
+vào m?t c?a h?n ta và bi?t r?ng anh có th? c?n ph?i gi?t h?n.}
 {124}{}{Okay.}
-{125}{}{I see.}
-{126}{}{No, my friend, you need only defeat me. When the time comes, we will end the battle.}
-{127}{}{Me understand.}
-{128}{}{All right.}
-{129}{}{Yes. Weapons tend to distance us from battle and desensitize the effects of our actions
- against others. When you strike another human being with your bare fist, you both see and feel the
- pain you cause. Battle becomes very personal and all too real then. This is an important lesson for
- you, }
+{125}{}{Hi?u r?i.}
+{126}{}{Không đâu, b?n tôi ơi. Anh ch? c?n đánh th?ng tôi. Đ?n lúc đó, chúng ta s? k?t thúc tr?n đ?u.}
+{127}{}{Ng? hi?u.}
+{128}{}{Đư?c r?i.}
+{129}{}{Đúng v?y. V? khí khi?n chúng ta gi? kho?ng cách v?i chi?n tr?n và không c?n ngh? v? h?u qu? c?a
+hành đ?ng c?a m?nh cho ngư?i khác. Khi dùng tay tr?n đ?m ngư?i khác, anh v?a nh?n th?y v?a
+c?m nh?n đư?c n?i đau đ?n mà m?nh gây ra. Tr?n đ?u s? tr? nên r?t th?t và mang tính cá nhân. Đây
+là m?t bài h?c quan tr?ng dành cho anh, }
 {130}{}{.}
-{131}{}{Me got it.}
-{132}{}{I understand.}
-{133}{}{Very well. Shall we begin?}
-{134}{}{Me ready.}
-{135}{}{No, me get ready first.}
-{136}{}{I'm ready.}
-{137}{}{No, I need some time to prepare.}
-{138}{}{Very well. Return and tell me when you are ready for your challenge.}
-{139}{}{Are you ready for your challenge, }
+{131}{}{Ng? hi?u r?i.}
+{132}{}{Tôi hi?u r?i.}
+{133}{}{Đư?c r?i. Chúng ta b?t đ?u đư?c ch??}
+{134}{}{Ng? s?n sàng.}
+{135}{}{Không, ng? s?n sàng trư?c.}
+{136}{}{Tôi đ? s?n sàng.}
+{137}{}{Chưa, tôi c?n chu?n b? m?t chút.}
+{138}{}{Đư?c r?i. Quay l?i b?o tôi khi nào anh đ? s?n sàng cho th? thách.}
+{139}{}{Anh đ? s?n sàng cho th? thách chưa, }
 {140}{}{?}
-{141}{}{Me ready. }
-{142}{}{Me not ready yet.}
-{143}{}{I think so.}
-{144}{}{No, give me a minute.}
-{145}{}{Excellent! Your equipment will be kept in the trunk outside of the room.
- You can get it after the fight. Let the fight begin! Good luck to you }
+{141}{}{Ng? s?n sàng. }
+{142}{}{Ng? chưa s?n sàng.}
+{143}{}{Tôi ngh? v?y.}
+{144}{}{Chưa, ch? tôi m?t phút.}
+{145}{}{Tuy?t l?m! Đ? c?a anh s? đư?c c?t trong thùng ? ph?ng ngoài.
+Anh có th? l?y l?i sau tr?n đ?u. H?y b?t đ?u nào! Chúc may m?n. }
 {146}{}{.}
-{147}{}{It is good to see you again, Chosen One. How may I help you?}
-{148}{}{Me want visit temple again.}
-{149}{}{Want fight again?}
-{150}{}{Just say hello. Me go now.}
-{151}{}{I'd like to visit the temple again.}
-{152}{}{Hello, Cameron. Ready for another fight?}
-{153}{}{Just thought I'd say hi. See you later.}
-{154}{}{Take the path to my left, Chosen One. It leads to the temple proper.
- The cave entrance behind me will return you to the last chamber.}
-{155}{}{Okay, me go.}
-{156}{}{All right. Thanks}
-{157}{}{No thank you, Chosen One. I still carry the bruises from our last encounter and will need
- years to recover!}
-{158}{}{Go bye, Cameron.}
-{159}{}{Ha! Good day to you, Cameron.}
-{160}{}{Chosen One, my ass. I am going to make you the dead one!}
-{161}{}{You have defeated me. You are worthy, Chosen One.}
-{165}{}{I disagree with you. I think that a peaceful solution to any problem is possible.}
-{166}{}{You may be correct, }
-{167}{}{, but not in our current situation. You must defeat me to succeed in your trial.}
-{168}{}{Look, I don't know all of your strengths and weaknesses, and you don't know mine.
- Accidents do happen, so what if one of us inadvertently kills the other? Let's just
- end this now rather than take that chance, okay?}
-{169}{}{Hmm... I see your point. I wouldn't want to be responsible for
- killing you when all I meant to do was test your mettle. Very well -- you may
- pass, Chosen One.}
-{170}{}{Hmm... I see your point. However, we must still do battle. I will
- simply take care not to hurt you too much.}
-{171}{}{Thanks! I'll see you back in the village.}
-{172}{}{I see.}
-{200}{}{I don't seem to remember our last battle, Chosen One. I will always wonder how you managed
- to get past me.}
-{201}{}{You have a tongue of purest silver, Chosen One. Your skill with words will open many doors
- for you.}
-{300}{}{And to you as well, Chosen One. May the spirits guide you on your quest.}
-{301}{}{Thanks, Cameron.}
-{302}{}{Chosen One, I could not help but notice that you lack strong combat skills. It has been my experience that you cannot always rely on your wits or words for protection. With your permission I will teach you a few things that I think you will find most useful.}
-{303}{}{Yes, you teach.}
-{304}{}{No, me not need.}
-{305}{}{Yes, please teach me all that you can.}
-{306}{}{Thanks, but I think I can handle myself just fine.}
-{307}{}{You learn well, Chosen One. I think you will be able to handle yourself in a fight now. However, remember that even the strongest of warriors must sometimes retreat. There is no shame in living to fight another day.}
-{308}{}{Me thank you, Cameron.}
-{309}{}{Thanks, Cameron. I will remember your words.}
-{310}{}{Very well. Return to me if you change your mind.}
-{311}{}{Me thank you, Cameron.}
-{312}{}{Thanks, Cameron. I will remember your offer.}
-{400}{}{Do you ever think about stepping down from your position as the Temple's final trial? I mean, it can be pretty risky.}
-{401}{}{Life is a constant series of risks, Chosen One. With each new dawn, every one of us takes a risk simply by stepping from our homes to greet the unknown day. Why do you ask?}
-{402}{}{No reason. I'll talk with you later, Cameron.}
-{403}{}{Well, I was just thinking about what happened to your predecessor, you know, during his battle with... uh, "He-Who-Must-Not-Be-Named".}
-{410}{}{Ah, that was a dark day, indeed, for our tribe lost two good men: one in body, the other in spirit. But the foul deed of that day is no concern of mine. My time will come when the Gods deem it so.}
-{411}{}{And may that day be a long time coming. Good day, Cameron.}
-{412}{}{Are they even going to have other people attempt the Temple? Hasn't it already been determined that I'm the Chosen One?}
-{420}{}{There will always be a need to test the might of our people. And I take great honor in doing my part.}
-{421}{}{Alright, I'll see you later, Cameron.}
+{147}{}{R?t vui đư?c g?p l?i, C?u tinh. Tôi có th? giúp g? nào?}
+{148}{}{Ng? mu?n vào l?i đ?n.}
+{149}{}{Mu?n đ?u l?i không?}
+{150}{}{Ch? chào thôi. Ng? đi gi?.}
+{151}{}{Tôi mu?n vào ngôi đ?n l?n n?a.}
+{152}{}{Chào, Cameron. S?n sàng đ?u thêm l?n n?a chưa?}
+{153}{}{Ch? t?t qua đ? chào h?i thôi. G?p l?i anh sau.}
+{154}{}{H?y đi theo đư?ng bên trái tôi, C?u tinh. Đ?y là l?i chính đi vào đ?n.
+C?ng hang đ?ng sau tôi s? đưa anh đ?n ph?ng cu?i cùng.}
+{155}{}{Đư?c, ng? đi.}
+{156}{}{Đư?c r?i. Cám ơn.}
+{157}{}{Không, cám ơn, C?u tinh. Tôi v?n c?n v?t s?o t? l?n đ?u trư?c và s? m?t nhi?u năm đ?
+ph?c h?i!}
+{158}{}{Đi đây chào, Cameron.}
+{159}{}{Ha! Chúc anh m?t ngày t?t lành, Cameron.}
+{160}{}{C?u tinh cái đ?u b?i. B? s? cho mày m?t tr?n!}
+{161}{}{Anh đ? đánh th?ng tôi. Anh x?ng đáng, C?u tinh ?.}
+{165}{}{Tôi không ngh? v?y. Tôi ngh? v?n đ? nào c?ng có th? gi?i quy?t trong h?a b?nh.}
+{166}{}{Có th? anh đúng, }
+{167}{}{, nhưng không ph?i lúc này. Anh c?n ph?i đánh b?i tôi đ? hoàn thành th? thách.}
+{168}{}{Nghe này, tôi không bi?t đi?m m?nh và đi?m y?u c?a anh, và anh c?ng v?y. S? c?
+có th? x?y ra, và n?u m?t trong s? chúng ta l? tay gi?t ngư?i kia th? sao? H?y k?t thúc
+tr?n đ?u luôn thay v? c? th?, đư?c ch??}
+{169}{}{H?m... nghe c?ng có lí. Tôi không mu?n ch?u trách nhi?m v? cái ch?t
+c?a anh mà ch? mu?n th? thách kh? năng thôi. Đư?c r?i -- anh có th?
+qua, C?u tinh.}
+{170}{}{H?m... nghe c?ng có lí. Tuy nhiên, chúng ta v?n ph?i đ?u. Tôi s?
+c? g?ng không đánh quá đau.}
+{171}{}{Cám ơn! G?p l?i ? làng sau.}
+{172}{}{Hi?u r?i.}
+{200}{}{Tôi không nh? tr?n đ?u đó th? nào, C?u tinh. Tôi luôn t? h?i làm th? nào mà anh l?i qua đư?c
+c?a c?a tôi.}
+{201}{}{Anh đúng là có cái lư?i d?o qu?o, C?u tinh ?. Kh? năng m?m mép s? giúp anh m? ra r?t nhi?u
+cánh c?a đ?y.}
+{300}{}{Anh c?ng v?y, C?u tinh. C?u cho các linh h?n d?n đư?ng cho anh trên cu?c hành tr?nh.}
+{301}{}{Cám ơn, Cameron.}
+{302}{}{C?u tinh, tôi th?y là anh thi?u các k? năng chi?n đ?u c?n thi?t. Theo kinh nghi?m c?a tôi, không ph?i lúc nào anh c?ng có th? x? trí ho?c dùng l?i đ? b?o v? b?n thân đư?c. N?u đư?c, tôi s? d?y cho anh vài đư?ng mà tôi ngh? là anh s? th?y có ích.}
+{303}{}{Đư?c, anh d?y.}
+{304}{}{Không, ng? không c?n.}
+{305}{}{Đư?c, h?y d?y tôi t?t c? nh?ng g? anh bi?t.}
+{306}{}{Cám ơn, nhưng tôi ngh? là tôi có th? t? m?nh gi?i quy?t m?i vi?c.}
+{307}{}{Anh h?c nhanh l?m, C?u tinh. Tôi ngh? là anh có th? t? m?nh chi?n đ?u đươc r?i. Tuy nhiên, h?y nh? là ngay c? nh?ng chi?n binh d?ng m?nh nh?t đôi khi c?ng c?n ph?i rút lui. Không vi?c g? ph?i x?u h? khi b?o toàn m?ng s?ng đ? ti?p t?c chi?n đ?u.}
+{308}{}{Ng? cám ơn, Cameron.}
+{309}{}{Cám ơn, Cameron. Tôi s? ghi nh? l?i anh.}
+{310}{}{Đư?c. Quay l?i đây n?u anh đ?i ?.}
+{311}{}{Ng? cám ơn, Cameron.}
+{312}{}{Cám ơn, Cameron. Tôi s? nh? đ? ngh? c?a anh.}
+{400}{}{Anh có bao gi? ngh? v? vi?c r?i kh?i v? trí th? thách cu?i cùng c?a Ngôi đ?n không? ? tôi là vi?c này nguy hi?m ph?t.}
+{401}{}{Cu?c s?ng lúc nào c?ng đ?y r?y nguy hi?m, C?u tinh à. M?i sáng th?c d?y, m?i ngư?i chúng ta đ?u m?o hi?m bư?c ra kh?i nhà đ? chào ngày m?i b?t đ?nh. Sao anh l?i h?i v?y?}
+{402}{}{Không có g?. Nói chuy?n v?i anh sau, Cameron.}
+{403}{}{?, tôi ch? ngh? v? đi?u đ? x?y ra v?i ngư?i ti?n nhi?m c?a anh, trong tr?n đ?u v?i... ?, "K?-không-đư?c-g?i-tên".}
+{410}{}{À, đó đúng là m?t ngày đen t?i, khi b? t?c chúng ta m?t hai ngư?i t?t: m?t thân th? và m?t linh h?n. Nhưng s? vi?c t?i t? hôm đó không ?nh hư?ng đ?n tôi. Th?i kh?c c?a tôi s? đ?n khi các Th?n quy?t đ?nh như v?y.}
+{411}{}{Và c?u cho ngày đó c?n xa m?i đ?n. Chào nhé, Cameron.}
+{412}{}{B?n h? v?n c?n ti?p t?c cho nh?ng ngư?i khác th? vào Đ?n à? Ch?ng ph?i tôi chính là C?u tinh sao?}
+{420}{}{Luôn c?n ph?i th? thách s? d?ng m?nh c?a nh?ng ngư?i trong b? t?c. Và tôi luôn vinh d? th?c hi?n ph?n vi?c c?a m?nh.}
+{421}{}{Đư?c r?i, g?p l?i anh sau, Cameron.}
