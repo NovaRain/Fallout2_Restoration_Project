@@ -160,7 +160,7 @@
 {530}{}{[Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.}
 {531}{}{I agree. He's quite the madman.}
 {540}{}{*clutches heart* Wahh.}
-{541}{}{Urgh.}
+{541}{}{Ch?c.}
 {542}{}{Dr. Wong!}
 {600}{}{You eliminate Dr. Sheng for the Shi.}
 {601}{}{You deliver the plant sample to Dr. Wong.}
