@@ -1,11 +1,11 @@
 {100}{}{You see a monk.}
 {101}{}{This monk looks like a trader.}
-{200}{}{Welcome traveler.}
+{200}{}{Xin chào, ngư?i l? khách.}
 {201}{}{B?nh an nhé.}
 {202}{}{Th?i ti?t đ?p đ?y.}
 {203}{}{Go play somewhere else.}
 {300}{}{Hi, how can I help you?}
-{301}{}{What can you tell me about your order?}
+{301}{}{Ông có th? nói g? v? h?i không?}
 {302}{}{H?y giao d?ch.}
 {303}{}{Chào.}
 {400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}

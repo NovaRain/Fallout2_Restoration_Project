@@ -10,7 +10,7 @@
 {302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
-{305}{}{Do you know where I could find Vault 13?}
+{305}{}{Ông có bi?t tôi có th? t?m Vault 13 ? đâu không?}
 {306}{}{Chào.}
 {307}{}{I am in need of some specific information.}
 {308}{}{Như là?}
