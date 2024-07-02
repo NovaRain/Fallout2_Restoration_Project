@@ -10,6 +10,10 @@ variable count;
 variable timer_shakes;
 variable msg;
 
+#define SHAKES_TIME (2*ONE_GAME_DAY)
+#define MEDIUM_ALCOHOL_USAGE_TIME (3*ONE_GAME_DAY)
+#define SPORADIC_ALCOHOL_USAGE_TIME ONE_GAME_WEEK
+#define DURATION_OF_ADDICTION ONE_GAME_WEEK
 #define INTERFACE_TAG_ADDICT 4
 
 #define MSG_FILE "k_alcohl.msg"
@@ -60,10 +64,10 @@ procedure drink(variable who, variable item) begin
     if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then return;
 
     // regular drinking increases chances
-    if ((game_time - last_drink_date) >= ONE_GAME_WEEK) then begin
+    if ((game_time - last_drink_date) >= SPORADIC_ALCOHOL_USAGE_TIME) then begin
         chance = 1;
     end
-    else if ((game_time - last_drink_date) >= (3 * ONE_GAME_DAY)) then begin
+    else if ((game_time - last_drink_date) >= MEDIUM_ALCOHOL_USAGE_TIME) then begin
         chance = 5;
     end
     else begin
@@ -124,7 +128,7 @@ procedure start begin
     time_of_addiction = get_sfall_global_int(SGVAR_time_of_alcohol_addiction);
 
     // shakes
-    if ((game_time - timer_shakes) >= (2 * ONE_GAME_DAY)) then begin
+    if ((game_time - timer_shakes) >= SHAKES_TIME) then begin
         if in_world_map then force_encounter(0);
         timer_shakes = game_time;
         if (count > 0) then
@@ -136,7 +140,7 @@ procedure start begin
     end
 
     // relief
-    if ((game_time - time_of_addiction) >= ONE_GAME_WEEK) then begin
+    if ((game_time - time_of_addiction) >= DURATION_OF_ADDICTION) then begin
         set_global_var(GVAR_ALCOHOL_ADDICT, 0);
         set_critter_stat(dude_obj, STAT_ag, 1);
         set_critter_stat(dude_obj, STAT_ch, 1);
