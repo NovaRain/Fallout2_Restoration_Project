@@ -38,7 +38,7 @@ bò cạp đâu. Sao cậu không xuống thử xem, cậu giai cứng cựa?}
 {610}{}{Nói ra thì hơi xấu hổ, nhưng do trước đây đi phượt với mấy đoàn lữ hành nhiều quá mà bây giờ ta thấy hốt
 khi chui xuống đất. Mấy bức tường cứ ép sát lại khiến ta đếch thở nổi... Chắc là cậu có thể giúp ta tìm hiểu xem
 chuyện gì đã xảy ra với Thầy Thomas được chứ?}
-{611}{}{Để tôi xem tôi có thể làm gì. Giờ thì hãy để tôi hỏi chuyện khác.}
+{611}{}{Để tôi xem tôi có thể làm gì, mà tôi muốn hỏi chuyện khác.}
 {612}{}{Chào.}
 {613}{}{Tôi là người cứng cựa, và vì vậy nên tôi sẽ dần cho ông một trận.}
 {700}{}{Cậu muốn biết gì nữa nào?}
