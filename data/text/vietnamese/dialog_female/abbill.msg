@@ -1,54 +1,54 @@
-{100}{}{B?n g?p thương gia Bill.}
-{101}{}{B?n g?p m?t thương gia có ngo?i h?nh đ?ng tu?i.}
-{200}{}{Xin chào, l? khách. Tên tôi là Bill. Tôi có th? giúp g? cho cô?}
-{201}{}{Chào m?ng quay l?i. Cô c?n thêm g? không?}
-{202}{}{H?y giao d?ch.}
-{203}{}{Tôi nghe nói mu?n bi?t v? đoàn l? hành th? đ?n g?p ông.}
-{204}{}{Không có g?. Xin chào.}
-{210}{}{Này, tôi th?y ? Tu vi?n h? đ? sưu t?p r?t nhi?u đ? và v?t d?ng c?.
-Tôi t? h?i li?u ông có t?m th?y th? g? đó... đ?c bi?t trong lúc ? đây không?}
-{211}{}{H?, v?y là cô c?ng đ? ? h?? Đúng v?y, nh?ng ngư?i ? Tu vi?n khá là thích nh?ng đ? trư?c chi?n tranh,
-nh?t là m?y món công ngh?. H? đ? d?ng lên c? m?t th? tôn giáo k? quái cho s? thích này. Tôi không hi?u l?m,
-nhưng h? là nh?ng ngư?i t?t và tr? đ?m ti?n cho b?t c? th? g? trư?c chi?n tranh mà tôi ki?m đư?c. Nhưng mà,
-th? g? đó đ?c bi?t à... H?m, [Ông ta li?c nh?n Marcus]. T?nh c? th?t đ?y, tôi có đúng th? này mà anh b?n
-đây có th? s? c?n.}
-{212}{}{H?, v?y là cô c?ng đ? ? h?? Đúng v?y, nh?ng ngư?i ? Tu vi?n khá là thích nh?ng đ? trư?c chi?n tranh,
-nh?t là m?y món công ngh?. H? đ? d?ng lên c? m?t th? tôn giáo k? quái cho s? thích này. Tôi không hi?u l?m,
-nhưng h? là nh?ng ngư?i t?t và tr? đ?m ti?n cho b?t c? th? g? trư?c chi?n tranh mà tôi ki?m đư?c. Nhưng mà,
-th? g? đó đ?c bi?t à... H?m, [Ông ta li?c nh?n nhóm c?a b?n]. R?t ti?c, tôi e là hi?n t?i tôi không có th? g?
-đ?c bi?t mà cô c?n.}
-{213}{}{V?y à. Th? th? xem ông đang có g? trong kho nào.}
-{214}{}{Đư?c r?i. Tôi mu?n h?i v? th? khác.}
+{100}{}{Bạn gặp thương gia Bill.}
+{101}{}{Bạn gặp một thương gia có ngoại hình đứng tuổi.}
+{200}{}{Xin chào, lữ khách. Tên tôi là Bill. Tôi có thể giúp gì cho cô?}
+{201}{}{Chào mừng quay lại. Cô cần thêm gì không?}
+{202}{}{Hãy giao dịch.}
+{203}{}{Tôi nghe nói muốn biết về đoàn lữ hành thì đến gặp ông.}
+{204}{}{Không có gì. Xin chào.}
+{210}{}{Này, tôi thấy ở Tu viện họ đã sưu tập rất nhiều đồ và vật dụng cũ.
+Tôi tự hỏi liệu ông có tìm thấy thứ gì đó... đặc biệt trong lúc ở đây không?}
+{211}{}{Hể, vậy là cô cũng để ý hả? Đúng vậy, những người ở Tu viện khá là thích những đồ trước chiến tranh,
+nhất là mấy món công nghệ. Họ đã dựng lên cả một thứ tôn giáo kì quái cho sở thích này. Tôi không hiểu lắm,
+nhưng họ là những người tốt và trả đẫm tiền cho bất cứ thứ gì trước chiến tranh mà tôi kiếm được. Nhưng mà,
+thứ gì đó đặc biệt à... Hừm, [Ông ta liếc nhìn Marcus]. Tình cờ thật đấy, tôi có đúng thứ này mà anh bạn
+đây có thể sẽ cần.}
+{212}{}{Hể, vậy là cô cũng để ý hả? Đúng vậy, những người ở Tu viện khá là thích những đồ trước chiến tranh,
+nhất là mấy món công nghệ. Họ đã dựng lên cả một thứ tôn giáo kì quái cho sở thích này. Tôi không hiểu lắm,
+nhưng họ là những người tốt và trả đẫm tiền cho bất cứ thứ gì trước chiến tranh mà tôi kiếm được. Nhưng mà,
+thứ gì đó đặc biệt à... Hừm, [Ông ta liếc nhìn nhóm của bạn]. Rất tiếc, tôi e là hiện tại tôi không có thứ gì
+đặc biệt mà cô cần.}
+{213}{}{Vậy à. Thế thì xem ông đang có gì trong kho nào.}
+{214}{}{Được rồi. Tôi muốn hỏi về thứ khác.}
 {215}{}{Như là?}
-{216}{}{Cô th?y đ?y, m?t đoàn l? hành có ghé qua ch? này cách đây không lâu, t? nh?n đ?n t? phía Nam xa xôi. H? nói
-b? m?t đám đ?t bi?n x?u xa t?n công (quay sang Marcus) tôi không có ? g? đâu, anh chàng to l?n ?. Mà r?i h? c? huyên
-thuyên v? vi?c đ? di?t g?n c? đám g?n n?a tá đ?t bi?n, c?n tôi th? cho r?ng đ?y ch? là chuy?n b? láo. ?y th? mà th?c t?
-là h? l?i có b?ng ch?ng.}
-{217}{}{?? Th? g? v?y?}
-{218}{}{M?t b? áo giáp kh?ng l? dành cho ngư?i đ?t bi?n mà h? đ? l?y ra đư?c t? m?t cái xác. D? nhiên, theo như tôi đoán th?
-có th? đám này đ? moi đư?c t? xương m?t g? đ?t bi?n đ? t?ch t? lâu mà h? t?nh c? g?p trong hoang m?c, nhưng ai mà
-bi?t đư?c? Dù sao th? h? c?ng không mu?n vác đ?ng t? đ?y m?i nên đ? bán cho tôi v?i giá đ?ng nát. Tôi c?n ch?ng bi?t
-s? làm g? v?i c?c n? này, nhưng ch?c v?n là món h?i.}
-{219}{}{Chà, tôi ch?c là Marcus có th? dùng đư?c th? này. Giá nhiêu th??}
-{220}{}{H?p d?n đ?y. Mà Marcus đ? c?ng r?i. Tôi e là b?n tôi s? không c?n th? này. Tôi mu?n h?i v? chuy?n khác.}
-{221}{}{?, c?c n? này b? n?i đun ra c?ng ph?i đúc đư?c t?m ba ho?c b?n b? giáp s?t. Ch?t giá 3000$ nhé.}
-{222}{}{Đư?c, tôi mua.}
-{223}{}{Ch?c là đ? sau đi. Tôi mu?n h?i v? chuy?n khác.}
-{224}{}{V?y là ch?t kèo. B? giáp này c?n đ?n hai ngư?i khiêng cơ, nên đ? tôi l?p đ? cho c?u b?n đây.}
-{225}{}{[Đ? xong]}
-{226}{}{?y, v?a zin luôn!}
-{300}{}{Ch?c là tôi bi?t đ?y. Cô mu?n h?i g? nào?}
-{301}{}{Bao lâu th? ông l?i nh?p hàng m?t l?n?}
-{302}{}{Đoàn l? hành có tuy?n ngư?i không?}
-{303}{}{Mà thôi, tôi ph?i đi đây.}
-{304}{}{Tôi nh?p hàng hai l?n m?i tháng. Nói th?t th? tôi ư?c g? b?n h? có th? đ?n thư?ng xuyên hơn, nhưng ch? kh? ho
-c? gáy này th? đành ch?p nh?n v?y thôi.}
-{305}{}{Tôi không ch?c l?m. Thư?ng th? nh?ng ngư?i đ?n đây đ?u đeo đ? kín ngư?i và không mu?n ? l?i quá lâu.
-Nhưng n?u cô mu?n nh?p đoàn v?i m?t trong s? h? th? tôi ch?c là có đoàn đi Redding ho?c th?m chí là đ?n
-t?n NCR. M?y đoàn này di chuy?n nhi?u và h? luôn c?n thêm ngư?i đ? l?c.}
-{306}{}{Hay đ?y. Tôi đang th?c m?c v? th? khác.}
-{307}{}{Cám ơn. Giao d?ch nào.}
-{308}{}{?, cám ơn v? thông tin. G?p ông sau.}
-{400}{}{Đ? t?m th?y nh?ng th? cô c?n chưa?}
-{401}{}{À tôi mu?n xem kho hàng thêm l?n n?a.}
-{402}{}{Tôi xong r?i. G?p ông sau.}
+{216}{}{Cô thấy đấy, một đoàn lữ hành có ghé qua chỗ này cách đây không lâu, tự nhận đến từ phía Nam xa xôi. Họ nói
+bị một đám đột biến xấu xa tấn công (quay sang Marcus) tôi không có ý gì đâu, anh chàng to lớn ạ. Mà rồi họ cứ huyên
+thuyên về việc đã diệt gọn cả đám gần nửa tá đột biến, còn tôi thì cho rằng đấy chỉ là chuyện bố láo. Ấy thế mà thực tế
+là họ lại có bằng chứng.}
+{217}{}{Ồ? Thứ gì vậy?}
+{218}{}{Một bộ áo giáp khổng lồ dành cho người đột biến mà họ đã lấy ra được từ một cái xác. Dĩ nhiên, theo như tôi đoán thì
+có thể đám này đã moi được từ xương một gã đột biến đã tạch từ lâu mà họ tình cờ gặp trong hoang mạc, nhưng ai mà
+biết được? Dù sao thì họ cũng không muốn vác đống tạ đấy mãi nên đã bán cho tôi với giá đồng nát. Tôi còn chẳng biết
+sẽ làm gì với cục nợ này, nhưng chắc vẫn là món hời.}
+{219}{}{Chà, tôi chắc là Marcus có thể dùng được thứ này. Giá nhiêu thế?}
+{220}{}{Hấp dẫn đấy. Mà Marcus đủ cứng rồi. Tôi e là bọn tôi sẽ không cần thứ này. Tôi muốn hỏi về chuyện khác.}
+{221}{}{Ồ, cục nợ này bỏ nồi đun ra cũng phải đúc được tầm ba hoặc bốn bộ giáp sắt. Chốt giá 3000$ nhé.}
+{222}{}{Được, tôi mua.}
+{223}{}{Chắc là để sau đi. Tôi muốn hỏi về chuyện khác.}
+{224}{}{Vậy là chốt kèo. Bộ giáp này cần đến hai người khiêng cơ, nên để tôi lắp đồ cho cậu bạn đây.}
+{225}{}{[Đã xong]}
+{226}{}{Ầy, vừa zin luôn!}
+{300}{}{Chắc là tôi biết đấy. Cô muốn hỏi gì nào?}
+{301}{}{Bao lâu thì ông lại nhập hàng một lần?}
+{302}{}{Đoàn lữ hành có tuyển người không?}
+{303}{}{Mà thôi, tôi phải đi đây.}
+{304}{}{Tôi nhập hàng hai lần mỗi tháng. Nói thật thì tôi ước gì bọn họ có thể đến thường xuyên hơn, nhưng chỗ khỉ ho
+cò gáy này thì đành chấp nhận vậy thôi.}
+{305}{}{Tôi không chắc lắm. Thường thì những người đến đây đều đeo đồ kín người và không muốn ở lại quá lâu.
+Nhưng nếu cô muốn nhập đoàn với một trong số họ thì tôi chắc là có đoàn đi Redding hoặc thậm chí là đến
+tận NCR. Mấy đoàn này di chuyển nhiều và họ luôn cần thêm người đủ lực.}
+{306}{}{Hay đấy. Tôi đang thắc mắc về thứ khác.}
+{307}{}{Cám ơn. Giao dịch nào.}
+{308}{}{Ồ, cám ơn vì thông tin. Gặp ông sau.}
+{400}{}{Đã tìm thấy những thứ cô cần chưa?}
+{401}{}{À tôi muốn xem kho hàng thêm lần nữa.}
+{402}{}{Tôi xong rồi. Gặp ông sau.}

@@ -1344,7 +1344,7 @@
 {1444}{}{Head Warrior}
 {1445}{}{Marli}
 {1446}{}{Villagers}
-{1447}{}{Th?y cúng}
+{1447}{}{Thầy cúng}
 {1448}{}{Ghost}
 {1449}{}{Tribal}
 {1450}{}{Kurisu}

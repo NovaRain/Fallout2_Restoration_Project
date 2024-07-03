@@ -1,3 +1,3 @@
-{100}{}{B?n nh?n m?t con vu?t t? th?n đáng s?.}
-{101}{}{B?n nh?n th?y m?t con vu?t t? th?n đ?y s?o. Nó th? ph? ph? m?t cách ch?m ch?p.}
-{102}{}{B?n nh?n đư?c 500 đi?m kinh nghi?m sau khi tiêu ti?t con quái v?t.}
+{100}{}{Bạn nhìn một con vuốt tử thần đáng sợ.}
+{101}{}{Bạn nhìn thấy một con vuốt tử thần đầy sẹo. Nó thở phì phò một cách chậm chạp.}
+{102}{}{Bạn nhận được 500 điểm kinh nghiệm sau khi tiêu tiệt con quái vật.}

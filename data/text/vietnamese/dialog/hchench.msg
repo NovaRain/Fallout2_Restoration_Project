@@ -25,7 +25,7 @@
 {204}{}{Không, cám ơn.}
 {205}{}{In that case, you wanna talk to Bill, the Outfitter of Broken Hills. He is inside that building over there.}
 {206}{}{I have some more questions.}
-{207}{}{Cám ơn. T?m bi?t.}
+{207}{}{Cám ơn. Tạm biệt.}
 {208}{}{You got questions, maybe I got answers. Whaddya wanna know?}
 {209}{}{What's he like?}
 {210}{}{Can he be trusted?}
@@ -42,7 +42,7 @@
 {219}{}{I have no idea what his history is. I mean, just about all of us caravan guards are drifters
  who came here for the job. Figure he's another one who had to vacate someplace else in a hurry. Any
  more questions?}
-{220}{}{Đúng v?y.}
+{220}{}{Đúng vậy.}
 {221}{}{Không.}
 {222}{}{All right. See ya, then.}
 {223}{}{Chào.}

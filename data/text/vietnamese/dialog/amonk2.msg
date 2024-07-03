@@ -1,11 +1,11 @@
-{100}{}{You see a monk.}
-{101}{}{You see a holy woman.}
-{102}{}{B?n th?y m?t th?y tu b?nh thư?ng c?a Tu vi?n.}
-{103}{}{You see a regular Abbey nun.}
-{200}{}{Greetings.}
-{201}{}{Welcome to the Abbey.}
-{202}{}{You should talk to our leader if you wish to gain any information.}
-{203}{}{Good day... or is it night already?}
-{204}{}{There's so much work that must be done.}
-{205}{}{Life here at the Abbey is a peaceful one. Something rare in these wretched wastes.}
-{500}{}{D?ng l?i!}
+{100}{}{Bạn thấy một thầy tu.}
+{101}{}{Bạn thấy một nữ tu thần thánh.}
+{102}{}{Bạn thấy một thầy tu bình thường của Tu viện.}
+{103}{}{Bạn thấy một nữ tu bình thường của Tu viện.}
+{200}{}{Xin chào.}
+{201}{}{Chào mừng tới Tu viện.}
+{202}{}{Hãy nói chuyện với trụ trì nếu muốn tìm thông tin.}
+{203}{}{Chào ngày mới... hay là đêm rồi?}
+{204}{}{Nhiều việc phải làm quá.}
+{205}{}{Cuộc sống tại Tu viện rất yên bình. Đúng là nơi hiếm hoi ở chốn hoang tàn khốn khổ này.}
+{500}{}{Dừng lại!}

@@ -1,51 +1,51 @@
-{100}{}{B?n th?y m?t th?y tu trung niên.}
-{101}{}{B?n th?y Th?y Matthew.}
-{102}{}{Ông ta đang đ?ng trên b?c gi?ng kinh cho ngư?i dân c?a Tu vi?n.}
-{200}{}{Nh?ng cư dân thi?n lành c?a Tu vi?n. H?y dành th?i gian l?ng nghe, v? ta có nhi?u đi?u mu?n nói.}
-{201}{}{T?i đây, chúng ta thu th?p nh?ng đ? thánh tích t? quá kh? xa xưa.}
-{202}{}{B? tr?n Đ?i h?a thiêu r?i, chúng ta ch?m vào đêm đen.}
-{203}{}{D?ng nên Kho k? v?t, chúng ta b?o t?n trí tu? xưa c?.}
-{204}{}{Chúng ta ph?i canh gác và gi? g?n, dù cho ng?n l?a đ? tàn;}
-{205}{}{L?a v?n có th? bùng lên, n?u trí tu? b? dùng cho m?c đích sai trái.}
-{206}{}{Và không ai có th? h?c h?i đư?c n?a, trong n?i s? tr?n Đ?i h?a.}
-{207}{}{Nhưng m?t ngày, nhân lo?i s? vư?t lên đư?c ham mu?n tàn phá.}
-{208}{}{Và Kho k? v?t s? ? đó, ch? đư?c đưa tr? l?i.}
-{209}{}{V? v?y chúng ta h?y th?c hành ngh?a v? thiêng liêng c?a m?nh,
-k?o t?t c? trí tu? s? ch?m vào s? l?ng quên.}
-{210}{}{Chúng ta ph?i lưu gi? và b?o v?, nhưng không đư?c phép s? d?ng.}
-{211}{}{V?y nên gi? đây, các b?n c?a ta, h?y đ? tâm h?n đư?c nâng đ?;}
-{212}{}{V?i tư cách ngư?i b?o v? ki?n th?c, m?i ngư?i trong chúng ta, đ?u đư?c ban phư?c.}
-{213}{}{Gi? th? h?y dành th?i gian đ? suy ng?m v? nh?ng đi?u ta v?a nói.}
-{224}{}{Gi? th? h?y dành th?i gian đ? suy ng?m v? nh?ng đi?u ta v?a nói.}
-{300}{}{Xin chào, ngư?i b?n. Ta ngh? r?ng m?nh chưa t?ng g?p b?n ? đây trư?c kia. Tên ta là Th?y Matthew và ta
-giúp truy?n bá v? t?m quan tr?ng c?a vi?c gi? g?n ki?n th?c c?a ti?n nhân.}
-{301}{}{R?t vui đư?c g?p ông Matt. Tên tôi là }
-{302}{}{ và tôi đang trên đư?ng đi t?m GECK th?n thánh.}
-{303}{}{Xin l?i, tôi ph?i đi đây.}
-{400}{}{GECK à? Ta nh? là h?nh như ta đ? đ?c đi?u g? đó v? th? này trong m?t l?n phiên d?ch sách. V?y nên th? này h?n
-ph?i có trong cơ s? d? li?u, nhưng ta e là máy tính c?a chúng ta b? h?n ch? quy?n truy c?p. Tuy v?y, n?u b?n h?i
-Th?y tr? tr? th? có th? b?n s? đư?c c?p quy?n. C?ng đâu có m?t g?. ?, và c? t? do ng?m qua b? sưu t?p các đ? k? v?t
-trư?c chi?n tranh ? đây. Đúng ra th? ta s? yêu c?u b?n không làm h?ng th? g?, nhưng ta e là m?i th? đ?u h?ng r?i.}
-{401}{}{Ch?c là tôi s? làm v?y. Mà tôi có vài câu h?i.}
-{402}{}{Cám ơn. Đ? tôi đi h?i ngay.}
-{500}{}{S?n l?ng ph?c v? b?n. B?n mu?n bi?t g? nào?}
-{501}{}{Ông có th? nói g? v? nơi này?}
-{502}{}{Ông có v? v?a thuy?t gi?ng v?a làm thơ. Có lí do g? không?}
-{503}{}{Không có g?. B?o tr?ng.}
-{600}{}{Tu vi?n chào đón t?t c?, mi?n là h? không gây r?c r?i. Chúng ta là m?t c?ng đ?ng đ?c l?p và thi tho?ng m?i có khách
-như b?n. H?u h?t nh?ng ngư?i b?n th?y ? đây đ?u là h?u du? c?a nh?ng ngư?i sáng l?p ban đ?u v?n đ?nh cư ? tu vi?n
-c? này không lâu sau tr?n Đ?i H?a.}
-{601}{}{Ti?p t?c đi.}
-{602}{}{S? yên t?nh và b?nh yên t?i nơi này đ? khi?n tu vi?n tr? thành ngôi nhà h?p d?n nhi?u l? khách khác ghé vào 
-trong nhi?u năm, t?m ki?m nơi ?n tr?n kh?i s? h?n lo?n u ám c?a hoang m?c. D? nhiên, giá tr? th?c s? c?a nơi này
-n?m ? thư vi?n đ? s? x?p đ?y nh?ng cu?n sách c?, ch?a đ?ng trí tu? k? l? c?a th?i đ? m?t. Theo th?i gian, chúng ta
-d?n t? coi m?nh là ngư?i gi? g?n và b?o v? ngu?n trí tu? này.}
-{603}{}{Thú v? đ?y. Đ? tôi h?i câu khác.}
-{604}{}{Hay đ?y. Mà tôi ph?i đi đây.}
-{700}{}{[Ông ta cư?i khúc khích trư?c câu h?i c?a b?n] Không, không có lí do g? c?. Ta ch? đ?c r?t nhi?u thơ trong su?t
-cu?c đ?i và thích đưa thơ vào l?i thuy?t gi?ng. Vi?c đó t?o ra ?n tư?ng l?n hơn cho ngư?i nghe.}
-{701}{}{C?ng đúng. Đ? tôi h?i câu khác.}
-{800}{}{R?t vui đư?c g?p l?i b?n }
-{801}{}{. Ta có th? giúp g? cho b?n?}
-{802}{}{Tôi có vài câu h?i.}
-{803}{}{Không có g?. G?p l?i ông sau.}
+{100}{}{Bạn thấy một thầy tu trung niên.}
+{101}{}{Bạn thấy Thầy Matthew.}
+{102}{}{Ông ta đang đứng trên bục giảng kinh cho người dân của Tu viện.}
+{200}{}{Những cư dân thiện lành của Tu viện. Hãy dành thời gian lắng nghe, vì ta có nhiều điều muốn nói.}
+{201}{}{Tại đây, chúng ta thu thập những đồ thánh tích từ quá khứ xa xưa.}
+{202}{}{Bị trận Đại hỏa thiêu rụi, chúng ta chìm vào đêm đen.}
+{203}{}{Dựng nên Kho kỉ vật, chúng ta bảo tồn trí tuệ xưa cũ.}
+{204}{}{Chúng ta phải canh gác và giữ gìn, dù cho ngọn lửa đã tàn;}
+{205}{}{Lửa vẫn có thể bùng lên, nếu trí tuệ bị dùng cho mục đích sai trái.}
+{206}{}{Và không ai có thể học hỏi được nữa, trong nỗi sợ trận Đại hỏa.}
+{207}{}{Nhưng một ngày, nhân loại sẽ vượt lên được ham muốn tàn phá.}
+{208}{}{Và Kho kỉ vật sẽ ở đó, chờ được đưa trở lại.}
+{209}{}{Vì vậy chúng ta hãy thực hành nghĩa vụ thiêng liêng của mình,
+kẻo tất cả trí tuệ sẽ chìm vào sự lãng quên.}
+{210}{}{Chúng ta phải lưu giữ và bảo vệ, nhưng không được phép sử dụng.}
+{211}{}{Vậy nên giờ đây, các bạn của ta, hãy để tâm hồn được nâng đỡ;}
+{212}{}{Với tư cách người bảo vệ kiến thức, mỗi người trong chúng ta, đều được ban phước.}
+{213}{}{Giờ thì hãy dành thời gian để suy ngẫm về những điều ta vừa nói.}
+{224}{}{Giờ thì hãy dành thời gian để suy ngẫm về những điều ta vừa nói.}
+{300}{}{Xin chào, người bạn. Ta nghĩ rằng mình chưa từng gặp bạn ở đây trước kia. Tên ta là Thầy Matthew và ta
+giúp truyền bá về tầm quan trọng của việc giữ gìn kiến thức của tiền nhân.}
+{301}{}{Rất vui được gặp ông Matt. Tên tôi là }
+{302}{}{ và tôi đang trên đường đi tìm GECK thần thánh.}
+{303}{}{Xin lỗi, tôi phải đi đây.}
+{400}{}{GECK à? Ta nhớ là hình như ta đã đọc điều gì đó về thứ này trong một lần phiên dịch sách. Vậy nên thứ này hẳn
+phải có trong cơ sở dữ liệu, nhưng ta e là máy tính của chúng ta bị hạn chế quyền truy cập. Tuy vậy, nếu bạn hỏi
+Thầy trụ trì thì có thể bạn sẽ được cấp quyền. Cũng đâu có mất gì. Ồ, và cứ tự do ngắm qua bộ sưu tập các đồ kỉ vật
+trước chiến tranh ở đây. Đúng ra thì ta sẽ yêu cầu bạn không làm hỏng thứ gì, nhưng ta e là mọi thứ đều hỏng rồi.}
+{401}{}{Chắc là tôi sẽ làm vậy. Mà tôi có vài câu hỏi.}
+{402}{}{Cám ơn. Để tôi đi hỏi ngay.}
+{500}{}{Sẵn lòng phục vụ bạn. Bạn muốn biết gì nào?}
+{501}{}{Ông có thể nói gì về nơi này?}
+{502}{}{Ông có vẻ vừa thuyết giảng vừa làm thơ. Có lí do gì không?}
+{503}{}{Không có gì. Bảo trọng.}
+{600}{}{Tu viện chào đón tất cả, miễn là họ không gây rắc rối. Chúng ta là một cộng đồng độc lập và thi thoảng mới có khách
+như bạn. Hầu hết những người bạn thấy ở đây đều là hậu duệ của những người sáng lập ban đầu vốn định cư ở tu viện
+cũ này không lâu sau trận Đại Hỏa.}
+{601}{}{Tiếp tục đi.}
+{602}{}{Sự yên tĩnh và bình yên tại nơi này đã khiến tu viện trở thành ngôi nhà hấp dẫn nhiều lữ khách khác ghé vào 
+trong nhiều năm, tìm kiếm nơi ẩn trốn khỏi sự hỗn loạn u ám của hoang mạc. Dĩ nhiên, giá trị thực sự của nơi này
+nằm ở thư viện đồ sộ xếp đầy những cuốn sách cổ, chứa đựng trí tuệ kì lạ của thời đã mất. Theo thời gian, chúng ta
+dần tự coi mình là người giữ gìn và bảo vệ nguồn trí tuệ này.}
+{603}{}{Thú vị đấy. Để tôi hỏi câu khác.}
+{604}{}{Hay đấy. Mà tôi phải đi đây.}
+{700}{}{[Ông ta cười khúc khích trước câu hỏi của bạn] Không, không có lí do gì cả. Ta chỉ đọc rất nhiều thơ trong suốt
+cuộc đời và thích đưa thơ vào lời thuyết giảng. Việc đó tạo ra ấn tượng lớn hơn cho người nghe.}
+{701}{}{Cũng đúng. Để tôi hỏi câu khác.}
+{800}{}{Rất vui được gặp lại bạn }
+{801}{}{. Ta có thể giúp gì cho bạn?}
+{802}{}{Tôi có vài câu hỏi.}
+{803}{}{Không có gì. Gặp lại ông sau.}

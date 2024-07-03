@@ -1,35 +1,35 @@
-{100}{}{B?n th?y m?t n? tu m?p m?p.}
-{101}{}{B?n th?y Elaine.}
-{102}{}{B?n v?n th?y bà ta.}
+{100}{}{Bạn thấy một nữ tu mập mạp.}
+{101}{}{Bạn thấy Elaine.}
+{102}{}{Bạn vẫn thấy bà ta.}
 {200}{}{Xin chào!}
-{201}{}{Chào, tên bà là g??}
-{202}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
+{201}{}{Chào, tên bà là gì?}
+{202}{}{Bà có thể kể gì cho tôi về Tu viện?}
 {203}{}{Chào.}
-{300}{}{N?u c?u mu?n t?m hi?u thêm v? h?i c?a chúng tôi, h?y nói chuy?n v?i Tr? tr?. C?u có th? t?m th?y ông trong ph?ng riêng ? t?ng ba.}
-{301}{}{Tôi hi?u r?i. H?i thêm nhé...}
-{400}{}{D? nhiên r?i. C?u mu?n bi?t g? nào?}
-{401}{}{Tên bà là g??}
-{402}{}{Không có g?, chào nhé.}
-{403}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
+{300}{}{Nếu cậu muốn tìm hiểu thêm về hội của chúng tôi, hãy nói chuyện với Trụ trì. Cậu có thể tìm thấy ông trong phòng riêng ở tầng ba.}
+{301}{}{Tôi hiểu rồi. Hỏi thêm nhé...}
+{400}{}{Dĩ nhiên rồi. Cậu muốn biết gì nào?}
+{401}{}{Tên bà là gì?}
+{402}{}{Không có gì, chào nhé.}
+{403}{}{Bà có thể kể gì cho tôi về Tu viện?}
 {500}{}{Tôi tên là Elaine.}
-{501}{}{Tôi hi?u r?i. H?i thêm nhé...}
-{600}{}{Này! Trư?c khi đi, có l? c?u có th? giúp tôi m?t vi?c. Tôi c?n ph?i mang b? ph?n máy này cho Max ? ph?ng
-sao ch?p dư?i t?ng h?m. Nhưng c?u th?y đ?y, cái đ?u g?i bên trái c?a tôi d?o này sưng tư?ng lên, làm tôi đau ê ?m
-m?i l?n lên xu?ng c?u thang. N?u không phi?n th? c?u có th? mang th? này cho ông ta h? tôi đư?c không?}
-{601}{}{Đư?c thôi.}
-{602}{}{Xin l?i, tôi không có th?i gian. Xin chào.}
-{603}{}{Trông tôi có gi?ng nhân viên v?n chuy?n cá nhân c?a bà không? T? đi mà làm l?y đi, con m? béo ?ch. Chào.}
-{604}{}{Cám ơn! B? ph?n đây. Ph?ng sao ch?p ? dư?i t?ng h?m. C? đi theo c?u thang đ?ng sau Th?y Matthew trong
-khu v?c nhà th?.}
-{605}{}{Không v?n đ?. [B?n nh?n b? ph?n]. Tôi s? chuy?n xu?ng cho Max ngay đây.}
-{700}{}{Ng? }
+{501}{}{Tôi hiểu rồi. Hỏi thêm nhé...}
+{600}{}{Này! Trước khi đi, có lẽ cậu có thể giúp tôi một việc. Tôi cần phải mang bộ phận máy này cho Max ở phòng
+sao chụp dưới tầng hầm. Nhưng cậu thấy đấy, cái đầu gối bên trái của tôi dạo này sưng tướng lên, làm tôi đau ê ẩm
+mỗi lần lên xuống cầu thang. Nếu không phiền thì cậu có thể mang thứ này cho ông ta hộ tôi được không?}
+{601}{}{Được thôi.}
+{602}{}{Xin lỗi, tôi không có thời gian. Xin chào.}
+{603}{}{Trông tôi có giống nhân viên vận chuyển cá nhân của bà không? Tự đi mà làm lấy đi, con mụ béo ịch. Chào.}
+{604}{}{Cám ơn! Bộ phận đây. Phòng sao chụp ở dưới tầng hầm. Cứ đi theo cầu thang đằng sau Thầy Matthew trong
+khu vực nhà thờ.}
+{605}{}{Không vấn đề. [Bạn nhận bộ phận]. Tôi sẽ chuyển xuống cho Max ngay đây.}
+{700}{}{Ngộ }
 {701}{}{. Ai bà?}
-{710}{}{Hehe. Tên đ?p.}
+{710}{}{Hehe. Tên đẹp.}
 {711}{}{Chào!}
-{720}{}{C?u nh? này đ?c bi?t th?t đ?y! Li?u c?u có th? GIÚP tôi và làm tr? th? đ?c bi?t hôm nay c?a tôi đư?c không?}
-{721}{}{Cô nh? này đ?c bi?t th?t đ?y! Li?u cô có th? GIÚP tôi và làm tr? th? đ?c bi?t hôm nay c?a tôi đư?c không?}
-{722}{}{Ng? đ?c bi?t. Ng? giúp.}
-{723}{}{Ng? không làm giúp.}
-{730}{}{Th?t à? Tuy?t! Vui l?ng c?m b? ph?n máy này xu?ng cho Max ? ph?ng sao ch?p. Ông ta ? dư?i T?NG H?M. Đư?c ch??}
-{731}{}{Ng? không th?t v?ng bà!}
-{740}{}{Gi? th? c?u c? ?i ti?p đi.}
+{720}{}{Cậu nhỏ này đặc biệt thật đấy! Liệu cậu có thể GIÚP tôi và làm trợ thủ đặc biệt hôm nay của tôi được không?}
+{721}{}{Cô nhỏ này đặc biệt thật đấy! Liệu cô có thể GIÚP tôi và làm trợ thủ đặc biệt hôm nay của tôi được không?}
+{722}{}{Ngộ đặc biệt. Ngộ giúp.}
+{723}{}{Ngộ không làm giúp.}
+{730}{}{Thật à? Tuyệt! Vui lòng cầm bộ phận máy này xuống cho Max ở phòng sao chụp. Ông ta ở dưới TẦNG HẦM. Được chứ?}
+{731}{}{Ngộ không thất vọng bà!}
+{740}{}{Giờ thì cậu cứ ủi tiếp đi.}

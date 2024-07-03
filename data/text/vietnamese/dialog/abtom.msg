@@ -1,59 +1,59 @@
-{100}{}{B?n th?y m?t ông l?o lưng c?ng.}
-{101}{}{Ông l?o già nua đ?y mùi m? hôi và có th? là c? nư?c ti?u. Ông ta m?c đ? rách rư?i, l?m lem bùn đ?t và đang c?m x?ng.}
-{102}{}{B?n th?y Tom.}
-{200}{}{[Ông l?o gi?t b?n m?nh khi th?y b?n l?i g?n]. ?, này, tôi ph?i đi đây...}
-{201}{}{Hư?m đ?. [B?n túm l?y cánh tay c?a ông ta khi ông ta b?t đ?u bư?c đi]. Ông là ai, ông đang làm g? ? đây vào
-gi? này?}
-{202}{}{Cái g?? T?i sao, ?... tôi là Tom. Ch?ng l? m?t ngư?i già c? không đư?c đi d?o đêm mà không b? tra t?n b?ng m?t đ?ng
-câu h?i n?a à?}
-{203}{}{Không h? khi ông đang lén lút như k? tr?m, l?i c?n vác x?ng n?a.}
-{204}{}{Đư?c r?i, nhưng sao ông l?i c?m c? x?ng theo?}
-{205}{}{Sao c?ng đư?c, tôi đi đây.}
-{206}{}{Không có g?. Xin l?i đ? làm phi?n.}
-{207}{}{? c?u là th? c? k? này? [Ông ta li?c nh?n cái x?ng r? sét trên tay]. ? th?, ai mà bi?t đư?c lúc nào có th? t?m th?y
-th? g? đó c?n đư?c đào lên. Chu?n b? thôi mà.}
-{208}{}{T?m th?y g? đó h?? ? ông là m?t ngôi m??}
-{209}{}{S?ng có chu?n b? như v?y là t?t. ?, b?o tr?ng nhé.}
-{210}{}{[Tom tr?n m?t] Tôi không ch?c là, ?, ? c?u là g?.}
-{211}{}{Tôm, ông đang ? trong ngh?a trang, ngư?i ông l?m đ?y bùn đ?t và đ? quá n?a đêm r?i. Sao h?, ngay c? g? Torr
-c?ng ngh? ra. Đ? đ?n lúc tr? l?i tôi r?i, Tom. T?i sao ông l?i đào nh?ng ngôi m? này lên?}
-{212}{}{[Ông ta đ?t x?ng xu?ng và th? dài]. Đư?c r?i, tôi s? nói. Thân th? tôi không c?n đư?c như xưa n?a. Tôi không
-có vi?c làm và ch?ng bi?t ki?m ăn b?ng cách nào. Tôi bi?t đào tr?m m? không ph?i là đi?u t?t, nhưng đây là cách đ? tôi
-ki?m m?t chút ti?n. Tôi ch? c? s?ng thôi... tôi không đ?nh phá ho?i g? c?.}
-{213}{}{Tôi không ngh? r?ng đi đào tr?m m? là vi?c mà ngư?i như ông nên làm. Bi?t g? không? C? ti?p t?c ra kh?i đây
-và chúng ta s? coi như chưa t?ng g?p nhau. Tôi không mu?n th?y ông c?n lu?n qu?n ? đây n?a, đư?c ch??}
-{214}{}{[Ông l?o trông có v? như mu?n ph?n đ?i, r?i d?ng l?i]. Đươc r?i, c?u là nh?t. C?u đ? đ?y Tom già nua xu?ng t?n
-đáy r?i. [Ông ta nh?t x?ng lên r?i lê bư?c đi].}
-{215}{}{Mà ngh? l?i th? ch?c th? gi?i s? t?t đ?p hơn n?u tôi gi?t ông.}
-{216}{}{V?nh bi?t Tom.}
-{217}{}{Tôi nghe nói ông c?n ăn tr?m cây tr?ng c?a nông dân ? quanh đây.}
-{218}{}{[Ông l?o run r?y]. Tôi bi?t làm th? nào đư?c! Tôi đói m? c? m?t c?n m?y cái cây th? trông ngon quá. Làm ơn đi,
-tôi không đ?nh gây h?i g?. Nghe này, tôi s? bi?n kh?i đây và c?u s? không c?n nh?n th?y tôi n?a. Tôi h?a đ?y!}
-{219}{}{Đư?c r?i, h?y đi đi. Trư?c khi tôi đ?i ?.}
-{220}{}{Ch? đ?, không c?n ph?i v?y. Nhà Peterson, ch? c?a khu ru?ng này là nh?ng ngư?i r?t t?t b?ng. Ông Peterson
-th?m chí c?n s?n sàng nói chuy?n v?i ngư?i đ? ăn tr?m cây tr?ng đ? đưa ra th?a thu?n h?p t?nh n?a. H?y đ?n
-nói chuy?n v?i anh ta. Tôi ch?c là anh ta có th? giúp ông b?ng cách nào đó.}
-{221}{}{[Ông l?o sáng m?t lên]. Đi?u đó nghe không t? chút nào. Này, cám ơn nhé. Có l? th? gi?i này không t? h?i như
-tôi đ? t?ng ngh?.}
-{222}{}{B?o tr?ng nhé, Tom. Tôi s? quay l?i sau đ? xem m?i chuy?n th? nào.}
-{223}{}{Tôi r?t hi v?ng là thanh niên Peterson này thân thi?n như l?i c?u nói.}
-{300}{}{B?n th?y Tom. Ông ta m?c đ? lao đ?ng m?i và đang vui v? hu?t sáo.}
-{301}{}{Ô k?a! ?, c?u đ? đúng. Ông Peterson đúng là m?t thanh niên t?t b?ng. C?u ta đ? tha th? cho tôi và th?m chí
-c?n nh?n tôi vào cày ru?ng n?a. C?u ta nói sau khi tôi tr? h?t s? lương th?c mà tôi đ? l?y, tôi s? b?t đ?u đư?c
-nh?n lương tu?n. Cám ơn đ? giúp đ?.}
-{302}{}{Không có g?, Tom. Gi? th? ông h?y b?o tr?ng nhé.}
-{303}{}{Đư?c r?i tôi ư?c- ?, ch? m?t chút. Tôi mu?n t?ng c?u th? g? đó v? đ? giúp đ? ông già này. Tôi t?m th?y cái
-b?t l?a này trong m? m?t cô gái mà tôi đ? đào lên m?y tu?n trư?c. Hi v?ng là nó s? có ích cho c?u.}
-{304}{}{Cám ơn, Tom. Tôi ch?c là th? này s? có ích. G?p l?i ông sau.}
-{305}{}{(Ông l?o g?t đ?u và ti?p t?c công vi?c).}
-{306}{}{[K?T THÚC]}
-{307}{}{Xin chào. Cám ơn v? m?i th?!}
-{308}{}{*Hu?t sáo*}
-{400}{}{L? thanh niên không bi?t đi?u. Mày đâu ph?i b? tao. Tao s? gi?t mày.}
-{450}{}{Nghe này, tôi c?ng đi đào m? r?i. Tôi hơi m?c ch?ng cu?ng ăn tr?m. Lí do c?a ông là g??}
-{451}{}{Tom, tôi không l? l?m v?i vi?c đào m?. Ai c?ng c?n thú vui cho riêng m?nh. Gi? th? ông c? đi đi.}
-{1000}{}{B?n t?m ra ngư?i đ? đào m? và giúp Tom có m?t cu?c s?ng m?i.}
-{1001}{}{B?n t?m ra ngư?i đ? đào m?.}
-{1002}{}{Tôi đi đây. Đâu c?n ph?i gi?c ngư?i già c? ch?.}
-{1003}{}{B?n th?y Tom. Ông l?o tươi cư?i trong b? qu?n áo lao đ?ng m?i.}
-{1004}{}{Ông ta trông có v? t?t hơn nhi?u và m?m cư?i khi b?n l?i g?n.}
+{100}{}{Bạn thấy một ông lão lưng còng.}
+{101}{}{Ông lão già nua đầy mùi mồ hôi và có thể là cả nước tiểu. Ông ta mặc đồ rách rưới, lấm lem bùn đất và đang cầm xẻng.}
+{102}{}{Bạn thấy Tom.}
+{200}{}{[Ông lão giật bắn mình khi thấy bạn lại gần]. Ờ, này, tôi phải đi đây...}
+{201}{}{Hượm đã. [Bạn túm lấy cánh tay của ông ta khi ông ta bắt đầu bước đi]. Ông là ai, ông đang làm gì ở đây vào
+giờ này?}
+{202}{}{Cái gì? Tại sao, ờ... tôi là Tom. Chẳng lẽ một người già cả không được đi dạo đêm mà không bị tra tấn bằng một đống
+câu hỏi nữa à?}
+{203}{}{Không hề khi ông đang lén lút như kẻ trộm, lại còn vác xẻng nữa.}
+{204}{}{Được rồi, nhưng sao ông lại cầm cả xẻng theo?}
+{205}{}{Sao cũng được, tôi đi đây.}
+{206}{}{Không có gì. Xin lỗi đã làm phiền.}
+{207}{}{Ý cậu là thứ cũ kĩ này? [Ông ta liếc nhìn cái xẻng rỉ sét trên tay]. Ừ thì, ai mà biết được lúc nào có thể tìm thấy
+thứ gì đó cần được đào lên. Chuẩn bị thôi mà.}
+{208}{}{Tìm thấy gì đó hả? Ý ông là một ngôi mộ?}
+{209}{}{Sống có chuẩn bị như vậy là tốt. Ồ, bảo trọng nhé.}
+{210}{}{[Tom tròn mắt] Tôi không chắc là, ờ, ý cậu là gì.}
+{211}{}{Tôm, ông đang ở trong nghĩa trang, người ông lấm đầy bùn đất và đã quá nửa đêm rồi. Sao hả, ngay cả gã Torr
+cũng nghĩ ra. Đã đến lúc trả lời tôi rồi, Tom. Tại sao ông lại đào những ngôi mộ này lên?}
+{212}{}{[Ông ta đặt xẻng xuống và thở dài]. Được rồi, tôi sẽ nói. Thân thể tôi không còn được như xưa nữa. Tôi không
+có việc làm và chẳng biết kiếm ăn bằng cách nào. Tôi biết đào trộm mộ không phải là điều tốt, nhưng đây là cách để tôi
+kiếm một chút tiền. Tôi chỉ cố sống thôi... tôi không định phá hoại gì cả.}
+{213}{}{Tôi không nghĩ rằng đi đào trộm mộ là việc mà người như ông nên làm. Biết gì không? Cứ tiếp tục ra khỏi đây
+và chúng ta sẽ coi như chưa từng gặp nhau. Tôi không muốn thấy ông còn luẩn quẩn ở đây nữa, được chứ?}
+{214}{}{[Ông lão trông có vẻ như muốn phản đối, rồi dừng lại]. Đươc rồi, cậu là nhất. Cậu đã đẩy Tom già nua xuống tận
+đáy rồi. [Ông ta nhặt xẻng lên rồi lê bước đi].}
+{215}{}{Mà nghĩ lại thì chắc thế giới sẽ tốt đẹp hơn nếu tôi giết ông.}
+{216}{}{Vĩnh biệt Tom.}
+{217}{}{Tôi nghe nói ông còn ăn trộm cây trồng của nông dân ở quanh đây.}
+{218}{}{[Ông lão run rẩy]. Tôi biết làm thế nào được! Tôi đói mờ cả mắt còn mấy cái cây thì trông ngon quá. Làm ơn đi,
+tôi không định gây hại gì. Nghe này, tôi sẽ biến khỏi đây và cậu sẽ không còn nhìn thấy tôi nữa. Tôi hứa đấy!}
+{219}{}{Được rồi, hãy đi đi. Trước khi tôi đổi ý.}
+{220}{}{Chờ đã, không cần phải vậy. Nhà Peterson, chủ của khu ruộng này là những người rất tốt bụng. Ông Peterson
+thậm chí còn sẵn sàng nói chuyện với người đã ăn trộm cây trồng để đưa ra thỏa thuận hợp tình nữa. Hãy đến
+nói chuyện với anh ta. Tôi chắc là anh ta có thể giúp ông bằng cách nào đó.}
+{221}{}{[Ông lão sáng mắt lên]. Điều đó nghe không tệ chút nào. Này, cám ơn nhé. Có lẽ thế giới này không tệ hại như
+tôi đã từng nghĩ.}
+{222}{}{Bảo trọng nhé, Tom. Tôi sẽ quay lại sau để xem mọi chuyện thế nào.}
+{223}{}{Tôi rất hi vọng là thanh niên Peterson này thân thiện như lời cậu nói.}
+{300}{}{Bạn thấy Tom. Ông ta mặc đồ lao động mới và đang vui vẻ huýt sáo.}
+{301}{}{Ô kìa! Ồ, cậu đã đúng. Ông Peterson đúng là một thanh niên tốt bụng. Cậu ta đã tha thứ cho tôi và thậm chí
+còn nhận tôi vào cày ruộng nữa. Cậu ta nói sau khi tôi trả hết số lương thực mà tôi đã lấy, tôi sẽ bắt đầu được
+nhận lương tuần. Cám ơn đã giúp đỡ.}
+{302}{}{Không có gì, Tom. Giờ thì ông hãy bảo trọng nhé.}
+{303}{}{Được rồi tôi ước- Ồ, chờ một chút. Tôi muốn tặng cậu thứ gì đó vì đã giúp đỡ ông già này. Tôi tìm thấy cái
+bật lửa này trong mộ một cô gái mà tôi đã đào lên mấy tuần trước. Hi vọng là nó sẽ có ích cho cậu.}
+{304}{}{Cám ơn, Tom. Tôi chắc là thứ này sẽ có ích. Gặp lại ông sau.}
+{305}{}{(Ông lão gật đầu và tiếp tục công việc).}
+{306}{}{[KẾT THÚC]}
+{307}{}{Xin chào. Cám ơn vì mọi thứ!}
+{308}{}{*Huýt sáo*}
+{400}{}{Lũ thanh niên không biết điều. Mày đâu phải bố tao. Tao sẽ giết mày.}
+{450}{}{Nghe này, tôi cũng đi đào mộ rồi. Tôi hơi mắc chứng cuồng ăn trộm. Lí do của ông là gì?}
+{451}{}{Tom, tôi không lạ lắm với việc đào mộ. Ai cũng cần thú vui cho riêng mình. Giờ thì ông cứ đi đi.}
+{1000}{}{Bạn tìm ra người đã đào mộ và giúp Tom có một cuộc sống mới.}
+{1001}{}{Bạn tìm ra người đã đào mộ.}
+{1002}{}{Tôi đi đây. Đâu cần phải giục người già cả chứ.}
+{1003}{}{Bạn thấy Tom. Ông lão tươi cười trong bộ quần áo lao động mới.}
+{1004}{}{Ông ta trông có vẻ tốt hơn nhiều và mỉm cười khi bạn lại gần.}

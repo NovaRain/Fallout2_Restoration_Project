@@ -1,105 +1,105 @@
-{100}{}{B?n th?y m?t b?ng máy tính nh?.}
-{101}{}{B?n th?y b?ng máy tính c?a Tu vi?n.}
-{102}{}{B?n th?y m?t b?ng máy tính nh?. Có v? như nó v?n ch?y.}
-{103}{}{B?n truy c?p vào máy tính và quét t?t c? t?p có s?n. B?n t?m th?y vài t?p có ch?a t? khóa "GECK" và "Vault".}
-{104}{}{Đ?c thông tin v? GECK.}
-{105}{}{Đ?c thông tin v? Vault.}
-{106}{}{L?I! không t?m th?y th? truy c?p. Vui l?ng nhét th? truy c?p vào khe m? hóa.}
-{107}{}{(B?n nhét th? truy c?p vào khe) BÍP! th? truy c?p h?p l?. ĐANG T?I Winblows 2075... XONG.}
-{108}{}{Nh?p l?nh.}
-{109}{}{Quét t?p đ? t?m thông tin v? GECK ho?c VAULT 13.}
-{110}{}{Truy c?p các t?p khác.}
+{100}{}{Bạn thấy một bảng máy tính nhỏ.}
+{101}{}{Bạn thấy bảng máy tính của Tu viện.}
+{102}{}{Bạn thấy một bảng máy tính nhỏ. Có vẻ như nó vẫn chạy.}
+{103}{}{Bạn truy cập vào máy tính và quét tất cả tệp có sẵn. Bạn tìm thấy vài tệp có chứa từ khóa "GECK" và "Vault".}
+{104}{}{Đọc thông tin về GECK.}
+{105}{}{Đọc thông tin về Vault.}
+{106}{}{LỖI! không tìm thấy thẻ truy cập. Vui lòng nhét thẻ truy cập vào khe mã hóa.}
+{107}{}{(Bạn nhét thẻ truy cập vào khe) BÍP! thẻ truy cập hợp lệ. ĐANG TẢI Winblows 2075... XONG.}
+{108}{}{Nhập lệnh.}
+{109}{}{Quét tệp để tìm thông tin về GECK hoặc VAULT 13.}
+{110}{}{Truy cập các tệp khác.}
 {111}{}{Chơi Búa Bao Kéo.}
-{112}{}{Tr? l?i.}
-{113}{}{Đăng xu?t.}
-{114}{}{[TI?P T?C]}
-{115}{}{B?n t?m th?y vài t?p có ch?a t? khóa "GECK" và "Vault".}
-{116}{}{Xem các t?p có liên quan đ?n "GECK".}
-{117}{}{Xem các t?p có liên quan đ?n "Vault".}
-{118}{}{B?n th?y chương tr?nh t?m ki?m r?t khó hi?u.}
-{119}{}{B?n tr?n m?t và th? g?p khi phát hi?n th?y th? trông gi?ng như m?t tin qu?ng cáo c? v? B? t?o Vư?n Đ?a đàng. Trong
-qu?ng cáo, m?t g? nhân v?t ho?t h?nh m?c đ? vault cư?i toét mi?ng c?m m?t cái vali l?n có ghi "B? Sinh t?n". C? như
-th? g? ta đang ch?c t?c b?n v?y.}
-{120}{}{B?n xem qua các t?p, trong đó h?u như ch?a n?i dung tuyên truy?n c?a chính quy?n v? s? tuy?t v?i c?a cu?c s?ng trong các Vault.
-B?n bi?t đư?c là vào gi?a th? k? 21, chính quy?n Hoa K? đ? ?y quy?n cho Vault-Tec xây d?ng 122 Vault trên kh?p đ?t nư?c. Nh?ng căn h?m
-này đư?c dùng làm nơi trú ?n cho t?i đa 1.000 công dân Hoa K? trong trư?ng h?p x?y ra th?m h?a h?t nhân. Dư?i s? b?o v? có gi?i h?n c?a
-các Vault dư?i l?ng đ?t, các Cư dân Vault có th? t?n hư?ng cu?c s?ng xa hoa trong lúc đ?i tín hi?u thông báo th? gi?i trên m?t đ?t
-m?t l?n n?a đ? an toàn.}
-{121}{}{B?n t?m th?y hàng trăm đ?u sách và t?p chí đi?n t? đư?c phân lo?i trên ? c?ng trong lúc t?m trên h? th?ng. B?n c?n
-ch?ng bi?t ph?i b?t đ?u t?m ki?m thông tin h?u ích t? đâu.}
-{122}{}{B?n t?m th?y hàng trăm đ?u sách và t?p chí đi?n t? đư?c phân lo?i trên ? c?ng trong lúc t?m trên h? th?ng. V? b?n đ? thành th?o
-v?i cách lưu tr? thông tin, có th? b?n nên t?m ki?m theo ch? đ? đ? t?m ra đư?c th? g? đó có ích.}
+{112}{}{Trở lại.}
+{113}{}{Đăng xuất.}
+{114}{}{[TIẾP TỤC]}
+{115}{}{Bạn tìm thấy vài tệp có chứa từ khóa "GECK" và "Vault".}
+{116}{}{Xem các tệp có liên quan đến "GECK".}
+{117}{}{Xem các tệp có liên quan đến "Vault".}
+{118}{}{Bạn thấy chương trình tìm kiếm rất khó hiểu.}
+{119}{}{Bạn tròn mắt và thở gấp khi phát hiện thấy thứ trông giống như một tin quảng cáo cũ về Bộ tạo Vườn Địa đàng. Trong
+quảng cáo, một gã nhân vật hoạt hình mặc đồ vault cười toét miệng cầm một cái vali lớn có ghi "Bộ Sinh tồn". Cứ như
+thể gã ta đang chọc tức bạn vậy.}
+{120}{}{Bạn xem qua các tệp, trong đó hầu như chứa nội dung tuyên truyền của chính quyền về sự tuyệt vời của cuộc sống trong các Vault.
+Bạn biết được là vào giữa thế kỉ 21, chính quyền Hoa Kỳ đã ủy quyền cho Vault-Tec xây dựng 122 Vault trên khắp đất nước. Những căn hầm
+này được dùng làm nơi trú ẩn cho tối đa 1.000 công dân Hoa Kỳ trong trường hợp xảy ra thảm họa hạt nhân. Dưới sự bảo vệ có giới hạn của
+các Vault dưới lòng đất, các Cư dân Vault có thể tận hưởng cuộc sống xa hoa trong lúc đợi tín hiệu thông báo thế giới trên mặt đất
+một lần nữa đã an toàn.}
+{121}{}{Bạn tìm thấy hàng trăm đầu sách và tạp chí điện tử được phân loại trên ổ cứng trong lúc tìm trên hệ thống. Bạn còn
+chẳng biết phải bắt đầu tìm kiếm thông tin hữu ích từ đâu.}
+{122}{}{Bạn tìm thấy hàng trăm đầu sách và tạp chí điện tử được phân loại trên ổ cứng trong lúc tìm trên hệ thống. Vì bạn đã thành thạo
+với cách lưu trữ thông tin, có thể bạn nên tìm kiếm theo chủ đề để tìm ra được thứ gì đó có ích.}
 {123}{}{[THÊM]}
-{124}{}{Theo qu?ng cáo, b? này có ch?a m?t "Thi?t b? Tái ch? cơ b?n", cho phép "tái t?o th?c ph?m và các v?t d?ng cơ b?n c?n thi?t
-đ? xây d?ng th? gi?i m?i", m?t "Đ?u đ?c Holodisc và Thư vi?n" trong đó "có ch?a các thông tin đư?c đơn v? Thư vi?n Qu?c h?i l?a ch?n,
-b? bách khoa toàn thư hoàn ch?nh cùng các thông tin c?u sinh khác, t?t c? đ?u n?m trên 460 holodisc ti?n d?ng!" và th?m chí có c? m?t
-"Đèn pin đ?u bút thu nh?!" Ch?c ch?n thi?t b? th?n k? này chính là th? b?n c?n đ? c?u ngôi lành đang suy s?p c?a m?nh.}
-{125}{}{Đ?c thêm.}
-{126}{}{B?n ti?p t?c xem các t?p, nhưng thông tin duy nh?t mà b?n t?m th?y v? Vault 13 là căn h?m này n?m ? California, không
-có đ?a ch? r? ràng nên không có ích m?y.}
+{124}{}{Theo quảng cáo, bộ này có chứa một "Thiết bị Tái chế cơ bản", cho phép "tái tạo thực phẩm và các vật dụng cơ bản cần thiết
+để xây dựng thế giới mới", một "Đầu đọc Holodisc và Thư viện" trong đó "có chứa các thông tin được đơn vị Thư viện Quốc hội lựa chọn,
+bộ bách khoa toàn thư hoàn chỉnh cùng các thông tin cứu sinh khác, tất cả đều nằm trên 460 holodisc tiện dụng!" và thậm chí có cả một
+"Đèn pin đầu bút thu nhỏ!" Chắc chắn thiết bị thần kì này chính là thứ bạn cần để cứu ngôi lành đang suy sụp của mình.}
+{125}{}{Đọc thêm.}
+{126}{}{Bạn tiếp tục xem các tệp, nhưng thông tin duy nhất mà bạn tìm thấy về Vault 13 là căn hầm này nằm ở California, không
+có địa chỉ rõ ràng nên không có ích mấy.}
 {130}{}{Thêm thông tin.}
-{131}{}{[B?n không có g? đ? thêm]. Tr? v?.}
-{132}{}{Thêm thông tin v? Cây tr?ng.}
+{131}{}{[Bạn không có gì để thêm]. Trở về.}
+{132}{}{Thêm thông tin về Cây trồng.}
 {133}{}{Thêm thông tin [Rác].}
-{140}{}{Đ?c t?p Giúp đ?/Thông tin.}
-{141}{}{Chúc m?ng b?n đ? cài thành công Winblows 75! Đây là phiên b?n Winblows hi?n đ?i nh?t đ?n th?i đi?m hi?n t?i. V?i xác su?t treo máy
-ch? trong m?t ph?n m?t tri?u l?n l?p l?nh đư?c xác th?c, các k? thu?t viên c?a chúng tôi t? tin r?ng Winblows gi? đây đ? tr? nên hoàn h?o
-cho b?t k? môi trư?ng doanh nghi?p nào. Phiên b?n Winblows 2075 m?i nh?t là b?n m? cơ b?n đư?c c?i thi?n và đi?u ch?nh đ? ch? hao phí
-15% v?ng ch?y CPU dành cho qu?n tr? n?n thay v? hao phí đ?n 25% trong phiên b?n trư?c đó. D? nhiên, nhi?u tính năng h? tr? ngư?i dùng
-đ? đư?c thêm vào trong b?n m?i nh?t này. C?ng như các phiên b?n Winblows trư?c đó, ngư?i dùng có th? s? d?ng các l?nh ph? thông như 
-T?m ki?m, Thêm, Di chuy?n, Xóa và Đ?nh d?ng.}
-{142}{}{Đ?nh d?ng t?p h? th?ng, bao g?m toàn b? cơ s? d? li?u sao lưu trên máy ch? và các máy k?t n?i.}
-{143}{}{Tr? l?i.}
-{144}{}{Đang đ?nh d?ng cơ s? d? li?u sao lưu... THÀNH CÔNG... Đang đ?nh d?ng t?p h? th?ng hi?n t?i... ĐANG CH?... C?nh báo: Đ? x?y ra l?i
-nghi?m tr?ng. Vui l?ng ch?...}
-{145}{}{Ch?.}
-{146}{}{... L?i h? th?ng: Quá tr?nh đ? hoàn t?t thành công... (Ti?ng rít b?t đ?u phát ra t? bên trong máy tính và các máy g?n đó).}
-{147}{}{[B? đi].}
-{148}{}{L?i: Không t?m th?y bàn phím. Vui l?ng nh?n phím b?t k? đ? kh?i đ?ng l?i.}
-{150}{}{Đang t?i lên đ?a thông tin Th?c v?t c?a Cơ quan B?o v? Môi trư?ng... T?i lên hoàn t?t. Chúc m?t ngày t?t lành.}
-{200}{}{Búa, Kéo, Bao V.0.3. Đưa ra l?a ch?n.}
-{201}{}{Ch?n BÚA.}
-{202}{}{Ch?n BAO.}
-{203}{}{Ch?n KÉO.}
-{204}{}{Quay v? màn h?nh chính.}
-{205}{}{Máy th?c hi?n ch?n... Đang tính k?t qu?... Máy th?ng!}
-{206}{}{Máy th?c hi?n ch?n... Đang tính k?t qu?... Ngư?i dùng th?ng!}
-{207}{}{Máy th?c hi?n ch?n... Đang tính k?t qu?... H?a!}
-{300}{}{(Màn h?nh máy tính hi?n nhi?u d?i màu).}
-{301}{}{? ? ?! Màu đ?p.}
-{302}{}{T?t ngu?n.}
-{400}{}{Đ?c thêm.}
-{401}{}{Quay v? màn h?nh.}
-{402}{}{T?m ki?m theo ch? đ?.}
-{403}{}{Vui l?ng nh?p m?t ch? đ? đ? t?m ki?m.}
-{404}{}{Khoa h?c.}
-{405}{}{S?a ch?a.}
-{406}{}{Y dư?c.}
-{407}{}{S? d?ng v? khí.}
-{408}{}{L?p lu?n thuy?t ph?c.}
-{410}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? b? môn khoa h?c.}
-{411}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? cách s?a ch?a máy móc.}
-{412}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm nhi?u đi?u v? môn y dư?c.}
-{413}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? cách t? ph?ng v? có v? khí.}
-{414}{}{Sau vài gi? ng?i đ?c, b?n đ? h?c thêm đư?c nhi?u đi?u v? cách thuy?t ph?c.}
-{420}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? m?i v? b? môn khoa h?c.}
-{421}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? v? cách s?a ch?a máy móc.}
-{422}{}{Sau vài gi? ng?i đ?c, b?n không h?c đư?c g? m?i v? môn y dư?c.}
-{423}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? v?i v? cách b?n súng.}
-{424}{}{Sau vài gi? ng?i đ?c, b?n không h?c thêm đư?c g? m?i v? cách thuy?t ph?c.}
-{430}{}{Tr? l?i.}
-{500}{}{Trong lúc đ?c thêm thông tin, b?n bi?t đư?c r?ng GECK là do Future-Tec, m?t công ty nhánh c?a Vault-Tec, phát tri?n
-và là trang b? tiêu chu?n cho toàn b? các h?m c?a Vault-Tec. Thi?t b? này s? đư?c s? d?ng sau khi r?i kh?i Vault đ? giúp
-thi?t l?i cu?c s?ng trong môi trư?ng kh?c nghi?t c?a m?t th? gi?i b? chi?n tranh h?t nhân tàn phá.}
-{501}{}{Sau khi đ?c k? hơn, b?n khám phá ra r?ng GECK không h?n là thi?t b? th?n k? như qu?ng cáo nói. B? "Tái t?o cơ b?n" trên
-th?c t? ch? là m?t h? th?ng dư?ng cây có ch?a h?t gi?ng lương th?c, ch?t b? sung cho đ?t và các hóa ch?t đư?c thi?t k? đ?c bi?t đ?
-bi?n đ?t hoang m?c khô c?n thành đ?t tr?ng. Tuyên b? v? vi?c thi?t b? có th? "s?n xu?t các v?t d?ng cơ b?n" th?c ra là nói v? các
-m? m?i mà thi?t b? cung c?p cho các máy móc trong Vault, cho phép t?o ra các v?t d?ng m?i trong máy phân ph?i. GECK c?ng ch?a
-b?n thi?t k? v? các l?p trư?ng l?c cơ b?n c?ng như cách xây d?ng tư?ng và công tr?nh b?ng "bê tông cát".}
+{140}{}{Đọc tệp Giúp đỡ/Thông tin.}
+{141}{}{Chúc mừng bạn đã cài thành công Winblows 75! Đây là phiên bản Winblows hiện đại nhất đến thời điểm hiện tại. Với xác suất treo máy
+chỉ trong một phần một triệu lần lập lệnh được xác thực, các kĩ thuật viên của chúng tôi tự tin rằng Winblows giờ đây đã trở nên hoàn hảo
+cho bất kì môi trường doanh nghiệp nào. Phiên bản Winblows 2075 mới nhất là bản mã cơ bản được cải thiện và điều chỉnh để chỉ hao phí
+15% vòng chạy CPU dành cho quản trị nền thay vì hao phí đến 25% trong phiên bản trước đó. Dĩ nhiên, nhiều tính năng hỗ trợ người dùng
+đã được thêm vào trong bản mới nhất này. Cũng như các phiên bản Winblows trước đó, người dùng có thể sử dụng các lệnh phổ thông như 
+Tìm kiếm, Thêm, Di chuyển, Xóa và Định dạng.}
+{142}{}{Định dạng tệp hệ thống, bao gồm toàn bộ cơ sở dữ liệu sao lưu trên máy chủ và các máy kết nối.}
+{143}{}{Trở lại.}
+{144}{}{Đang định dạng cơ sở dữ liệu sao lưu... THÀNH CÔNG... Đang định dạng tệp hệ thống hiện tại... ĐANG CHỜ... Cảnh báo: Đã xảy ra lỗi
+nghiệm trọng. Vui lòng chờ...}
+{145}{}{Chờ.}
+{146}{}{... Lỗi hệ thống: Quá trình đã hoàn tất thành công... (Tiếng rít bắt đầu phát ra từ bên trong máy tính và các máy gần đó).}
+{147}{}{[Bỏ đi].}
+{148}{}{Lỗi: Không tìm thấy bàn phím. Vui lòng nhấn phím bất kì để khởi động lại.}
+{150}{}{Đang tải lên đĩa thông tin Thực vật của Cơ quan Bảo vệ Môi trường... Tải lên hoàn tất. Chúc một ngày tốt lành.}
+{200}{}{Búa, Kéo, Bao V.0.3. Đưa ra lựa chọn.}
+{201}{}{Chọn BÚA.}
+{202}{}{Chọn BAO.}
+{203}{}{Chọn KÉO.}
+{204}{}{Quay về màn hình chính.}
+{205}{}{Máy thực hiện chọn... Đang tính kết quả... Máy thắng!}
+{206}{}{Máy thực hiện chọn... Đang tính kết quả... Người dùng thắng!}
+{207}{}{Máy thực hiện chọn... Đang tính kết quả... Hòa!}
+{300}{}{(Màn hình máy tính hiện nhiều dải màu).}
+{301}{}{Ồ ồ ồ! Màu đẹp.}
+{302}{}{Tắt nguồn.}
+{400}{}{Đọc thêm.}
+{401}{}{Quay về màn hình.}
+{402}{}{Tìm kiếm theo chủ đề.}
+{403}{}{Vui lòng nhập một chủ đề để tìm kiếm.}
+{404}{}{Khoa học.}
+{405}{}{Sửa chữa.}
+{406}{}{Y dược.}
+{407}{}{Sử dụng vũ khí.}
+{408}{}{Lập luận thuyết phục.}
+{410}{}{Sau vài giờ ngồi đọc, bạn đã học thêm được nhiều điều về bộ môn khoa học.}
+{411}{}{Sau vài giờ ngồi đọc, bạn đã học thêm được nhiều điều về cách sửa chữa máy móc.}
+{412}{}{Sau vài giờ ngồi đọc, bạn đã học thêm nhiều điều về môn y dược.}
+{413}{}{Sau vài giờ ngồi đọc, bạn đã học thêm được nhiều điều về cách tự phòng vệ có vũ khí.}
+{414}{}{Sau vài giờ ngồi đọc, bạn đã học thêm được nhiều điều về cách thuyết phục.}
+{420}{}{Sau vài giờ ngồi đọc, bạn không học thêm được gì mới về bộ môn khoa học.}
+{421}{}{Sau vài giờ ngồi đọc, bạn không học thêm được gì về cách sửa chữa máy móc.}
+{422}{}{Sau vài giờ ngồi đọc, bạn không học được gì mới về môn y dược.}
+{423}{}{Sau vài giờ ngồi đọc, bạn không học thêm được gì với về cách bắn súng.}
+{424}{}{Sau vài giờ ngồi đọc, bạn không học thêm được gì mới về cách thuyết phục.}
+{430}{}{Trở lại.}
+{500}{}{Trong lúc đọc thêm thông tin, bạn biết được rằng GECK là do Future-Tec, một công ty nhánh của Vault-Tec, phát triển
+và là trang bị tiêu chuẩn cho toàn bộ các hầm của Vault-Tec. Thiết bị này sẽ được sử dụng sau khi rời khỏi Vault để giúp
+thiết lại cuộc sống trong môi trường khắc nghiệt của một thế giới bị chiến tranh hạt nhân tàn phá.}
+{501}{}{Sau khi đọc kĩ hơn, bạn khám phá ra rằng GECK không hẳn là thiết bị thần kì như quảng cáo nói. Bộ "Tái tạo cơ bản" trên
+thực tế chỉ là một hệ thống dưỡng cây có chứa hạt giống lương thực, chất bổ sung cho đất và các hóa chất được thiết kế đặc biệt để
+biến đất hoang mạc khô cằn thành đất trồng. Tuyên bố về việc thiết bị có thể "sản xuất các vật dụng cơ bản" thực ra là nói về các
+mã mới mà thiết bị cung cấp cho các máy móc trong Vault, cho phép tạo ra các vật dụng mới trong máy phân phối. GECK cũng chứa
+bản thiết kế về các lớp trường lực cơ bản cũng như cách xây dựng tường và công trình bằng "bê tông cát".}
 {502}{}{[THÊM]}
-{503}{}{Có v? như b?n thân b? GECK s? đư?c tháo r?i ra trong quá tr?nh s? d?ng. B?n đ?c m?t ví d? v? cách s? d?ng b? ngu?n h?p h?ch l?nh
-làm ngu?n đi?n s?n xu?t chính cho thành ph?. GECK th?m chí c?n ch?a c? hư?ng d?n v? cách tháo r?i các ph?n c?a Vault đ? xây nhà
-và các c?u trúc ph?ng th? cho c?ng đ?ng m?i. Sau khi đ?c xong, b?n nh?n đ?nh r?ng cho dù đây không ph?i là thi?t b? th?n k? như
-Trư?ng L?o đ? ngh?, th? đi t?m GECK v?n là l?a ch?n t?t nh?t đ? c?u b? t?c.}
-{1000}{}{B?n t?i đ?a holodisk Th?c v?t EPA lên.}
-{2000}{}{B?n đ?nh d?ng cơ s? d? li?u sách c?a Tu vi?n.}
+{503}{}{Có vẻ như bản thân bộ GECK sẽ được tháo rời ra trong quá trình sử dụng. Bạn đọc một ví dụ về cách sử dụng bộ nguồn hợp hạch lạnh
+làm nguồn điện sản xuất chính cho thành phố. GECK thậm chí còn chứa cả hướng dẫn về cách tháo rời các phần của Vault để xây nhà
+và các cấu trúc phòng thủ cho cộng đồng mới. Sau khi đọc xong, bạn nhận định rằng cho dù đây không phải là thiết bị thần kì như
+Trưởng Lão đã nghĩ, thì đi tìm GECK vẫn là lựa chọn tốt nhất để cứu bộ tộc.}
+{1000}{}{Bạn tải đĩa holodisk Thực vật EPA lên.}
+{2000}{}{Bạn định dạng cơ sở dữ liệu sách của Tu viện.}

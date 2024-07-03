@@ -1,62 +1,62 @@
-{100}{}{B?n th?y m?t chàng trai tr? kh?e.}
-{101}{}{B?n th?y Ông Peterson.}
-{200}{}{Xin chào anh b?n. Tôi nh? là chưa th?y c?u ? đây bao gi?. L?n đ?u đ?n v?i Tu vi?n à?}
-{201}{}{R?t vui đư?c g?p l?i. Tôi có th? giúp g? nh??}
-{202}{}{?. Anh có th? gi?i thi?u v? nơi này đư?c không?}
-{203}{}{Tôi đang trên hành tr?nh đi t?m GECK th?n thánh. Anh có bi?t g? v? th? này không?}
-{204}{}{Th?y Samuel nói anh có th? bi?t g? đó v? k? đang đào tr?m m?. Ông ta nói anh có nghe th?y vài ti?ng đ?ng
-trong khu vư?n c?a m?nh.}
-{205}{}{Không có g?, tôi ph?i đi đây.}
-{300}{}{M?y năm trư?c tôi và v? đi cùng m?t đoàn l? hành đ?n đây. Chúng tôi thích nơi này đ?n n?i quy?t đ?nh ? l?i và m?
-khu vư?n nh? c?a m?nh. Nghe này, Tu vi?n có th? không l?p lánh như New Reno hay hi?n đ?i như Thành ph? Vault,
-nhưng theo như tôi bi?t th? nơi này là t?t nh?t ? hoang m?c r?i. Ngư?i dân ? đây lành l?m, m?i ngư?i quan tâm l?n
-nhau. Đúng là m?t vài ch? khác có th? an toàn hơn, nhưng đ?i l?i th? không có t? do cá nhân. Tôi không mu?n th?.}
-{301}{}{Anh đi theo đoàn l? hành à? H? có hay đ?n đây không?}
-{302}{}{Không h?n. Tu vi?n quá bé và bi?t l?p nên các đoàn l? hành không hay đ?n l?m. Nhưng không sao, chúng tôi g?n như
-là m?t c?ng đ?ng t? cung t? c?p -- t? tr?ng cây, t? n?u rư?u -- nên m?i th? đ?u ?n. Mà n?u mu?n t?m đoàn l? hành th? h?y
-nói chuy?n v?i Bill, ông ta m? quán t?p hóa ? phía Tây Nam khu này.}
-{303}{}{Nghe h?p d?n th?t đ?y, nhưng tôi th?c s? ph?i đi đây.}
-{304}{}{Hay đ?y. Tôi đang th?c m?c v? th? khác.}
-{305}{}{Không có g?, tôi ph?i đi đây.}
-{400}{}{C?u c?n mu?n bi?t g? n?a?}
-{401}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
-{402}{}{Anh có bi?t g? v? B? t?o Vư?n đ?a đàng không?}
-{500}{}{Tôi chưa t?ng nghe đ?n th? này. Nhưng n?u đ?y là đ? t? th?i trư?c chi?n tranh th? tôi ch?c là s? có g? đó trong
-máy tính c?a tu vi?n đ?y. Đáng ti?c cho c?u là các th?y tu ? gi?u ki?n th?c như gi?u vàng ? -- h? s? chúng s? d?n
-đ?n m?t cu?c chi?n tranh ho?c g? đó n?u m?i ngư?i bi?t nhi?u quá. Nhưng c? th? h?i quanh đây xem.}
-{501}{}{Cám ơn, tôi s? th?. Tôi v?n c?n m?y câu h?i n?a.}
-{502}{}{Cám ơn v? l?i khuyên. Tôi s? đi vào th? gi? đây.}
-{600}{}{Th?y Samuel c? c?u đ?n đây? L?o b?m rư?u đ?y l?i mu?n g? n?a đây?}
-{601}{}{Chăm sóc khu m? như m?i khi, ch?c v?y. C?n v? nh?ng ti?ng đ?ng mà anh nghe th?y...}
-{602}{}{[John ng?i xu?ng gh? và t? rót cho m?nh m?t ly whiskey]. M?i th? b?t đ?u vài ngày trư?c. Tôi và v? đang x?p
-giư?ng th? nghe th?y có ti?ng s?t so?t ngoài vư?n. Tôi v? l?y đèn và lao ra ngoài đ? xem ai đang gây ra ti?ng đ?ng.
-Ngay khi tôi ra đ?n vư?n th? ti?ng đ?ng d?ng l?i.}
-{603}{}{Ti?p t?c đi.}
-{604}{}{Này, tôi th?t s? ph?i đi đây.}
-{605}{}{?, đ?n đêm hôm sau th? chúng tôi ch?ng nghe th?y g? c?. Nhưng đêm sau đó th? chúng tôi l?i nghe ti?ng s?t so?t
-trên đ?ng l?n n?a. L?n này tôi l?n đ?n bên c?a s? và ngó ra thay v? lao ra như trư?c. Trong đêm t?i, tôi nh?n th?y m?t
-đ?m sáng l?p l?e như th? là cái đèn c?y hay th? g? đó, di chuy?n trên đ?ng. Sau m?t vài phút, đ?m sáng đi v? phía
-khu ngh?a trang.}
-{606}{}{Tôi mu?n đi ra và đ?i di?n v?i ngư?i -- ho?c th? g? đó, nhưng v? tôi khuyên tôi ? trong nhà, khi nào tr?i sáng th? ra.
-V?y là đ?n sáng hôm sau, tôi th?y m?t vài cây tr?ng đ? b? g?m và có v?t chân m?i đi ? kh?p nơi. ?y, tôi có th? b? thí
-cho ngư?i nghèo, nhưng c?n l? tr?m c?p th? l?i khác.}
-{607}{}{Tôi s? th? túm c? g? này. Có th? tôi s? ch? đ?n n?a đêm xem có th? t?m th?y g? không. ?, cám ơn v?
-thông tin này nhé. B?o tr?ng.}
-{608}{}{Tôi s? xem tôi có th? làm g?. Tôi có thêm vài câu h?i trư?c khi đi.}
-{609}{}{Câu chuy?n này càng lúc càng dài r?i đ?y. T?m bi?t.}
-{610}{}{Đ? tôi vào th?ng v?n đ? nhé. Anh mu?n giúp k? đ? lang thang quanh nhà anh vào bu?i t?i, ăn tr?m
-lương th?c và c? l?y đ? c?a ngư?i ch?t? Tôi đ? g?p nhi?u k? điên trư?c đây, nhưng anh h?n là s? m?t luôn. Anh v?n
-c?n s?ng đ?n gi? đúng là m?t phép màu đ?y.}
-{611}{}{[Anh ta nheo m?t l?i, nhưng v?n gi? đư?c b?nh t?nh]. ? Tu vi?n này chúng tôi s?ng như v?y. N?u l?ng t?t khi?n c?u
-th?y khó ch?u th? tôi khuyên c?u nên bi?n kh?i nhà tôi ngay. Tôi s? không ng?i đây đ? nghe m?t g? t?c nhân x? v? trư?c
-m?t v? m?nh đâu.}
-{612}{}{R?i, r?i, tôi đi.}
-{613}{}{OK thôi anh giai c?ng, gi? th? "t?c nhân lang thang" này s? gi?t anh giai ngay trư?c m?t v?. Có th? sau đó tôi s?
-gi?t c? cô ta luôn. M? ki?p, ch?c là tôi s? gi?t toàn b? l? ngư?i ? ch? c? l?n này. Các ngư?i ngh? r?ng m?nh có th? tr?n 
-tránh kh?i n?i khi?p s? c?a hoang m?c? Bi?t g? không, anh giai đ?n? Th?n ch?t đ? đ?n, v?i cái tên là }
-{700}{}{Cút kh?i đây ngay.}
-{710}{}{R?t vui đư?c g?p l?i. Tom đ? giúp đ? chúng tôi nhi?u l?m. Cám ơn l?n n?a v? đ? gi?i quy?t m?i th?. Gi? th? tôi có th? giúp g? nh??}
-{6061}{}{Sau đó tôi có h?i Th?y Samuel xem có chuy?n g? x?y ra trong ngh?a trang không. Ông ta nói r?ng có k? nào đó đ?
-l?t tung m?y ngôi m? lên. Có v? như k? đó không có đ? s?c đ? đào trong m?t đêm. Tôi ch?c là m?t ông l?o ăn xin
-nào đ?y mong t?m đư?c c?a thôi. N?u c?u t?m th?y ngư?i làm chuy?n đó th? h?y b?o h? đ?n đây. ? Tu vi?n này
-không ai c?n ph?i đi ăn c?p c?, tôi s? s?n l?ng giúp đ? ngư?i này b?ng m?i cách có th?.}
+{100}{}{Bạn thấy một chàng trai trẻ khỏe.}
+{101}{}{Bạn thấy Ông Peterson.}
+{200}{}{Xin chào anh bạn. Tôi nhớ là chưa thấy cậu ở đây bao giờ. Lần đầu đến với Tu viện à?}
+{201}{}{Rất vui được gặp lại. Tôi có thể giúp gì nhỉ?}
+{202}{}{Ừ. Anh có thể giới thiệu về nơi này được không?}
+{203}{}{Tôi đang trên hành trình đi tìm GECK thần thánh. Anh có biết gì về thứ này không?}
+{204}{}{Thầy Samuel nói anh có thể biết gì đó về kẻ đang đào trộm mộ. Ông ta nói anh có nghe thấy vài tiếng động
+trong khu vườn của mình.}
+{205}{}{Không có gì, tôi phải đi đây.}
+{300}{}{Mấy năm trước tôi và vợ đi cùng một đoàn lữ hành đến đây. Chúng tôi thích nơi này đến nỗi quyết định ở lại và mở
+khu vườn nhỏ của mình. Nghe này, Tu viện có thể không lấp lánh như New Reno hay hiện đại như Thành phố Vault,
+nhưng theo như tôi biết thì nơi này là tốt nhất ở hoang mạc rồi. Người dân ở đây lành lắm, mọi người quan tâm lẫn
+nhau. Đúng là một vài chỗ khác có thể an toàn hơn, nhưng đổi lại thì không có tự do cá nhân. Tôi không muốn thế.}
+{301}{}{Anh đi theo đoàn lữ hành à? Họ có hay đến đây không?}
+{302}{}{Không hẳn. Tu viện quá bé và biệt lập nên các đoàn lữ hành không hay đến lắm. Nhưng không sao, chúng tôi gần như
+là một cộng đồng tự cung tự cấp -- tự trồng cây, tự nấu rượu -- nên mọi thứ đều ổn. Mà nếu muốn tìm đoàn lữ hành thì hãy
+nói chuyện với Bill, ông ta mở quán tạp hóa ở phía Tây Nam khu này.}
+{303}{}{Nghe hấp dẫn thật đấy, nhưng tôi thực sự phải đi đây.}
+{304}{}{Hay đấy. Tôi đang thắc mắc về thứ khác.}
+{305}{}{Không có gì, tôi phải đi đây.}
+{400}{}{Cậu còn muốn biết gì nữa?}
+{401}{}{Bà có thể kể gì cho tôi về Tu viện?}
+{402}{}{Anh có biết gì về Bộ tạo Vườn địa đàng không?}
+{500}{}{Tôi chưa từng nghe đến thứ này. Nhưng nếu đấy là đồ từ thời trước chiến tranh thì tôi chắc là sẽ có gì đó trong
+máy tính của tu viện đấy. Đáng tiếc cho cậu là các thầy tu ở giấu kiến thức như giấu vàng ý -- họ sợ chúng sẽ dẫn
+đến một cuộc chiến tranh hoặc gì đó nếu mọi người biết nhiều quá. Nhưng cứ thử hỏi quanh đây xem.}
+{501}{}{Cám ơn, tôi sẽ thử. Tôi vẫn còn mấy câu hỏi nữa.}
+{502}{}{Cám ơn về lời khuyên. Tôi sẽ đi vào thử giờ đây.}
+{600}{}{Thầy Samuel cử cậu đến đây? Lão bợm rượu đấy lại muốn gì nữa đây?}
+{601}{}{Chăm sóc khu mộ như mọi khi, chắc vậy. Còn về những tiếng động mà anh nghe thấy...}
+{602}{}{[John ngồi xuống ghế và tự rót cho mình một ly whiskey]. Mọi thứ bắt đầu vài ngày trước. Tôi và vợ đang xếp
+giường thì nghe thấy có tiếng sột soạt ngoài vườn. Tôi vớ lấy đèn và lao ra ngoài để xem ai đang gây ra tiếng động.
+Ngay khi tôi ra đến vườn thì tiếng động dừng lại.}
+{603}{}{Tiếp tục đi.}
+{604}{}{Này, tôi thật sự phải đi đây.}
+{605}{}{Ờ, đến đêm hôm sau thì chúng tôi chẳng nghe thấy gì cả. Nhưng đêm sau đó thì chúng tôi lại nghe tiếng sột soạt
+trên đồng lần nữa. Lần này tôi lẻn đến bên cửa sổ và ngó ra thay vì lao ra như trước. Trong đêm tối, tôi nhìn thấy một
+đốm sáng lập lòe như thể là cái đèn cầy hay thứ gì đó, di chuyển trên đồng. Sau một vài phút, đốm sáng đi về phía
+khu nghĩa trang.}
+{606}{}{Tôi muốn đi ra và đối diện với người -- hoặc thứ gì đó, nhưng vợ tôi khuyên tôi ở trong nhà, khi nào trời sáng thì ra.
+Vậy là đến sáng hôm sau, tôi thấy một vài cây trồng đã bị gặm và có vết chân mới đi ở khắp nơi. Ầy, tôi có thể bố thí
+cho người nghèo, nhưng còn lũ trộm cắp thì lại khác.}
+{607}{}{Tôi sẽ thử túm cổ gã này. Có thể tôi sẽ chờ đến nữa đêm xem có thể tìm thấy gì không. Ừ, cám ơn về
+thông tin này nhé. Bảo trọng.}
+{608}{}{Tôi sẽ xem tôi có thể làm gì. Tôi có thêm vài câu hỏi trước khi đi.}
+{609}{}{Câu chuyện này càng lúc càng dài rồi đấy. Tạm biệt.}
+{610}{}{Để tôi vào thẳng vấn đề nhé. Anh muốn giúp kẻ đã lang thang quanh nhà anh vào buổi tối, ăn trộm
+lương thực và cố lấy đồ của người chết? Tôi đã gặp nhiều kẻ điên trước đây, nhưng anh hẳn là số một luôn. Anh vẫn
+còn sống đến giờ đúng là một phép màu đấy.}
+{611}{}{[Anh ta nheo mắt lại, nhưng vẫn giữ được bình tĩnh]. Ở Tu viện này chúng tôi sống như vậy. Nếu lòng tốt khiến cậu
+thấy khó chịu thì tôi khuyên cậu nên biến khỏi nhà tôi ngay. Tôi sẽ không ngồi đây để nghe một gã tộc nhân xỉ vả trước
+mặt vợ mình đâu.}
+{612}{}{Rồi, rồi, tôi đi.}
+{613}{}{OK thôi anh giai cứng, giờ thì "tộc nhân lang thang" này sẽ giết anh giai ngay trước mặt vợ. Có thể sau đó tôi sẽ
+giết cả cô ta luôn. Mẹ kiếp, chắc là tôi sẽ giết toàn bộ lũ người ở chỗ củ lìn này. Các người nghĩ rằng mình có thể trốn 
+tránh khỏi nỗi khiếp sợ của hoang mạc? Biết gì không, anh giai đần? Thần chết đã đến, với cái tên là }
+{700}{}{Cút khỏi đây ngay.}
+{710}{}{Rất vui được gặp lại. Tom đã giúp đỡ chúng tôi nhiều lắm. Cám ơn lần nữa vì đã giải quyết mọi thứ. Giờ thì tôi có thể giúp gì nhỉ?}
+{6061}{}{Sau đó tôi có hỏi Thầy Samuel xem có chuyện gì xảy ra trong nghĩa trang không. Ông ta nói rằng có kẻ nào đó đã
+lật tung mấy ngôi mộ lên. Có vẻ như kẻ đó không có đủ sức để đào trong một đêm. Tôi chắc là một ông lão ăn xin
+nào đấy mong tìm được của thôi. Nếu cậu tìm thấy người làm chuyện đó thì hãy bảo họ đến đây. Ở Tu viện này
+không ai cần phải đi ăn cắp cả, tôi sẽ sẵn lòng giúp đỡ người này bằng mọi cách có thể.}

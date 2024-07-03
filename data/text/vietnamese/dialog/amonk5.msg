@@ -1,4 +1,4 @@
-{100}{}{You see a computer monk.}
+{100}{}{Bạn thấy một thầy tu máy tính.}
 {101}{}{You see Brother Paul.}
 {102}{}{This monk looks like a computer geek.}
 {200}{}{Chào!}
@@ -7,10 +7,10 @@
 {203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
 {300}{}{Yes?}
 {301}{}{You guys sure have a lot of computers here.}
-{302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
+{302}{}{Bà có thể kể gì cho tôi về Tu viện?}
 {303}{}{Tell me about your leader.}
 {304}{}{Do you have any info about a GECK?}
-{305}{}{Ông có bi?t tôi có th? t?m Vault 13 ? đâu không?}
+{305}{}{Ông có biết tôi có thể tìm Vault 13 ở đâu không?}
 {306}{}{Chào.}
 {307}{}{I am in need of some specific information.}
 {308}{}{Như là?}
@@ -56,7 +56,7 @@
 {602}{}{Thanks. See you around.}
 {650}{}{Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?}
 {651}{}{Nice to meet you, Paul. I have some questions.}
-{652}{}{Không có g?. G?p l?i ông sau.}
+{652}{}{Không có gì. Gặp lại ông sau.}
 {4210}{}{Uh, no, I can't say I knew that. That's... interesting.}
 {4211}{}{And did you know a cucumber is 96% water?}
 {4212}{}{Wow, 96%, huh? Fascinating. But, um, what's a cucumber?}
@@ -66,4 +66,4 @@
  information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
 {4220}{}{I don't think I want to contribute to your plant obsession. Sorry.}
 {4221}{}{Oh, well then. Fine, forget I asked.}
-{4222}{}{Đ? tôi h?i chuy?n khác.}
+{4222}{}{Để tôi hỏi chuyện khác.}

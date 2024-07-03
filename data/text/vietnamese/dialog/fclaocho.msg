@@ -30,13 +30,13 @@
 {129}{}{Nothing. Bye.}
 {130}{}{Talk to Crockett, over in the Hubologist camp. He is their head scientist.}
 {131}{}{Thanks. I want more information.}
-{132}{}{Cám ơn. T?m bi?t.}
+{132}{}{Cám ơn. Tạm biệt.}
 {133}{}{Look to the north, in Navarro. There is a hidden base near the gas station.}
 {134}{}{Thanks. I want more information.}
-{135}{}{Cám ơn. T?m bi?t.}
+{135}{}{Cám ơn. Tạm biệt.}
 {136}{}{Have you tried looking in the old Vaults? I hear that they are a wealth of information and technology of the ancients.}
 {137}{}{Thanks. I want more information.}
-{138}{}{Cám ơn. T?m bi?t.}
+{138}{}{Cám ơn. Tạm biệt.}
 {139}{}{A spleen? Ha ha! Yes, Chip from the Valdez lost his spleen in a card game the other day. I sold it to Dr. Wong. He was fascinated by it.}
 {140}{}{Dr. Wong? Where can I find him?}
 {141}{}{How do you lose a spleen?}
@@ -45,7 +45,7 @@
 {144}{}{Dr. Wong is the head scientist in the Steel Palace. Seek him there.}
 {145}{}{How do you lose a spleen, incidentally?}
 {146}{}{Thanks. I want more information.}
-{147}{}{Cám ơn. T?m bi?t.}
+{147}{}{Cám ơn. Tạm biệt.}
 {148}{}{He was drunk. Very, very drunk. He was obsessed with his spleen all night long. And then he bet it.}
 {149}{}{So you took his SPLEEN?}
 {150}{}{I see. Well, I have more questions.}
@@ -63,13 +63,13 @@
 {162}{}{Thanks for your "help". I'm going to get me some real advice.}
 {163}{}{... unless you can get the old tanker on the docks working. It's an old ship, but probably still functional, if some work is put into it. Ask the punks for more information.}
 {164}{}{Thanks. I want more information.}
-{165}{}{Cám ơn. T?m bi?t.}
+{165}{}{Cám ơn. Tạm biệt.}
 {166}{}{Word has it that the Hubologists have come into a large quantity of fuel recently. Bargain with them.}
 {167}{}{Thanks. I want more information.}
-{168}{}{Cám ơn. T?m bi?t.}
+{168}{}{Cám ơn. Tạm biệt.}
 {169}{}{You might try some of the Shi scientists in the Steel Palace. Perhaps they can help you with your fuel needs.}
 {170}{}{Thanks. I want more information.}
-{171}{}{Cám ơn. T?m bi?t.}
+{171}{}{Cám ơn. Tạm biệt.}
 {172}{}{You are an enemy of my people. Die!}
 {173}{}{You have performed well for my people in slaying AHS-9. I hope that I can be of assistance to you in some way.}
 {174}{}{Ông là ai?}
@@ -105,7 +105,7 @@
 {271}{}{Submarine?}
 {280}{}{We have nothing further to discuss, then.}
 {281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
-{282}{}{T?m bi?t.}
+{282}{}{Tạm biệt.}
 {285}{}{You drive a hard bargain. Fine, $1500.}
 {286}{}{Here you go. But your information better be worth it.}
 {287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.
@@ -113,7 +113,7 @@
 {288}{}{Submarine?}
 {290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
  I enjoyed the company of a charming woman like yourself.}
-{291}{}{[TI?P T?C]}
+{291}{}{[TIẾP TỤC]}
 {300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
 {301}{}{hhh... What happened?}
 {310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.
@@ -155,9 +155,9 @@
 {452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
 {453}{}{No deal.}
 {460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
-{461}{}{Cám ơn. T?m bi?t.}
+{461}{}{Cám ơn. Tạm biệt.}
 {470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
-{471}{}{Cám ơn. T?m bi?t.}
+{471}{}{Cám ơn. Tạm biệt.}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}
 {482}{}{No deal.}

@@ -1,8 +1,8 @@
-{100}{}{B?n th?y m?t đ?a tr? nh?.}
-{101}{}{Đ?a tr? trông có v? h?nh phúc.}
+{100}{}{Bạn thấy một đứa trẻ nhỏ.}
+{101}{}{Đứa trẻ trông có vẻ hạnh phúc.}
 {200}{}{Whee!}
-{201}{}{Nơi này tuy?t đ?y.}
-{202}{}{Cô có th?y b?n ma c?a cháu không?}
+{201}{}{Nơi này tuyệt đấy.}
+{202}{}{Cô có thấy bạn ma của cháu không?}
 {203}{}{Cô hôi quá!}
 {204}{}{Chào!}
-{500}{}{M? ơi!}
+{500}{}{Mẹ ơi!}
