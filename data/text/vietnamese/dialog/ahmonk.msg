@@ -19,9 +19,9 @@
 thầy là một trong những người ghi chép đáng tin cậy nhất. Tôi chắc là bất kì nội dung nào mà ông ta có được về thông tin
 cậu đang tìm kiếm đã được ghi vào trong máy tính của chúng tôi.}
 {407}{}{Chờ đã, ông đang "ngờ" rằng thầy Thomas đã chết? Ở ngoài kia cái chết rõ ràng lắm. Ông ta thực ra đã chết hay chưa?}
-{408}{}{Huynh Thomas đã mất tích trong nhiều ngày kể từ khi ông ta đi xuống hang động bên dưới Tu viện [Ông ta thở dài yếu ớt].
+{408}{}{Thầy Thomas đã mất tích trong nhiều ngày kể từ khi ông ta đi xuống hang động bên dưới Tu viện [Ông ta thở dài yếu ớt].
 Cậu thấy đấy, một vài người trong Tu viện kể rằng có nhìn thấy một con quái vật to lớn ẩn thân dưới đó, nhưng Thầy Thomas
-không tin điều đó. Ông ta tự mình đi xuống để xóa bỏ tin đồn, vậy mà trên thực tế việc ông ta mất tích chỉ là minh chứng rõ hơn.}
+không tin điều đó. Ông ta tự mình đi xuống để xóa bỏ tin đồn, vậy mà trên thực tế việc ông ta mất tích lại càng minh chứng rõ hơn.}
 {409}{}{Hừm. Chắc là tôi nên đi xem có gì dưới đó. *TÔI* là cứu tinh cơ mà...}
 {410}{}{Tôi chuyên đi phiêu lưu. Tôi có thể đi xem sao.}
 {411}{}{Cậu sẽ làm vậy thật à? Chắc là trong lúc xuống đó, cậu có thể tìm một cuốn sách này. Cậu xem, thầy Thomas là người
