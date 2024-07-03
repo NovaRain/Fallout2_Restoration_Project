@@ -1,4 +1,4 @@
-{100}{}{You see a squatter.}
+{100}{}{Bạn thấy một người ở nhờ.}
 {101}{}{You see a man covered in dirt and filth.}
 {102}{}{You see a woman covered in dirt and filth.}
 {103}{}{Muốn gì?}

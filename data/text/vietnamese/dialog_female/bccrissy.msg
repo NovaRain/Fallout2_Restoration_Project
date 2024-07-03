@@ -28,14 +28,14 @@ làm căn cứ. Họ túm được tôi đang rình mò và tay thủ lĩnh, Dar
 {121}{}{Okay. Ngộ đưa cô nhà.}
 {122}{}{Được rồi, tôi sẽ đưa cô về.}
 {123}{}{Ồ, bất ngờ chưa. Hôm nay hẳn là ngày may mắn của tôi rồi. Làm sao tôi lại có diễm phúc gặp
-lại anh thế?}
+lại chị thế?}
 {124}{}{}
 {125}{}{Chuyện thế gì? Ai cô?}
 {126}{}{}
 {127}{}{Tôi muốn biết cô là ai và chuyện gì đang xảy ra ở đây.}
 {128}{}{Làm ơn đưa tôi về với mẹ Rebecca.}
-{129}{}{Chàng hiệp sĩ mặc giáp sáng choang của em quay lại rồi. À mà chắc là nó sẽ sáng bóng nếu
-anh thi thoảng lau qua đấy. Ồ, mà anh cũng nên tắm rửa đi. Vậy tôi giúp gì được đây?}
+{129}{}{Nàng hiệp sĩ mặc giáp sáng choang của em quay lại rồi. À mà chắc là nó sẽ sáng bóng nếu
+chị thi thoảng lau qua đấy. Ồ, mà chị cũng nên tắm rửa đi. Vậy tôi giúp gì được đây?}
 {130}{}{Me just say hi. Me go now.}
 {131}{}{Just thought I'd say hello. I'll be going now.}
 {132}{}{Hey, I know I have a smart mouth, but I want you to know that I'm very grateful for you saving
