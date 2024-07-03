@@ -38,9 +38,9 @@ cậu có thể lấy lại cuốn sách thì tôi sẽ rất biết ơn. Nói l
 {419}{}{Đây.}
 {420}{}{Từ từ đã. Cuốn sách này đáng giá bao nhiêu?}
 {421}{}{[Ông ta nhận cuốn sách từ tay bạn và vuốt ve bìa sách như thể để an ủi]. Cậu đã giúp chúng tôi rất nhiều. Giờ
-thì cậu có đầy đủ quyền truy cập vào máy tính trong thư viện. Hãy nói với Huynh Paul là tôi cấp quyền truy cập cho cậu.}
+thì cậu có toàn quyền truy cập vào máy tính trong thư viện. Hãy nói với thầy Paul là tôi cấp quyền truy cập cho cậu.}
 {422}{}{Cám ơn.}
-{423}{}{Cậu muốn lấy tiền à? Được rồi, cầm lấy 250$. Đến gặp Huynh Paul để lấy quyền truy cập máy tính.}
+{423}{}{Cậu muốn lấy tiền à? Được rồi, cầm lấy 250$. Đến gặp thầy Paul để lấy quyền truy cập máy tính.}
 {424}{}{Cám ơn về chỗ tiền, tạm biệt.}
 {425}{}{Cậu nên dùng máy tính trên tầng hai, giờ thì cậu đã có đầy đủ quyền truy cập rồi.}
 {426}{}{Ok, tạm biệt.}
@@ -50,7 +50,7 @@ thì cậu có đầy đủ quyền truy cập vào máy tính trong thư viện
 {433}{}{Nhiệm vụ thần thánh của chúng tôi là đọc, sao chép và bảo quản những cuốn sách kiến thức thiêng liêng cùng
 những bảo vật khác từ thời đã mất. Chúng tôi hi vọng là với kiến thức này, chúng tôi có thể tạo ra Khu kỉ vật để một ngày
 nào đó giúp nhân loại thoát khỏi thời kì Đen tối do mình tự gây ra. Tất cả những thông tin chúng tôi tìm thấy đều được
-ghi lại để khỏi bị mất như rất nhiều thứ khác trong cơn Đại Hỏa.}
+ghi lại để khỏi bị mất như rất nhiều thứ khác trong cơn Đại hỏa.}
 {434}{}{Sau Đại chiến, bàn tay dẫn lối của vận mệnh đã chỉ đường cho tổ tiên chúng tôi đến với Tu viện cũ trong núi này. Nhờ
 vị trí biệt lập, tu viện đã thoát khỏi cơn Đại Hỏa mà không bị hư hại nhiều. Trong lúc khám phá tòa nhà, tổ tiên chúng tôi
 phát hiện một thư viện đầy sách. Và không chỉ có sách tôn giáo, ồ, thư viện này còn chứa đựng rất nhiều tác phẩm viết
@@ -88,7 +88,7 @@ cách duy nhất để đảm bảo rằng lịch sử sẽ không lặp lại.}
 thiên đường nhỏ trên núi này, những người khác ở hoang mạc đang vật lộn hằng ngày để sinh tồn. Thực ra, cả tộc tôi đang
 trên bờ vực diệt vong. Những kiến thức có trong đống sách này có thể giúp chữa bệnh, cải tạo cây trồng và nâng cao khả năng
 sống sót của nhân loại đấy.}
-{453}{}{Ah, chắc là ông nói có điểm đúng. Nhưng có vẻ những thông tin được lưu trữ ở đây có thể giúp đỡ rất nhiều người.
+{453}{}{À, chắc là ông nói có điểm đúng. Nhưng có vẻ những thông tin được lưu trữ ở đây có thể giúp đỡ rất nhiều người.
 Dù cho các ông có nghĩ rằng thế giới chưa sẵn sàng để đón nhận kiến thức, nhưng tôi không hiểu tại sao *ông* chí ít
 không thử học hỏi chúng. Nếu không thì việc lưu giữ có nghĩa lí gì?}
 {454}{}{Tôi hiểu là cậu thấy khó chịu với lẽ sống này, nhưng cậu phải hiểu rằng đây là cách mà chúng tôi luôn tuân theo.
@@ -112,7 +112,7 @@ mãi chẳng thấy có kết quả gì. Thật tốt là cậu đã đến giú
 {700}{}{Ờ... chưa, hình như tôi để nhầm chỗ rồi.}
 {701}{}{Cái gì!? [Ông ta thở mạnh]. Thật đáng tiếc là cậu không lấy lại được sách. Nhưng cậu nói rằng đã tiêu diệt con
 quái vật? Hừm, vậy thì chắc là đã đủ an toàn để cử người xuống đó tiếp tục tìm kiếm. À đấy, để cảm ơn, tôi sẽ cấp cho
-cậu quyền truy cập máy tính. Hãy đến gặp Huynh Paul để lấy khóa truy cập.}
+cậu quyền truy cập máy tính. Hãy đến gặp thầy Paul để lấy khóa truy cập.}
 {702}{}{Cám ơn.}
 {800}{}{Thực ra là có. Cái máy bơm nước chính của chúng tôi bị trục trặc lâu lắm rồi, đến giờ thì có vẻ đã bị hỏng hẳn. Nếu cậu
 biết về máy móc thì liệu cậu có thể xem qua xem có làm được gì không? Có mấy tay lái buôn đang sửa rồi nhưng tôi e là
@@ -142,9 +142,9 @@ Vui lòng báo lại cho tôi nếu cậu có thể làm gì đó [Ông ta thở
 {1033}{}{YAY.}
 {1100}{}{Tôi có xuống đó lúc nãy. Tôi nhìn thấy mấy xác chết nên chắc thầy tu mất tích là một trong số đó. Có thể ông sẽ
 cảm thấy khá hơn vì tôi đã diệt cái thứ đã giết ông ta.}
-{1110}{}{À... vậy là điều tôi e ngại đã đúng. Thật tiếc khi Huynh Thomas không còn nữa. Cám ơn cậu đã loại bỏ giúp
+{1110}{}{À... vậy là điều tôi e ngại đã đúng. Thật tiếc khi thầy Thomas không còn nữa. Cám ơn cậu đã loại bỏ giúp
 chúng tôi thứ quái quỷ ngoài hoang mạc núp ở dưới đó. Tuy nhiên, tôi... không biết cậu có tìm thấy cuốn sách nào dưới đó
-không. Đó là một cuốn sách rất quan trọng mà Huynh Thomas là người cầm cuối cùng.}
+không. Đó là một cuốn sách rất quan trọng mà thầy Thomas là người cầm cuối cùng.}
 {1111}{}{Không, nhưng chắc là tôi có thể quay lại xem sao.}
 {1112}{}{Ý ông là cuốn sách này?}
 {1113}{}{Trước khi đi, tôi muốn hỏi chuyện khác.}

@@ -85,7 +85,7 @@
 {286}{}{Let's get out of here, then. It's time we left this dump behind.}
 {287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
 {288}{}{[Đã xong]}
-{300}{}{Yes?}
+{300}{}{Vâng?}
 {301}{}{I'm all ears.}
 {302}{}{Something you wanted?}
 {303}{}{What is it? You look like you have something to say.}

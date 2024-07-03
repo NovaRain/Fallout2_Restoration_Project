@@ -4,7 +4,7 @@
 {200}{}{Chào!}
 {201}{}{Chào.}
 {202}{}{Nào, hôm nay mình sao lưu đống dữ liệu máy tính chưa nhỉ...}
-{203}{}{Thứ lỗi, nhưng tôi không có thời gian cho người thông minh như cậu.}
+{203}{}{Thứ lỗi nhưng tôi không có thời gian cho người thông minh như cô.}
 {300}{}{Vâng?}
 {301}{}{Các ông có nhiều máy tính ở đây thật đấy.}
 {302}{}{Bà có thể kể gì cho tôi về Tu viện?}
@@ -28,10 +28,10 @@ cái hang đâu – nhưng nếu tôi không nhầm thì chắc là mấy con b�
 {409}{}{Chắc vậy.}
 {410}{}{Có chứ. Hãy xem trong cái máy tính đằng kia. Đây, dùng cái thẻ này để truy cập các tệp tin mã hóa của chúng tôi [Ông ta đưa cho bạn một cái thẻ truy cập].}
 {411}{}{Ồ, cám ơn nhiều!}
-{412}{}{Tôi không biết gì về Vault 13, nhưng có một Thành phố Vault ở phía Nam. Có thể họ có thông tin mà cậu cần.}
+{412}{}{Tôi không biết gì về Vault 13, nhưng có một Thành phố Vault ở phía Nam. Có thể họ có thông tin mà cô cần.}
 {413}{}{Cám ơn.}
-{414}{}{Cái máy tính bên cạnh tôi chắc là có thông tin mà cậu đang tìm, nhưng cậu cần có thẻ truy cập để sử dụng.
-Chúng tôi lựa chọn người có thể truy cập rất kĩ, nhưng nếu cậu nói chuyện với Thầy trụ trì thì có thể thầy sẽ cấp quyền cho cậu.}
+{414}{}{Cái máy tính bên cạnh tôi chắc là có thông tin mà cô đang tìm, nhưng cô cần có thẻ truy cập để sử dụng.
+Chúng tôi lựa chọn người có thể truy cập rất kĩ, nhưng nếu cậu nói chuyện với Thầy trụ trì thì có thể thầy sẽ cấp quyền cho cô.}
 {415}{}{Ồ, cám ơn.}
 {420}{}{Chắc là ông đọc nhiều sách trong lúc rảnh lắm. Tôi tự hỏi điều thú vị nhất mà ông có thể kể cho tôi là gì?}
 {421}{}{Hmm, let's see. Did you know a notch in a tree will remain the same distance from the ground as the tree grows?}
