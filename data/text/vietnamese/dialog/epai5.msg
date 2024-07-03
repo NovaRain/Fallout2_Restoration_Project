@@ -7,12 +7,12 @@
 {203}{}{Open}
 {204}{}{Wheat}
 {205}{}{Abre}
-{206}{}{[K?T THÚC]}
+{206}{}{[KẾT THÚC]}
 {300}{}{Incorrect door code. Locking door. Please contact the head of Public Relations for the override code.}
-{301}{}{[K?T THÚC]}
+{301}{}{[KẾT THÚC]}
 {400}{}{Confirm override code.}
-{401}{}{[K?T THÚC]}
+{401}{}{[KẾT THÚC]}
 {402}{}{This door is electronically locked.}
 {403}{}{Unlocking door. Thank you and have a pleasant day.}
-{404}{}{[K?T THÚC]}
+{404}{}{[KẾT THÚC]}
 {500}{}{There is no lock to pick.}

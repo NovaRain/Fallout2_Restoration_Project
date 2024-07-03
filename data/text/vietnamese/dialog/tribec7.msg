@@ -1,7 +1,7 @@
 {100}{}{You see a tribal woman.}
 {101}{}{You see Kurisu, Sulik's sister.}
 {102}{}{You see a young, full figured tribal woman with several piercings and tattoos.}
-{150}{}{[K?T THÚC]}
+{150}{}{[KẾT THÚC]}
 {200}{}{Sulik! [She catches herself and begins to whisper.] Do the spirits be teasing, or is that really you, brother?}
 {201}{}{Me? No, I'm the Chosen One. You must be thinking of old bone nose here.}
 {202}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, a twig snaps outside the building. Sulik lets go of his sister and reaches for his weapon as he glances at the door. No more sounds come from outside.]}
@@ -23,7 +23,7 @@
 {216}{}{I got the keys. Time to get you out of here.}
 {217}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. Who be... Sulik? Do the spirits be teasing, or is that really you, brother?}
 {218}{}{Why there be so much commotion out there? Ah, I sense many have gone to join the spirits. And I sense you be the one sending em. What you be needin', Ghost-maker?}
-{219}{}{Con đ?n đ? c?u ngư?i.}
+{219}{}{Con đến để cứu người.}
 {221}{}{Praise the spirits! Please, you needin' to get us out of cage. Away from this evil place.}
 {222}{}{Spirits praise you! Now I must go and return to my people. Long have I been missed. Please, stop by my village. It be near the Great Salt Water, a few days south west of here. Thank you, fren.}
 {223}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, his sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. The Slavers, they be dead, yes?}
@@ -78,7 +78,7 @@
 {940}{}{Lockpick no work. I look for key. Yoo wait.}
 {941}{}{Lockpick no work. [You turn to Sulik] We fight bad men now.}
 {950}{}{I "Chosen One". Who yoo?}
-{951}{}{Ng? }
+{951}{}{Ngộ }
 {952}{}{. Who yoo?}
 {960}{}{It safe. We go home.}
 {961}{}{It no safe. More bad men to kill.}

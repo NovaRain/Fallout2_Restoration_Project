@@ -42,7 +42,7 @@
 {311}{}{[His eyes flare with rage] Kill her, my children! Her body shall make a fine host for your newest sibling!}
 {312}{}{[XONG]}
 {320}{}{Excellent! Now I shall prepare your reward. Make yourself comfortable. This may take a little while.}
-{321}{}{[TI?P T?C]}
+{321}{}{[TIẾP TỤC]}
 {322}{}{Keep your reward. I don't have time to wait around.}
 {330}{}{Yes, bring the seeds to me and you may claim your reward.}
 {331}{}{I'll be back.}
@@ -75,12 +75,12 @@
 {412}{}{I'm always up for exploring some old ruins. Give me the location and I'll go see what I can find.}
 {413}{}{And what do I get out of it?}
 {420}{}{Yes, Dr. Wong is a bit of an obstacle. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will get the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{421}{}{Đ? tôi xem tôi có th? làm g?.}
+{421}{}{Để tôi xem tôi có thể làm gì.}
 {422}{}{If you want Wong dead, you'll need to give me something up front.}
 {423}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {424}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}
 {430}{}{Very well. This poison may come in handy. I extracted it from one of my creations. It is extremely deadly. [He gives you a syringe.]}
-{431}{}{Đ? tôi xem tôi có th? làm g?.}
+{431}{}{Để tôi xem tôi có thể làm gì.}
 {440}{}{[Looks at you expectantly.]}
 {441}{}{I'm still working on things. I'll get back to you.}
 {442}{}{I delivered the sample to the Shi.}
@@ -95,7 +95,7 @@
 {461}{}{Assist you with what?}
 {462}{}{No! I'm not going to assist you, asshole! Seymour was real! SEYMOUR WAS REAL!}
 {470}{}{[He grins, obviously eager to show off his genius.] I've always been fascinated by plants. They are so remarkably different from animals, and yet surprisingly similar. When you look at an animal, you know it can think, that it's aware of its surroundings, experiences pain and fear. That it has reason. Obviously the extent of this ability varies, but the point is that an animal possesses this.}
-{471}{}{Ti?p t?c đi.}
+{471}{}{Tiếp tục đi.}
 {480}{}{When you look at a plant though, do you also think this? If you kick a plant, does it fight back? Does it respond to you in anyway? Does talking to a plant affect its growth? Some cultures before the Great War tested such theories. A people known as the Germans conducted experiments which lead them to believe that plants are capable of emotions and that one could promote healthy growth with talk, attention, and affection.}
 {481}{}{But plants lack a nervous system, and without one what you're suggesting just isn't possible.}
 {482}{}{I think all forms of life perceive in some way or another.}
@@ -113,7 +113,7 @@
 {540}{}{And so now you understand, I hope?}
 {541}{}{Yes, I do. It seemed totally impossible, but the way you've explained it makes complete sense. And the thing about the sponges, absolute genius! Morbid, but genius. But there was one thing you didn't explain. Where exactly are you getting these 'fresh human cadavers'?}
 {550}{}{Now hold on there a minute. Dr. Wong will be a bit of an obstacle here. If he were removed from the picture, things would go much more smoothly. Give Dr. Wong the sample. Even if he distrusts me, his curiosity will getter the better of him and he'll accept it. Once the sample has been stored away, find a way to eliminate Dr. Wong without alerting the other Shi. Perhaps an overdose of some sort. Do this, and I'll see that your reward is tripled.}
-{551}{}{Đ? tôi xem tôi có th? làm g?.}
+{551}{}{Để tôi xem tôi có thể làm gì.}
 {552}{}{If you want Wong dead, you'll need to give me something up front.}
 {553}{}{You know, this is all getting a bit complicated. I think I'd rather just massacre you and then go massacre the Shi.}
 {554}{}{There's no way I'm killing Dr. Wong for you. I'm done here.}

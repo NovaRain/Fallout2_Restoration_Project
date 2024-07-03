@@ -461,7 +461,7 @@ and fifty years.}
 {3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
  before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
  these tests on me. And that's how I wound up at the EPA where you found me.}
-{3015}{}{Thanks for the story.}
+{3015}{}{Cám ơn về câu chuyện.}
 {3020}{}{Let's see.... My Mom was a drug fiend and a whore, and my Dad was an ornery drunken bastard. Fortunately, my
  grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
  when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
@@ -475,7 +475,7 @@ and fifty years.}
 {3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
  in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
  could remember, but gutting neighborhood critters didn't compare to the real deal, you know?}
-{3026}{}{Đư?c thôi.}
+{3026}{}{Được thôi.}
 {3027}{}{So things were pretty sweet, for the most part. I mean, I fucking hated my Uncle and Aunt, but at school I was
  Mr. Popular. Every guy wanted to be my friend and every gal I looked at was willing to spread for me. Except for this
  one gal, Vicky. She actually took a bit of work. Amazing, I know, but eventually I got her to come around and become my girl.}
@@ -505,7 +505,7 @@ and fifty years.}
 {3041}{}{So there I was, certain I was going to die, but then these G-Men stepped in and took me away. They got me back
  to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
  you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
-{3042}{}{Thanks for the story.}
+{3042}{}{Cám ơn về câu chuyện.}
 {3100}{}{Any tips you might be able to give me?}
 {3101}{}{Tips? What kind of tips?}
 {3102}{}{Well, I'm sure you've got some skill.}
@@ -589,5 +589,5 @@ and fifty years.}
 {4260}{}{Why the hell are we even wasting our time here? Seriously?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
 {5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[K?T THÚC]}
+{5001}{}{[KẾT THÚC]}
 {5002}{}{Holy shit!}

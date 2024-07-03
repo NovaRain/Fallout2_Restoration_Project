@@ -15,7 +15,7 @@
 {114}{}{Oh. All right.}
 {115}{}{We can help everyone who comes here for a reason. If you can't be helped, then you gotta go. Get going before we help you.}
 {116}{}{Gonna make me?}
-{117}{}{Hi?u r?i.}
+{117}{}{Hiểu rồi.}
 {118}{}{You're here to talk to them, eh? Well, you can talk to us. What do you have to say?}
 {119}{}{Have you considered that you're holding them illegally?}
 {120}{}{Eat this, mutie!}
@@ -31,10 +31,10 @@
 {130}{}{That's all I wanted. Great. Thanks. Bye.}
 {131}{}{Yeah, but maybe we should be. Right now, they are. And they're staying there until someone can show me a better reason to let them out. Now... get out.}
 {132}{}{Không.}
-{133}{}{Đư?c r?i.}
+{133}{}{Được rồi.}
 {134}{}{So they're going to stay in jail for now. We gotta protect society. Now... get out.}
 {135}{}{Không.}
-{136}{}{Đư?c r?i.}
+{136}{}{Được rồi.}
 {137}{}{You! What the hell are you doing? Get the hell out of here!}
 {138}{}{You'll be putting your weapons away now, pal.}
 {139}{}{You again? Do you need something?}
@@ -45,5 +45,5 @@
 {144}{}{You shouldn't be hanging around here. Leave now.}
 {145}{}{If I ever find out where those damn prisoners ran off to, there's gonna be hell to pay!}
 {150}{}{But... but... all right. They're out. You're accountable. I just hope you're right. Here is the... Hey, where'd my key go!? Shit, Marcus is gonna have my head if I lost that thing. Sorry, I gotta go.}
-{151}{}{Đư?c r?i.}
+{151}{}{Được rồi.}
 {152}{}{I actually took that key from you. What are going to do about it?}

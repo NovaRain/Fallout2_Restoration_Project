@@ -1,4 +1,4 @@
-{1}{}{Você se tornou viciado em álcool. A sede de álcool logo o consumirá}
+{1}{}{You have become addicted to alcohol. The thirst for alcohol will soon consume you. You lost 1 Agility and 1 Charisma}
 {2}{}{Os impulsos estão piorando.}
 {3}{}{Você tem uns tremores. Você tem um impulso intenso em beber algo com álcool.}
-{4}{}{Você sente como se um grande fardo tivesse sido tirado de sua mente. Você não tem mais o impulso em beber álcool.}
+{4}{}{You feel as if a great burden has been lifted from your mind. No longer do you feel the need to drink alcohol. You regained 1 Agility and 1 Charisma}

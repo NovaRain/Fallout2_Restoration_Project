@@ -1,6 +1,6 @@
 {100}{}{You see a prostitute.}
 {150}{}{This is your usual, run of the mill, prostitute.}
-{152}{}{[NÓI CHUY?N]}
+{152}{}{[NÓI CHUYỆN]}
 {153}{}{Hey, I don't do chicks!}
 {154}{}{Whatever.}
 {155}{}{Sorry.}
@@ -47,7 +47,7 @@
 {197}{}{That's it?}
 {198}{}{OK. Bye}
 {199}{}{It was good.}
-{200}{}{Bye bye.}
+{200}{}{Chào nhé.}
 {201}{}{I don't get paid enough for this.}
 {202}{}{It's not like you were worth the money anyhow.}
 {203}{}{You'll miss me.}
@@ -57,9 +57,9 @@
 {207}{}{OK. Bye.}
 {208}{}{Yeah, right.}
 {209}{}{Whoo!}
-{210}{}{G?p l?i sau.}
+{210}{}{Gặp lại sau.}
 {211}{}{Chào.}
-{212}{}{Bye bye.}
+{212}{}{Chào nhé.}
 {213}{}{It will cost $}
 {214}{}{ for a session. Pay first.}
 {215}{}{Follow me.}

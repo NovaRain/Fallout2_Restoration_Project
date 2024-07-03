@@ -8,7 +8,7 @@
 {107}{}{You see The Doctor.}
 {108}{}{The leading - and only - Doctor left in the EPA.}
 {109}{}{It would be unwise to attack me.}
-{120}{}{Yes?}
+{120}{}{Vâng?}
 {121}{}{Hi, my name is }
 {122}{}{. Who are you?}
 {123}{}{Sorry to bother you. Goodbye.}
@@ -114,7 +114,7 @@
 {483}{}{I'm looking for work. Do you have any?}
 {484}{}{Where do you get all your equipment from?}
 {490}{}{Have you collected the pelts as I requested?}
-{491}{}{Vâng, ? đây ?.}
+{491}{}{Vâng, ở đây ạ.}
 {492}{}{No, not as yet.}
 {500}{}{Wonderful! Excellent! Let me see... ahh yes, these will do nicely! Now then, do you want another job?}
 {501}{}{Yes, if you have anything}
@@ -180,7 +180,7 @@
 {730}{}{So, are you happy with this situation? I mean, being the only one here?}
 {731}{}{What else would you like to know about?}
 {800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
-{801}{}{Đư?c ch?. L?o c?n g? nào?}
+{801}{}{Được chứ. Lão cần gì nào?}
 {802}{}{No thanks. Bye.}
 {803}{}{Well, I was out collecting samples at one of my work sites and I seem to have left one of my tools there. Normally
  I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact

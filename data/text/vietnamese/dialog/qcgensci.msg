@@ -47,7 +47,7 @@
 {146}{}{Like we wouldn't see an intruder approaching.}
 {147}{}{Another alarm malfunction. Great.}
 {148}{}{I don't have time for this shit.}
-{149}{}{Mu?n g??}
+{149}{}{Muốn gì?}
 {150}{}{Can't you see I'm working here?}
 {151}{}{Go away. I'm busy.}
 {152}{}{Don't you have anything better to do?}
@@ -55,5 +55,5 @@
 {154}{}{What the hell do you want?}
 {155}{}{Bugger off.}
 {156}{}{Go pester someone else.}
-{157}{}{Yes?}
+{157}{}{Vâng?}
 {158}{}{This work is very delicate, go away.}

@@ -1,43 +1,43 @@
-{100}{}{B?n th?y Jack, bác s? c?a Tu vi?n.}
-{101}{}{Ông ta đeo bi?u tư?ng ch? th?p đ? trên vai.}
-{200}{}{N?u c?u b? thương th? đ?n g?p tôi.}
-{300}{}{Tôi giúp g? đư?c nh??}
-{301}{}{Tôi b? thương, ông giúp tôi đư?c không?}
-{302}{}{[Ch?y nư?c d?i].}
-{303}{}{V?y ông làm g? ? Tu vi?n v?y?}
+{100}{}{Bạn thấy Jack, bác sĩ của Tu viện.}
+{101}{}{Ông ta đeo biểu tượng chữ thập đỏ trên vai.}
+{200}{}{Nếu cậu bị thương thì đến gặp tôi.}
+{300}{}{Tôi giúp gì được nhỉ?}
+{301}{}{Tôi bị thương, ông giúp tôi được không?}
+{302}{}{[Chảy nước dãi].}
+{303}{}{Vậy ông làm gì ở Tu viện vậy?}
 {304}{}{Chào.}
-{400}{}{Xong r?i!}
+{400}{}{Xong rồi!}
 {401}{}{Cám ơn.}
-{402}{}{D?ng l?i!}
-{403}{}{[TI?P T?C]}
-{404}{}{[B? ĐI]}
-{405}{}{D?NG L?I! D?NG L?I! D?NG L?I!}
-{406}{}{[TI?P T?C]}
-{407}{}{[D?NG]}
-{408}{}{(Đ?t nhiên, Jack b?t đ?u ch?y ra) TÔI ĐANG CH?Y, TÔI ĐANG CH?Y RA, ÔI GI?I...}
+{402}{}{Dừng lại!}
+{403}{}{[TIẾP TỤC]}
+{404}{}{[BỎ ĐI]}
+{405}{}{DỪNG LẠI! DỪNG LẠI! DỪNG LẠI!}
+{406}{}{[TIẾP TỤC]}
+{407}{}{[DỪNG]}
+{408}{}{(Đột nhiên, Jack bắt đầu chảy ra) TÔI ĐANG CHẢY, TÔI ĐANG CHẢY RA, ÔI GIỜI...}
 {409}{}{Cái đi...}
-{500}{}{Này, đ?ng có ăn tr?m v?t tư ? t? c?a tôi!}
-{501}{}{B?n nh?n đư?c 200 đi?m kinh nghi?m v? đ? làm Jack tan ch?y. Vui l?m nh?, đ? b?nh ho?n?}
-{600}{}{Tôi là bác s?. Tôi đ? chăm sóc m?i ngư?i ? Tu vi?n này trong kho?ng, ?, t?m 15 năm r?i, ch?c v?y.}
-{601}{}{V?y ư. Dành t?ng đ?y năm đ? đ?c toàn b? ch? sách y h?c trư?c chi?n tranh trong thư vi?n, ch?c h?n ông là bác s? gi?i l?m.}
-{602}{}{Ông ki?m đâu ra ch? thi?t b? y t? này th??}
-{603}{}{Hay đ?y. Tôi e là tôi ph?i đi đây.}
-{604}{}{[Ông ta cau mày]. Tôi t? cho m?nh là bác s? gi?i, nhưng tôi có h?c đư?c quái g? đâu khi mà tôi c?n ch?ng đư?c phép... mà thôi, b? qua đi. Cha tôi là bác s?, và ông truy?n l?i nh?ng
-ki?n th?c này cho tôi.}
-{605}{}{À, tôi hi?u r?i.}
-{700}{}{M?t s? thu?c ? đây tôi nh?n l?i t? cha m?nh. Ch? c?n l?i h?u h?t có s?n ? Tu vi?n.}
-{701}{}{Hay đ?y, chào.}
-{702}{}{Ông xem li?u có th? cho tôi xin m?t ít thu?c đư?c không? Có v? ông dư th?a khá nhi?u.}
-{703}{}{C?u mu?n tôi *đưa* chúng cho c?u? Cái g? khi?n c?u ngh? r?ng c?u đáng đư?c dùng thu?c hơn nh?ng ngư?i ? Tu vi?n?}
-{704}{}{B?i v? tôi hay b? thương... nhi?u l?n.}
-{705}{}{B?i v? tôi đang th?c hi?n nhi?m v? th?n thánh là đi t?m B? t?o Vư?n Đ?a đàng. Ông th?y đ?y, c? làng tôi s?
-di?t vong n?u tôi không t?m đư?c th? này k?p th?i. C?n nh?ng ngư?i c?a ông ? đây có v? như đang s?ng b?nh yên và
-không c?n nhi?u thi?t b? y t? đ?n th? này. Tôi không đ?i h?i đâu, ông cho bao nhiêu th? cho. Ít c?ng là nhi?u.}
-{706}{}{[Ông ta đ?n đo m?t lúc, r?i g?t đ?u]. Đư?c r?i, tôi s? cho c?u m?t vài đ? y t? dư th?a c?a chúng tôi. Có v? như
-c?u s? c?n chúng. Đây. [Ông ta trao đ? cho b?n]. Chúc may m?n, ngư?i l? khách.}
-{707}{}{Cám ơn, Jack. Ông đúng là v? c?u tinh th?c s? c?a hoang m?c. T?m bi?t.}
-{708}{}{V?y th? có l? c?u nên h?c cách c?n th?n hơn. Xin l?i, tôi s? không đem đ? y t? c?a Tu vi?n đi làm t? thi?n đâu.}
-{709}{}{Đư?c r?i. T?M BI?T.}
-{800}{}{Gi? tôi không nói chuy?n đư?c.}
-{801}{}{Xin l?i, tôi đang d? tay. Quay l?i sau nhé.}
-{802}{}{Chào g?p l?i.}
+{500}{}{Này, đừng có ăn trộm vật tư ý tế của tôi!}
+{501}{}{Bạn nhận được 200 điểm kinh nghiệm vì đã làm Jack tan chảy. Vui lắm nhỉ, đồ bệnh hoạn?}
+{600}{}{Tôi là bác sĩ. Tôi đã chăm sóc mọi người ở Tu viện này trong khoảng, ồ, tầm 15 năm rồi, chắc vậy.}
+{601}{}{Vậy ư. Dành từng đấy năm để đọc toàn bộ chỗ sách y học trước chiến tranh trong thư viện, chắc hẳn ông là bác sĩ giỏi lắm.}
+{602}{}{Ông kiếm đâu ra chỗ thiết bị y tế này thế?}
+{603}{}{Hay đấy. Tôi e là tôi phải đi đây.}
+{604}{}{[Ông ta cau mày]. Tôi tự cho mình là bác sĩ giỏi, nhưng tôi có học được quái gì đâu khi mà tôi còn chẳng được phép... mà thôi, bỏ qua đi. Cha tôi là bác sĩ, và ông truyền lại những
+kiến thức này cho tôi.}
+{605}{}{À, tôi hiểu rồi.}
+{700}{}{Một số thuốc ở đây tôi nhận lại từ cha mình. Chỗ còn lại hầu hết có sẵn ở Tu viện.}
+{701}{}{Hay đấy, chào.}
+{702}{}{Ông xem liệu có thể cho tôi xin một ít thuốc được không? Có vẻ ông dư thừa khá nhiều.}
+{703}{}{Cậu muốn tôi *đưa* chúng cho cậu? Cái gì khiến cậu nghĩ rằng cậu đáng được dùng thuốc hơn những người ở Tu viện?}
+{704}{}{Bởi vì tôi hay bị thương... nhiều lần.}
+{705}{}{Bởi vì tôi đang thực hiện nhiệm vụ thần thánh là đi tìm Bộ tạo Vườn Địa đàng. Ông thấy đấy, cả làng tôi sẽ
+diệt vong nếu tôi không tìm được thứ này kịp thời. Còn những người của ông ở đây có vẻ như đang sống bình yên và
+không cần nhiều thiết bị y tế đến thế này. Tôi không đòi hỏi đâu, ông cho bao nhiêu thì cho. Ít cũng là nhiều.}
+{706}{}{[Ông ta đắn đo một lúc, rồi gật đầu]. Được rồi, tôi sẽ cho cậu một vài đồ y tế dư thừa của chúng tôi. Có vẻ như
+cậu sẽ cần chúng. Đây. [Ông ta trao đồ cho bạn]. Chúc may mắn, người lữ khách.}
+{707}{}{Cám ơn, Jack. Ông đúng là vị cứu tinh thực sự của hoang mạc. Tạm biệt.}
+{708}{}{Vậy thì có lẽ cậu nên học cách cẩn thận hơn. Xin lỗi, tôi sẽ không đem đồ y tế của Tu viện đi làm từ thiện đâu.}
+{709}{}{Được rồi. TẠM BIỆT.}
+{800}{}{Giờ tôi không nói chuyện được.}
+{801}{}{Xin lỗi, tôi đang dở tay. Quay lại sau nhé.}
+{802}{}{Chào gặp lại.}

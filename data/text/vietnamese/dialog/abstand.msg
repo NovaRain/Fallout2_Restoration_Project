@@ -1,11 +1,11 @@
-{100}{}{B?n th?y m?t ngư?i đàn ông.}
-{101}{}{B?n th?y m?t ph? n?.}
-{102}{}{Ông ta là cư dân c?a Tu vi?n.}
-{103}{}{Bà ta là cư dân c?a Tu vi?n.}
-{200}{}{Chào m?ng ngư?i l?.}
-{201}{}{B?nh an nhé.}
-{202}{}{Nơi này tuy?t th?t đ?y!}
+{100}{}{Bạn thấy một người đàn ông.}
+{101}{}{Bạn thấy một phụ nữ.}
+{102}{}{Ông ta là cư dân của Tu viện.}
+{103}{}{Bà ta là cư dân của Tu viện.}
+{200}{}{Chào mừng người lạ.}
+{201}{}{Bình an nhé.}
+{202}{}{Nơi này tuyệt thật đấy!}
 {203}{}{Chào.}
-{204}{}{Th?i ti?t đ?p đ?y.}
-{205}{}{Nh? c?n th?n ngoài hoang m?c.}
-{500}{}{CÓ TR?M!}
+{204}{}{Thời tiết đẹp đấy.}
+{205}{}{Nhớ cẩn thận ngoài hoang mạc.}
+{500}{}{CÓ TRỘM!}

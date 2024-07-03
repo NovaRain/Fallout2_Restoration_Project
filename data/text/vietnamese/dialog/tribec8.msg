@@ -2,7 +2,7 @@
 {101}{}{You see a fisherwoman.}
 {102}{}{He is carrying a sharpened pole used for fishing.}
 {103}{}{She appears to be busily cooking.}
-{104}{}{Greetings.}
+{104}{}{Xin chào.}
 {200}{}{You're not welcome here.}
 {201}{}{The spirits do not like you.}
 {202}{}{Go away, outworlder.}
@@ -14,7 +14,7 @@
 {208}{}{I thought all outworlders were evil. It is not so...}
 {209}{}{Don't do that.}
 {300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
-{301}{}{Đư?c ch?. L?o c?n g? nào?}
+{301}{}{Được chứ. Lão cần gì nào?}
 {302}{}{I'm busy too. Perhaps a little later.}
 {303}{}{Hey, life is full of problems and I'm not here to solve them all. Bye.}
 {304}{}{I'm running low on wood for this fire. If you could collect some more for me, I'd really appreciate it. I'd do it myself, but I am afraid this pot will boil over if I leave it unattended. I'm sure some logs can be found in the nearby forest. Three bundles would be perfect.}
@@ -33,7 +33,7 @@
 {316}{}{Yeah, I got it right here.}
 {317}{}{No, not yet. I'll be back when I get the three bundles.}
 {318}{}{Are you ready to help me?}
-{319}{}{Đư?c ch?. L?o c?n g? nào?}
+{319}{}{Được chứ. Lão cần gì nào?}
 {320}{}{No, I still need more time. Bye.}
 {321}{}{No, and I won't be. Deal with your own problems. Bye.}
 {330}{}{No real use for it? Then why didn't you give it to me in the first place? (mumble) Stupid bitch.}

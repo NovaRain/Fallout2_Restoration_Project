@@ -1,158 +1,157 @@
-{100}{}{You see the Abbot, the spiritual leader of the Abbey.}
-{101}{}{There's something about this monk that leads you to believe he's rather important.}
-{200}{}{Welcome traveler.}
-{201}{}{B?nh an nhé.}
-{202}{}{We are the guardians of knowledge.}
-{203}{}{I'm sorry, but knowledge of our books is of no use to you.}
-{300}{}{Welcome to the Abbey, traveler. How can I help you?}
-{301}{}{What can you tell me about your order?}
-{302}{}{Have you ever heard of a device called a GECK?}
-{303}{}{Do you know where I could find Vault 13?}
+{100}{}{Bạn thấy Thầy trụ trì, người đứng đầu tôn giáo của Tu viện.}
+{101}{}{Có thứ gì đó về thầy tu này khiến bạn tin rằng ông ta rất quan trọng.}
+{200}{}{Xin chào, người lữ khách.}
+{201}{}{Bình an nhé.}
+{202}{}{Chúng tôi là những người giữ gìn kiến thức.}
+{203}{}{Tôi rất tiếc, nhưng kiến thức trong sách của chúng tôi không giúp gì được cho cậu.}
+{300}{}{Chào mừng đến với Tu viện, người lữ khách. Tôi có thể giúp gì đây?}
+{301}{}{Ông có thể nói gì về hội không?}
+{302}{}{Ông có từng nghe nói đến một thứ gọi là GECK chưa?}
+{303}{}{Ông có biết tôi có thể tìm Vault 13 ở đâu không?}
 {304}{}{Chào.}
-{400}{}{Mu?n bi?t g? nào?}
-{401}{}{Okay. I'd like to know something else.}
-{402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
-{403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
-{404}{}{Tôi không bi?t g? v? chuy?n đó.}
-{405}{}{Well, thanks anyway.}
-{406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
- the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
- across concerning the information you seek has been transcribed into our computers.}
-{407}{}{Wait a second, you're "under the impression" that Brother Thomas is dead? Where I come from, death is a pretty clear cut thing. So, is he dead, or isn't he?}
-{408}{}{Brother Thomas has been missing for several days, ever since he went down to the caverns below the Abbey. [He sighs wearily.]
- You see, some of the Abbey's residents claimed to have seen a huge beast lurking down there, and Brother Thomas was quite skeptical.
- He took it upon himself to go dispel these rumors, yet, as it turns out, his disappearance has only further validated them.}
-{409}{}{Hmmm. Maybe I should take a look what's down there. *I AM* the chosen one after all...}
-{410}{}{I'm adventurous. I can take a look.}
-{411}{}{You'd really do that? Perhaps while you're down there, you could look for a certain book. You see, it was last
- known to be in Brother Thomas's possession, and it's very important to us, as it was passed down by our founders.
- If you could retrieve that book, I would be most grateful. In fact, I'd grant you full access to our computers, so you
- can look for whatever you desire.}
-{412}{}{It's a deal. I'll be back soon.}
-{413}{}{Maybe, let me think about this some more...}
-{414}{}{Thank you. Please let me know if you find the book.}
-{415}{}{Ok, bye.}
-{416}{}{Hello, my friend.}
-{417}{}{I've killed your beast, and I've got your book.}
-{418}{}{Excellent! Let me have it!}
+{400}{}{Muốn biết gì nào?}
+{401}{}{Okay. Tôi muốn hỏi về việc khác.}
+{402}{}{Hừm... nghe *có vẻ* quen. Ồ, có, tôi nhớ là Thầy Thomas gần đây có nhắc gì đó đến thứ này. Thứ lỗi nhưng tôi không nhớ chính xác ông ta đã nói gì.}
+{403}{}{Không sao. Chỉ cần nói cho tôi biết Thầy Thomas ở đâu và tôi sẽ đi hỏi ông ta.}
+{404}{}{Tôi không biết gì về chuyện đó.}
+{405}{}{Ồ, dẫu sao thì cũng cám ơn.}
+{406}{}{Tôi e là tôi không làm được chuyện đó. Cậu xem, tôi ngờ là Thầy Thomas không còn sống nữa. Nhưng thật may cho cậu
+thầy là một trong những người ghi chép đáng tin cậy nhất. Tôi chắc là bất kì nội dung nào mà ông ta có được về thông tin
+cậu đang tìm kiếm đã được ghi vào trong máy tính của chúng tôi.}
+{407}{}{Chờ đã, ông đang "ngờ" rằng thầy Thomas đã chết? Ở ngoài kia cái chết rõ ràng lắm. Ông ta thực ra đã chết hay chưa?}
+{408}{}{Thầy Thomas đã mất tích trong nhiều ngày kể từ khi ông ta đi xuống hang động bên dưới Tu viện [Ông ta thở dài yếu ớt].
+Cậu thấy đấy, một vài người trong Tu viện kể rằng có nhìn thấy một con quái vật to lớn ẩn thân dưới đó, nhưng Thầy Thomas
+không tin điều đó. Ông ta tự mình đi xuống để xóa bỏ tin đồn, vậy mà trên thực tế việc ông ta mất tích lại càng minh chứng rõ hơn.}
+{409}{}{Hừm. Chắc là tôi nên đi xem có gì dưới đó. *TÔI* là cứu tinh cơ mà...}
+{410}{}{Tôi chuyên đi phiêu lưu. Tôi có thể đi xem sao.}
+{411}{}{Cậu sẽ làm vậy thật à? Chắc là trong lúc xuống đó, cậu có thể tìm một cuốn sách này. Cậu xem, thầy Thomas là người
+cuối cùng giữ cuốn sách, và nó rất quan trọng với chúng tôi. Cuốn sách đã được truyền lại từ thời người sáng lập. Nếu
+cậu có thể lấy lại cuốn sách thì tôi sẽ rất biết ơn. Nói luôn là tôi sẽ cấp cho cậu toàn bộ quyền truy cập vào máy tính
+để cậu có thể tìm kiếm bất cứ cái gì cậu muốn.}
+{412}{}{Cứ vậy đi. Tôi sẽ sớm trở lại.}
+{413}{}{Có thể. Để tôi nghĩ thêm một lát đã...}
+{414}{}{Cám ơn. Vui lòng nói cho tôi biết khi nào tìm thấy sách.}
+{415}{}{Ok, tạm biệt.}
+{416}{}{Xin chào, bạn tôi.}
+{417}{}{Tôi đã tiêu diệt con quái vật và lấy lại sách đây.}
+{418}{}{Tuyệt vời! Hãy đưa cho tôi!}
 {419}{}{Đây.}
-{420}{}{Not so fast. How much is it worth to you?}
-{421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
- have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
+{420}{}{Từ từ đã. Cuốn sách này đáng giá bao nhiêu?}
+{421}{}{[Ông ta nhận cuốn sách từ tay bạn và vuốt ve bìa sách như thể để an ủi]. Cậu đã giúp chúng tôi rất nhiều. Giờ
+thì cậu có toàn quyền truy cập vào máy tính trong thư viện. Hãy nói với thầy Paul là tôi cấp quyền truy cập cho cậu.}
 {422}{}{Cám ơn.}
-{423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
-{424}{}{Thanks for the money, bye.}
-{425}{}{You should look on a second floor computer, now that you have full access there.}
-{426}{}{Ok, bye.}
-{430}{}{What is the purpose of your order?}
-{431}{}{What is the history behind the Abbey?}
-{432}{}{Hmm, I don't have any questions at the moment.}
-{433}{}{Our holy mission is to read, copy and take care of our sacred books of knowledge and other relics of the lost age.
- It is our hope that with this knowledge we are able to create a Memorabilia that might one day help humanity emerge from
- its self-imposed Dark Age. Any information that we come across is recorded, lest it be lost like so much was in the
- great Flame Deluge.}
-{434}{}{After the Great War, the guiding hands of fate directed our ancestors to this old Abbey in the mountains. Due to
- its remote location, the monastery survived the Flame Deluge mostly unscathed. As our ancestors explored the building,
- they discovered an extensive library of books. And not just religious texts, oh no, this library contained the gamut of
- written works, from literary classics, to scientific encyclopedias.}
-{435}{}{What happened then?}
-{436}{}{I've heard enough.}
-{437}{}{They soon realized the true treasure trove of wisdom stored within those books--especially the scientific tomes.
- Here were the chronicles of a fallen civilization. A lost age. There were a few who thought it might be best to
- destroy this knowledge, for fear that it would once again guide humanity towards apocalypse. But it was eventually
- decided that they would instead dedicate themselves to ensuring the preservation of the books, to be released when,
- and if, the world was ready for it.}
-{438}{}{(More)}
-{439}{}{And so, utilizing a small printing press, they began making copies of the books, and also transcribing them
- into the Abbey's computers to preserve them digitally, should the physical books ever be destroyed. Over the long years,
- others have come across the Abbey, and some have elected to stay and live out their lives in the tranquil quiet of our mountain home.}
-{440}{}{Thanks for the story.}
-{441}{}{Where did your ancestors come from?}
-{442}{}{They never told where they originally came from. We suspect that they came here originally from the east.}
-{443}{}{Well, thanks for the story.}
-{444}{}{Do you need any help here at the monastery?}
-{445}{}{I found out what's wrong with your water pump.}
-{446}{}{Do you know anything about the original founders?}
-{447}{}{I do not know all the names of our founders, but the most important one I am aware of is Miller.
- Before the Great War he was an electrical engineer working for the United States government. Shortly thereafter,
- he converted to Catholicism and made an oath with himself that we would spend the rest of his life preserving the
- knowledge of the past. His greatest fear was that this knowledge would be lost forever and thus needed to be preserved
- so that future generations may benefit.}
-{448}{}{You must be quite knowledgeable having read so much.}
-{449}{}{I have indeed read much in my life. Yet you might be disappointed at the limitations of my knowledge. You see,
- we record and preserve. We are forbidden to act upon the wisdom of these books, therefore our understanding of the text is quite limited.}
-{450}{}{Wait, you're telling me that you just blindly transcribe these books without even trying to comprehend them?}
-{451}{}{As I've said, it is our job to preserve this knowledge, not to understand it. Before this knowledge can be
- returned to mankind, he must first prove to have risen above his tendency of mass genocide. That's the only way to
- ensure that history does not repeat itself.}
-{452}{}{Well, I've got news for you: that day's never going to come. And while you're hoarding all this knowledge in your
- little mountain paradise here, people out in the wasteland are struggling every day to survive. In fact, my entire tribe
- is on the brink of destruction. The knowledge contained in these books could help cure diseases, improve crops, and greatly
- increase the chance of humanity's survival.}
-{453}{}{Ah, well I suppose you make a good point. But it just seems like the information stored here could help out a lot
- of people. Even if you don't think the world's ready for this knowledge, I don't see why *you* can't at least try to learn from it.
- Otherwise, what's the point of keeping it?}
-{454}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years... that would be blasphemous against our faith. No, I feel we must continue
- to live by the rules set by our ancestors.}
-{455}{}{I understand your frustration with our ways, but you must understand that this is the way things have always been
- for us. To alter things now, after so many years... that would be blasphemous against our faith. Still, I shall consider
- your words. I sense great wisdom in you, wanderer. It is a pity I have met very few like you.}
-{456}{}{Thanks. I'd like to know something else though.}
-{457}{}{Very well. I'd like to know something else though.}
-{500}{}{D?ng l?i!}
-{501}{}{You gain 200 experience points for bringing back the book.}
-{600}{}{I fixed your broken waterpump.}
-{601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they
- could take care of it, but they didn't seem to be making much progress. It's a good thing you came along. Thank you again.}
-{602}{}{I expect some money for this you know. Now cough it up!}
-{603}{}{No problem. I have some other questions though.}
-{604}{}{I'm glad to be of assistance. Take care.}
-{605}{}{[Frowns.] I see. Fine, here, take these coins. Now go, and stop bothering me.}
-{606}{}{Thank you, *father*.}
-{700}{}{Uhh... no I seem to have misplaced it.}
-{701}{}{What!? [He sighs deeply.] It is most unfortunate that you were unable to recover that book. But you say you've
- killed the beast? Hm, then it should be safe to send our own people down to continue searching for it. Anyway, for your
- service, I shall grant you access to our computers. Go see Brother Paul for the access key.}
+{423}{}{Cậu muốn lấy tiền à? Được rồi, cầm lấy 250$. Đến gặp thầy Paul để lấy quyền truy cập máy tính.}
+{424}{}{Cám ơn về chỗ tiền, tạm biệt.}
+{425}{}{Cậu nên dùng máy tính trên tầng hai, giờ thì cậu đã có đầy đủ quyền truy cập rồi.}
+{426}{}{Ok, tạm biệt.}
+{430}{}{Hội này có mục đích gì vậy?}
+{431}{}{Lịch sử của Tu viện ra sao?}
+{432}{}{Hừm, tôi hiện không có câu hỏi nào.}
+{433}{}{Nhiệm vụ thần thánh của chúng tôi là đọc, sao chép và bảo quản những cuốn sách kiến thức thiêng liêng cùng
+những bảo vật khác từ thời đã mất. Chúng tôi hi vọng là với kiến thức này, chúng tôi có thể tạo ra Khu kỉ vật để một ngày
+nào đó giúp nhân loại thoát khỏi thời kì Đen tối do mình tự gây ra. Tất cả những thông tin chúng tôi tìm thấy đều được
+ghi lại để khỏi bị mất như rất nhiều thứ khác trong cơn Đại hỏa.}
+{434}{}{Sau Đại chiến, bàn tay dẫn lối của vận mệnh đã chỉ đường cho tổ tiên chúng tôi đến với Tu viện cũ trong núi này. Nhờ
+vị trí biệt lập, tu viện đã thoát khỏi cơn Đại Hỏa mà không bị hư hại nhiều. Trong lúc khám phá tòa nhà, tổ tiên chúng tôi
+phát hiện một thư viện đầy sách. Và không chỉ có sách tôn giáo, ồ, thư viện này còn chứa đựng rất nhiều tác phẩm viết
+nữa, từ văn học cổ điển đến bách khoa toàn thư khoa học.}
+{435}{}{Sau đó thì sao?}
+{436}{}{Tôi nghe đủ rồi.}
+{437}{}{Họ nhanh chóng nhận ra kho báu kiến thức thật sự chứa trong những cuốn sách này -- nhất là những cuốn
+khoa học. Đây là biên niên sử về một nền văn minh đã sụp đổ. Một thời đã mất. Có một số người tin rằng tốt nhất
+nên hủy những kiến thức này, sợ rằng chúng sẽ một lần nữa hướng nhân loại đến tận thế. Nhưng cuối cùng họ
+quyết định rằng thay vào đó, họ sẽ cống hiến cả đời để bảo quản những cuốn sách, để đưa kiến thức trở lại khi và
+nếu, thế giới đã sẵn sàng đón nhận.}
+{438}{}{(Thêm)}
+{439}{}{Và như vậy, sử dụng một máy in nhỏ, họ bắt đầu sao chép các cuốn sách cũng như ghi chép lại chúng vào
+máy tính của Tu viện để bảo quản dạng số, phòng khi sách bản gốc bị hư hại. Qua nhiều năm dài, những người khác
+đã đến Tu viện và một số đã chọn ở lại để sống đời tĩnh lặng trong ngôi nhà trên núi này.}
+{440}{}{Cám ơn về câu chuyện.}
+{441}{}{Tổ tiên của các ông đến từ đâu?}
+{442}{}{Họ chẳng nói gì về nguồn gốc ban đầu cả. Chúng tôi ngờ rằng họ ban đầu đến từ phía Đông.}
+{443}{}{Ồ, cám ơn về câu chuyện.}
+{444}{}{Ông có cần giúp gì ở tu viện không?}
+{445}{}{Tôi đã tìm ra lí do máy bơm nước bị hỏng rồi.}
+{446}{}{Ông có biết gì về những người sáng lập ban đầu không?}
+{447}{}{Tôi không biết tất cả tên của những người sáng lập, nhưng người quan trọng nhất mà tôi biết là Miller.
+Trước Đại chiến ông là một kĩ sư điện làm việc cho chính phủ Hoa Kỳ. Không lâu sau đó, ông cải sang đạo Công giáo
+và lập lời thề rằng sẽ dành cả cuộc đời để bảo tồn kiến thức trong quá khứ. Điều khiến ông sợ nhất là kiến thức sẽ bị
+mất đi mãi mãi và do đó, cần được bảo tồn để các thế hệ tương lai được hưởng lợi.}
+{448}{}{Ông đọc nhiều thế chắc phải biết nhiều lắm.}
+{449}{}{Đúng là tôi đã đọc rất nhiều trong suốt cuộc đời. Nhưng có thể cậu sẽ thấy thất vọng trước giới hạn kiến thức
+của tôi. Cậu thấy đấy, chúng tôi ghi chép và bảo tồn. Chúng tôi bị cấm sử dụng tri thức trong sách, do đó chúng tôi chỉ hiểu một phần thôi.}
+{450}{}{Chờ đã, ông đang nói là các ông chỉ nhắm mắt chép lại sách chứ không thèm tìm hiểu chúng có nghĩa gì?}
+{451}{}{Như đã nói, công việc của chúng tôi là bảo tồn kiến thức chứ không phải để hiểu. Trước khi những kiến thức
+này trở lại với nhận loại, loài người đầu tiên cần chứng minh họ đã vượt lên trên cái thói diệt chủng hàng loạt. Đó là
+cách duy nhất để đảm bảo rằng lịch sử sẽ không lặp lại.}
+{452}{}{Ồ, vậy thì tôi có tin tức cho ông đây: ngày đó sẽ chẳng bao giờ đến cả. Trong lúc các ông đang ôm mớ kiến thức trong
+thiên đường nhỏ trên núi này, những người khác ở hoang mạc đang vật lộn hằng ngày để sinh tồn. Thực ra, cả tộc tôi đang
+trên bờ vực diệt vong. Những kiến thức có trong đống sách này có thể giúp chữa bệnh, cải tạo cây trồng và nâng cao khả năng
+sống sót của nhân loại đấy.}
+{453}{}{À, chắc là ông nói có điểm đúng. Nhưng có vẻ những thông tin được lưu trữ ở đây có thể giúp đỡ rất nhiều người.
+Dù cho các ông có nghĩ rằng thế giới chưa sẵn sàng để đón nhận kiến thức, nhưng tôi không hiểu tại sao *ông* chí ít
+không thử học hỏi chúng. Nếu không thì việc lưu giữ có nghĩa lí gì?}
+{454}{}{Tôi hiểu là cậu thấy khó chịu với lẽ sống này, nhưng cậu phải hiểu rằng đây là cách mà chúng tôi luôn tuân theo.
+Giờ mà thay đổi, sau bao nhiêu năm... điều đó sẽ trái ngược hoàn toàn với đức tin của chúng tôi. Không, tôi thấy là
+chúng tôi cần tiếp tục sống theo các giới luật do tổ tiên đặt ra.}
+{455}{}{Tôi hiểu là cậu thấy khó chịu với lẽ sống này, nhưng cậu phải hiểu rằng đây là cách mà chúng tôi luôn tuân theo.
+Giờ mà thay đổi, sau bao nhiêu năm... điều đó sẽ trái ngược hoàn toàn với đức tin của chúng tôi. Tuy vậy, tôi sẽ suy
+nghĩ về lời của cậu. Tôi cảm nhận được trí tuệ của cậu, người lữ khách. Thật tiếc là tôi chỉ gặp được số ít người như cậu.}
+{456}{}{Cám ơn. Tôi muốn hỏi về việc khác nữa.}
+{457}{}{Được rồi. Tôi muốn hỏi về việc khác nữa.}
+{500}{}{Dừng lại!}
+{501}{}{Bạn nhận được 200 điểm kinh nghiệm vì đã mang cuốn sách trở lại.}
+{600}{}{Tôi đã sửa cái máy bơm nước bị hỏng rồi.}
+{601}{}{Đúng là tin tốt đấy. Cái máy bơm nước đấy bị trục trặc lâu lắm rồi. Mấy tay thương lái cứ bảo để đấy họ lo, nhưng
+mãi chẳng thấy có kết quả gì. Thật tốt là cậu đã đến giúp. Cám ơn cậu nhiều.}
+{602}{}{Ông biết là sửa chữa thì phải mất phí đấy nhé. Giờ thì nôn tiền ra!}
+{603}{}{Không vấn đề. Tôi vẫn còn mấy câu muốn hỏi nữa.}
+{604}{}{Mừng là tôi đã giúp được. Bảo trọng.}
+{605}{}{[Cau mày]. Hiểu rồi. Được rồi, đây, cầm lấy mấy đồng này. Giờ thì đi đi và đừng có làm phiền tôi nữa.}
+{606}{}{Cám ơn, *cha*.}
+{700}{}{Ờ... chưa, hình như tôi để nhầm chỗ rồi.}
+{701}{}{Cái gì!? [Ông ta thở mạnh]. Thật đáng tiếc là cậu không lấy lại được sách. Nhưng cậu nói rằng đã tiêu diệt con
+quái vật? Hừm, vậy thì chắc là đã đủ an toàn để cử người xuống đó tiếp tục tìm kiếm. À đấy, để cảm ơn, tôi sẽ cấp cho
+cậu quyền truy cập máy tính. Hãy đến gặp thầy Paul để lấy khóa truy cập.}
 {702}{}{Cám ơn.}
-{800}{}{Actually, yes. Our main water pump has been acting up for some time, and now it finally seems to have broken down
- completely. If you know anything about machinery, do you think you could take a look and see if something could be done?
- There are a few merchants already working on it. I fear that little progress has been made though.}
-{801}{}{I'm happy to help. I'll report back on the progress.}
-{802}{}{Sure, I'll be glad to help... for a price of course.}
-{803}{}{Actually on second thought, let me ask you something else.}
-{804}{}{What!? Oh, fine. If that's the kind of person you are, then you shall receive payment for your service. Here's
- 25 coins to begin with.  Please let me know if something can be done. [The man sighs as he hands you the coins]}
-{805}{}{Hey, no need for the sighing. You think everything in life comes for free? Now, let me get to work.}
-{806}{}{Really? Please, do tell.}
-{807}{}{The motor gave out and fried all the connectors. I'm going to Vault City to get a new part.}
-{808}{}{Oh thank you. You are indeed a great help. Please report back once you install the new part.}
-{809}{}{I will. Be back soon.}
-{900}{}{You explain to the Abbot that while the information they hold could lead to mankind's annihilation, it could also lead to mankind's salvation.}
-{901}{}{You learn about the original founder of the Abbey.}
-{1000}{}{I killie scary monster down in cave.}
-{1010}{}{Really? That's great. That is very brave of you. You're a big boy.}
-{1011}{}{Really? That's great. That is very brave of you. You're a big girl.}
-{1012}{}{(smile) I know.}
-{1020}{}{Did you happen to find a book lying there? A friend of mine had it, and he went missing.}
-{1021}{}{I find book. Here, it heavy and no pitchers inside.}
-{1022}{}{I no find book. Sorree. I go look now.}
-{1030}{}{I find book.}
-{1031}{}{That's great. Thanks. You're one special guy.}
-{1032}{}{That's great. Thanks. You're one special gal.}
+{800}{}{Thực ra là có. Cái máy bơm nước chính của chúng tôi bị trục trặc lâu lắm rồi, đến giờ thì có vẻ đã bị hỏng hẳn. Nếu cậu
+biết về máy móc thì liệu cậu có thể xem qua xem có làm được gì không? Có mấy tay lái buôn đang sửa rồi nhưng tôi e là
+chẳng có tiến triển gì mấy.}
+{801}{}{Được tôi sẽ giúp. Tôi sẽ báo lại tình hình sau.}
+{802}{}{Được chứ, tôi rất sẵn lòng giúp... nếu có trả công, dĩ nhiên rồi.}
+{803}{}{Dưng mà nghĩ lại thì, để tôi hỏi chuyện khác.}
+{804}{}{Cái gì!? Ồ, được rồi. Nếu cậu là người như vậy thì cậu sẽ được trả công nếu giúp được. Đây là 25 xu phí ban đầu.
+Vui lòng báo lại cho tôi nếu cậu có thể làm gì đó [Ông ta thở dài khi đưa mấy đồng xu cho bạn].}
+{805}{}{Này, sao phải thở dài. Ông nghĩ mọi thứ trên đời đều miễn phí à? Giờ thì để tôi vào việc nào.}
+{806}{}{Thật ư? Vui lòng nói đi.}
+{807}{}{Cục động cơ nát rồi và đám đầu nối thì cháy sạch. Tôi sẽ đi đến Thành phố Vault để lấy bộ phận mới.}
+{808}{}{Ồ cám ơn. Cậu đúng là giỏi thật. Vui lòng báo lại sau khi cậu đã lắp xong bộ phận mới.}
+{809}{}{Được rồi, tôi sẽ sớm trở lại.}
+{900}{}{Bạn giải thích cho Thầy trụ trì rằng dù cho những thông tin họ đang bảo tồn có thể dẫn loài người đến sự diệt vong, thì chúng cũng có thể cứu rỗi loài người.}
+{901}{}{Bạn tìm hiểu về người sáng lập ban đầu của Tu viện.}
+{1000}{}{Ngộ tiêu riệt con quái dưới hang rồi.}
+{1010}{}{Thật ư? Tuyệt vời. Dũng cảm lắm, cậu bé nhớn.}
+{1011}{}{Thật ư? Tuyệt vời. Dũng cảm lắm, cô bé nhớn.}
+{1012}{}{(cười) Ngộ biết.}
+{1020}{}{Cậu có tìm thấy cuốn sách nào ở đấy không? Một người bạn của tôi cầm nhưng ông ta bị mất tích rồi.}
+{1021}{}{Ngộ tìm sách. Đây, nặng vc và không có hình.}
+{1022}{}{Ngộ không tìm sách. Sin lỗi. Ngộ tìm sách giờ.}
+{1030}{}{Ngộ tìm sách.}
+{1031}{}{Tuyệt vời. Cám ơn, đúng là một cậu bé đặc biệt.}
+{1032}{}{Tuyệt vời. Cám ơn, đúng là một cô bé đặc biệt.}
 {1033}{}{YAY.}
-{1100}{}{I was down there earlier. I saw a few dead bodies, so I'm guessing one of them belonged to your missing monk. If
- it makes you feel any better, I killed the thing responsible for his death.}
-{1110}{}{Ah... so it's as I feared. Brother Thomas shall be dearly missed. You have my thanks for ridding us of whatever
- wasteland beasts lurked down there. However, I... I don't suppose you found a book while you were down there. It's a very
- important book that was last known to be in Brother Thomas's possession.}
-{1111}{}{No, but I suppose I could go back and check.}
-{1112}{}{Do you mean this book?}
-{1113}{}{Before I go, let me ask you something else.}
-{1411}{}{Very interesting. I have to go now.}
-{3000}{}{Tôi giúp g? đư?c nh??}
-{4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
-{4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
-{4177}{}{I've killed the beast.}
-{4188}{}{Excellent! And how about the book; were you able to recover it?}
-{6020}{}{If you truly want to show your gratitude, how about some money for my trouble?}
+{1100}{}{Tôi có xuống đó lúc nãy. Tôi nhìn thấy mấy xác chết nên chắc thầy tu mất tích là một trong số đó. Có thể ông sẽ
+cảm thấy khá hơn vì tôi đã diệt cái thứ đã giết ông ta.}
+{1110}{}{À... vậy là điều tôi e ngại đã đúng. Thật tiếc khi thầy Thomas không còn nữa. Cám ơn cậu đã loại bỏ giúp
+chúng tôi thứ quái quỷ ngoài hoang mạc núp ở dưới đó. Tuy nhiên, tôi... không biết cậu có tìm thấy cuốn sách nào dưới đó
+không. Đó là một cuốn sách rất quan trọng mà thầy Thomas là người cầm cuối cùng.}
+{1111}{}{Không, nhưng chắc là tôi có thể quay lại xem sao.}
+{1112}{}{Ý ông là cuốn sách này?}
+{1113}{}{Trước khi đi, tôi muốn hỏi chuyện khác.}
+{1411}{}{Hay đấy. Tôi phải đi đây.}
+{3000}{}{Tôi giúp gì được nhỉ?}
+{4091}{}{Vậy là chẳng có ai buồn xuống đó tìm ông ta à? Thế nếu ông ta chỉ đơn giản là bị mắc kẹt lại dưới đó và đang chết dần vì đói thì sao?}
+{4092}{}{Cũng có thể, nhưng cậu phải hiểu điều này. Chúng tôi là những người sống thanh bình. Việc phải đối diện với một trong số quái vật ngoài hoang mạc khiến chúng tôi sợ chết khiếp. Chúng tôi đơn giản là không sẵn sàng để đối diện thứ đó.}
+{4177}{}{Tôi đã tiêu diệt con quái vật.}
+{4188}{}{Tuyệt vời! Vậy còn cuốn sách thì sao, cậu có thu hồi lại được không?}
+{6020}{}{Nếu ông thật lòng muốn cám ơn thì sao không gửi tôi chút tiền vì đã bỏ công ấy?}

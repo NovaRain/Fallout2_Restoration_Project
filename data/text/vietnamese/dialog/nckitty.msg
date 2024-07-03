@@ -75,7 +75,7 @@
 {337}{}{By coincidence, he also made no money at all, so talking was all he could afford.}
 {338}{}{Oh. Well, sign me up for the talking session then. Here's the }
 {340}{}{I think I'll pass. I'd like to ask you some questions...}
-{350}{}{Yes?}
+{350}{}{Vâng?}
 {351}{}{Well, there's no harm in asking...}
 {352}{}{All right. (Smiles.) Answers might cost you, though...}
 {353}{}{Sure. What questions did you have?}
@@ -197,7 +197,7 @@
  yourself... presentable. Sorry.}
 {597}{}{yes... yes, I think you'd do just fine. Are you interested in the job? All of my other girls
  are... sick of it.}
-{598}{}{Đư?c thôi.}
+{598}{}{Được thôi.}
 {599}{}{Hmmmph. I had some other questions...}
 {600}{}{No, but I may ask again later. I had some other questions...}
 {610}{}{(Nods.) Excellent. One of the Mordino lieutenants should be showing up soon. If you want to take a

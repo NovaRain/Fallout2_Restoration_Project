@@ -1,135 +1,135 @@
-{100}{}{B?n th?y m?t th?y tu tr? đeo kính.}
-{101}{}{b?n th?y Th?y Jason.}
-{102}{}{Th?y tu này có v? đang ch?m trong suy tư.}
-{200}{}{[Th?y tu tr? nhanh chóng nhét b? bài "Tragic" vào túi khi b?n đ?n g?n]. Anh mu?n g??}
-{201}{}{Không g? c?. Chào.}
-{202}{}{Tôi mu?n bi?t t?i sao c?u l?i gi?u tôi b? bài đó.}
-{210}{}{Tôi không bi?t anh đang nói g?. Tôi không có b? bài nào c?.}
-{211}{}{Đ?ng có ch?i. Tôi v?a th?y c?u nhét vào trong túi. Tôi ch? mu?n bi?t t?i sao thôi.}
-{212}{}{Đư?c r?i, sao c?ng đư?c. G?p l?i sau.}
-{220}{}{Này, đ?ng nói v?i ai nhé, đư?c ch?? Chúng tôi đúng ra không đư?c phép "s? d?ng" các k? v?t trư?c chi?n tranh mà
-ch? tôn th? thôi. Nhưng m?y lá Tragic này ng?u v?i. [Có v? như c?u ta ch?m trong đê mê khi đ?m đu?i nh?n b? bài.
-Sau m?t thoáng, c?u ta nh?n b?n]. ?, xin l?i, tôi là Th?y Jason. Tôi, ?m, ch?c anh không chơi bài Tragic đâu nh??}
-{221}{}{CÙNG CHI?N NÀO!!!}
-{222}{}{Tuy?t cú mèo, tôi c?c thích Tragic the Garnering.}
-{223}{}{Tôi có th?, nhưng không h?p.}
-{224}{}{Trư?c đây tôi c?ng nghi?n l?m. Gi? th? đ? r?i.}
-{225}{}{Không h?.}
-{226}{}{Đéo. Trông tôi có gi?ng b? d? không?}
-{230}{}{Này, đm th?ng chóa. Đ? tao yên.}
-{231}{}{Này, đm con đ?y. Đ? tao yên.}
-{232}{}{Anh mày c?ng mu?n l?m, nhưng anh c?n mu?n nh?n mày ng?i xe lăn hơn k?a.}
-{233}{}{Đư?c r?i, th? thôi. Chào.}
-{234}{}{Này, tôi xin l?i. Tôi nói hơi quá. Tôi ch? không thích bài Tragic thôi.}
-{240}{}{U?y b?n tôi ơi, tôi mu?n chơi v?i b?n l?m, nhưng không ?n đâu. Tôi không mu?n nó b? t?ch thu. Đây là đi?u
-mà tôi ghét ? nơi này. Chúng tôi đang n?m trên m? vàng ch?a c? núi đ? c?c ng?u trư?c chi?n tranh, nhưng l?i không đư?c
-phép đ?ng đ?n. Ch?ng đúng tí nào c?. Ngu vl.}
-{241}{}{U?y b?n tôi ơi, tôi hi?u mà. Tôi ư?c g? m?nh có th? chơi nhi?u hơn, nhưng không ?n l?m. Tôi không mu?n nó b? t?ch thu.
-Đây là đi?u mà tôi ghét ? nơi này. Chúng tôi đang n?m trên m? vàng ch?a c? núi đ? c?c ng?u trư?c chi?n tranh, nhưng
-l?i không đư?c phép đ?ng đ?n. Ch?ng đúng tí nào c?. Ngu vl.}
-{242}{}{[C?u ta cư?i khúc khích]. Th? là có thêm dân nghi?n r?i. Tôi ư?c g? m?nh có th? chơi nhi?u hơn, nhưng không ?n l?m.
-Tôi không mu?n nó b? t?ch thu. Đây là đi?u mà tôi ghét ? nơi này. Chúng tôi đang n?m trên m? vàng ch?a c? núi đ?
-c?c ng?u trư?c chi?n tranh, nhưng l?i không đư?c phép đ?ng đ?n. Ch?ng đúng tí nào c?. Ngu vl.}
-{243}{}{Sao c?ng đư?c, đ?ng nào chúng ta c?ng có chơi đư?c đâu -- không ?n đâu. Tôi không mu?n nó b? t?ch thu. Đây là đi?u
-mà tôi ghét ? nơi này. Chúng tôi đang n?m trên m? vàng ch?a c? núi đ? c?c ng?u trư?c chi?n tranh, nhưng l?i không đư?c
-phép đ?ng đ?n. Ch?ng đúng tí nào c?. Ngu vl.}
-{244}{}{?, nghe ngu th?t.}
-{245}{}{N?u c?u không đ?ng ? v?i l? tư?ng c?a h?i th? sao l?i đi làm th?y tu?}
-{250}{}{Anh ngh? là tôi *ch?n* làm th?y tu sao? Tôi sinh ra trong cái đ?ng c?t này. Tôi ch? ư?c là nh?ng ngư?i khác c?ng
-m? m?t và th?y ngu vl khi không t?n d?ng nh?ng th? đ? tuy?t v?i đư?c thu th?p ? đây. Nhưng không, h? hoàn toàn
-hài l?ng v?i vi?c tôn th? và s?p x?p các k? v?t, nhưng ch?ng dùng chúng vào vi?c g? có ích c?. Ngu vcl.}
-{251}{}{C?u nói đúng, nghe ngu th?t.}
-{252}{}{Ngu ch?ng kém g? vi?c tôi ng?i đây nghe con nghi?n tr?nh bày v?y. T?m bi?t.}
-{253}{}{N?u c?u cho r?ng đi?u đó là ngu ng?c th? sao không th? c? g?ng làm g? đó đ? thay đ?i đi?}
-{260}{}{Cu?i cùng c?ng có ngư?i đ?ng ? v?i tôi! Tôi có ? này, và ch?c là anh có th? giúp tôi. Anh xem, đám th?y tu ? đây đ? dành
-*nhi?u năm* đ? chuy?n ki?n th?c trư?c chi?n tranh vào cơ s? d? li?u trong máy tính. N?u ai đó "l? tay" đ?nh d?ng d? li?u
-th? t?t c? s? b? xóa s?ch. Tôi ngh? vi?c này s? khi?n h? s?c đ?n m?c t?nh ra và chúng tôi cu?i cùng c?ng có th? t? b? l?i
-s?ng ngu ng?c này. V?y đó, anh th?y sao?}
-{261}{}{Tôi cho r?ng đ?y là m?t ? tư?ng t? h?i và tôi ch?ng c?n g? đ? nói n?a.}
-{262}{}{Xóa s?ch toàn b? công s?c nhi?u năm c?a ai đó? Nghe hay đ?y. C? đ? tôi.}
-{263}{}{Sao c?u không t? đi mà đ?nh d?ng l?y?}
-{264}{}{N?u c?u ghét nơi này th? sao không r?i đi?}
-{270}{}{Th?c ra th? tôi *có* ? này có th? thay đ?i m?i th?. ch?c là anh có th? giúp tôi. Anh xem, đám th?y tu ? đây đ? dành
-*nhi?u năm* đ? chuy?n ki?n th?c trư?c chi?n tranh vào cơ s? d? li?u trong máy tính. N?u ai đó "l? tay" đ?nh d?ng d? li?u
-th? t?t c? s? b? xóa s?ch. Tôi ngh? vi?c này s? khi?n h? s?c đ?n m?c t?nh ra và chúng tôi cu?i cùng c?ng có th? t? b? l?i
-s?ng ngu ng?c này. V?y đó, anh th?y sao?}
-{271}{}{Tôi cho r?ng đ?y là m?t ? tư?ng t? h?i và tôi ch?ng c?n g? đ? nói n?a.}
-{272}{}{Xóa s?ch toàn b? công s?c nhi?u năm c?a ai đó? Nghe hay đ?y. C? đ? tôi.}
-{273}{}{Sao c?u không t? đi mà đ?nh d?ng l?y?}
-{274}{}{N?u c?u ghét nơi này th? sao không r?i đi?}
-{280}{}{Anh điên à? H? s? đóng đinh tôi n?u tôi đ?ng vào. Nhưng m?t nhà phiêu lưu gi?i giang như anh th? khác. M? ki?p,
-tôi cá là anh ch? c?n l?t tay là có th? tàn sát t?t c? m?i ngư?i ? đây. V?y anh có làm không, hay s? m?t đám th?y tu ch?t nhát?}
-{281}{}{Tôi ch?ng s? ai c?. C? đ? tôi.}
-{282}{}{Đư?c. C? đ? tôi.}
-{283}{}{Không, thay vào đó tôi ngh? là tôi s? th? xem c?u cá có đúng không. B?t đ?u t? c?u.}
-{284}{}{Thôi đi. Chuy?n này không h?p v?i tôi. Chào.}
-{285}{}{Không, tôi s? không làm đâu. N?u c?u ghét nơi này th? sao không r?i đi?}
-{286}{}{Tr? phi mu?n giúp tôi, c?n không th? cút đi.}
-{287}{}{Đư?c. C? đ? tôi.}
-{288}{}{Không, tôi s? không làm đâu. N?u c?u ghét nơi này th? sao không r?i đi?}
-{290}{}{Th?t á? Giàng ơi tuy?t cú mèo. Nhưng đ?u tiên anh s? c?n có quy?n truy c?p v? h? b?o v? cơ s? d? li?u khá k?. Nhưng
-không khó l?m đâu, đám tu s? này tin ngư?i đ?n sái c? c?. Ch?c là h? s? n?i điên lên khi anh đ?nh d?ng d? li?u,
-nhưng không c?n lo đâu v? toàn m?t l? èo u?t ?y mà. Ch? c?n đ?ng gi?t ai là đư?c -- Tôi không mu?n m?i th?
-vư?t kh?i t?m ki?m soát, anh bi?t đ?y?}
-{291}{}{Đư?c. C?n g? n?a không?}
-{292}{}{Tôi không h?a trư?c đư?c. C?n g? n?a không?}
-{300}{}{Ch? c?n đ?nh d?ng d? li?u r?i té thôi, v? h? s? không mu?n anh ? đây đâu. Đ?ng có quay l?i đ? báo là anh đ? làm
-xong, v? tôi c?ng s? gi? v? n?i xung lên gi?ng h?, n?u không th? h? s? nghi ng?. Cám ơn l?n n?a v? đ? đ?ng ?, đi?u này
-là đ? t?t cho h? thôi.}
-{301}{}{Sao c?ng đư?c. T?m bi?t.}
-{310}{}{Anh điên à? Tôi chưa th? chân ra hoang m?c l?n nào, nhưng tôi bi?t r? là ngoài đó có g?. May l?m
-th? tôi b? đư?c 50 bư?c trư?c khi b? b? c?p đâm đít. T? hơn n?a th? tôi có th? b? m?t đám cư?p điên r? túm c?
-và tra t?n *ho?c* b? l? to?c ăn th?t ngư?i nhai s?ng. Đ?i lo?i th?. Tôi bi?t là n?u tôi mà r?i kh?i đây th? tôi s? ăn l?n
-ngay. Th? nên không đâu, tôi thà ch?t dí ? đây c?n hơn.}
-{311}{}{Này, ngoài đó *đâu* có t? đ?n th?... Mà ch?c là c?u nói đúng. Ch?c là c?u c?n không m? đ?n n?i Gecko.
-Ít nh?t là n?u t? đi. Nhưng n?u tôi d?n c?u đi th? sao?}
-{312}{}{Kém c?i th?t. T?m bi?t.}
-{313}{}{C? mơ đi ch?. Tôi ch?c là g?n đây có s? có ch? an toàn đ? chuy?n đ?n.}
-{315}{}{?, n?u anh mà t?m th?y th? báo cho tôi nhé.}
-{316}{}{Đư?c thôi. T?m bi?t.}
-{320}{}{Gecko á? Khu c?a đám ghoul đúng không? Cám ơn nhưng tôi đéo d?i.}
-{321}{}{Này, nh?ng ngư?i ghoul th?c ra thân thi?n l?m. Hơn n?a, tôi c?n bi?t m?t g? thích đ?u bài Tragic l?m.}
-{322}{}{Này, nh?ng ngư?i ghoul th?c ra thân thi?n l?m.}
-{323}{}{Này, tôi nghe nói th?c ra h? thân thi?n l?m.}
-{324}{}{Đư?c r?i. Tùy c?u thôi. T?m bi?t.}
-{330}{}{Đm th?t à, m?t tay chơi Tragic khác? H?m, th? này th?... Li?u ông ta có lá Black Dahlia nào đ? đ?i không nh??
-Đư?c r?i. Tôi s? đi n?u anh đưa tôi đi.}
-{331}{}{Lên đư?ng nào.}
-{332}{}{Đư?c r?i, nhưng tôi c?n ph?i thu x?p vài vi?c trư?c. Tôi s? báo khi nào xong xuôi.}
-{340}{}{Th?t à? Nhưng mà đâu có thay đ?i đư?c th?c t? là chúng nó đ?c mùi phân b?. Không đâu.}
-{341}{}{Đư?c r?i. Tùy c?u thôi. T?m bi?t.}
-{350}{}{Mu?n g??}
-{351}{}{Ch? chào h?i thôi. G?p l?i sau.}
-{352}{}{Tôi đ?i ? r?i. Tôi s? đ?nh d?ng cái máy cho c?u.}
-{353}{}{Này, có th? c?u s? mu?n suy ngh? l?i v? vi?c đi cùng tôi đ?n Gecko, v? tôi bi?t ? đó
-có ngư?i thích đ?u bài Tragic l?m.}
-{354}{}{Này, tôi bi?t m?t g? ? Gecko thích đ?u bài Tragic l?m đ?y. Tôi có th? đưa c?u t?i đó.}
-{360}{}{Đi đư?c chưa? Tôi hóng xem g? đ?y có nh?ng lo?i bài Tragic nào đ?n s?p ch?t đây này.}
-{361}{}{Đư?c r?i, đi thôi.}
-{362}{}{Chưa. Khi nào đi tôi s? báo.}
-{370}{}{[Sau khi đ?n Gecko b?n gi?i thi?u v? th?y tu tr? v?i Wooz. B?n h? nhanh chóng làm thân và b?t đ?u đ? chim bài
-Tragic. B?n chu?n b? r?i đi th? Th?y Jason c? d?t m?nh kh?i bài Tragic m?t kho?ng đ? nói chuy?n v?i b?n].}
+{100}{}{Bạn thấy một thầy tu trẻ đeo kính.}
+{101}{}{bạn thấy Thầy Jason.}
+{102}{}{Thầy tu này có vẻ đang chìm trong suy tư.}
+{200}{}{[Thầy tu trẻ nhanh chóng nhét bộ bài "Tragic" vào túi khi bạn đến gần]. Anh muốn gì?}
+{201}{}{Không gì cả. Chào.}
+{202}{}{Tôi muốn biết tại sao cậu lại giấu tôi bộ bài đó.}
+{210}{}{Tôi không biết anh đang nói gì. Tôi không có bộ bài nào cả.}
+{211}{}{Đừng có chối. Tôi vừa thấy cậu nhét vào trong túi. Tôi chỉ muốn biết tại sao thôi.}
+{212}{}{Được rồi, sao cũng được. Gặp lại sau.}
+{220}{}{Này, đừng nói với ai nhé, được chứ? Chúng tôi đúng ra không được phép "sử dụng" các kỉ vật trước chiến tranh mà
+chỉ tôn thờ thôi. Nhưng mấy lá Tragic này ngầu vãi. [Có vẻ như cậu ta chìm trong đê mê khi đắm đuối nhìn bộ bài.
+Sau một thoáng, cậu ta nhìn bạn]. Ồ, xin lỗi, tôi là Thầy Jason. Tôi, ừm, chắc anh không chơi bài Tragic đâu nhỉ?}
+{221}{}{CÙNG CHIẾN NÀO!!!}
+{222}{}{Tuyệt cú mèo, tôi cực thích Tragic the Garnering.}
+{223}{}{Tôi có thử, nhưng không hợp.}
+{224}{}{Trước đây tôi cũng nghiện lắm. Giờ thì đỡ rồi.}
+{225}{}{Không hề.}
+{226}{}{Đéo. Trông tôi có giống bị dở không?}
+{230}{}{Này, đm thằng chóa. Để tao yên.}
+{231}{}{Này, đm con đũy. Để tao yên.}
+{232}{}{Anh mày cũng muốn lắm, nhưng anh còn muốn nhìn mày ngồi xe lăn hơn kìa.}
+{233}{}{Được rồi, thì thôi. Chào.}
+{234}{}{Này, tôi xin lỗi. Tôi nói hơi quá. Tôi chỉ không thích bài Tragic thôi.}
+{240}{}{Uầy bạn tôi ơi, tôi muốn chơi với bạn lắm, nhưng không ổn đâu. Tôi không muốn nó bị tịch thu. Đây là điều
+mà tôi ghét ở nơi này. Chúng tôi đang nằm trên mỏ vàng chứa cả núi đồ cực ngầu trước chiến tranh, nhưng lại không được
+phép động đến. Chẳng đúng tí nào cả. Ngu vl.}
+{241}{}{Uầy bạn tôi ơi, tôi hiểu mà. Tôi ước gì mình có thể chơi nhiều hơn, nhưng không ổn lắm. Tôi không muốn nó bị tịch thu.
+Đây là điều mà tôi ghét ở nơi này. Chúng tôi đang nằm trên mỏ vàng chứa cả núi đồ cực ngầu trước chiến tranh, nhưng
+lại không được phép động đến. Chẳng đúng tí nào cả. Ngu vl.}
+{242}{}{[Cậu ta cười khúc khích]. Thế là có thêm dân nghiện rồi. Tôi ước gì mình có thể chơi nhiều hơn, nhưng không ổn lắm.
+Tôi không muốn nó bị tịch thu. Đây là điều mà tôi ghét ở nơi này. Chúng tôi đang nằm trên mỏ vàng chứa cả núi đồ
+cực ngầu trước chiến tranh, nhưng lại không được phép động đến. Chẳng đúng tí nào cả. Ngu vl.}
+{243}{}{Sao cũng được, đằng nào chúng ta cũng có chơi được đâu -- không ổn đâu. Tôi không muốn nó bị tịch thu. Đây là điều
+mà tôi ghét ở nơi này. Chúng tôi đang nằm trên mỏ vàng chứa cả núi đồ cực ngầu trước chiến tranh, nhưng lại không được
+phép động đến. Chẳng đúng tí nào cả. Ngu vl.}
+{244}{}{Ừ, nghe ngu thật.}
+{245}{}{Nếu cậu không đồng ý với lý tưởng của hội thì sao lại đi làm thầy tu?}
+{250}{}{Anh nghĩ là tôi *chọn* làm thầy tu sao? Tôi sinh ra trong cái đống cứt này. Tôi chỉ ước là những người khác cũng
+mở mắt và thấy ngu vl khi không tận dụng những thứ đồ tuyệt vời được thu thập ở đây. Nhưng không, họ hoàn toàn
+hài lòng với việc tôn thờ và sắp xếp các kỉ vật, nhưng chẳng dùng chúng vào việc gì có ích cả. Ngu vcl.}
+{251}{}{Cậu nói đúng, nghe ngu thật.}
+{252}{}{Ngu chẳng kém gì việc tôi ngồi đây nghe con nghiện trình bày vậy. Tạm biệt.}
+{253}{}{Nếu cậu cho rằng điều đó là ngu ngốc thì sao không thử cố gắng làm gì đó để thay đổi đi?}
+{260}{}{Cuối cùng cũng có người đồng ý với tôi! Tôi có ý này, và chắc là anh có thể giúp tôi. Anh xem, đám thầy tu ở đây đã dành
+*nhiều năm* để chuyển kiến thức trước chiến tranh vào cơ sở dữ liệu trong máy tính. Nếu ai đó "lỡ tay" định dạng dữ liệu
+thì tất cả sẽ bị xóa sạch. Tôi nghĩ việc này sẽ khiến họ sốc đến mức tỉnh ra và chúng tôi cuối cùng cũng có thể từ bỏ lối
+sống ngu ngốc này. Vậy đó, anh thấy sao?}
+{261}{}{Tôi cho rằng đấy là một ý tưởng tệ hại và tôi chẳng còn gì để nói nữa.}
+{262}{}{Xóa sạch toàn bộ công sức nhiều năm của ai đó? Nghe hay đấy. Cứ để tôi.}
+{263}{}{Sao cậu không tự đi mà định dạng lấy?}
+{264}{}{Nếu cậu ghét nơi này thì sao không rời đi?}
+{270}{}{Thực ra thì tôi *có* ý này có thể thay đổi mọi thứ. chắc là anh có thể giúp tôi. Anh xem, đám thầy tu ở đây đã dành
+*nhiều năm* để chuyển kiến thức trước chiến tranh vào cơ sở dữ liệu trong máy tính. Nếu ai đó "lỡ tay" định dạng dữ liệu
+thì tất cả sẽ bị xóa sạch. Tôi nghĩ việc này sẽ khiến họ sốc đến mức tỉnh ra và chúng tôi cuối cùng cũng có thể từ bỏ lối
+sống ngu ngốc này. Vậy đó, anh thấy sao?}
+{271}{}{Tôi cho rằng đấy là một ý tưởng tệ hại và tôi chẳng còn gì để nói nữa.}
+{272}{}{Xóa sạch toàn bộ công sức nhiều năm của ai đó? Nghe hay đấy. Cứ để tôi.}
+{273}{}{Sao cậu không tự đi mà định dạng lấy?}
+{274}{}{Nếu cậu ghét nơi này thì sao không rời đi?}
+{280}{}{Anh điên à? Họ sẽ đóng đinh tôi nếu tôi động vào. Nhưng một nhà phiêu lưu giỏi giang như anh thì khác. Mẹ kiếp,
+tôi cá là anh chỉ cần lật tay là có thể tàn sát tất cả mọi người ở đây. Vậy anh có làm không, hay sợ một đám thầy tu chết nhát?}
+{281}{}{Tôi chẳng sợ ai cả. Cứ để tôi.}
+{282}{}{Được. Cứ để tôi.}
+{283}{}{Không, thay vào đó tôi nghĩ là tôi sẽ thử xem cậu cá có đúng không. Bắt đầu từ cậu.}
+{284}{}{Thôi đi. Chuyện này không hợp với tôi. Chào.}
+{285}{}{Không, tôi sẽ không làm đâu. Nếu cậu ghét nơi này thì sao không rời đi?}
+{286}{}{Trừ phi muốn giúp tôi, còn không thì cút đi.}
+{287}{}{Được. Cứ để tôi.}
+{288}{}{Không, tôi sẽ không làm đâu. Nếu cậu ghét nơi này thì sao không rời đi?}
+{290}{}{Thật á? Giàng ơi tuyệt cú mèo. Nhưng đầu tiên anh sẽ cần có quyền truy cập vì họ bảo vệ cơ sở dữ liệu khá kĩ. Nhưng
+không khó lắm đâu, đám tu sĩ này tin người đến sái cả cổ. Chắc là họ sẽ nổi điên lên khi anh định dạng dữ liệu,
+nhưng không cần lo đâu vì toàn một lũ èo uột ấy mà. Chỉ cần đừng giết ai là được -- Tôi không muốn mọi thứ
+vượt khỏi tầm kiểm soát, anh biết đấy?}
+{291}{}{Được. Còn gì nữa không?}
+{292}{}{Tôi không hứa trước được. Còn gì nữa không?}
+{300}{}{Chỉ cần định dạng dữ liệu rồi té thôi, vì họ sẽ không muốn anh ở đây đâu. Đừng có quay lại để báo là anh đã làm
+xong, vì tôi cũng sẽ giả vờ nổi xung lên giống họ, nếu không thì họ sẽ nghi ngờ. Cám ơn lần nữa vì đã đồng ý, điều này
+là để tốt cho họ thôi.}
+{301}{}{Sao cũng được. Tạm biệt.}
+{310}{}{Anh điên à? Tôi chưa thò chân ra hoang mạc lần nào, nhưng tôi biết rõ là ngoài đó có gì. May lắm
+thì tôi bò được 50 bước trước khi bị bò cạp đâm đít. Tệ hơn nữa thì tôi có thể bị một đám cướp điên rồ túm cổ
+và tra tấn *hoặc* bị lũ toọc ăn thịt người nhai sống. Đại loại thế. Tôi biết là nếu tôi mà rời khỏi đây thì tôi sẽ ăn lìn
+ngay. Thế nên không đâu, tôi thà chết dí ở đây còn hơn.}
+{311}{}{Này, ngoài đó *đâu* có tệ đến thế... Mà chắc là cậu nói đúng. Chắc là cậu còn không mò đến nổi Gecko.
+Ít nhất là nếu tự đi. Nhưng nếu tôi dẫn cậu đi thì sao?}
+{312}{}{Kém cỏi thật. Tạm biệt.}
+{313}{}{Cứ mơ đi chứ. Tôi chắc là gần đây có sẽ có chỗ an toàn để chuyển đến.}
+{315}{}{Ờ, nếu anh mà tìm thấy thì báo cho tôi nhé.}
+{316}{}{Được thôi. Tạm biệt.}
+{320}{}{Gecko á? Khu của đám ghoul đúng không? Cám ơn nhưng tôi đéo dại.}
+{321}{}{Này, những người ghoul thực ra thân thiện lắm. Hơn nữa, tôi còn biết một gã thích đấu bài Tragic lắm.}
+{322}{}{Này, những người ghoul thực ra thân thiện lắm.}
+{323}{}{Này, tôi nghe nói thực ra họ thân thiện lắm.}
+{324}{}{Được rồi. Tùy cậu thôi. Tạm biệt.}
+{330}{}{Đm thật à, một tay chơi Tragic khác? Hừm, thế này thì... Liệu ông ta có lá Black Dahlia nào để đổi không nhỉ?
+Được rồi. Tôi sẽ đi nếu anh đưa tôi đi.}
+{331}{}{Lên đường nào.}
+{332}{}{Được rồi, nhưng tôi cần phải thu xếp vài việc trước. Tôi sẽ báo khi nào xong xuôi.}
+{340}{}{Thật à? Nhưng mà đâu có thay đổi được thực tế là chúng nó đặc mùi phân bò. Không đâu.}
+{341}{}{Được rồi. Tùy cậu thôi. Tạm biệt.}
+{350}{}{Muốn gì?}
+{351}{}{Chỉ chào hỏi thôi. Gặp lại sau.}
+{352}{}{Tôi đổi ý rồi. Tôi sẽ định dạng cái máy cho cậu.}
+{353}{}{Này, có thể cậu sẽ muốn suy nghĩ lại về việc đi cùng tôi đến Gecko, vì tôi biết ở đó
+có người thích đấu bài Tragic lắm.}
+{354}{}{Này, tôi biết một gã ở Gecko thích đấu bài Tragic lắm đấy. Tôi có thể đưa cậu tới đó.}
+{360}{}{Đi được chưa? Tôi hóng xem gã đấy có những loại bài Tragic nào đến sắp chết đây này.}
+{361}{}{Được rồi, đi thôi.}
+{362}{}{Chưa. Khi nào đi tôi sẽ báo.}
+{370}{}{[Sau khi đến Gecko bạn giới thiệu vị thầy tu trẻ với Wooz. Bọn họ nhanh chóng làm thân và bắt đầu đọ chim bài
+Tragic. Bạn chuẩn bị rời đi thì Thầy Jason cố dứt mình khỏi bài Tragic một khoảng để nói chuyện với bạn].}
 {371}{}{[THÊM]}
-{372}{}{Đcm, Wooz *có* lá Black Dahlia! M?i th? thôi c?ng là đ? cho c? chuy?n đi này r?i. Đám ghoul tho?t nh?n th?
-đúng là như qu?, nhưng b? kính ra th? c?ng không đ?n n?i nào. Mà cám ơn đ? đưa tôi đ?n ch? này. Đây, ?, tôi
-đ? *mư?n* th? này t? Kho k? v?t c?a Tu vi?n, và th?t tuy?t r?ng món đ? công ngh? c? k? này v?n c?n ho?t đ?ng.
-[C?u ta dúi m?t cái Stealth Boy vào tay b?n]. G?p l?i sau nhé.}
-{373}{}{Cám ơn. T?m bi?t.}
-{374}{}{Tôi m?ng là không c?n ph?i nghe c?u l?i nh?i n?a. T?m bi?t.}
-{380}{}{Đcm, Wooz *có* lá Black Dahlia! M?i th? thôi c?ng là đ? cho c? chuy?n đi này r?i. Đám ghoul tho?t nh?n th?
-đúng là như qu?, nhưng b? kính ra th? c?ng không đ?n n?i nào. Mà cám ơn đ? đưa tôi đ?n ch? này. Đây,
-[C?u ta th? tay vào túi, r?i nhăn m?t] cái đm, r? ràng nó ? đây mà. ?, xin l?i, có v? như tôi đ? đ? quên ph?n
-thư?ng ? nhà r?i nên tôi ch? có th? g?i l?i cám ơn thôi. G?p l?i sau nhé.}
-{381}{}{?, ?m, không c?n đâu. Tôi m?ng v? đ? giúp đư?c c?u. T?m bi?t.}
-{382}{}{Tôi m?ng là không c?n ph?i nghe c?u l?i nh?i n?a. T?m bi?t.}
-{400}{}{Không r?nh đ? nói chuy?n... ph?i t?o b? bài m?nh hơn...}
-{500}{}{Đ? tôi yên.}
-{501}{}{Bi?n đi.}
+{372}{}{Đcm, Wooz *có* lá Black Dahlia! Mỗi thế thôi cũng là đủ cho cả chuyến đi này rồi. Đám ghoul thoạt nhìn thì
+đúng là như quỷ, nhưng bỏ kính ra thì cũng không đến nỗi nào. Mà cám ơn đã đưa tôi đến chỗ này. Đây, ờ, tôi
+đã *mượn* thứ này từ Kho kỉ vật của Tu viện, và thật tuyệt rằng món đồ công nghệ cũ kĩ này vẫn còn hoạt động.
+[Cậu ta dúi một cái Stealth Boy vào tay bạn]. Gặp lại sau nhé.}
+{373}{}{Cám ơn. Tạm biệt.}
+{374}{}{Tôi mừng là không còn phải nghe cậu lải nhải nữa. Tạm biệt.}
+{380}{}{Đcm, Wooz *có* lá Black Dahlia! Mỗi thế thôi cũng là đủ cho cả chuyến đi này rồi. Đám ghoul thoạt nhìn thì
+đúng là như quỷ, nhưng bỏ kính ra thì cũng không đến nỗi nào. Mà cám ơn đã đưa tôi đến chỗ này. Đây,
+[Cậu ta thò tay vào túi, rồi nhăn mặt] cái đm, rõ ràng nó ở đây mà. Ờ, xin lỗi, có vẻ như tôi đã để quên phần
+thưởng ở nhà rồi nên tôi chỉ có thể gửi lời cám ơn thôi. Gặp lại sau nhé.}
+{381}{}{Ờ, ừm, không cần đâu. Tôi mừng vì đã giúp được cậu. Tạm biệt.}
+{382}{}{Tôi mừng là không còn phải nghe cậu lải nhải nữa. Tạm biệt.}
+{400}{}{Không rảnh để nói chuyện... phải tạo bộ bài mạnh hơn...}
+{500}{}{Để tôi yên.}
+{501}{}{Biến đi.}
 {502}{}{Đm cút.}
-{600}{}{? b?n tôi à. Có th?ng nào đ?y làm n? tung l? ph?n ?ng ? Gecko và t?t c? đám ghoul đ?u b? đi c? r?i. Tôi ch?ng
-c?n lí do g? đ? ? đó n?a nên tôi c?ng r?i đi và quay tr? l?i đây. Th?t may là các th?y tu khác không h?i g? v? lúc tôi không ?
-đây, nên tôi không g?p r?c r?i g?. T? th?t đ?y, tôi ngh? r?ng tôi đ? đư?c s?ng đ? làm đi?u tôi thích [Th? dài].}
-{601}{}{Th?t ti?c khi bi?t tin này. G?p l?i c?u sau.}
-{602}{}{Cu?c s?ng mà. M?i trư?c đó thôi ta đang trên đ?nh, th? mà ch? m?t thoáng sau đ? t?t xu?ng bùn sâu. C? s?ng và ph?n đ?u thôi. T?m bi?t.}
-{610}{}{Ch?c là tôi ch? c?n cách ch?p nh?n nơi này.}
-{1000}{}{B?n đ? đưa Th?y Jason đ?n nhà m?i an toàn.}
+{600}{}{Ồ bạn tôi à. Có thằng nào đấy làm nổ tung lò phản ứng ở Gecko và tất cả đám ghoul đều bỏ đi cả rồi. Tôi chẳng
+còn lí do gì để ở đó nữa nên tôi cũng rời đi và quay trở lại đây. Thật may là các thầy tu khác không hỏi gì về lúc tôi không ở
+đây, nên tôi không gặp rắc rối gì. Tệ thật đấy, tôi nghĩ rằng tôi đã được sống để làm điều tôi thích [Thở dài].}
+{601}{}{Thật tiếc khi biết tin này. Gặp lại cậu sau.}
+{602}{}{Cuộc sống mà. Mới trước đó thôi ta đang trên đỉnh, thế mà chỉ một thoáng sau đã tụt xuống bùn sâu. Cứ sống và phấn đấu thôi. Tạm biệt.}
+{610}{}{Chắc là tôi chỉ còn cách chấp nhận nơi này.}
+{1000}{}{Bạn đã đưa Thầy Jason đến nhà mới an toàn.}

@@ -1,75 +1,75 @@
-{100}{}{B?n th?y ngư?i gác ngh?a trang c?a tu vi?n.}
-{101}{}{B?n th?y Th?y Samuel, ngư?i gác ngh?a trang.}
-{102}{}{Ông ta trông có v? say rư?u và hơi bu?n ng?.}
-{200}{}{*n?c* ?y, kh?e ch?, Samuel đây. Cái, ? *n?c* cô đ?n đây làm g? th??}
-{201}{}{*n?c* Chào.}
-{202}{}{Ch? ngó quanh thôi. Ông trông coi khu ngh?a trang này à?}
-{203}{}{Ông có bi?t Cha Tully không?}
-{204}{}{Cha Tully à? [Ông ta có v? như đang nhíu h?t c? n?o đ? nh? l?i]. ?... ta *n?c* có nh? Tully. Mà g? đ?y sao r?i? Ta
-chưa g?p l?i h?n t? lúc h?n ta b? đá đít kh?i ch? này t? h?i xưa *n?c* xưa l?m r?i. [Ông ta cư?i toe toét trong
-say x?n khi nh? l?i] Chà, h?n ta nói d?i như cu?i nhá. H?n và ta cùng nhau, *n?c* m?t c?p bài trùng.}
-{205}{}{Ông ta gi? s?ng ? New Reno, rao gi?ng kinh thánh, ?, đ?i lo?i th?. Bi?t g? không, hai ông gi?ng h?t nhau.}
-{206}{}{New Reno à? [Ông ta d?a vào cái x?ng, lôi ra m?t b?ch nh? r?i t?p m?t ng?m th?t sâu]. Ta nh? là h?n ta có nói
-*n?c* s? đi l?i đ?y. M?ng là h?n ta đ? đ?n nơi an toàn. Ta luôn *n?c* thích g? này. M?t tay l?a th? thi?t. N?u g?p l?i
-th? b?o g? là Sammy già v?n đang s?ng nhăn răng nhé.}
-{207}{}{Tôi s? làm v?y. Mà tôi v?n c?n m?y câu h?i n?a.}
-{208}{}{Tôi s? làm v?y. B?o tr?ng nhé Sam.}
-{209}{}{Không có g?. Xin l?i đ? làm phi?n.}
-{210}{}{Th?t ra là tôi đang đ?nh nói là ông ta g?i l?i chào. Tôi s? nói v?i ông ta là ông c?ng g?i l?i chào. Mà tôi v?n c?n m?y câu c?n h?i.}
-{211}{}{Th?t ra là tôi đang đ?nh nói là ông ta g?i l?i chào. Tôi s? nói v?i ông ta là ông c?ng g?i l?i chào. B?o tr?ng nhé Sam.}
-{300}{}{Cô *n?c* mu?n bi?t g? nào?}
-{301}{}{Ông là ngư?i gác ngh?a trang à?}
-{302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
-{303}{}{Tôi có th? giúp g? đư?c ông không?}
-{400}{}{?, *n?c* ta chăm sóc khu ngh?a trang này. Không ai mu?n *n?c* làm vi?c này, v?y nên Sammy già có vi?c làm.
-C?ng không t? như h? ngh?. Có nhi?u... đi?m t?t, cô bi?t đ?y. [Ông ta toét mi?ng cư?i s?c và nheo nheo
-c?p mày r?m].}
-{401}{}{Không, tôi không bi?t và c?ng không mu?n bi?t. T?m bi?t.}
-{402}{}{Không. Tôi không bi?t. Nhưng tôi mu?n h?i ông v? chuy?n khác.}
-{403}{}{Không. Tôi không bi?t, nhưng tôi t? m? đ?n ch?t đi đư?c...}
-{404}{}{Đ?u má tôi bi?t ch?. Không g? kích thích hơn c?nh m?t cái xác th?i r?a c?.}
-{410}{}{Sao ch?, ta đư?c ra ngoài và ch?ng ma nào đ?n đây đ? b?o Sammy già d?ng l?i c?. Ta *bi?t* khi nào ta say ch?...
-khi c?n không c?n gi?t nào! [Ông ta cư?i l?n, nhưng nhanh chóng g?p ph?i cơn ho s?c s?a. Sau khi ho đ?n
-v? tung c? ph?i, ông ta m?m cư?i v?i b?n].}
-{411}{}{?, d? *nhiên* ? ông là th?. [Th? dài nh? nh?m]. Đ? tôi h?i ông chuy?n khác.}
-{420}{}{[Ông ta tr?n m?t v? s?c và dư?ng như t?nh táo tr? l?i]. ? ta không ph?i v?y, đ?... đ? QUÁI V?T! QU? ĐÓI!
+{100}{}{Bạn thấy người gác nghĩa trang của tu viện.}
+{101}{}{Bạn thấy Thầy Samuel, người gác nghĩa trang.}
+{102}{}{Ông ta trông có vẻ say rượu và hơi buồn ngủ.}
+{200}{}{*nấc* Ầy, khỏe chứ, Samuel đây. Cái, ờ *nấc* cô đến đây làm gì thế?}
+{201}{}{*nấc* Chào.}
+{202}{}{Chỉ ngó quanh thôi. Ông trông coi khu nghĩa trang này à?}
+{203}{}{Ông có biết Cha Tully không?}
+{204}{}{Cha Tully à? [Ông ta có vẻ như đang nhíu hết cả não để nhớ lại]. Ừ... ta *nấc* có nhớ Tully. Mà gã đấy sao rồi? Ta
+chưa gặp lại hắn từ lúc hắn ta bị đá đít khỏi chỗ này từ hồi xưa *nấc* xưa lắm rồi. [Ông ta cười toe toét trong
+say xỉn khi nhớ lại] Chà, hắn ta nói dối như cuội nhá. Hắn và ta cùng nhau, *nấc* một cặp bài trùng.}
+{205}{}{Ông ta giờ sống ở New Reno, rao giảng kinh thánh, ờ, đại loại thế. Biết gì không, hai ông giống hệt nhau.}
+{206}{}{New Reno à? [Ông ta dựa vào cái xẻng, lôi ra một bịch nhỏ rồi tợp một ngụm thật sâu]. Ta nhớ là hắn ta có nói
+*nấc* sẽ đi lối đấy. Mừng là hắn ta đã đến nơi an toàn. Ta luôn *nấc* thích gã này. Một tay lừa thứ thiệt. Nếu gặp lại
+thì bảo gã là Sammy già vẫn đang sống nhăn răng nhé.}
+{207}{}{Tôi sẽ làm vậy. Mà tôi vẫn còn mấy câu hỏi nữa.}
+{208}{}{Tôi sẽ làm vậy. Bảo trọng nhé Sam.}
+{209}{}{Không có gì. Xin lỗi đã làm phiền.}
+{210}{}{Thật ra là tôi đang định nói là ông ta gửi lời chào. Tôi sẽ nói với ông ta là ông cũng gừi lời chào. Mà tôi vẫn còn mấy câu cần hỏi.}
+{211}{}{Thật ra là tôi đang định nói là ông ta gửi lời chào. Tôi sẽ nói với ông ta là ông cũng gửi lời chào. Bảo trọng nhé Sam.}
+{300}{}{Cô *nấc* muốn biết gì nào?}
+{301}{}{Ông là người gác nghĩa trang à?}
+{302}{}{Bà có thể kể gì cho tôi về Tu viện?}
+{303}{}{Tôi có thể giúp gì được ông không?}
+{400}{}{Ừ, *nấc* ta chăm sóc khu nghĩa trang này. Không ai muốn *nấc* làm việc này, vậy nên Sammy già có việc làm.
+Cũng không tệ như họ nghĩ. Có nhiều... điểm tốt, cô biết đấy. [Ông ta toét miệng cười sặc và nheo nheo
+cặp mày rậm].}
+{401}{}{Không, tôi không biết và cũng không muốn biết. Tạm biệt.}
+{402}{}{Không. Tôi không biết. Nhưng tôi muốn hỏi ông về chuyện khác.}
+{403}{}{Không. Tôi không biết, nhưng tôi tò mò đến chết đi được...}
+{404}{}{Đậu má tôi biết chứ. Không gì kích thích hơn cảnh một cái xác thối rữa cả.}
+{410}{}{Sao chứ, ta được ra ngoài và chẳng ma nào đến đây để bảo Sammy già dừng lại cả. Ta *biết* khi nào ta say chứ...
+khi cạn không còn giọt nào! [Ông ta cười lớn, nhưng nhanh chóng gặp phải cơn ho sặc sụa. Sau khi ho đến
+vỡ tung cả phổi, ông ta mỉm cười với bạn].}
+{411}{}{Ờ, dĩ *nhiên* ý ông là thế. [Thở dài nhẹ nhõm]. Để tôi hỏi ông chuyện khác.}
+{420}{}{[Ông ta tròn mắt vì sốc và dường như tỉnh táo trở lại]. Ý ta không phải vậy, đồ... đồ QUÁI VẬT! QUỶ ĐÓI!
 Tránh xa ta ra!}
-{421}{}{Sao c?ng đư?c, l?o già say x?n. L?o không bi?t m?nh đang b? l? đi?u g? đâu.}
-{430}{}{Ác qu? x?u xa! Bi?n đi!}
-{500}{}{Tu vi?n, ?, đây là nơi *n?c* ta đ? s?ng c? đ?i ? đây. M?i ngư?i ? đây *n?c* r?t t?t, và ai c?ng đư?c đón chào,
-mi?n là h? *n?c* không gây r?c r?i. B?n thân ta tuy không ? lâu trong tu *n?c* vi?n, nhưng ta bi?t trong
-máy tính có r?t nhi?u th? h? đ? sưu t?p trong nhi?u năm. Có th? c?u s? t?m th?y th? g? đó *n?c* có ích
+{421}{}{Sao cũng được, lão già say xỉn. Lão không biết mình đang bỏ lỡ điều gì đâu.}
+{430}{}{Ác quỷ xấu xa! Biến đi!}
+{500}{}{Tu viện, ờ, đây là nơi *nấc* ta đã sống cả đời ở đây. Mọi người ở đây *nấc* rất tốt, và ai cũng được đón chào,
+miễn là họ *nấc* không gây rắc rối. Bản thân ta tuy không ở lâu trong tu *nấc* viện, nhưng ta biết trong
+máy tính có rất nhiều thứ họ đã sưu tập trong nhiều năm. Có thể cậu sẽ tìm thấy thứ gì đó *nấc* có ích
 trong đó.}
-{501}{}{Ông không ? lâu trong nhà th? ư? Ch?ng ph?i ông là th?y tu sao?}
-{502}{}{[Ông ta phá ra cư?i, đ? l? ra hàm răng sâu nham nh?]. ? th? *n?c* ch?c là các th?y tu khác không
-thích l?m *n?c* cái thói u?ng rư?u c?a ta.}
-{503}{}{Ch?c là v?y. Tôi có thêm câu h?i.}
-{504}{}{Ch?c v?y. G?p l?i ông sau Sammy.}
-{505}{}{Hi?u r?i. Tôi ph?i đi đây.}
-{600}{}{H?m... *n?c* đ? ta... đ? ta ngh? m?t chút. ?, ta có vi?c này, n?u cô mu?n giúp.}
-{601}{}{?, không có g? đâu Sam. Gi? tôi ph?i đi đây.}
-{602}{}{Đư?c ch? Sam, ông c?n g? nào?}
-{603}{}{?, m?y ngày g?n đây ta *n?c* đ? ? th?y có m?y ngôi m? b? đào lên. Tuy là k? nào làm vi?c đó có v? như chưa
-đ?n m?c quá đà, nhưng mà *n?c* m?t công ta đi l?p chúng l?i.}
-{604}{}{H?m, ông có th? t?m xem là ai đang làm vi?c đó chưa?}
-{605}{}{Ch?c ch?n *n?c* là có ch?. Có đêm ta th?c đ?n canh hai hay t?m đó, nhưng ch?ng th?y ai xu?t hi?n c?. Sau đó ta
-ng? g?c m?t. Ch?c là hơi quá chén. [Ông ta cư?i khà, lôi b?ch rư?u ra tu m?t ng?m l?n]. Gi? c?u ngh? *n?c* sao?
-Có mu?n giúp không?}
-{606}{}{Đư?c r?i, đ? tôi xem tôi có th? làm g?. Ông có bi?t đi?u g? khác có ích không?}
-{607}{}{?, nh?c m?i nh?, ta nh? *n?c* là Ông Peterson có nói v? vi?c nghe th?y ti?ng đ?ng g? đó t? khu ru?ng. C?u ta
-có th? bi?t g? đó v? chuy?n này. C?u ta cùng cô v? bé nh? xinh đ?p s?ng ? ngay kia. [Ông ta ch? tay v? phía
-t?a nhà phía Nam c?a ngh?a trang].}
-{608}{}{Đ? tôi xem tôi có th? làm g?.}
-{609}{}{Ch?c là thôi. Tôi ph?i đi đây.}
-{700}{}{Tôi đ? lo xong v? đào tr?m m? r?i. Ch?c là ông không c?n có v?n đ? g? n?a đâu.}
-{701}{}{?, th?t là *n?c* tin đáng đ? tu m?t hơi dài. M?ng là ta s? không c?n ng? vào ngôi m? *n?c* h? nào n?a. Cám ơn đ? giúp.}
-{702}{}{R?t vui khi giúp đư?c ông. Tôi v?n c?n vài câu h?i n?a.}
-{703}{}{Đư?c r?i, b?o tr?ng nhé.}
-{704}{}{Tôi không ngh? m?y ngôi m? h? là lí do chính khi?n ông ng? đâu Samuel, nhưng t? gi? ông có th? thư gi?n r?i.}
-{1000}{}{*Hu?t sáo*}
-{1001}{}{*Ho kh?c kh?c*}
-{1002}{}{*H?ng gi?ng*}
+{501}{}{Ông không ở lâu trong nhà thờ ư? Chẳng phải ông là thầy tu sao?}
+{502}{}{[Ông ta phá ra cười, để lộ ra hàm răng sâu nham nhở]. Ờ thì *nấc* chắc là các thầy tu khác không
+thích lắm *nấc* cái thói uống rượu của ta.}
+{503}{}{Chắc là vậy. Tôi có thêm câu hỏi.}
+{504}{}{Chắc vậy. Gặp lại ông sau Sammy.}
+{505}{}{Hiểu rồi. Tôi phải đi đây.}
+{600}{}{Hừm... *nấc* để ta... để ta nghĩ một chút. Ừ, ta có việc này, nếu cô muốn giúp.}
+{601}{}{Ừ, không có gì đâu Sam. Giờ tôi phải đi đây.}
+{602}{}{Được chứ Sam, ông cần gì nào?}
+{603}{}{Ờ, mấy ngày gần đây ta *nấc* để ý thấy có mấy ngôi mộ bị đào lên. Tuy là kẻ nào làm việc đó có vẻ như chưa
+đến mức quá đà, nhưng mà *nấc* mất công ta đi lấp chúng lại.}
+{604}{}{Hừm, ông có thử tìm xem là ai đang làm việc đó chưa?}
+{605}{}{Chắc chắn *nấc* là có chứ. Có đêm ta thức đến canh hai hay tầm đó, nhưng chẳng thấy ai xuất hiện cả. Sau đó ta
+ngủ gục mất. Chắc là hơi quá chén. [Ông ta cười khà, lôi bịch rượu ra tu một ngụm lớn]. Giờ cậu nghĩ *nấc* sao?
+Có muốn giúp không?}
+{606}{}{Được rồi, để tôi xem tôi có thể làm gì. Ông có biết điều gì khác có ích không?}
+{607}{}{Ờ, nhắc mới nhớ, ta nhớ *nấc* là Ông Peterson có nói về việc nghe thấy tiếng động gì đó từ khu ruộng. Cậu ta
+có thể biết gì đó về chuyện này. Cậu ta cùng cô vợ bé nhỏ xinh đẹp sống ở ngay kia. [Ông ta chỉ tay về phía
+tòa nhà phía Nam của nghĩa trang].}
+{608}{}{Để tôi xem tôi có thể làm gì.}
+{609}{}{Chắc là thôi. Tôi phải đi đây.}
+{700}{}{Tôi đã lo xong vụ đào trộm mộ rồi. Chắc là ông không còn có vấn đề gì nữa đâu.}
+{701}{}{Ồ, thật là *nấc* tin đáng để tu một hơi dài. Mừng là ta sẽ không còn ngã vào ngôi mộ *nấc* hở nào nữa. Cám ơn đã giúp.}
+{702}{}{Rất vui khi giúp được ông. Tôi vẫn còn vài câu hỏi nữa.}
+{703}{}{Được rồi, bảo trọng nhé.}
+{704}{}{Tôi không nghĩ mấy ngôi mộ hở là lí do chính khiến ông ngã đâu Samuel, nhưng từ giờ ông có thể thư giãn rồi.}
+{1000}{}{*Huýt sáo*}
+{1001}{}{*Ho khục khặc*}
+{1002}{}{*Hắng giọng*}
 {1003}{}{*Ho*}
-{1004}{}{*Th? dài*}
-{1005}{}{*N?c*}
-{2000}{}{Đúng là m?t *n?c* ngày dài. Sáng mai quay l?i nhé.}
+{1004}{}{*Thở dài*}
+{1005}{}{*Nấc*}
+{2000}{}{Đúng là một *nấc* ngày dài. Sáng mai quay lại nhé.}

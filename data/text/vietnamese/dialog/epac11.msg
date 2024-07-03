@@ -38,14 +38,14 @@
 {281}{}{Sounds good. Let's go.}
 {282}{}{Whatever you say.}
 {290}{}{Don't you worry about this ol' cat. I'll find my place in this world. Now step aside and let the Cat do his thing.}
-{291}{}{[K?T THÚC]}
+{291}{}{[KẾT THÚC]}
 {300}{}{So, how did you end up in that cryo chamber? And what happened to your teeth?}
 {301}{}{I used to be the guard for one of the genetics labs. They were messing with human and feline DNA.
  Trying to make something with the best of both worlds, I suppose. And that's where yours truly comes in.
  [Cat flashes you his toothy grin.] They wanted a volunteer for one of their projects. It was for scouts and the like, supposed to
  make you more agile and flexible. I liked the sound of that *leers*. Anyway, they gave me this shot, put me under, and
  the next thing I knew, I had these teeth, and I felt.... sharper? Kind of predatory.}
-{302}{}{Ti?p t?c đi.}
+{302}{}{Tiếp tục đi.}
 {303}{}{Well, apparently the experiment wasn't going as planned and whatever they put inside me wasn't sitting
  well with my system. I don't know what they meant by that, since I felt better than ever. They decided to throw me in
  the cryo freezer until they figured out what to do with me.}
@@ -62,7 +62,7 @@
 {392}{}{Chưa.}
 {400}{}{Need something?}
 {401}{}{How can the Cat be of service?}
-{402}{}{Yes?}
+{402}{}{Vâng?}
 {410}{}{What do you need to know?}
 {411}{}{Well, I was trained to use the usual military stuff. Rifles, pistols, SMGs and the like. I prefer laser
  weapons and the like better though. Those have style! But if you give me some brass knuckles or one of those power fists,
@@ -109,7 +109,7 @@
 {830}{}{Least I didn't end up like YOU, Marcus!}
 {2900}{}{I need to put on some clothing first. [Looking around, Cat spots a locker, opens it and looks inside.]
  These really aren't my style, but I guess they'll do. [He quickly puts the clothing on.] Alright, I'm good to go.}
-{2901}{}{[K?T THÚC]}
+{2901}{}{[KẾT THÚC]}
 {5000}{}{[The man stands up and shakes himself dry like a wet animal. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
-{5001}{}{[K?T THÚC]}
+{5001}{}{[KẾT THÚC]}
 {5002}{}{Holy shit!}

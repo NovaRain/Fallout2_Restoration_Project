@@ -1,18 +1,18 @@
-{100}{}{You see a monk.}
-{101}{}{This monk looks like a trader.}
-{200}{}{Welcome traveler.}
-{201}{}{B?nh an nhé.}
-{202}{}{Th?i ti?t đ?p đ?y.}
-{203}{}{Go play somewhere else.}
-{300}{}{Hi, how can I help you?}
-{301}{}{What can you tell me about your order?}
-{302}{}{H?y giao d?ch.}
+{100}{}{Bạn thấy một thầy tu.}
+{101}{}{Thầy tu này trông giống một lái buôn.}
+{200}{}{Xin chào, người lữ khách.}
+{201}{}{Bình an nhé.}
+{202}{}{Thời tiết đẹp đấy.}
+{203}{}{Đi chỗ khác chơi.}
+{300}{}{Chào, tôi giúp gì được đây?}
+{301}{}{Ông có thể nói gì về hội không?}
+{302}{}{Hãy giao dịch.}
 {303}{}{Chào.}
-{400}{}{Our holy mission is to collect and preserve the sacred relics of the forgotten past. Anyone is welcome here, as long as they don't damage anything.}
-{401}{}{Who is your leader?}
-{402}{}{What kind of relics?}
-{403}{}{He can be found on the third floor. If you wish to learn more about our order, he is the one to talk to.}
-{404}{}{All sorts, but most of our Memorabilia consist of ancient tomes. So much information can be obtained from those texts. It is our mission to preserve this knowledge so that a future generation may use it to build a new world of peace and joy.}
+{400}{}{Nhiệm vụ thần thánh của chúng tôi là thu thập và bảo tồn các thánh tích của thời xa xưa. Mọi người đều được chào đón ở đây, miễn là không phá hỏng thứ gì.}
+{401}{}{Ai là người lãnh đạo ở đây?}
+{402}{}{Thánh tích gì vậy?}
+{403}{}{Ông ta ở trên tầng ba. Nếu muốn tìm hiểu về hội thì hãy hỏi thầy trụ trì.}
+{404}{}{Đủ các thể loại, nhưng đa số Kho kỉ vật của chúng tôi là các cuốn sách cổ. Trong các văn bản này có chứa rất nhiều thông tin. Nhiệm vụ của chúng tôi là bảo tồn kiến thức này để thế hệ tương lai có thể sử dụng để xây dựng một thế giới hòa bình và tốt đẹp.}
 {405}{}{Okay.}
 {406}{}{Ok.}
-{500}{}{D?ng l?i!}
+{500}{}{Dừng lại!}
