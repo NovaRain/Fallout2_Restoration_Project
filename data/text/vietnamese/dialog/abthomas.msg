@@ -1,2 +1,2 @@
-{100}{}{B?n th?y m?t th?y tu đ? ch?t.}
-{101}{}{B?n th?y thi th? c?a Th?y Thomas. Có v? như ông ta đ? ch?t trong đau đ?n.}
+{100}{}{Bạn thấy một thầy tu đã chết.}
+{101}{}{Bạn thấy thi thể của Thầy Thomas. Có vẻ như ông ta đã chết trong đau đớn.}

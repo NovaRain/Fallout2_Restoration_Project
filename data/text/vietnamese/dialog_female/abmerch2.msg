@@ -1,6 +1,6 @@
-{100}{}{B?n th?y m?t thương gia.}
-{101}{}{Trông như ông ta đang tr? giúp ngư?i đàn ông s?a máy bơm.}
-{102}{}{Vi?c này lâu hơn chúng ta ngh?.}
-{103}{}{H?y nói v?i s?p n?u cô ngh? m?nh giúp đư?c.}
-{104}{}{Làm t?t l?m.}
-{105}{}{Cám ơn đ? giúp.}
+{100}{}{Bạn thấy một thương gia.}
+{101}{}{Trông như ông ta đang trợ giúp người đàn ông sửa máy bơm.}
+{102}{}{Việc này lâu hơn chúng ta nghĩ.}
+{103}{}{Hãy nói với sếp nếu cô nghĩ mình giúp được.}
+{104}{}{Làm tốt lắm.}
+{105}{}{Cám ơn đã giúp.}

@@ -1,61 +1,61 @@
-{100}{}{B?n th?y m?t thương gia.}
-{102}{}{B?n th?y m?t thương gia đang c? g?ng s?a máy bơm nư?c.}
-{103}{}{M? nó m?i đéo ch?y!}
-{104}{}{Th? này có v? r?t khó s?a.}
-{105}{}{Đúng là c?c c?t đ?ng nát!}
-{106}{}{C?a n? này c?ng đ?u vl nh??}
-{107}{}{Cô giúp tôi m?t tay đư?c không?}
-{108}{}{Có th? cô s? h?p v?i th? này hơn.}
-{109}{}{Này, cám ơn đ? s?a máy bơm nư?c!}
-{110}{}{Cô nên báo v?i th?y tu trư?ng là máy bơm nư?c đ? s?a đư?c r?i.}
-{200}{}{Cám ơn đ? giúp chúng tôi s?a th? này.}
-{300}{}{À, đúng là c?c cư- ?, tôi đang d? tay. Cô có c?n g? không hay ch? mu?n tán g?u thôi?}
-{301}{}{Th?c ra là có. Th?y tr? tr? c? tôi đ?n. Ông ta nói máy bơm nư?c có v?n đ?.}
-{302}{}{H?, "có v?n đ?" cái c? c?i. C?c s?t v?n này nát như tương r?i. Đ?ch có chuy?n nó ti?p t?c
-ch?y n?a đâu.}
-{303}{}{Hi?u r?i. V?y ch?c không v?n đ? g? n?u tôi ngó th? nh?.}
-{304}{}{Đư?c ch?, c? t? nhiên. Đ?ng nào c?ng có h?ng hơn đư?c n?a đâu.}
-{305}{}{Tôi không mu?n làm phi?n, nhưng có chuy?n g? ? đây th??}
-{306}{}{Cái máy bơm nư?c chính cho Tu vi?n t?ch r?i. Th? ch?t ti?t này són đư?c vài gi?t cu?i cùng m?y ngày
-trư?c và đ?n gi? th? chính th?c đi đ?i r?i.}
-{307}{}{Tôi bi?t m?t chút v? k? thu?t, có phi?n không n?u tôi ngó qua chút?}
-{308}{}{?, tôi không gi?i máy móc l?m, nhưng có l? tôi có th? xem li?u có làm g? đư?c không.}
-{309}{}{Đư?c, ch?ng ai c?m c?.}
-{310}{}{?, xin l?i. T?m bi?t.}
-{311}{}{Đ? tôi xem tôi có th? làm g?.}
-{312}{}{Tôi ngh? là m?nh có th? giúp, nhưng n?u ông c? ch?i b?i như v?y th? t? đi mà s?a l?y nhé.}
-{313}{}{Tôi có nói v?i Th?y tr? tr? là tôi s?n sàng giúp, nhưng n?u ông c? ch?i b?i như v?y th? t? đi mà s?a l?y nhé.}
-{320}{}{[Ông ta nheo m?t nh?n b?n m?t thoáng, r?i ch?m ch?m th? dài m?t hơi]. Xin l?i cô b?n, th? này m?i không
-ch?y và nó làm tôi phát điên lên đư?c. Tôi không có ? ch?i ai c?.}
-{321}{}{?, v?y v?n đ? là g? th??}
-{322}{}{Sao c?ng đư?c, t?m bi?t.}
-{330}{}{H?y quay l?i nói chuy?n v?i tôi vào bu?i sáng.}
-{400}{}{?, l?i là cô. Có t?m th?y g? không?}
-{401}{}{Không, chưa th?y g?. T?m th?y g? th? tôi s? báo.}
-{402}{}{Th?c ra là có. Tôi đ? xem bên trong và có v? như đ?ng cơ ch?t h?n r?i. Dây n?i c?ng cháy r?i, nên chúng ta s?
-c?n t?m m?t b? đ?ng cơ m?i và vài đo?n dây đ? n?i m?i th? l?i.}
-{500}{}{H?m... đ?u n?i trên đ?ng cơ chính cháy r?i à? ?, tôi có s?n dây ? đây r?i, nhưng đ?ng cơ cho cái máy này th? không.
-Tôi ch?c là Thành ph? Vault có đ?y. H?y đi đ?n đó và nói v?i Harry ? sân chính. B?o h?n ta là Dave c? cô đ?n.
-C?c đ?ng cơ đ?t đ?y, nhưng ch?c h?n ta s? gi?m giá cho cô.}
-{501}{}{Tôi s? đ?n đó ngay. G?p l?i sau.}
-{502}{}{Chà, gư?m chút đ?. Tôi r?t vui v? đ? giúp ông t?m ra v?n đ?, nhưng ai nói là tôi s?n sàng vư?t qua hoang m?c
-đ? mua cho ông c?c đ?ng cơ đ?t ti?n v?y? N?u mu?n tôi giúp th? x? ti?n ra đây.}
-{503}{}{Sao *ông* không t? vác xác đ?n mà nói v?i Harry ?y? Tôi đâu ph?i tay sai v?t c?a ông. Chào nhé.}
-{510}{}{Đư?c r?i, tôi c?ng không ngh? là có ngư?i làm mi?n phí đâu. B? ph?n này có giá kho?ng 500 và tôi ngh? tr? công
-cho cô 100 là h?p lí. 600 đây.}
-{511}{}{T?t hơn r?i đ?y. Tôi s? mang b? ph?n quay l?i.}
-{600}{}{Có t?m th?y b? ph?n chưa v?y? Cái máy này không t? s?a đâu.}
-{601}{}{Chưa. Tôi s? quay l?i khi nào có.}
-{602}{}{Có, b? ph?n ngay đây r?i.}
-{700}{}{Tuy?t. Mu?n tôi l?p c?a n? đ?y vào không, hay cô mu?n t? chơi hơn?}
-{701}{}{Tôi ngh? m?nh làm đư?c. Tránh ra nào.}
-{702}{}{Th?c ra tôi ngh? là m?nh làm th? là đ? r?i. Ông t? đi mà l?p l?y đi.}
-{800}{}{Đư?c r?i, đưa b? ph?n đây.}
+{100}{}{Bạn thấy một thương gia.}
+{102}{}{Bạn thấy một thương gia đang cố gắng sửa máy bơm nước.}
+{103}{}{Mẹ nó mãi đéo chạy!}
+{104}{}{Thứ này có vẻ rất khó sửa.}
+{105}{}{Đúng là cục cứt đồng nát!}
+{106}{}{Của nợ này cứng đầu vl nhỉ?}
+{107}{}{Cô giúp tôi một tay được không?}
+{108}{}{Có thể cô sẽ hợp với thứ này hơn.}
+{109}{}{Này, cám ơn đã sửa máy bơm nước!}
+{110}{}{Cô nên báo với thầy tu trưởng là máy bơm nước đã sửa được rồi.}
+{200}{}{Cám ơn đã giúp chúng tôi sửa thứ này.}
+{300}{}{À, đúng là cục cư- ờ, tôi đang dở tay. Cô có cần gì không hay chỉ muốn tán gẫu thôi?}
+{301}{}{Thực ra là có. Thầy trụ trì cử tôi đến. Ông ta nói máy bơm nước có vấn đề.}
+{302}{}{Hế, "có vấn đề" cái củ cải. Cục sắt vụn này nát như tương rồi. Đếch có chuyện nó tiếp tục
+chạy nữa đâu.}
+{303}{}{Hiểu rồi. Vậy chắc không vấn đề gì nếu tôi ngó thử nhỉ.}
+{304}{}{Được chứ, cứ tự nhiên. Đằng nào cũng có hỏng hơn được nữa đâu.}
+{305}{}{Tôi không muốn làm phiền, nhưng có chuyện gì ở đây thế?}
+{306}{}{Cái máy bơm nước chính cho Tu viện tạch rồi. Thứ chết tiệt này són được vài giọt cuối cùng mấy ngày
+trước và đến giờ thì chính thức đi đời rồi.}
+{307}{}{Tôi biết một chút về kĩ thuật, có phiền không nếu tôi ngó qua chút?}
+{308}{}{Ồ, tôi không giỏi máy móc lắm, nhưng có lẽ tôi có thể xem liệu có làm gì được không.}
+{309}{}{Được, chẳng ai cấm cả.}
+{310}{}{Ờ, xin lỗi. Tạm biệt.}
+{311}{}{Để tôi xem tôi có thể làm gì.}
+{312}{}{Tôi nghĩ là mình có thể giúp, nhưng nếu ông cứ chửi bới như vậy thì tự đi mà sửa lấy nhé.}
+{313}{}{Tôi có nói với Thầy trụ trì là tôi sẵn sàng giúp, nhưng nếu ông cứ chửi bới như vậy thì tự đi mà sửa lấy nhé.}
+{320}{}{[Ông ta nheo mắt nhìn bạn một thoáng, rồi chầm chậm thở dài một hơi]. Xin lỗi cô bạn, thứ này mãi không
+chạy và nó làm tôi phát điên lên được. Tôi không có ý chửi ai cả.}
+{321}{}{Ồ, vậy vấn đề là gì thế?}
+{322}{}{Sao cũng được, tạm biệt.}
+{330}{}{Hãy quay lại nói chuyện với tôi vào buổi sáng.}
+{400}{}{Ồ, lại là cô. Có tìm thấy gì không?}
+{401}{}{Không, chưa thấy gì. Tìm thấy gì thì tôi sẽ báo.}
+{402}{}{Thực ra là có. Tôi đã xem bên trong và có vẻ như động cơ chết hẳn rồi. Dây nối cũng cháy rồi, nên chúng ta sẽ
+cần tìm một bộ động cơ mới và vài đoạn dây để nối mọi thứ lại.}
+{500}{}{Hừm... đầu nối trên động cơ chính cháy rồi à? Ờ, tôi có sẵn dây ở đây rồi, nhưng động cơ cho cái máy này thì không.
+Tôi chắc là Thành phố Vault có đấy. Hãy đi đến đó và nói với Harry ở sân chính. Bảo hắn ta là Dave cử cô đến.
+Cục động cơ đắt đấy, nhưng chắc hắn ta sẽ giảm giá cho cô.}
+{501}{}{Tôi sẽ đến đó ngay. Gặp lại sau.}
+{502}{}{Chà, gượm chút đã. Tôi rất vui vì đã giúp ông tìm ra vấn đề, nhưng ai nói là tôi sẵn sàng vượt qua hoang mạc
+để mua cho ông cục động cơ đắt tiền vậy? Nếu muốn tôi giúp thì xì tiền ra đây.}
+{503}{}{Sao *ông* không tự vác xác đến mà nói với Harry ấy? Tôi đâu phải tay sai vặt của ông. Chào nhé.}
+{510}{}{Được rồi, tôi cũng không nghĩ là có người làm miễn phí đâu. Bộ phận này có giá khoảng 500 và tôi nghĩ trả công
+cho cô 100 là hợp lí. 600 đây.}
+{511}{}{Tốt hơn rồi đấy. Tôi sẽ mang bộ phận quay lại.}
+{600}{}{Có tìm thấy bộ phận chưa vậy? Cái máy này không tự sửa đâu.}
+{601}{}{Chưa. Tôi sẽ quay lại khi nào có.}
+{602}{}{Có, bộ phận ngay đây rồi.}
+{700}{}{Tuyệt. Muốn tôi lắp của nợ đấy vào không, hay cô muốn tự chơi hơn?}
+{701}{}{Tôi nghĩ mình làm được. Tránh ra nào.}
+{702}{}{Thực ra tôi nghĩ là mình làm thế là đủ rồi. Ông tự đi mà lắp lấy đi.}
+{800}{}{Được rồi, đưa bộ phận đây.}
 {801}{}{Đây.}
-{900}{}{V?y là xong.}
-{901}{}{Máy bơm nư?c đ? đư?c s?a ch?a.}
-{910}{}{(Lau m? hôi trán). ?, c?n g? không?}
-{911}{}{Th?y tr? tr? nói ông có th? c?n tr? giúp. Có v?n đ? g? v?y?}
-{912}{}{Không có g?. Xin chào.}
-{913}{}{Tôi đ? xem máy bơm nư?c và có v? như đ?ng cơ ch?t h?n r?i. Dây n?i c?ng cháy r?i, nên chúng ta s?
-c?n t?m m?t b? đ?ng cơ m?i và vài đo?n dây đ? n?i m?i th? l?i.}
+{900}{}{Vậy là xong.}
+{901}{}{Máy bơm nước đã được sửa chữa.}
+{910}{}{(Lau mồ hôi trán). Ờ, cần gì không?}
+{911}{}{Thầy trụ trì nói ông có thể cần trợ giúp. Có vấn đề gì vậy?}
+{912}{}{Không có gì. Xin chào.}
+{913}{}{Tôi đã xem máy bơm nước và có vẻ như động cơ chết hẳn rồi. Dây nối cũng cháy rồi, nên chúng ta sẽ
+cần tìm một bộ động cơ mới và vài đoạn dây để nối mọi thứ lại.}

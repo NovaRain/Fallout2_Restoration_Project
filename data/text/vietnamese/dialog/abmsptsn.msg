@@ -1,9 +1,9 @@
-{100}{}{B?n th?y Bà Peterson.}
-{101}{}{B?n th?y m?t ph? n? tr? xinh đ?p. Cô ta cư?i khi th?y b?n.}
-{200}{}{Chào m?ng đ?n v?i Tu vi?n, ngư?i b?n.}
-{201}{}{H?y nói v?i ch?ng tôi n?u c?n g? đó.}
-{202}{}{Hôm nay đ?p tr?i nh??}
-{300}{}{Chào m?ng đ?n v?i Tu vi?n, ngư?i b?n.}
-{301}{}{H?y nói v?i ch?ng tôi n?u c?n g? đó.}
-{302}{}{Bu?i t?i mát th?t đ?y, nh??}
-{400}{}{Tôi không có g? đ? nói. Vui l?ng đi ch? khác.}
+{100}{}{Bạn thấy Bà Peterson.}
+{101}{}{Bạn thấy một phụ nữ trẻ xinh đẹp. Cô ta cười khi thấy bạn.}
+{200}{}{Chào mừng đến với Tu viện, người bạn.}
+{201}{}{Hãy nói với chồng tôi nếu cần gì đó.}
+{202}{}{Hôm nay đẹp trời nhỉ?}
+{300}{}{Chào mừng đến với Tu viện, người bạn.}
+{301}{}{Hãy nói với chồng tôi nếu cần gì đó.}
+{302}{}{Buổi tối mát thật đấy, nhỉ?}
+{400}{}{Tôi không có gì để nói. Vui lòng đi chỗ khác.}

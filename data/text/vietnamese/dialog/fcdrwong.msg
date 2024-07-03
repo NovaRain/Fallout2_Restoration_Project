@@ -12,7 +12,7 @@
 {111}{}{Aagh!}
 {112}{}{I am Dr. Wong. I am the head scientist of this installation.}
 {113}{}{More questions, please.}
-{114}{}{Cám ơn. T?m bi?t.}
+{114}{}{Cám ơn. Tạm biệt.}
 {115}{}{I oversee the scientific experiments we create and run here. I also am in charge of the computer network.}
 {116}{}{What are you planning?}
 {117}{}{How does one get access to the computer network?}
@@ -20,7 +20,7 @@
 {119}{}{I see. Bye.}
 {120}{}{Ah, but if I tell you our plans, then everyone will know. I'm afraid they are secret plans, for now.}
 {121}{}{Fine, fine. I have other questions.}
-{122}{}{Cám ơn. T?m bi?t.}
+{122}{}{Cám ơn. Tạm biệt.}
 {123}{}{How about if I stick a gun under your nose and force you to tell me?}
 {124}{}{Why, one learns how to hack into it, or how to make friends with one of my underlings. I'm joking, of course, about hacking into it - if you were to do that, I'd send someone after you to kill you. [He smiles to show he means no offense.]}
 {125}{}{Would you really kill me?}
@@ -52,7 +52,7 @@
 {151}{}{It's a human spleen? Lao Chou didn't tell me that!}
 {152}{}{Yet, because of the rudeness of the messenger, I believe I will hold all parties to the bargain. I will experiment on it instead.}
 {153}{}{Tell your friend to come by for it within the next day, and I will gladly return it to him. I just hope you can find a way to replace it in his body in time.}
-{154}{}{Đư?c r?i.}
+{154}{}{Được rồi.}
 {155}{}{Ha ha! Yes, I too saw that old movie. Wait... what are you saying? Are you saying that...?}
 {156}{}{Yes, it's a human spleen.}
 {157}{}{Actually, I would object to that. You have not shown yourself to be of good character. Indeed, I do not know why I am talking to you. Good day.}
@@ -109,7 +109,7 @@
 {362}{}{I see. Let me ask you something else.}
 {370}{}{I suppose I could... I must admit I am somewhat curious to learn of his fate. Here, I'll mark Dr. Sheng's last known location on your mapping device. But I must warn you that it could prove to be highly dangerous. Of course, it is always dangerous out there in the wastes. Anyway, if you find something of interest, do let me know.}
 {371}{}{Thanks, I'll do that. Bye.}
-{372}{}{Đ? tôi h?i chuy?n khác.}
+{372}{}{Để tôi hỏi chuyện khác.}
 {380}{}{Dr. Sheng is still alive and he's created some kind of plant that takes root in and controls human corpses.}
 {390}{}{So he has achieved some success with his Xeno Project. How fascinating ... and disturbing. We put an end to his sentient plant experiments here after we lost one our techs. When he left to continue his research, I assumed he'd fall victim to his own creations. Has he managed to assume some form of control over them?}
 {391}{}{Yeah, some of them seem to be subservient. They even refer to him as 'master.'}
@@ -151,16 +151,16 @@
 {510}{}{Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. Now if there is nothing else, I should be getting back to work.}
 {511}{}{Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. But I thought you were going to eliminate Dr. Sheng, not be his courier? In any case, I should be getting back to work.}
 {512}{}{Actually, I would like to ask you something else.}
-{513}{}{T?m bi?t.}
+{513}{}{Tạm biệt.}
 {514}{}{Actually, I went through quite a bit of trouble to get that sample for you. I think it's worth a reward.}
 {520}{}{Do you, now? The Shi did not solicit this plant sample from you, but if you feel your deeds have earned some compensation, I suppose we could spare this. [He hands you a super stimpak.] Now I really should be getting back to work.}
 {521}{}{Actually, I would like to ask you something else.}
-{522}{}{Cám ơn. T?m bi?t.}
+{522}{}{Cám ơn. Tạm biệt.}
 {523}{}{Really? You call this a reward? I'm gonna knock you around until something more valuable falls out.}
 {530}{}{[Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.}
 {531}{}{I agree. He's quite the madman.}
 {540}{}{*clutches heart* Wahh.}
-{541}{}{Ch?c.}
+{541}{}{Chậc.}
 {542}{}{Dr. Wong!}
 {600}{}{You eliminate Dr. Sheng for the Shi.}
 {601}{}{You deliver the plant sample to Dr. Wong.}

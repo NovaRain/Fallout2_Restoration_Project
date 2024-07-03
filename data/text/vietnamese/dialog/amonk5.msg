@@ -1,69 +1,69 @@
-{100}{}{You see a computer monk.}
-{101}{}{You see Brother Paul.}
-{102}{}{This monk looks like a computer geek.}
+{100}{}{Bạn thấy một thầy tu máy tính.}
+{101}{}{Bạn thấy thầy Paul.}
+{102}{}{Thầy tu này trông giống một con nghiện máy tính.}
 {200}{}{Chào!}
 {201}{}{Chào.}
-{202}{}{Now, did I backup those computer files today...}
-{203}{}{I'm sorry, but I don't have time for someone of your intelligence.}
-{300}{}{Yes?}
-{301}{}{You guys sure have a lot of computers here.}
-{302}{}{Bà có th? k? g? cho tôi v? Tu vi?n?}
-{303}{}{Tell me about your leader.}
-{304}{}{Do you have any info about a GECK?}
-{305}{}{Ông có bi?t tôi có th? t?m Vault 13 ? đâu không?}
+{202}{}{Nào, hôm nay mình sao lưu đống dữ liệu máy tính chưa nhỉ...}
+{203}{}{Thứ lỗi, nhưng tôi không có thời gian cho người thông minh như cậu.}
+{300}{}{Vâng?}
+{301}{}{Các ông có nhiều máy tính ở đây thật đấy.}
+{302}{}{Bà có thể kể gì cho tôi về Tu viện?}
+{303}{}{Hãy nói cho tôi biết về thầy trụ trì.}
+{304}{}{Ông có thông tin gì về GECK không?}
+{305}{}{Ông có biết tôi có thể tìm Vault 13 ở đâu không?}
 {306}{}{Chào.}
-{307}{}{I am in need of some specific information.}
+{307}{}{Tôi đang cần một số thông tin cụ thể.}
 {308}{}{Như là?}
-{400}{}{Yes, we have. Too many, in my opinion. I can't express to you the tedium of having to back up all these files
- each and every day. There's just so much information to preserve, but, of course, it must be done.}
-{401}{}{Of course. Anyway, I have some other questions.}
-{402}{}{We are an independent community. Anyone is welcome as long as they behave themselves.}
+{400}{}{Ừ, đúng vậy. Rất nhiều là đằng khác, theo như tôi biết. Biết nói sao cho tỏ cái sự chán khi phải sao lưu đống
+dữ liệu này từng ngày một. Có quá nhiều thông tin để lưu trữ, nhưng dĩ nhiên là phải có người làm rồi.}
+{401}{}{Hẳn rồi. Mà này, tôi có mấy câu hỏi khác.}
+{402}{}{Chúng tôi là một cộng đồng độc lập. Ai cũng được chào đón ở đây miễn là biết giữ ý.}
 {403}{}{Ok.}
-{404}{}{The Abbot is a good spiritual leader, but he's been a little cranky since we lost Brother Thomas to the beast.}
-{405}{}{What kind of beast?}
-{406}{}{I haven't seen it, personally--there's nothing in the world that could get me to go down there and explore those
- caverns--but if I had to guess, I'd say it's probably just some overgrown radscorpion.}
-{407}{}{If you haven't seen it, then what makes you think it's a radscorpion?}
-{408}{}{Because I've heard sounds echoing up from the caves--the sounds of snapping claws and skittering legs.}
-{409}{}{Right.}
-{410}{}{In fact, we do. Take a look on that computer over there. Here, you can use this card to access our encrypted files. [He hands you an access card.]}
-{411}{}{Wow, thanks a lot!}
-{412}{}{I don't know anything about Vault 13, but there is Vault City down south. Maybe they have the info you need.}
+{404}{}{Thầy trụ trì là một người lãnh đạo giáo phái tốt, nhưng thầy trở nên hơi cáu kỉnh sau khi thầy Thomas bị con quái vật làm hại.}
+{405}{}{Loại quái vật nào vậy?}
+{406}{}{Tôi chưa tự mình nhìn thấy – có cho gì đi chăng nữa thì tôi cũng sẽ không đi xuống chỗ đó để lọ mọ dưới
+cái hang đâu – nhưng nếu tôi không nhầm thì chắc là mấy con bò cạp quá khổ thôi.}
+{407}{}{Nếu chưa nhìn thấy thì sao ông lại nghĩ đấy là bò cạp?}
+{408}{}{Bởi vì tôi có nghe thấy tiếng vọng trong hang – tiếng càng kẹp và tiếng chân bò sột soạt.}
+{409}{}{Chắc vậy.}
+{410}{}{Có chứ. Hãy xem trong cái máy tính đằng kia. Đây, dùng cái thẻ này để truy cập các tệp tin mã hóa của chúng tôi [Ông ta đưa cho bạn một cái thẻ truy cập].}
+{411}{}{Ồ, cám ơn nhiều!}
+{412}{}{Tôi không biết gì về Vault 13, nhưng có một Thành phố Vault ở phía Nam. Có thể họ có thông tin mà cậu cần.}
 {413}{}{Cám ơn.}
-{414}{}{That computer near me should have the information you seek, but you'd need an access card to use it.
- We're very selective with who we give access to, but if you speak to the Abbot, perhaps he'll grant you permission.}
-{415}{}{Ok, thanks.}
-{420}{}{I'm guessing you've read a lot of books in your time. So I'm curious, what's the most fascinating thing you could tell me?}
-{421}{}{Hmm, let's see. Did you know a notch in a tree will remain the same distance from the ground as the tree grows?}
-{422}{}{Sure. If I come across anything like that, I'll be sure to let you know.}
-{423}{}{Right... Well, I have some other questions.}
-{424}{}{Would you? I'd appreciate that.}
-{425}{}{No problem. I have some other questions.}
-{426}{}{Any time. Well, see you around.}
-{430}{}{I found some information about Botany that might interest you.}
-{431}{}{Really?! That's great. Please, do tell immediately.}
-{432}{}{Fascinating! I shall take this holodisk and add it to the computer database immediately. I appreciate you
- taking the time to find this for me. Thank you for collecting this for me.}
-{433}{}{Well you see... Understanding habitat destruction and species extinction is dependent on an accurate and complete catalog of plant systematics and taxonomy. And then this means that...}
-{434}{}{Any time. I have some other questions though.}
-{435}{}{No problem. See you around.}
-{436}{}{Fascinating! I appreciate you taking the time to find this for me. Please go and upload this information to our computers.}
-{437}{}{No problem, I'll do that now. See you around.}
-{500}{}{Stop that, moron!}
-{550}{}{That computer near me should have some information about it. You now have access, so take a look for yourself.}
-{600}{}{The Abbot gave me permission to access the computers here.}
-{601}{}{Ah yes, I heard about what you did. Thanks for taking care of that situation. Here is the access key. (He hands you the key.) Enjoy!}
-{602}{}{Thanks. See you around.}
-{650}{}{Greetings traveler! I am Brother Paul and I am in charge of the collection of information for the Abbey. What can I do for you?}
-{651}{}{Nice to meet you, Paul. I have some questions.}
-{652}{}{Không có g?. G?p l?i ông sau.}
-{4210}{}{Uh, no, I can't say I knew that. That's... interesting.}
-{4211}{}{And did you know a cucumber is 96% water?}
-{4212}{}{Wow, 96%, huh? Fascinating. But, um, what's a cucumber?}
-{4213}{}{I've never seen one, but I've read about them. [He looks around nervously and lowers his voice.] I know we're
- not supposed to actually study these books, but when I was transcribing a book on botany, I just couldn't help but get
- sucked into it. The world of plants is simply captivating. Perhaps, if, during your travels, you happen upon some botany
- information, you could bring it to me? I'd be most grateful. Of course, it'd have to be our secret.}
-{4220}{}{I don't think I want to contribute to your plant obsession. Sorry.}
-{4221}{}{Oh, well then. Fine, forget I asked.}
-{4222}{}{Đ? tôi h?i chuy?n khác.}
+{414}{}{Cái máy tính bên cạnh tôi chắc là có thông tin mà cậu đang tìm, nhưng cậu cần có thẻ truy cập để sử dụng.
+Chúng tôi lựa chọn người có thể truy cập rất kĩ, nhưng nếu cậu nói chuyện với Thầy trụ trì thì có thể thầy sẽ cấp quyền cho cậu.}
+{415}{}{Ồ, cám ơn.}
+{420}{}{Chắc là ông đọc nhiều sách trong lúc rảnh lắm. Tôi tự hỏi điều thú vị nhất mà ông có thể kể cho tôi là gì?}
+{421}{}{Hừm, để xem nào. Cậu có biết là một vết nứt trên thân cây sẽ luôn duy trì cùng cự ly so với mặt đất khi cái cây mọc cao thêm?}
+{422}{}{Chắc rồi. Nếu tôi gặp thứ gì như vậy thì chắc chắn tôi sẽ báo cho ông biết.}
+{423}{}{Vậy à... Ồ, tôi có mấy câu hỏi khác.}
+{424}{}{Thật chứ? Tôi sẽ rất biết ơn đấy.}
+{425}{}{Không vấn đề gì. Tôi có mấy câu hỏi khác.}
+{426}{}{Cứ vậy đi. Ồ, gặp lại sau.}
+{430}{}{Tôi tìm thấy một số thông tin về Thực vật mà ông có thể quan tâm.}
+{431}{}{Thật ư?! Tuyệt vời. Làm ơn hãy nói cho tôi ngay.}
+{432}{}{Tuyệt cú mèo! Tôi sẽ lấy cái holodisk này cho thêm vào cơ sở dữ liệu trong máy tính ngay đây. Tôi rất cảm kích
+việc cậu dành thời gian đi tìm. Cám ơn cậu đã thu thập thứ này cho tôi.}
+{433}{}{Ồ xem nào... Việc hiểu về sự phá hủy môi trường và tuyệt chủng giống loài phụ thuộc vào độ chính xác và hoàn thiện của việc phân loại và lập hệ thống thực vật. Điều này có nghĩa là...}
+{434}{}{Cứ vậy đi. Tôi vẫn còn mấy câu hỏi nữa.}
+{435}{}{Không vấn đề gì. Gặp lại sau.}
+{436}{}{Tuyệt cú mèo! Tôi rất cảm kích việc cậu dành thời gian đi tìm thứ này cho tôi. Vui lòng đi tải thông tin này vào máy tính của chúng tôi.}
+{437}{}{Không vấn đề gì. Tôi đi làm giờ đây. Gặp lại sau.}
+{500}{}{Dừng lại, đồ chết tiệt!}
+{550}{}{Cái máy tính cạnh tôi đây chắc là có thông tin đấy. Giờ cậu có quyền truy cập rồi nên tự tìm đi.}
+{600}{}{Thầy trụ trì đã cấp cho tôi quyền truy cập máy tính ở đây.}
+{601}{}{À đúng rồi, tôi có nghe về việc cậu đã làm. Cám ơn đã giải quyết chuyện đó. Đây là khóa truy cập (Ông ta đưa khóa cho bạn). Xem vui nhé!}
+{602}{}{Cám ơn. Gặp lại sau.}
+{650}{}{Chào mừng, người lữ khách! Tôi là Thầy Paul và tôi là người lo việc thu thập thông tin cho Tu viện. Tôi có thể giúp gì được đây?}
+{651}{}{Rất vui được gặp ông, Paul. Tôi có vài câu hỏi.}
+{652}{}{Không có gì. Gặp lại ông sau.}
+{4210}{}{Ừ, không, tôi không biết. Chuyện đó... hay đấy.}
+{4211}{}{Và cậu có biết rằng 96% dưa chuột là nước?}
+{4212}{}{Ồ, 96% à? Hấp dẫn đấy, Nhưng, ừm, dưa chuột là cái gì vậy?}
+{4213}{}{Tôi chưa nhìn thấy lần nào, nhưng tôi có đọc rồi [Ông ta lo lắng liếc quanh rồi hạ giọng]. Tôi biết là chúng tôi không
+được phép nghiên cứu sách ở đây, nhưng trong lúc chép lại một cuốn về thực vật, tôi hoàn toàn bị cuốn hút vào đó.
+Thế giới thực vật đơn giản là cực kì thú vị. Có thể, trong hành trình của mình, nếu cậu tình cờ có được thông tin về loài
+thực vật nào đó thì cậu mang đến cho tôi được không? Tôi sẽ rất cảm kích đấy. Dĩ nhiên đây là bí mật giữa chúng ta thôi.}
+{4220}{}{Tôi không nghĩ là mình muốn góp phần vào cái thói ham cây của ông. Xin lỗi.}
+{4221}{}{Ồ, được thôi. Rồi, quên điều tôi vừa nói đi.}
+{4222}{}{Để tôi hỏi chuyện khác.}

@@ -57,8 +57,8 @@
  you think?}
 {391}{}{Definitely. Let me ask you something else.}
 {400}{}{Hello again. Something else I can help you with?}
-{401}{}{Tôi có vài câu h?i.}
-{402}{}{Không có g?. Xin chào.}
+{401}{}{Tôi có vài câu hỏi.}
+{402}{}{Không có gì. Xin chào.}
 {500}{}{You open up the side panel to the hologram emitter and look inside. You see a mess of cables and circuit boards.}
 {501}{}{Well, let's get started.}
 {502}{}{After some time you isolate the problem and correct it. You close up the panel and wipe the sweat from your brow.}

@@ -1,17 +1,17 @@
-{100}{}{B?n th?y m?t bia m?.}
-{101}{}{Trên bia m? vi?t:}
-{102}{}{"Th?y Gregory an ngh? nơi đây. Ngư?i không bi?t lúc nào nên d?ng."}
-{103}{}{"D? Patty. Đi cho nh? gánh."}
-{104}{}{"Per Joner an ngh? nơi đây. Ch?t khi chưa đá đ?i."}
-{105}{}{"Đ?c cha Michael an ngh? nơi đây. Ngư?i sáng l?p, Đ?c cha, Chi?n binh."}
-{106}{}{"M?t k? vô th?n. Không nhà nhưng diêm dúa."}
-{107}{}{"Johnny 12 gi? an ngh? nơi đây. Xin l?i v? đ? không lên đư?c."}
-{108}{}{"Mary Jane. Ngư?i m? và v? kính yêu."}
-{109}{}{"'Chi?u tư?ng!' là l?i cu?i cùng mà Jon già nghe th?y. Trên bàn c? cu?c đ?i, Ông ch? là con t?t."}
-{110}{}{"Ngài John Strange, v? lu?t sư chính tr?c an ngh? nơi đây. Đúng là L? th?t."}
-{111}{}{"Nư?c m?t không th? đưa nàng tr? l?i -- v? v?y tôi khóc."}
-{112}{}{"M?i ngày muôn n?o, tôi d?n ti?n bư?c."}
-{250}{}{Không có d?u tích nào trên bia m? này.}
-{251}{}{T?m bia m? này đ? v? v?n và không đ?c đư?c v? quá nát.}
-{252}{}{Trên bia m? ghi tên John Doe.}
-{253}{}{Tên và ngày tháng trên t?m bia đá đ? b? th?i gian bào m?n.}
+{100}{}{Bạn thấy một bia mộ.}
+{101}{}{Trên bia mộ viết:}
+{102}{}{"Thầy Gregory an nghỉ nơi đây. Người không biết lúc nào nên dừng."}
+{103}{}{"Dì Patty. Đi cho nhẹ gánh."}
+{104}{}{"Per Joner an nghỉ nơi đây. Chết khi chưa đá đời."}
+{105}{}{"Đức cha Michael an nghỉ nơi đây. Người sáng lập, Đức cha, Chiến binh."}
+{106}{}{"Một kẻ vô thần. Không nhà nhưng diêm dúa."}
+{107}{}{"Johnny 12 giờ an nghỉ nơi đây. Xin lỗi vì đã không lên được."}
+{108}{}{"Mary Jane. Người mẹ và vợ kính yêu."}
+{109}{}{"'Chiếu tướng!' là lời cuối cùng mà Jon già nghe thấy. Trên bàn cờ cuộc đời, Ông chỉ là con tốt."}
+{110}{}{"Ngài John Strange, vị luật sư chính trực an nghỉ nơi đây. Đúng là LẠ thật."}
+{111}{}{"Nước mắt không thể đưa nàng trở lại -- vì vậy tôi khóc."}
+{112}{}{"Mỗi ngày muôn nẻo, tôi dần tiến bước."}
+{250}{}{Không có dấu tích nào trên bia mộ này.}
+{251}{}{Tấm bia mộ này đã vỡ vụn và không đọc được vì quá nát.}
+{252}{}{Trên bia mộ ghi tên John Doe.}
+{253}{}{Tên và ngày tháng trên tấm bia đá đã bị thời gian bào mòn.}

@@ -3,7 +3,7 @@
 {151}{}{You see Mrs. Wright. She seems to be depressed and is sighing to herself.}
 {175}{}{You see a plump, rosy-cheeked woman. She seems to be in good spirits and is humming to herself.}
 {176}{}{You see Mrs. Wright. She seems to be in good spirits and is humming to herself.}
-{200}{}{*Th? dài*}
+{200}{}{*Thở dài*}
 {201}{}{How could he do this to me?}
 {205}{}{Another fine Reno day!}
 {206}{}{::Whistle while you work...::}
@@ -102,7 +102,7 @@
 {347}{}{Maybe I'll go look for him right now.}
 {350}{}{Hmmph! Of all the crass rudeness! If you see me again, you had best simply pass by in silence.}
 {351}{}{That's the plan.}
-{352}{}{Đư?c r?i.}
+{352}{}{Được rồi.}
 {355}{}{Why, yes, yes, he is. (Squints at you again.) I'm sorry, do you know my husband?}
 {356}{}{Yes, I know him. The Wright family controls the distribution of alcohol in New Reno.}
 {357}{}{Not personally, but I know the Wrights control the distribution of alcohol in New Reno.}
@@ -162,7 +162,7 @@
 {427}{}{All right, all right! I'm leaving!}
 {428}{}{Jeez-Louise. Loosen those drawstrings a little before they cut off your circulation.}
 {430}{}{(Squints at you, then her gaze travels to your slaver brand. Her tone becomes glacial.) }
-{431}{}{Yes?}
+{431}{}{Vâng?}
 {432}{}{You again. We have NOTHING to talk about.}
 {433}{}{Me... uh... me... me wanted to... uh... me looking for... uh... dam! Me hate bein stoopid! Me hate!}
 {434}{}{I... uh... ooooh, shiny thing!}

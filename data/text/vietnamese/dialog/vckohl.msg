@@ -84,13 +84,13 @@
 {175}{}{Oh. I had some other questions...}
 {176}{}{Sorry to hear it. I have to go.}
 {177}{}{That's how I feel as well! I have nothing against electronic format mind you, but there is a certain... solidity... in having a book in your hands and turning the pages one by one. Hmmm. You know...}
-{178}{}{Yes?}
+{178}{}{Vâng?}
 {179}{}{Oh. I had some other questions...}
 {180}{}{Sorry to hear it. I have to go.}
 {181}{}{They haven't shipped all the books out to the Amenities Offices yet. I know Randal won't miss them if I gave them to someone who appreciated them... someone like yourself.}
 {182}{}{I'd love to have them. Thanks.}
 {183}{}{I'll go fetch them...}
-{184}{}{Đư?c r?i.}
+{184}{}{Được rồi.}
 {185}{}{Here you go. I hope you enjoy reading them. They are some of my favorites... a little on the technical side, but still quite good.}
 {186}{}{Thanks. Do you mind if I ask you some other questions?}
 {187}{}{Great. I'll go check these out.}

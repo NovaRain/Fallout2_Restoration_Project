@@ -1,4 +1,4 @@
-{100}{}{B?n th?y m?t lính gác.}
-{101}{}{Anh ta trông như v? s? đư?c thương gia thuê.}
-{102}{}{H?y nói v?i s?p n?u c?n g? đó.}
-{103}{}{Đ?ng có bày tr? đ?y, r? ch??}
+{100}{}{Bạn thấy một lính gác.}
+{101}{}{Anh ta trông như vệ sĩ được thương gia thuê.}
+{102}{}{Hãy nói với sếp nếu cần gì đó.}
+{103}{}{Đừng có bày trò đấy, rõ chứ?}

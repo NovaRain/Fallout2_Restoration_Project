@@ -162,7 +162,7 @@
 {600}{}{Well, not much, but I hear thingz OUSSIDE th' confessional about oul' Bishop. Crafty devil. Got iron ballz, he
  does... must clink when he walkz. I figger he'z behind thosse raidz on Vault City... you heard 'bout those?}
 {601}{}{Không.}
-{602}{}{Đúng v?y.}
+{602}{}{Đúng vậy.}
 {603}{}{Father, keep it down. That kind of talk could get you killed in this town...}
 {604}{}{Look, maybe I'll come back when you're sober.}
 {610}{}{(Ignores you.) See, a few months back, oul' Bishop sends a caravan to Vault City, SUGGESTING a marriage o' convenience 'tween
@@ -333,7 +333,7 @@
 {2012}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll look up this Samuel friend of yours. Hell, maybe
  I'll even bring you back some of that booze.}
 {2013}{}{Oh, couldja, please? That'd make me happier than a disease-free Reno whore. Thanks fren.}
-{2014}{}{No problem. I have some other questions though.}
+{2014}{}{Không vấn đề. Tôi vẫn còn mấy câu muốn hỏi nữa.}
 {2015}{}{Sure. See you around.}
 {2016}{}{I'll be doing a lot of traveling, so if I find my way over to the Abbey, maybe I'll bring you back some of that booze.}
 {2017}{}{Interesting. See you around.}

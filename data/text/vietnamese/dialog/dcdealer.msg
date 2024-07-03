@@ -4,7 +4,7 @@
 {103}{}{Sure, show me.}
 {104}{}{Maybe some other time.}
 {105}{}{Find what you need?}
-{106}{}{Cám ơn. T?m bi?t.}
+{106}{}{Cám ơn. Tạm biệt.}
 {200}{}{You see a thug.}
 {201}{}{You see a thug.}
 {202}{}{I'm here for protection. Talk to the dealer if you wanna buy.}

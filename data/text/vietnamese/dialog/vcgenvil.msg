@@ -1,5 +1,5 @@
-{100}{}{B?n th?y m?t nông dân.}
-{101}{}{B?n th?y m?t nông dân.}
+{100}{}{Bạn thấy một nông dân.}
+{101}{}{Bạn thấy một nông dân.}
 {102}{}{Chào.}
 {103}{}{Good day to you.}
 {104}{}{Welcome to our village.}

@@ -1,2 +1,2 @@
-{100}{}{B?n th?y m?t bia m?.}
-{101}{}{Per v? đ?i an ngh? nơi đây: Tác gi?, ngư?i vi?t hư?ng d?n, ham mê nh?t đá. Than ôi, ông ch?t khi chưa đá đ?i.}
+{100}{}{Bạn thấy một bia mộ.}
+{101}{}{Per vĩ đại an nghỉ nơi đây: Tác giả, người viết hướng dẫn, ham mê nhặt đá. Than ôi, ông chết khi chưa đá đời.}

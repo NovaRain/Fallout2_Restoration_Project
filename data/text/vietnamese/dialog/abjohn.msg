@@ -1,34 +1,34 @@
-{100}{}{B?n th?y Th?y John.}
-{101}{}{B?n th?y m?t trong s? các Th?y tu già c?a Tu vi?n.}
-{102}{}{B?n th?y m?t th?y tu già. Có v? như ông ta hơn 70 tu?i.}
-{300}{}{Xin chào, ngư?i tr?.}
+{100}{}{Bạn thấy Thầy John.}
+{101}{}{Bạn thấy một trong số các Thầy tu già của Tu viện.}
+{102}{}{Bạn thấy một thầy tu già. Có vẻ như ông ta hơn 70 tuổi.}
+{300}{}{Xin chào, người trẻ.}
 {301}{}{Ông là ai?}
-{302}{}{Ông có bi?t g? v? GECK ho?c Vault 13 không?}
+{302}{}{Ông có biết gì về GECK hoặc Vault 13 không?}
 {303}{}{Chào.}
-{400}{}{Tên ta là John, ta là m?t trong s? các th?y tu già nh?t ? đây.}
-{401}{}{V?y, ông làm g? ? đây?}
-{402}{}{Tôi hi?u r?i, t?m bi?t.}
-{403}{}{Ta t?ng đi cày ngoài đ?ng, nhưng vi?c đó khi?n ta b? đau tim.}
-{404}{}{Ông b? b?nh tim à?}
-{405}{}{T? th?t đ?y, chào nhé!}
-{406}{}{?, ta b? d? t?t tim. N?u ta v?n c?n thu?c tr? tim th? cu?c s?ng này s? d? th? hơn nhi?u. R?t khó đ? t?m
-đư?c thu?c đi?u tr? tim trong th? gi?i hi?n t?i.}
-{407}{}{Tôi có th? có cách gi?i quy?t b?nh tim c?a ông...}
-{408}{}{Đáng ti?c th?t đ?y. T?m bi?t.}
+{400}{}{Tên ta là John, ta là một trong số các thầy tu già nhất ở đây.}
+{401}{}{Vậy, ông làm gì ở đây?}
+{402}{}{Tôi hiểu rồi, tạm biệt.}
+{403}{}{Ta từng đi cày ngoài đồng, nhưng việc đó khiến ta bị đau tim.}
+{404}{}{Ông bị bệnh tim à?}
+{405}{}{Tệ thật đấy, chào nhé!}
+{406}{}{Ừ, ta bị dị tật tim. Nếu ta vẫn còn thuốc trợ tim thì cuộc sống này sẽ dễ thở hơn nhiều. Rất khó để tìm
+được thuốc điều trị tim trong thế giới hiện tại.}
+{407}{}{Tôi có thể có cách giải quyết bệnh tim của ông...}
+{408}{}{Đáng tiếc thật đấy. Tạm biệt.}
 {410}{}{Chào.}
-{411}{}{Th?t à? C?u đang nói là c?u th?t s? CÓ thu?c tr? tim?}
-{412}{}{Đúng v?y. Tôi s? r?t vui đư?c đưa chúng cho ông.}
-{413}{}{Đúng v?y, tôi có thu?c tr? tim. Ông có th? mua v?i giá 400$.}
-{414}{}{Đùa thôi. Tôi làm g? có thu?c tr? tim.}
-{415}{}{[Ông ta nh?n thu?c t? tay b?n] Cám ơn con! Đây, vui l?ng nh?n th? này thay l?i c?m ơn.}
-{416}{}{R?t vui v? đ? giúp đư?c ông, và cám ơn v? món đ?. T?m bi?t!}
-{417}{}{(Ông ta n?i cơn t?c gi?n, nhưng sau đó b?nh t?nh l?i) Ok, đư?c r?i, ti?n c?a c?u đây. Gi? th? đưa thu?c cho ta!}
-{418}{}{Tôi quy?t đ?nh gi? l?i thu?c cho m?nh r?i. Cám ơn v? ch? ti?n nhé!}
-{419}{}{R?t vui đư?c giao d?ch v?i ông. T?m bi?t.}
-{420}{}{H?m, xin l?i, ta không bi?t. H?y nói chuy?n v?i Th?y tr? tr?, ông ta có th? s? bi?t g? đó.}
-{421}{}{Cám ơn, tôi s? làm v?y. Gi? th? tôi mu?n h?i chuy?n khác.}
-{422}{}{N?u ta mà không b?nh th? ta đ? đánh cho c?u ph?t c?t ra r?i. GI? TH? CÚT ĐI!}
-{423}{}{Đư?c, tôi đi.}
-{500}{}{Cám ơn con l?n n?a v? nh?ng viên thu?c tim này. Chúc con may m?n trên cu?c hành tr?nh.}
-{600}{}{Đi ch? khác đi, làm ơn.}
-{700}{}{B?n cho John th?y th? gi?i này t?i t? đ?n th? nào.}
+{411}{}{Thật à? Cậu đang nói là cậu thật sự CÓ thuốc trợ tim?}
+{412}{}{Đúng vậy. Tôi sẽ rất vui được đưa chúng cho ông.}
+{413}{}{Đúng vậy, tôi có thuốc trợ tim. Ông có thể mua với giá 400$.}
+{414}{}{Đùa thôi. Tôi làm gì có thuốc trợ tim.}
+{415}{}{[Ông ta nhận thuốc từ tay bạn] Cám ơn con! Đây, vui lòng nhận thứ này thay lời cảm ơn.}
+{416}{}{Rất vui vì đã giúp được ông, và cám ơn về món đồ. Tạm biệt!}
+{417}{}{(Ông ta nổi cơn tức giận, nhưng sau đó bình tĩnh lại) Ok, được rồi, tiền của cậu đây. Giờ thì đưa thuốc cho ta!}
+{418}{}{Tôi quyết định giữ lại thuốc cho mình rồi. Cám ơn vì chỗ tiền nhé!}
+{419}{}{Rất vui được giao dịch với ông. Tạm biệt.}
+{420}{}{Hừm, xin lỗi, ta không biết. Hãy nói chuyện với Thầy trụ trì, ông ta có thể sẽ biết gì đó.}
+{421}{}{Cám ơn, tôi sẽ làm vậy. Giờ thì tôi muốn hỏi chuyện khác.}
+{422}{}{Nếu ta mà không bệnh thì ta đã đánh cho cậu phọt cứt ra rồi. GIỜ THÌ CÚT ĐI!}
+{423}{}{Được, tôi đi.}
+{500}{}{Cám ơn con lần nữa vì những viên thuốc tim này. Chúc con may mắn trên cuộc hành trình.}
+{600}{}{Đi chỗ khác đi, làm ơn.}
+{700}{}{Bạn cho John thấy thế giới này tồi tệ đến thế nào.}

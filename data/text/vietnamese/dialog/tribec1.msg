@@ -165,7 +165,7 @@
 {462}{}{I was wondering if I could ask you a couple questions.}
 {463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
 {464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
-{470}{}{D? nhiên r?i.}
+{470}{}{Dĩ nhiên rồi.}
 {471}{}{You look like you've been through a lot. I was wondering what your story is.}
 {472}{}{What could you tell me about this village?}
 {473}{}{Is there anything going on here I could help you with?}
@@ -197,7 +197,7 @@
 {522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
 {530}{}{Good to see you, friend. If you've got a moment, I could use your assistance again.}
 {531}{}{Good to see you again, girl. If you've got a moment, I could use your assistance.}
-{532}{}{Đư?c ch?. L?o c?n g? nào?}
+{532}{}{Được chứ. Lão cần gì nào?}
 {533}{}{Sorry, I'm busy now. Perhaps later.}
 {540}{}{Two of our hunters, Serin and Jerem, have not yet returned from the hunting ground and some people are starting to worry. They're two of our best warriors, and I'd hate to think something has happened to them. I'd go search for them myself, but if the villagers saw me take such a personal interest in the matter, I fear they'd assume the worst. I'd rather not get people riled up until I know what's going on. So, will you seek them out for me?}
 {541}{}{Alright, but where should I look?}
@@ -246,7 +246,7 @@
 {863}{}{No, I was just leaving.}
 {870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
 {871}{}{I don't like being toyed with girl, but by the gods, how could I stay mad at a goddess like you? Now, what can I do for you?}
-{872}{}{Không có g?. Xin chào.}
+{872}{}{Không có gì. Xin chào.}
 {1000}{}{[The giant warrior nods respectfully to you.] Well, if it isn't the great hero of the wastes. That was a pretty
  impressive feat, sending them Enclave dogs to hell like that. In fact, hearing tales of your exploits has inspired me to
  head back out into the wastes myself.}

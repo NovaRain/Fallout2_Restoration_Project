@@ -1,46 +1,46 @@
-{100}{}{B?n nh?n th?y m?t Lính gác m?nh m?.}
-{101}{}{B?n nh?n th?y m?t lính gác tuy đ? đ?ng tu?i nhưng v?n n?i cơ cu?n cu?n v?i làn da cháy n?ng. H?n là ông ta h?i
-tr? chi?n l?m. Cái nh?n xuyên th?u c?a ông ta c? bám ch?t l?y b?n.}
-{200}{}{Xin chào, ngư?i l? khách. Chào m?ng đ?n v?i Tu vi?n. Ch? c?n đ?ng xía m?i vào m?i th? là c?u s? ?n thôi.}
-{201}{}{Ta đang quan sát ngươi đ?y, đ? buôn nô l?. Ch? c?n làm g? đó thôi là ngươi s? bi?n thành bùn t?i ngh?a
-trang c?a b?n ta đ?y. Ta không mu?n ph?i làm chuy?n đó, và h?n là ngươi c?ng v?y. V? th? đ?ng có
-n?y ? g? hay ho trong cái đ?u m?c c?a ngươi.}
+{100}{}{Bạn nhìn thấy một Lính gác mạnh mẽ.}
+{101}{}{Bạn nhìn thấy một lính gác tuy đã đứng tuổi nhưng vẫn nổi cơ cuồn cuộn với làn da cháy nắng. Hẳn là ông ta hồi
+trẻ chiến lắm. Cái nhìn xuyên thấu của ông ta cứ bám chặt lấy bạn.}
+{200}{}{Xin chào, người lữ khách. Chào mừng đến với Tu viện. Chỉ cần đừng xía mũi vào mọi thứ là cậu sẽ ổn thôi.}
+{201}{}{Ta đang quan sát ngươi đấy, đồ buôn nô lệ. Chỉ cần làm gì đó thôi là ngươi sẽ biến thành bùn tại nghĩa
+trang của bọn ta đấy. Ta không muốn phải làm chuyện đó, và hẳn là ngươi cũng vậy. Vì thế đừng có
+nảy ý gì hay ho trong cái đầu mốc của ngươi.}
 {202}{}{Ông là ai?}
-{203}{}{Tôi có th? trao đ?i hàng hóa ? đâu?}
-{204}{}{Có ngư?i đang đào m? k?a, sao ông không làm g? đó đi ch??}
-{205}{}{Tôi nghe nói có v?n đ? v?i l? đ?ng v?t ? dư?i h?m. Bi?t g? v? chuy?n đó không?}
-{206}{}{Tôi ngh? đ? đ?n lúc cho ông xu?ng m? r?i. Cùng nh?y nào, l?o già.}
-{207}{}{Không có g?. Xin chào.}
-{300}{}{Ch?ng ai c?... Trư?c đây ta có t?ng đi b?o v? đoàn l? hành. R?t nhi?u ngư?i tư?ng ta là c?m trư?ng g? đó v?
-trông ta r?t gi?ng v?i đám b?o v? pháp lu?t ? ch? này, nhưng đ?ch ph?i. Ta ch? trông coi khu c?ng đ?ng này 
-v? ta th?y ch? này đáng đ? b?o v?.}
-{301}{}{Và đ?i l?i th? c? c?ng đ?ng này giúp đ? ta. Đám th?y tu cho ta bú rư?u không m?t ti?n, Peterson th? lo đ? ăn c?n
-Bill th? đ?m b?o ta luôn có đ?y đ? đ?n dư?c. Không quá t?i cho chân b?o v? sau khi ngh? hưu ch? h??}
-{302}{}{Ta là ngư?i đ?m b?o ngươi tuân th? lu?t l?, đó là t?t c? nh?ng g? ngươi c?n bi?t. Gi? th? ti?p t?c làm g? th?
-làm đi và h?y đ? ta yên.}
-{303}{}{Công vi?c hay đ?y. Đ? tôi h?i v? chuy?n khác.}
-{304}{}{Sao c?ng đư?c, chào.}
-{305}{}{Ông ngh? ông xơi đư?c tôi á? C? th? đi, l?o già. S? vui l?m đây.}
-{400}{}{C?u có th? t?m Bill chuyên bán hàng ? đây trong t?a nhà đ?i di?n. N?u không th? c?u nên đ?n ch? Kho
-đ? sinh t?n c?a Percy t?i B?i ph? li?u ? Gecko ho?c quán c?a Harry Vui v? ? khu Sân c?a Thành ph? Vault.}
-{401}{}{Nghe hay đ?y. Tôi mu?n h?i chuy?n khác.}
+{203}{}{Tôi có thể trao đổi hàng hóa ở đâu?}
+{204}{}{Có người đang đào mộ kìa, sao ông không làm gì đó đi chứ?}
+{205}{}{Tôi nghe nói có vấn đề với lũ động vật ở dưới hầm. Biết gì về chuyện đó không?}
+{206}{}{Tôi nghĩ đã đến lúc cho ông xuống mồ rồi. Cùng nhảy nào, lão già.}
+{207}{}{Không có gì. Xin chào.}
+{300}{}{Chẳng ai cả... Trước đây ta có từng đi bảo vệ đoàn lữ hành. Rất nhiều người tưởng ta là cớm trưởng gì đó vì
+trông ta rất giống với đám bảo vệ pháp luật ở chỗ này, nhưng đếch phải. Ta chỉ trông coi khu cộng đồng này 
+vì ta thấy chỗ này đáng để bảo vệ.}
+{301}{}{Và đổi lại thì cả cộng đồng này giúp đỡ ta. Đám thầy tu cho ta bú rượu không mất tiền, Peterson thì lo đồ ăn còn
+Bill thì đảm bảo ta luôn có đầy đủ đạn dược. Không quá tồi cho chân bảo vệ sau khi nghỉ hưu chứ hả?}
+{302}{}{Ta là người đảm bảo ngươi tuân thủ luật lệ, đó là tất cả những gì ngươi cần biết. Giờ thì tiếp tục làm gì thì
+làm đi và hãy để ta yên.}
+{303}{}{Công việc hay đấy. Để tôi hỏi về chuyện khác.}
+{304}{}{Sao cũng được, chào.}
+{305}{}{Ông nghĩ ông xơi được tôi á? Cứ thử đi, lão già. Sẽ vui lắm đây.}
+{400}{}{Cậu có thể tìm Bill chuyên bán hàng ở đây trong tòa nhà đối diện. Nếu không thì cậu nên đến chỗ Kho
+đồ sinh tồn của Percy tại Bãi phế liệu ở Gecko hoặc quán của Harry Vui vẻ ở khu Sân của Thành phố Vault.}
+{401}{}{Nghe hay đấy. Tôi muốn hỏi chuyện khác.}
 {402}{}{Cám ơn, chào.}
-{500}{}{N?u có ai đói ho?c tham đ?n m?c đi l?t c? m? th? đ?y là vi?c c?a h?. Ngư?i ch?t r?i c?ng đâu có dùng đư?c
-nh?ng đ? chôn theo. Không ph?i vi?c c?a ta... ta không th?y có v?n đ? g? v?i chuy?n đ?y.}
-{501}{}{Đ? tôi h?i chuy?n khác.}
+{500}{}{Nếu có ai đói hoặc tham đến mức đi lật cả mộ thì đấy là việc của họ. Người chết rồi cũng đâu có dùng được
+những đồ chôn theo. Không phải việc của ta... ta không thấy có vấn đề gì với chuyện đấy.}
+{501}{}{Để tôi hỏi chuyện khác.}
 {502}{}{Chào.}
-{600}{}{Đúng v?y, và Th?y Thomas đang m?t tích. Ông ta thông minh th?t đ?y nhưng có ph?n hơi ngơ. Ta không bi?t
-dư?i đó có g?, nhưng ch?c không ch? là l? chu?t v?i b? c?p đâu.}
-{601}{}{Đúng v?y, và Th?y Thomas đang m?t tích. Ta không bi?t dư?i đó có g?, nhưng ch?c không ch? là l? chu?t v?i
-b? c?p đâu. Sao c?u không xu?ng th? xem, c?u giai c?ng c?a?}
-{602}{}{V?y th? sao ông không xu?ng xem đi?}
-{603}{}{Ông m?i là g? c?ng c?a ? đây mà. Sao ông không lê đít xu?ng đ?y mà xem?}
-{610}{}{Nói ra th? hơi x?u h?, nhưng do trư?c đây đi phư?t v?i m?y đoàn l? hành nhi?u quá mà bây gi? ta th?y h?t
-khi chui xu?ng đ?t. M?y b?c tư?ng c? ép sát l?i khi?n ta đ?ch th? n?i... Ch?c là c?u có th? giúp ta t?m hi?u xem
-chuy?n g? đ? x?y ra v?i Th?y Thomas đư?c ch??}
-{611}{}{Đ? tôi xem tôi có th? làm g?. Gi? th? h?y đ? tôi h?i chuy?n khác.}
+{600}{}{Đúng vậy, và Thầy Thomas đang mất tích. Ông ta thông minh thật đấy nhưng có phần hơi ngơ. Ta không biết
+dưới đó có gì, nhưng chắc không chỉ là lũ chuột với bò cạp đâu.}
+{601}{}{Đúng vậy, và Thầy Thomas đang mất tích. Ta không biết dưới đó có gì, nhưng chắc không chỉ là lũ chuột với
+bò cạp đâu. Sao cậu không xuống thử xem, cậu giai cứng cựa?}
+{602}{}{Vậy thì sao ông không xuống xem đi?}
+{603}{}{Ông mới là gã cứng cựa ở đây mà. Sao ông không lê đít xuống đấy mà xem?}
+{610}{}{Nói ra thì hơi xấu hổ, nhưng do trước đây đi phượt với mấy đoàn lữ hành nhiều quá mà bây giờ ta thấy hốt
+khi chui xuống đất. Mấy bức tường cứ ép sát lại khiến ta đếch thở nổi... Chắc là cậu có thể giúp ta tìm hiểu xem
+chuyện gì đã xảy ra với Thầy Thomas được chứ?}
+{611}{}{Để tôi xem tôi có thể làm gì, mà tôi muốn hỏi chuyện khác.}
 {612}{}{Chào.}
-{613}{}{Tôi là ngư?i c?ng c?a, và v? v?y nên tôi s? d?n cho ông m?t tr?n.}
-{700}{}{C?u mu?n bi?t g? n?a nào?}
-{800}{}{R?t vui đư?c g?p l?i c?u.}
-{801}{}{Ta đang đ? m?t đ?n c?u đ?y.}
+{613}{}{Tôi là người cứng cựa, và vì vậy nên tôi sẽ dần cho ông một trận.}
+{700}{}{Cậu muốn biết gì nữa nào?}
+{800}{}{Rất vui được gặp lại cậu.}
+{801}{}{Ta đang để mắt đến cậu đấy.}

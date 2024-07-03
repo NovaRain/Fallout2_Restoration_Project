@@ -1,1 +1,1 @@
-{100}{}{B?n b?t g?p m?t tu vi?n cùng m?t c?ng đ?ng nh? s?ng quanh đó.}
+{100}{}{Bạn bắt gặp một tu viện cùng một cộng đồng nhỏ sống quanh đó.}

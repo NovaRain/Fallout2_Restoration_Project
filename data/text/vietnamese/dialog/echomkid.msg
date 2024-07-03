@@ -4,9 +4,9 @@
 {103}{}{Go away!}
 {104}{}{Pblbbt!}
 {105}{}{Whaaa!}
-{106}{}{M? ơi!}
+{106}{}{Mẹ ơi!}
 {107}{}{Daddy!}
 {200}{}{You see a young child.}
 {201}{}{It's a little boy.}
 {202}{}{It's a little girl.}
-{210}{}{Hi.}
+{210}{}{Chào.}
