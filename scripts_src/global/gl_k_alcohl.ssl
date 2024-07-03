@@ -49,7 +49,7 @@ variable msg;
  * @arg {ObjPtr} item - item being used
  */
 procedure drink(variable who, variable item) begin
-    variable roll, chance, last_drink_date, time_since_last_drink;
+    variable roll, chance, time_since_last_drink;
 
     // target is not PC
     if (who != dude_obj) then return;
@@ -57,14 +57,13 @@ procedure drink(variable who, variable item) begin
     if not is_alcohol(item) then return;
 
     // PC is drinking
-    last_drink_date = get_sfall_global_int(SGVAR_last_drink_date);
+    time_since_last_drink = game_time - get_sfall_global_int(SGVAR_last_drink_date);
     set_sfall_global(SGVAR_last_drink_date, game_time);
 
     // already addicted
     if (global_var(GVAR_ALCOHOL_ADDICT) == 1) then return;
 
     // regular drinking increases chances
-    time_since_last_drink = game_time - last_drink_date;
     if (time_since_last_drink >= TIME_ALCOHOL_USAGE_SPORADIC) then begin
         chance = 1;
     end else if (time_since_last_drink >= TIME_ALCOHOL_USAGE_MEDIUM) then begin
