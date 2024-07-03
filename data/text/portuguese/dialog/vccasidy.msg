@@ -232,3 +232,4 @@
 {30000}{}{Ah, isso realmente é bom. Eu sinto que posso manejar com as coisas muito melhor agora.}
 {30001}{}{Uau, isso parece diferente. Essas pílulas para o coração devem estar funcionando.}
 {30100}{}{Sim, por que não... Vai me ajudar a sentir que estou morto.}
+{30300}{}{[Next]}

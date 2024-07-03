@@ -231,3 +231,4 @@
 {30000}{}{Ách, cítím se teď o moc líp. Mám pocit, že je teď všechno snazší.}
 {30001}{}{Hmm, cítím se teď jinak. Ty pilulky na srdce nejspíš fungujou.}
 {30100}{}{Jo, proč ne... budu se po tom cítit jako mrtvola.}
+{30300}{}{[Next]}
