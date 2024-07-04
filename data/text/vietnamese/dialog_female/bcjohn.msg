@@ -10,7 +10,7 @@
 làm phiền. Vui lòng để chúng tôi yên.}
 {109}{}{Okay.}
 {110}{}{Chào... và tạm biệt.}
-{111}{}{Cám ơn vì tất cả những gì cậu đã làm. Tôi xin lỗi vì đã phớt lờ trước đó.}
+{111}{}{Cám ơn vì tất cả những gì cô đã làm. Tôi xin lỗi vì đã phớt lờ trước đó.}
 {112}{}{Biến đi, đồ chó!}
 {113}{}{Mẹ nó, ghét mấy chuyện này thế không biết.}
 {114}{}{Đỡ này! Đấy, thấy chưa.}

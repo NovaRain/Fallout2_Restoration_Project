@@ -12,7 +12,7 @@
 {111}{}{Tôi bị gãy tay chân. Ông giúp tôi được không?}
 {112}{}{Tôi muốn hỏi một vài câu.}
 {113}{}{Chỉ chào thôi.}
-{114}{}{Ồ, dĩ nhiên rồi. Đây, tôi sẽ tiêm cho cậu mũi này -- sẽ hơi xót một xíu -- giờ thì dán cái
+{114}{}{Ồ, dĩ nhiên rồi. Đây, tôi sẽ tiêm cho cô mũi này -- sẽ hơi xót một xíu -- giờ thì dán cái
 băng này, rồi xong, cậu ổn rồi.}
 {115}{}{Ngộ cám ơn. Tạm biệt.}
 {116}{}{Cám ơn, Bác sĩ. Tôi thấy khá hơn nhiều rồi.}
