@@ -59,7 +59,7 @@
 {245}{}{Well, since you're giving me a choice... (smirk)}
 {246}{}{[She glares at you wordlessly.]}
 {247}{}{Oh, I mean, of course I'll help you up. [You help her to her feet.]}
-{250}{}{What are you going to do now?}
+{250}{}{Từ giờ ông sẽ làm gì?}
 {251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long.
  The world out there isn't the world I knew. I don't know if I could stand to see what it's turned into.}
 {252}{}{I know it's a wasteland out there, but you've still got a whole life to live. You're wasting it down here.
