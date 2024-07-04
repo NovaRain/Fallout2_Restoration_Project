@@ -96,13 +96,13 @@ tôi nghĩ rằng mình sẽ lên đó giúp họ. Cám ơn đã giải thoát t
 khi thoát được khỏi nơi đó. Làm việc cho Darion đúng là cơn ác mộng.}
 {221}{}{Rất vui vì tôi đã giúp được. Giờ thì nói về bản thân ông một chút đi.}
 {222}{}{Được rồi, gặp lại sau.}
-{230}{}{Ồ cậu thấy đấy, tôi xuất thân từ Cộng hòa New California, nhưng tôi nhận thấy rằng mình có thiên bẩm về ngành y.
+{230}{}{Ồ, tôi xuất thân từ Cộng hòa New California, nhưng tôi nhận thấy rằng mình có thiên bẩm về ngành y.
 Vì vậy tôi đã trau dồi hết mức có thể với đội ngũ y tế của NCR, và sau khi học hết tất cả tôi quyết định thử đi học hỏi
 thêm bằng cách đi đến Thành phố Vault. Tôi rất may mắn gặp được Bác sĩ Troy trong lúc ông ta đang chữa trị cho một
 cư dân bị thương bên ngoài vault, và nói ngắn gọn thì ông ta đồng ý cho tôi thực tập ở Thành phố Vault. Tôi vừa mới
 hoàn thiện quá trình thực tập và đi ra ngoài nhưng lại bị Darion túm cổ.}
-{231}{}{That's terrible. Well, I hope everything works out for you now.}
-{240}{}{I hope so too. I think I can put my medical skills to good use here.}
+{231}{}{Nghe tệ thật đấy. Ồ, tôi hi vọng giờ mọi việc với ông đã khá hơn rồi.}
+{240}{}{Tôi cũng mong như vậy. Tôi nghĩ là tôi có thể áp dụng các kĩ năng y khoa của mình ở đây.}
 {241}{}{Chào.}
-{250}{}{Thanks again for everything.}
-{251}{}{It feels good to be helping civilized people again.}
+{250}{}{Một lần nữa cám ơn vì mọi thứ.}
+{251}{}{Thật tốt khi lại được giúp đỡ những người văn minh.}
