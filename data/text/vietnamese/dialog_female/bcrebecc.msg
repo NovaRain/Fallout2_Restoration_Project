@@ -19,7 +19,7 @@ chuyện ở đây. Liệu chúng ta có thể đi đến chỗ nào vắng vẻ
 {116}{}{Được rồi, đi thôi.}
 {117}{}{Sao lại cần riêng tư thế?}
 {118}{}{Khỏi đi, tôi không muốn liên can.}
-{119}{}{(thì thầm) Cậu có thể nghĩ tôi bị điên nhưng tôi cảm thấy mình bị theo dõi suốt. Việc này khiến
+{119}{}{(thì thầm) Cô có thể nghĩ tôi bị điên nhưng tôi cảm thấy mình bị theo dõi suốt. Việc này khiến
 tôi hơi lo lắng và thấy khó chịu.}
 {120}{}{Okay, chúng ta đi riêng.}
 {121}{}{Không có thời gian để bị điên đâu.}
@@ -73,7 +73,7 @@ có thể vẫn còn ở dưới đó.}
 {159}{}{Tôi biết là dưới đó phải có thứ gì đó khác ngoài lũ ăn hại đái khai kia.}
 {160}{}{Hiểu rồi.}
 {161}{}{Hóa ra là vậy. Cám ơn bà nhiều. Tôi vẫn còn muốn hỏi thêm mấy câu nữa.}
-{162}{}{Đó là Zeke. Ông ta lo mọi thứ ở đây. Cậu có thể tìm thấy ông ta trong tòa nhà đằng kia.
+{162}{}{Đó là Zeke. Ông ta lo mọi thứ ở đây. Cô có thể tìm thấy ông ta trong tòa nhà đằng kia.
 ::chỉ về phía Đông Bắc::}
 {163}{}{Cám ơn. Hỏi thêm.}
 {164}{}{Cám ơn. Tôi muốn hỏi thêm mấy câu nữa.}
@@ -81,7 +81,7 @@ có thể vẫn còn ở dưới đó.}
 căn hầm lắm.}
 {166}{}{Okay, ngộ làm.}
 {167}{}{Được rồi.}
-{168}{}{Ồ... chúng tôi đáng lẽ không được nói về chuyện này, nhưng vì tôi đang nhờ cậu... Darion đang
+{168}{}{Ồ... chúng tôi đáng lẽ không được nói về chuyện này, nhưng vì tôi đang nhờ cô... Darion đang
 sửa chữa căn hầm. Ông ta là người giúp chúng tôi. Sau khi nó hoạt động hoàn toàn trở lại, chúng tôi 
 có thể chuyển vào để tránh khỏi lũ cướp, đám buôn nô lệ và tương tự thế. Mới nhất thì ông ta đã
 khôi phục được hệ thống cấp nước và đồ ăn, nhưng chỉ có vậy.}
@@ -93,7 +93,7 @@ cần nói gì thì ông ta sẽ nói qua Zeke. Tôi chỉ mới gặp ông ta m
 {173}{}{Mấy gã quân tử đến cuối mới ra tay. Không biết lão ta muốn làm gì?}
 {174}{}{Hiểu rồi.}
 {175}{}{Được rồi. Bà đã giúp nhiều lắm.}
-{176}{}{Tôi chẳng biết đưa gì cho cậu ngoài sự cảm kích vô bờ bến.}
+{176}{}{Tôi chẳng biết đưa gì cho cô ngoài sự cảm kích vô bờ bến.}
 {177}{}{That's more than enough. I'll help you.}
 {178}{}{It'll take more than that to buy my help.}
 {179}{}{What the hell, I'll help you.}

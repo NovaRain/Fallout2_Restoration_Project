@@ -109,7 +109,7 @@
  feeling about you girl, and I've learned to trust my instincts.}
 {362}{}{Alright. Let's do this.}
 {363}{}{Alright, but give me a moment to get ready.}
-{364}{}{If I help you, what's in it for me?}
+{364}{}{Nếu giúp thì tôi sẽ được gì?}
 {370}{}{[He chuckles.] I offer the hospitality of our tribe and the opportunity to impress me. I promise no more than that.}
 {371}{}{Alright. Let's do this.}
 {372}{}{Alright, but give me a moment to get ready.}
