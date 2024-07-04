@@ -1,3 +1,0 @@
-1:Việc tối ưu hóa nhà máy điện Gecko đã trở thành bước đầu tiên trong hành trình thiết lập mối quan hệ hữu hảo giữa Gecko và Thành phố Vault.
-2:Lượng điện sản xuất thặng dư của Gecko đã trở thành công cụ hỗ trợ cho quá trình mở rộng của Thành phố Vault.
-3:Chính sách bài ngoại cực đoan của nhiều nhà lãnh đạo của Thành phố Vault dần chìm vào quên lãng khi ghoul và người cùng kề vai nỗ lực tạo ra một trung tâm học thuật và khoan dung, nơi mà trước đó chỉ có sự thù địch và ngờ vực.
