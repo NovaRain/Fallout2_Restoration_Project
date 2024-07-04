@@ -14,7 +14,7 @@
 {111}{}{Ah. Ok. Me ask questions?}
 {112}{}{Okay. Bye.}
 {113}{}{Certainly you may.}
-{114}{}{What would you like to know?}
+{114}{}{Muốn hỏi gì thế?}
 {115}{}{Who shrine for?}
 {116}{}{How long you here?}
 {117}{}{D'claws bad?}
@@ -37,7 +37,7 @@
  years.}
 {132}{}{You here before D'claws?}
 {133}{}{Ah. Need know more.}
-{134}{}{Got go now.}
+{134}{}{Phải đi giờ.}
 {135}{}{You are a very dedicated man. May I ask you some more questions?}
 {136}{}{That's a long time. Can you answer some more questions?}
 {137}{}{It's your life to waste as you see fit, bud.}

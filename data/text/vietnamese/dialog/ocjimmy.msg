@@ -16,7 +16,7 @@
 {115}{}{Hey, sorry. I didn't mean to step on your toes. I'll leave you to your business.}
 {116}{}{Good.}
 {117}{}{It's a pleasure to meet you,}
-{118}{}{What would you like to know?}
+{118}{}{Muốn hỏi gì thế?}
 {119}{}{Cô làm gì ở đây?}
 {120}{}{What all this machine?}
 {121}{}{Vault have overseer. This overseer room?}
@@ -47,7 +47,7 @@
 {146}{}{Okay, but me ask more questions first.}
 {147}{}{All right, but I need to ask you a couple of things first.}
 {148}{}{This is a mainframe computer system and related support devices. From here all functions of the vault are remotely controlled.}
-{149}{}{Uh... what you said.}
+{149}{}{Ừ... như ông nói.}
 {150}{}{À, tôi hiểu rồi.}
 {151}{}{Normally the vault overseer would be stationed here but Vault 13 has been fully automated.}
 {152}{}{Tại sao?}

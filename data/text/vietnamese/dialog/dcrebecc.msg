@@ -1,5 +1,5 @@
 {100}{}{You see a very attractive young lady.}
-{101}{}{You see Rebecca.}
+{101}{}{Bạn thấy Rebecca.}
 {150}{}{You see Rebecca, the owner of Becky's Casino Bar.}
 {200}{}{Hi there, I'm Rebecca. Can I get you something to drink? I'm sure you're thirsty
  after your trip through the wastes.}
@@ -30,7 +30,7 @@
 {225}{}{I'm really not in the mood. What now?}
 {226}{}{You're back already? I guess you want a drink then?}
 {240}{}{Sure, handsome.}
-{241}{}{What would you like to know?}
+{241}{}{Muốn hỏi gì thế?}
 {242}{}{I'd be happy to.}
 {243}{}{But of course.}
 {244}{}{Được thôi.}

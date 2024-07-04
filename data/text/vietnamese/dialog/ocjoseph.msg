@@ -19,35 +19,35 @@
 {117}{}{Why, certainly. Hmmm. This will take a while, so you'll have to stay here overnight. You'll
  need to take this, drink this -- all of it, I know it tastes foul. Now, just lie back and I'll wake
  you in the morning.}
-{118}{}{Me feel good. Bye.}
+{118}{}{Ngộ thấy ổn. Tạm biệt.}
 {119}{}{Thanks. That did the trick.}
 {120}{}{I'm sorry, but I'm not a medical doctor and I can't perform surgery. I would suggest that you
  go to one of the bigger cities and see a surgeon. Try the New California Republic. It's east of here.}
 {121}{}{Okay. Bye.}
-{122}{}{All right. Thanks anyway.}
-{123}{}{What would you like to know?}
+{122}{}{Được rồi. Dù sao cũng cám ơn.}
+{123}{}{Muốn hỏi gì thế?}
 {124}{}{You prisoner?}
-{125}{}{You leave here when want?}
+{125}{}{Ông đi đây nếu muốn?}
 {126}{}{What you know about D'claws?}
-{127}{}{How you be here?}
+{127}{}{Sao ông ở đây?}
 {128}{}{Ngộ đi giờ.}
 {129}{}{Are you a prisoner here?}
-{130}{}{Can you leave here if you want?}
+{130}{}{Ông có thể rời khỏi chỗ này nếu muốn không?}
 {131}{}{What can you tell me about the deathclaws?}
-{132}{}{How did you come to be here in the first place?}
-{133}{}{Thanks for the information. I'll be heading out now.}
+{132}{}{Sao ông lại đến chỗ này vậy?}
+{133}{}{Cám ơn về thông tin. Tôi đi ra ngoài giờ đây.}
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are deathclaws.}
-{135}{}{Okay. Need know more.}
+{135}{}{Okay. Cần biết thêm.}
 {136}{}{Cám ơn. Tạm biệt.}
-{137}{}{That's very commendable of you.}
+{137}{}{Ồ, ông đáng khen đấy chứ.}
 {138}{}{Hiểu rồi.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
 {140}{}{Yes I can, and often do. I have to collect my herbs from time to time, and I've never been
  stopped. I used to wonder if the deathclaws were secretly following me and whether or not they would
  stop me if I tried to leave. So one day I put the theory to test.}
-{141}{}{Me got it. Go now.}
-{142}{}{Need ask more.}
+{141}{}{Ngộ hiểu. Đi giờ.}
+{142}{}{Cần hỏi thêm.}
 {143}{}{You took a foolish chance and you're lucky it paid off.}
 {144}{}{Được rồi.}
 {145}{}{Good idea. I'm glad to see it worked.}
@@ -56,20 +56,20 @@
  factor is quite high. This species is highly intelligent, about the equivalent of an eight-year-old,
  with some individuals reaching human normal level. Their learning capacity is very high and they are
  capable of abstract thought and reasoning.}
-{147}{}{Uh... what you said.}
-{148}{}{Got go now.}
+{147}{}{Ừ... như ông nói.}
+{148}{}{Phải đi giờ.}
 {149}{}{Uh-huh.}
 {150}{}{Wow, I'm impressed with your knowledge.}
 {151}{}{Sounds like a bunch of hogwash to me.}
 {152}{}{I was gathering some herbs one night when a voice called to me out of the darkness. 'I have been
  watching you,' it said, 'and I know that you are a healer. Are you dedicated to your art enough to heal
  someone foreign to you? Someone whom many would consider an enemy?'}
-{153}{}{Ugh.}
-{154}{}{Thanks. Me be leave now.}
+{153}{}{Ờ.}
+{154}{}{Cám ơn. Ngộ đi giờ.}
 {155}{}{What a waste to be here when you could be helping others.}
 {156}{}{You are truly a dedicated man who deserves recognition.}
 {157}{}{Interesting.}
-{158}{}{I'll not help someone like you. Go away.}
+{158}{}{Tôi sẽ không giúp người như cậu đâu. Đi chỗ khác đi.}
 {159}{}{I traveled to another town and stayed there a week or so before returning. When I got back, I was
  warmly welcomed. Gruthar, the pack leader, came to me privately and personally thanked me for coming
  back. No, I am definitely here because I want to be.}
