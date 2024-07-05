@@ -36,7 +36,7 @@
 {141}{}{They would be located in maintenance, next to air traffic control. }
 {142}{}{Okay.}
 {143}{}{Hiểu rồi.}
-{153}{}{Cậu điên à, đi lại ở đây mà không mặc quân phục? Mặc đồ vào!}
+{153}{}{Cô điên à, đi lại ở đây mà không mặc quân phục? Mặc đồ vào!}
 {154}{}{If the sergeant catches you out of uniform he'll hand you your ass.}
 {155}{}{Sao cậu lại không mặc quân phục?}
 {156}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}

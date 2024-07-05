@@ -8,11 +8,11 @@
 {107}{}{Cậu bị điên à mà đi lại không mặc quân phục? Mặc đồ vào!}
 {108}{}{Trung sĩ mà bắt được cậu không mặc quân phục thì ông ấy sạc cho teo chim.}
 {109}{}{Sao cậu lại không mặc quân phục?}
-{110}{}{Holy shit! We're being invaded! Alert!}
-{111}{}{Intruders! Call the guard!}
-{112}{}{Guard! Intruders in air traffic control!}
-{113}{}{What's up? Are we under attack?}
-{114}{}{Why the alert? What's happening?}
-{115}{}{What the hell's going on?}
-{200}{}{What are you doing? You have no reason to touch that.}
-{201}{}{Touch that again and you die.}
+{110}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
+{111}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
+{112}{}{Bảo vệ đâu! Có kẻ xâm nhập trong phòng điều khiển không lưu!}
+{113}{}{Gì thế? Chúng ta bị tấn công à?}
+{114}{}{Sao lại báo động? Chuyện gì thế?}
+{115}{}{Cái củ lìn gì đang diễn ra thế?}
+{200}{}{Cậu đang làm gì thế? Cậu không có lí do gì để chạm vào cái đó.}
+{201}{}{Chạm vào lần nữa là chết đấy.}

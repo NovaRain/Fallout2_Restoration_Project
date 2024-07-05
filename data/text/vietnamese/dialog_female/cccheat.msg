@@ -10,5 +10,5 @@
 {207}{}{Tôi đã bật nhiệm vụ của người Shi.}
 {208}{}{Tôi đã bật nhiệm vụ Elron.}
 {209}{}{Tôi đã bật nhiệm vụ của Hội bằng hữu.}
-{210}{}{Giờ cậu đã đến căn cứ quân sự.}
+{210}{}{Giờ cô đã đến căn cứ quân sự.}
 {211}{}{Cám ơn, Ngài chơi xấu.}
