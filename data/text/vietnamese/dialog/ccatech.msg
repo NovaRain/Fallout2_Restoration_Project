@@ -37,8 +37,8 @@
 {142}{}{Okay.}
 {143}{}{Hiểu rồi.}
 {153}{}{Are you nuts, walking around here out of uniform? Get suited up!}
-{154}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
-{155}{}{Why are you out of uniform? }
+{154}{}{Trung sĩ mà bắt được cậu không mặc quân phục thì ông ấy sạc cho teo chim.}
+{155}{}{Sao cậu lại không mặc quân phục?}
 {156}{}{Holy shit! We're being invaded! Alert!}
 {157}{}{Intruders! Call the guard!}
 {158}{}{Guard! Intruders in the comm center!}

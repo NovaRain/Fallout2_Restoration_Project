@@ -65,7 +65,7 @@
 {153}{}{I need to ask you something.}
 {154}{}{Nothing, just saying 'Hi'.}
 {155}{}{Are you nuts? Walking around here out of uniform? Get suited up!}
-{156}{}{If the sergeant catches you out of uniform, he'll hand you your ass.}
+{156}{}{Trung sĩ mà bắt được cậu không mặc quân phục thì ông ấy sạc cho teo chim.}
 {157}{}{Why are you out of uniform?}
 {158}{}{Holy shit! We're being invaded! Alert!}
 {159}{}{Intruders! Call the guard!}
