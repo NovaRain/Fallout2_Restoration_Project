@@ -51,11 +51,11 @@ mấy thằng đệ sẽ cho mày thấy ăn đòn là như thế nào! (bắt �
 {141}{}{(nói vào radio) Báo động! Chúng ta có kẻ đột nhập tại trạm! Báo động!}
 {142}{}{[XONG]}
 {143}{}{Ồ, nói chuyện vui đấy. Tôi có lời khuyên này – khu này chẳng có quái gì
-ngoài hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Nếu là cậu tôi sẽ đi về phía đó.}
+ngoài hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Nếu là cô tôi sẽ đi về phía đó.}
 {144}{}{Cám ơn.}
-{145}{}{Chim sắt? Ồ, ý cậu là máy bay trực thăng. Nào tại sao cậu lại đến đây
+{145}{}{Chim sắt? Ồ, ý cô là máy bay trực thăng. Nào tại sao cô lại đến đây
 để hỏi thế?}
-{146}{}{Máy bay trực thăng? Chủ đề hay đấy. Nào tại sao cậu lại đến đây
+{146}{}{Máy bay trực thăng? Chủ đề hay đấy. Nào tại sao cô lại đến đây
 để hỏi thế?}
 {147}{}{Pháp sư nói chim sắt bắt làng, bay Navarro. Ngộ cố tìm.}
 {148}{}{Có người cần. Ngộ tìm cho họ.}
@@ -65,7 +65,7 @@ bắt cóc người trong tộc. Tôi đến đây để tìm họ.}
 {151}{}{Tôi biết mấy người đang quan tâm đến máy bay trực thăng. Tôi
 đang cố định vị chúng cho họ.}
 {152}{}{Vậy là ông biết về máy bay trực thăng. Hãy nói những gì ông biết đi.}
-{153}{}{Pháp sư? Nghe này; nếu pháp sư của cậu nói rằng ông ta thấy chim bay
+{153}{}{Pháp sư? Nghe này; nếu pháp sư của cô nói rằng ông ta thấy chim bay
 quanh và ăn mất người thì ông ta bú cần quá độ rồi. Hiểu chứ?}
 {154}{}{Hakunin great shaman. If he say he see then he see.}
 {155}{}{Hakunin was a great shaman. If he says he saw vertibirds, then he
