@@ -5,6 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
+- [Version 30](#version-30)
 - [Version 29](#version-29)
 - [Version 28](#version-28)
 - [Version 27](#version-27)
@@ -36,10 +37,16 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
-### Version 30 (WIP)
+### Version 30
 
-- Fix: new PCs properly get Virgin of the Wastes title (broken in v29).
-- [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer prevented from using Lockpick skill when wearing Power Armor.
+- General:
+  - Fix: new PCs properly get Virgin of the Wastes title (broken in v29).
+  - Fix: Alcohol addiction now also applies when using alcohol from inventory. Penalty for addiction is changed to -1 Agi, -1 Cha, like in other Fallout games (previously was -2 PE). Finally, drug-related perks are also taken into account.
+- Random encounters
+  - Fixed Arroyo Nomads encounter possibly missing some critters.
+- EPA:
+  - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/288) EPA holograms multiplying floaters on save/load.
+  - [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer prevented from using Lockpick skill when wearing Power Armor.
 
 ### Version 29
 
