@@ -2,19 +2,19 @@
 {101}{}{Bạn thấy Zeke, một người ở mượn.}
 {102}{}{Bạn thấy một ông già với mái tóc trắng lưa thưa.}
 {103}{}{Tên tôi là Zeke, người lạ. Xin lỗi nhưng tôi không có thời gian nói chuyện đâu -- và tôi nghĩ
-rằng khu trại này cũng chẳng có gì cả đâu. Cậu nên đi chỗ khác thôi.}
+rằng khu trại này cũng chẳng có gì cả đâu. Cô nên đi chỗ khác thôi.}
 {104}{}{Ừ, okay.}
 {105}{}{Ngộ muốn hỏi.}
 {106}{}{Được rồi, tôi đi.}
 {107}{}{Tôi chỉ muốn hỏi vài câu thôi.}
-{108}{}{Ồ, tôi nghĩ là cậu sẽ thấy rằng chúng tôi không trả lời được gì cả. Sao cậu không quay trở lại
+{108}{}{Ồ, tôi nghĩ là cô sẽ thấy rằng chúng tôi không trả lời được gì cả. Sao cô không quay trở lại
 sau khi chúng tôi có đoàn chở hàng đến ý?}
 {109}{}{Đã xong.}
 {110}{}{Xin chào lần nữa. Tôi vẫn không có câu trả lời nào đâu, người lạ. Sao cậu không hiểu ý và
 gói đồ cuốn xéo khỏi đây đi?}
 {111}{}{Đã xong.}
-{112}{}{Rebecca đã kể cho tôi về những gì cậu đã làm. Tôi muốn xin lỗi về thái độ mà cậu đã phải nhận
-ở đây. Rõ ràng là cậu xứng đáng được đối xử tốt hơn. Tôi có thể giúp gì đây?}
+{112}{}{Rebecca đã kể cho tôi về những gì cô đã làm. Tôi muốn xin lỗi về thái độ mà cô đã phải nhận
+ở đây. Rõ ràng là cô xứng đáng được đối xử tốt hơn. Tôi có thể giúp gì đây?}
 {113}{}{Ngộ muốn hỏi.}
 {114}{}{Không có gì. Lượn.}
 {115}{}{Tôi có vài câu hỏi đây.}
