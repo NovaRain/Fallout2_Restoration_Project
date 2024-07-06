@@ -1,72 +1,72 @@
-{100}{}{You see an old man.}
-{101}{}{You see Chris, the gas station attendant.}
-{102}{}{You see a scruffy-looking old man wearing a purple robe.}
-{103}{}{Howdy, stranger. Whoa baby! Check out that set of wheels. Ain't seen one
- of those in years. What can old Chris do for you?}
-{104}{}{Howdy, stranger. Ain't seen you around these parts before. What can old
- Chris do for you?}
-{105}{}{What this place?}
-{106}{}{Me look for Navarro. This it?}
-{107}{}{You see metal bird fly here?}
-{108}{}{You hear Enclave? They here?}
-{109}{}{Me just look around.}
+{100}{}{Bạn thấy một ông già.}
+{101}{}{Bạn thấy Chris, người trông coi trạm xăng.}
+{102}{}{Bạn thấy một ông già ăn mặc lôi thôi trong chiếc áo choàng màu tím.}
+{103}{}{Chào chào, người lạ. Ồ bé yêu ơi! Xem bộ bánh xe này. Bao năm rồi mới lại
+thấy một chiếc. Lão Chris có thể giúp gì nhỉ?}
+{104}{}{Chào chào, người lạ. Chưa thấy cậu ở đây bao giờ. Lão Chris có thể giúp
+gì đây?}
+{105}{}{Đây chỗ nào?}
+{106}{}{Ngộ tìm Navarro. Đây phải không?}
+{107}{}{Ông thấy chim sắt bay ở đây?}
+{108}{}{Ông có nghe Enclave? Họ đây?}
+{109}{}{Ngộ chỉ ngó quanh.}
 {110}{}{Đây là nơi nào?}
-{111}{}{I'm looking for Navarro. Is this it?}
-{112}{}{Have you seen any vertibirds fly through here?}
-{113}{}{Ever hear of the Enclave? Are they around here?}
-{114}{}{I'm just looking around.}
-{115}{}{This here's my place, Chris's. It's a service station - ain't you ever
- seen one of those, in old magazines and such? That's what I got here - a service
- station.}
-{116}{}{Me look for Navarro. This it?}
-{117}{}{You see metal bird fly here?}
-{118}{}{You hear Enclave? They here?}
-{119}{}{Uh... me got go.}
-{120}{}{I'm looking for Navarro. Is this it?}
-{121}{}{Have you seen any vertibirds fly through here?}
-{122}{}{Ever hear of the Enclave? Are they around here?}
-{123}{}{Sorry, got to go.}
-{124}{}{Navarro? Ain't heard that name in ages. Old military base southeast of
- San Fran, and that's a ways south of here.}
-{125}{}{Me been there. It not Navarro.}
-{126}{}{Okay. Me thank. Me look there.}
-{127}{}{You lie me. Me know Navarro here. You tell truth or me make you sorry!}
-{128}{}{I've been there and that's not Navarro.}
-{129}{}{Okay. I'll take a look there. Thanks.}
-{130}{}{You're lying. I know that Navarro's here. Tell me the truth or you'll
- be sorry!}
-{131}{}{Huh? Uh... Well sure it is. I heard tell of it a while back! Navarro
- military base, southeast of San Francisco.}
-{132}{}{You lie me. Me no got patience. You tell truth or me make you sorry!}
-{133}{}{You lie. I don't have the patience for this. Tell me the truth or
- you'll be sorry.}
-{134}{}{Fuck you! (takes a radio out of robe) You want to see sorry? I got
- some boys who'll show you a whole new meaning for the word! (starts to turn the radio on)}
-{135}{}{Me kill you dead!}
-{136}{}{What you do now?}
-{137}{}{Me gone.}
-{138}{}{That's a bad move, partner.}
-{139}{}{What do you think you're doing?}
-{140}{}{Hey, I'm outta here.}
-{141}{}{(speaking into radio) Alert! We got an intruder at the station! Alert!}
+{111}{}{Tôi đang tìm Navarro. Có phải ở đây không?}
+{112}{}{Ông có nhìn thấy cái máy bay trực thăng nào bay qua đây không?}
+{113}{}{Có từng nghe đến Enclave không? Họ có ở quanh đây không?}
+{114}{}{Tôi chỉ ngó quanh đây thôi.}
+{115}{}{Đây là chỗ của tôi, của Chris. Đây là trạm dịch vụ – chưa từng nhìn thấy
+trước đây, trong tạp chí cũ hoặc đại khái thế à? Đó là thứ này – một
+trạm dịch vụ.}
+{116}{}{Ngộ tìm Navarro. Đây phải không?}
+{117}{}{Ông thấy chim sắt bay ở đây?}
+{118}{}{Ông có nghe Enclave? Họ đây?}
+{119}{}{Ừ... ngộ phải đi.}
+{120}{}{Tôi đang tìm Navarro. Có phải ở đây không?}
+{121}{}{Ông có nhìn thấy cái máy bay trực thăng nào bay qua đây không?}
+{122}{}{Có từng nghe đến Enclave không? Họ có ở quanh đây không?}
+{123}{}{Xin lỗi, phải đi.}
+{124}{}{Navarro? Lâu lắm rồi chưa nghe thấy cái tên đó. Căn cứ quân sự cũ ở phía
+Đông Nam của San Fran, đi tuốt về phía Nam cơ.}
+{125}{}{Ngộ đến đó. Không phải Navarro.}
+{126}{}{Okay. Ngộ cám ơn. Ngộ xem đó.}
+{127}{}{Ông lừa ngộ. Ngộ biết Navarro đây. Ông nói thật hoặc ngộ làm ông xin lỗi!}
+{128}{}{Tôi đã ở đó và chỗ đó không phải là Navarro.}
+{129}{}{Okay, tôi sẽ đến đó xem. Cám ơn.}
+{130}{}{Ông nói dối. Tôi biết là Navarro ở đây. Nói thật đi hoặc tôi sẽ cho
+ông một trận!}
+{131}{}{Hở? Ờ... Chắc là vậy chứ. Tôi nghe người ta nói thế trước đây! Căn cứ
+quân sự Navarro, phía Đông Nam của San Francisco.}
+{132}{}{Ông lừa ngộ. Ngộ không có kiên nhẫn. Ông nói thật hoặc ngộ làm ông xin lỗi!}
+{133}{}{Ông nói dối. Tôi không có đủ kiên nhẫn cho mấy trò này đâu.
+Nói thật ngay hoặc tôi sẽ cho ông một trận.}
+{134}{}{Đmm! (lấy từ trong áo ra đài radio) Mày muốn dần tao á? Tao có
+mấy thằng đệ sẽ cho mày thấy ăn đòn là như thế nào! (bắt đầu bật đài radio lên)}
+{135}{}{Ngộ giết ông chết!}
+{136}{}{Ông làm gì giờ?}
+{137}{}{Ngộ đi.}
+{138}{}{Nước đi sai lầm rồi, ông bạn.}
+{139}{}{Ông nghĩ mình đang làm cái quái gì thế?}
+{140}{}{Này, tôi biến khỏi đây ngay.}
+{141}{}{(nói vào radio) Báo động! Chúng ta có kẻ đột nhập tại trạm! Báo động!}
 {142}{}{[XONG]}
-{143}{}{Well, nice talking with you. Here's some advice though - ain't nothing
- in these parts except wasteland and radiation. Civilization's south of here. I'd be heading that way if I was you.}
+{143}{}{Ồ, nói chuyện vui đấy. Tôi có lời khuyên này – khu này chẳng có quái gì
+ngoài hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Nếu là cậu tôi sẽ đi về phía đó.}
 {144}{}{Cám ơn.}
-{145}{}{Metal birds? Oh, you must mean vertibirds. Now why would you be
- asking about them here?}
-{146}{}{Vertibirds? That's an interesting subject. Now why would you be
- asking about them here?}
-{147}{}{Shaman say metal bird take village, fly Navarro. Me try find.}
-{148}{}{People interested. Me try find for them.}
-{149}{}{You know about? What you know?}
-{150}{}{The shaman of my tribe told me these vertibirds stole our people.
- I'm here to find them.}
-{151}{}{I know some people who are interested in vertibirds. I'm trying
- to locate them for them.}
-{152}{}{So you know about vertibirds. Tell me what you know.}
-{153}{}{Shaman? Look here; if your shaman says he sees things flying around
- and scooping up people then he's been sniffing too many herbs. Got it?}
+{145}{}{Chim sắt? Ồ, ý cậu là máy bay trực thăng. Nào tại sao cậu lại đến đây
+để hỏi thế?}
+{146}{}{Máy bay trực thăng? Chủ đề hay đấy. Nào tại sao cậu lại đến đây
+để hỏi thế?}
+{147}{}{Pháp sư nói chim sắt bắt làng, bay Navarro. Ngộ cố tìm.}
+{148}{}{Có người cần. Ngộ tìm cho họ.}
+{149}{}{Ông biết về? Ông biết gì?}
+{150}{}{Pháp sư trong tộc của tôi nói rằng mấy cái máy bay trực thăng đã
+bắt cóc người trong tộc. Tôi đến đây để tìm họ.}
+{151}{}{Tôi biết mấy người đang quan tâm đến máy bay trực thăng. Tôi
+đang cố định vị chúng cho họ.}
+{152}{}{Vậy là ông biết về máy bay trực thăng. Hãy nói những gì ông biết đi.}
+{153}{}{Pháp sư? Nghe này; nếu pháp sư của cậu nói rằng ông ta thấy chim bay
+quanh và ăn mất người thì ông ta bú cần quá độ rồi. Hiểu chứ?}
 {154}{}{Hakunin great shaman. If he say he see then he see.}
 {155}{}{Hakunin was a great shaman. If he says he saw vertibirds, then he
  saw them!}
@@ -139,7 +139,7 @@
  replacements?}
 {200}{}{Wait a minute. Are you trying to say you're one of the Enclave
  replacements?}
-{201}{}{Uh... yeah.}
+{201}{}{Ừ... vậy à.}
 {202}{}{That's right.}
 {203}{}{Damn. Sorry for the hassles. I'm supposed to clear a bunch of newbies
  coming through here but I got to weed out the trash. Anyway, just go up to the gate,
@@ -169,12 +169,12 @@
 {223}{}{You use that radio and I'll make you sorry!}
 {224}{}{Fuck you! You want to see sorry? I got some boys who'll show you a
  whole new meaning for the word! (starts to turn the radio on)}
-{225}{}{Me kill you dead!}
-{226}{}{What you do now?}
-{227}{}{Me gone.}
-{228}{}{That's a bad move, partner.}
-{229}{}{What do you think you're doing?}
-{230}{}{Hey, I'm outta here.}
+{225}{}{Ngộ giết ông chết!}
+{226}{}{Ông làm gì giờ?}
+{227}{}{Ngộ đi.}
+{228}{}{Nước đi sai lầm rồi, ông bạn.}
+{229}{}{Ông nghĩ mình đang làm cái quái gì thế?}
+{230}{}{Này, tôi biến khỏi đây ngay.}
 {231}{}{Yeah, right.}
 {232}{}{He's pulling out a radio. He's going to alert the whole base! I've got to deal with him quickly.}
 {233}{}{Oh, no. Man pull out talkie box. He tell on me. Must stop him.}

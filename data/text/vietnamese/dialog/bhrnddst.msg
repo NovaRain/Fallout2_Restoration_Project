@@ -1,141 +1,141 @@
-{100}{}{You encounter rogues and wolves.}
-{101}{}{You encounter rogues.}
-{102}{}{You encounter wolves.}
-{103}{}{You encounter radscorpions.}
-{104}{}{You encounter spore plants.}
-{105}{}{You encounter a Unity Patrol fighting rogues.}
-{106}{}{You encounter a Unity Patrol fighting wolves.}
-{107}{}{You encounter a Unity Patrol.}
-{150}{}{You encounter slavers and dogs.}
-{151}{}{You encounter slavers.}
-{152}{}{You encounter golden geckos.}
-{153}{}{You encounter wild dogs.}
-{154}{}{You encounter a patrol and dogs fighting slavers.}
-{155}{}{You encounter slavers fighting golden geckos.}
-{156}{}{You encounter a patrol fighting slavers.}
-{157}{}{You encounter a patrol fighting golden geckos.}
-{158}{}{You encounter a patrol fighting wild dogs.}
-{159}{}{You encounter a patrol.}
-{200}{}{You are ambushed by raiders.}
-{201}{}{You encounter wolves.}
-{202}{}{You encounter a caravan fending off raiders.}
-{203}{}{You encounter a caravan fending off raiders.}
-{204}{}{You encounter a caravan fending off raiders}
-{205}{}{You encounter a caravan fending off raiders.}
-{206}{}{You encounter a caravan.}
-{207}{}{You encounter a caravan.}
-{208}{}{You encounter a caravan.}
-{209}{}{You encounter a caravan.}
-{250}{}{You encounter marauders.}
-{251}{}{You encounter wolves.}
-{252}{}{You encounter radscorpions.}
-{253}{}{You encounter a caravan fending off marauders.}
-{254}{}{You encounter a caravan fending off marauders.}
-{255}{}{You encounter a caravan fending off wolves.}
-{256}{}{You encounter a caravan fending off radscorpions.}
-{257}{}{You encounter a caravan.}
-{258}{}{You encounter a caravan.}
-{259}{}{You encounter a caravan.}
-{260}{}{You encounter a caravan.}
-{261}{}{You encounter a traveler.}
-{300}{}{You encounter remnants of the Master's army.}
-{301}{}{You encounter marauders.}
-{302}{}{You encounter NCR Rangers battling remnants of the Master's army.}
-{303}{}{You encounter NCR Rangers fighting marauders.}
-{304}{}{You encounter farmers fending off remnants of the Master's army.}
-{305}{}{You encounter farmers fending off marauders.}
-{306}{}{You encounter NCR Rangers.}
-{307}{}{You encounter farmers.}
-{350}{}{You encounter a slaver caravan.}
-{351}{}{You encounter highwaymen and robbers.}
-{352}{}{You encounter highwaymen.}
-{353}{}{You encounter robbers.}
-{354}{}{You encounter a caravan fending off highwaymen.}
-{355}{}{You encounter a caravan fighting robbers.}
-{356}{}{You encounter a caravan fighting highwaymen.}
-{357}{}{You encounter a caravan besieged by robbers.}
-{358}{}{You encounter a slave caravan fighting a caravan.}
-{359}{}{You encounter highwaymen fighting robbers.}
-{360}{}{You encounter a caravan.}
-{361}{}{You encounter a caravan.}
-{400}{}{You encounter highwaymen.}
-{401}{}{You encounter robbers.}
-{402}{}{You encounter robbers and highwaymen.}
-{403}{}{You encounter golden geckos and radscorpions.}
-{404}{}{You encounter golden geckos.}
-{405}{}{You encounter mole rats and pig rats.}
-{406}{}{You encounter radscorpions.}
-{407}{}{You encounter spore plants.}
-{408}{}{You encounter robbers fighting highwaymen.}
-{409}{}{You encounter a caravan fending off highwaymen.}
-{410}{}{You encounter a caravan fending off robbers.}
-{411}{}{You encounter a caravan fending off radscorpions.}
-{412}{}{You encounter geckos fighting radscorpions.}
-{413}{}{You encounter a caravan.}
-{450}{}{You encounter highwaymen and robbers.}
-{451}{}{You encounter highwaymen and geckos.}
-{452}{}{You encounter golden geckos.}
-{453}{}{You encounter radscorpions and spore plants.}
-{454}{}{You encounter robbers fighting radscorpions.}
-{455}{}{You encounter radscorpions fighting robbers.}
-{456}{}{You encounter a caravan fending off highwaymen.}
-{457}{}{You encounter a caravan fending off robbers.}
-{458}{}{You encounter some highwaymen weeding out some spore plants.}
-{459}{}{You encounter a caravan.}
-{500}{}{You encounter highwaymen and wild dogs.}
-{501}{}{You encounter robbers and wild dogs.}
-{502}{}{You encounter robbers.}
-{503}{}{You encounter highwaymen.}
-{504}{}{You encounter a swarm of mantis and some spore plants.}
-{505}{}{You encounter dogs and spore plants.}
-{506}{}{You encounter a swarm of mantis.}
-{507}{}{You encounter wild dogs.}
-{508}{}{You encounter robbers fighting dogs.}
-{509}{}{You encounter a caravan fending off dogs.}
-{510}{}{You encounter a caravan fending off robbers.}
-{511}{}{You encounter a caravan fending off highwaymen.}
-{512}{}{You encounter a caravan.}
-{550}{}{You encounter geckos and wolves.}
-{551}{}{You encounter claim jumpers.}
-{552}{}{You encounter wolves.}
-{553}{}{You encounter golden geckos.}
-{554}{}{You encounter prospectors fending off claim jumpers.}
-{555}{}{You encounter trappers hunting geckos.}
-{556}{}{You encounter bootleggers fighting wolves.}
-{557}{}{You encounter homesteaders fighting claim jumpers}
-{558}{}{You encounter homesteaders fighting wolves.}
-{559}{}{You encounter bootleggers.}
-{560}{}{You encounter trappers.}
-{561}{}{You encounter prospectors.}
-{600}{}{You encounter deathclaws.}
-{601}{}{You encounter fire geckos.}
-{602}{}{You encounter a caravan fleeing from deathclaws.}
-{603}{}{You encounter a caravan fighting deathclaws.}
-{604}{}{You encounter a caravan fighting fire geckos.}
-{605}{}{You encounter a caravan fighting fire geckos.}
-{606}{}{You encounter a caravan.}
-{607}{}{You encounter a caravan.}
-{608}{}{You encounter a caravan.}
-{609}{}{You encounter a caravan.}
-{650}{}{You encounter aliens and deathclaws.}
-{651}{}{You encounter centaurs and floaters.}
-{652}{}{You encounter fire geckos.}
-{653}{}{You encounter aliens.}
-{654}{}{You encounter deathclaws.}
-{655}{}{You encounter fire geckos.}
-{656}{}{You encounter aliens.}
-{657}{}{You encounter centaurs.}
-{658}{}{You encounter floaters.}
-{700}{}{You encounter some Yakuza.}
-{701}{}{You encounter a gang.}
-{702}{}{You encounter some wolves.}
-{703}{}{You encounter some mobsters fighting some Yakuza.}
-{704}{}{You encounter some mobsters fighting a gang.}
-{705}{}{You encounter some mobsters.}
-{706}{}{You encounter a traveler.}
-{750}{}{You encounter a caravan fending off remnants of the Master's army.}
-{751}{}{You encounter a caravan fighting remnants of the master's army.}
-{752}{}{You encounter a caravan fighting deathclaws.}
-{753}{}{You encounter a caravan.}
-{754}{}{You encounter a caravan.}
-{755}{}{You encounter a caravan.}
+{100}{}{Bạn bắt gặp lũ trộm và bầy sói.}
+{101}{}{Bạn bắt gặp lũ trộm.}
+{102}{}{Bạn bắt gặp bầy sói.}
+{103}{}{Bạn bắt gặp đàn bọ cạp.}
+{104}{}{Bạn bắt gặp đám cây bào tử.}
+{105}{}{Bạn bắt gặp một Đội tuần tra của Khối đoàn kết đang chiến đấu với lũ trộm.}
+{106}{}{Bạn bắt gặp một Đoàn tuần tra của Khối đoàn kết đang chiến đấu với bầy sói.}
+{107}{}{Bạn bắt gặp một Đoàn tuần tra của Khối đoàn kết.}
+{150}{}{Bạn bắt gặp toán người buôn nô lệ và bầy chó.}
+{151}{}{Bạn bắt gặp toán người buôn nô lệ.}
+{152}{}{Bạn bắt gặp đàn tắc kè vàng.}
+{153}{}{Bạn bắt gặp bầy chó hoang.}
+{154}{}{Bạn bắt gặp một đội tuần tra và chó đang chiến đấu với toán người buôn nô lệ.}
+{155}{}{Bạn bắt gặp toán người buôn nô lệ đang chiến đấu với đàn tắc kè vàng.}
+{156}{}{Bạn bắt gặp một đội tuần tra đang chiến đấu với toán người buôn nô lệ.}
+{157}{}{Bạn bắt gặp một đội tuần tra đang chiến đấu với đàn tắc kè vàng.}
+{158}{}{Bạn bắt gặp một đội tuần tra đang chiến đấu với bầy chó hoang.}
+{159}{}{Bạn bắt gặp một đội tuần tra.}
+{200}{}{Bạn bị toán cướp phục kích.}
+{201}{}{Bạn bắt gặp bầy sói.}
+{202}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp.}
+{203}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp.}
+{204}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại toán cướp}
+{205}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp.}
+{206}{}{Bạn bắt gặp một đoàn lữ hành.}
+{207}{}{Bạn bắt gặp một đoàn lữ hành.}
+{208}{}{Bạn bắt gặp một đoàn lữ hành.}
+{209}{}{Bạn bắt gặp một đoàn lữ hành.}
+{250}{}{Bạn bắt gặp lũ cướp.}
+{251}{}{Bạn bắt gặp bầy sói.}
+{252}{}{Bạn bắt gặp đàn bọ cạp.}
+{253}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại lũ cướp.}
+{254}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại lũ cướp.}
+{255}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại bầy sói.}
+{256}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại đàn bò cạp.}
+{257}{}{Bạn bắt gặp một đoàn lữ hành.}
+{258}{}{Bạn bắt gặp một đoàn lữ hành.}
+{259}{}{Bạn bắt gặp một đoàn lữ hành.}
+{260}{}{Bạn bắt gặp một đoàn lữ hành.}
+{261}{}{Bạn bắt gặp một người phiêu lưu.}
+{300}{}{Bạn bắt gặp một toán thất trận từ đội quân của Ông trùm.}
+{301}{}{Bạn bắt gặp lũ cướp.}
+{302}{}{Bạn bắt gặp Đội biệt kích NCR đang chiến đấu với toán thất trận từ đội quân của Ông trùm.}
+{303}{}{Bạn bắt gặp Đội biệt kích NCR đang chiến đấu với lũ cướp.}
+{304}{}{Bạn bắt gặp mấy nông dân đang chống lại toán thất trận từ đội quân của Ông trùm.}
+{305}{}{Bạn bắt gặp mấy nông dân đang chống lại lũ cướp.}
+{306}{}{Bạn bắt gặp Đội biệt kích NCR.}
+{307}{}{Bạn bắt gặp mấy nông dân.}
+{350}{}{Bạn bắt gặp một đoàn buôn nô lệ.}
+{351}{}{Bạn bắt gặp lũ cướp đường và kẻ cướp.}
+{352}{}{Bạn bắt gặp toán cướp đường.}
+{353}{}{Bạn bắt gặp lũ kẻ cướp.}
+{354}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp đường.}
+{355}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại lũ kẻ cướp.}
+{356}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với toán cướp đường.}
+{357}{}{Bạn bắt gặp một đoàn lữ hành đang bị lũ kẻ cướp tấn công.}
+{358}{}{Bạn bắt gặp một đoàn nô lệ đang chiến đấu với đoàn lữ hành.}
+{359}{}{Bạn bắt gặp toán cướp đường đang chiến đấu với lũ kẻ cướp.}
+{360}{}{Bạn bắt gặp một đoàn lữ hành.}
+{361}{}{Bạn bắt gặp một đoàn lữ hành.}
+{400}{}{Bạn bắt gặp toán cướp đường.}
+{401}{}{Bạn bắt gặp lũ kẻ cướp.}
+{402}{}{Bạn bắt gặp lũ kẻ cướp và toán cướp đường.}
+{403}{}{Bạn bắt gặp đàn tắc kè vàng và bọ cạp.}
+{404}{}{Bạn bắt gặp đàn tắc kè vàng.}
+{405}{}{Bạn bắt gặp bầy chuột chũi và chuột béo.}
+{406}{}{Bạn bắt gặp đàn bọ cạp.}
+{407}{}{Bạn bắt gặp đám cây bào tử.}
+{408}{}{Bạn bắt gặp lũ kẻ cướp đang chiến đấu với toán cướp đường.}
+{409}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp đường.}
+{410}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại lũ kẻ cướp.}
+{411}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại đàn bò cạp.}
+{412}{}{Bạn bắt gặp đàn tắc kè đang chiến đấu với đàn bọ cạp.}
+{413}{}{Bạn bắt gặp một đoàn lữ hành.}
+{450}{}{Bạn bắt gặp lũ cướp đường và kẻ cướp.}
+{451}{}{Bạn bắt gặp toán cướp đường và đàn tắc kè.}
+{452}{}{Bạn bắt gặp đàn tắc kè vàng.}
+{453}{}{Bạn bắt gặp bầy bọ cạp và đám cây bào tử.}
+{454}{}{Bạn bắt gặp lũ kẻ cướp đang chiến đấu với bầy bọ cạp.}
+{455}{}{Bạn bắt gặp bầy bọ cạp đang chiến đấu với lũ kẻ cướp.}
+{456}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp đường.}
+{457}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại lũ kẻ cướp.}
+{458}{}{Bạn bắt gặp vài tên cướp đường đang làm cỏ đám cây bào tử.}
+{459}{}{Bạn bắt gặp một đoàn lữ hành.}
+{500}{}{Bạn bắt gặp toán cướp đường và bầy chó hoang.}
+{501}{}{Bạn bắt gặp lũ kẻ cướp và bầy chó hoang.}
+{502}{}{Bạn bắt gặp lũ kẻ cướp.}
+{503}{}{Bạn bắt gặp toán cướp đường.}
+{504}{}{Bạn bắt gặp bầy bọ ngựa và đám cây bào tử.}
+{505}{}{Bạn bắt gặp đàn chó và đám cây bào tử.}
+{506}{}{Bạn bắt gặp một bầy bọ ngựa.}
+{507}{}{Bạn bắt gặp bầy chó hoang.}
+{508}{}{Bạn bắt gặp lũ kẻ cướp đang chiến đấu với bầy chó.}
+{509}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại bầy chó.}
+{510}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại lũ kẻ cướp.}
+{511}{}{Bạn bắt gặp một đoàn lữu hành đang chống lại toán cướp đường.}
+{512}{}{Bạn bắt gặp một đoàn lữ hành.}
+{550}{}{Bạn bắt gặp đàn tắc kè và bầy sói.}
+{551}{}{Bạn bắt gặp một đội cướp đất.}
+{552}{}{Bạn bắt gặp bầy sói.}
+{553}{}{Bạn bắt gặp đàn tắc kè vàng.}
+{554}{}{Bạn bắt gặp nhóm người thăm dò đang chống lại đội cướp đất.}
+{555}{}{Bạn bắt gặp nhóm thợ đặt bẫy đang đi săn đàn tắc kè.}
+{556}{}{Bạn bắt gặp nhóm buôn rượu lậu đang chiến đấu với bầy sói.}
+{557}{}{Bạn bắt gặp nhóm người giữ nhà đang chiến đấu với đội cướp đất}
+{558}{}{Bạn bắt gặp nhóm người giữ nhà đang chiến đấu với bầy sói.}
+{559}{}{Bạn bắt gặp nhóm buôn rượu lậu.}
+{560}{}{Bạn bắt gặp nhóm thợ đặt bẫy.}
+{561}{}{Bạn bắt gặp nhóm người thăm dò.}
+{600}{}{Bạn bắt gặp đàn deathclaw.}
+{601}{}{Bạn bắt gặp đàn tắc kè lửa.}
+{602}{}{Bạn bắt gặp một đoàn lữ hành đang chạy trốn khỏi bầy deathclaw.}
+{603}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với deathclaw.}
+{604}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với tắc kè lửa.}
+{605}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với tắc kè lửa.}
+{606}{}{Bạn bắt gặp một đoàn lữ hành.}
+{607}{}{Bạn bắt gặp một đoàn lữ hành.}
+{608}{}{Bạn bắt gặp một đoàn lữ hành.}
+{609}{}{Bạn bắt gặp một đoàn lữ hành.}
+{650}{}{Bạn bắt gặp bầy alien và deathclaw.}
+{651}{}{Bạn bắt gặp bầy centaur và floater.}
+{652}{}{Bạn bắt gặp đàn tắc kè lửa.}
+{653}{}{Bạn bắt gặp đàn alien.}
+{654}{}{Bạn bắt gặp đàn deathclaw.}
+{655}{}{Bạn bắt gặp đàn tắc kè lửa.}
+{656}{}{Bạn bắt gặp đàn alien.}
+{657}{}{Bạn bắt gặp bầy centaur.}
+{658}{}{Bạn bắt gặp bầy floater.}
+{700}{}{Bạn bắt gặp mấy tên Yakuza.}
+{701}{}{Bạn bắt gặp một băng đảng.}
+{702}{}{Bạn bắt gặp vài con sói.}
+{703}{}{Bạn bắt gặp mấy tên tội phạm đang chiến đấu với Yakuza.}
+{704}{}{Bạn bắt gặp mấy tên phạm đang chiến đấu với một băng đảng.}
+{705}{}{Bạn bắt gặp mấy tên tội phạm.}
+{706}{}{Bạn bắt gặp một người phiêu lưu.}
+{750}{}{Bạn bắt gặp một đoàn lữ hành đang chống lại toán thất trận từ đội quân của Ông trùm.}
+{751}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với toán thất trận từ đội quân của Ông trùm.}
+{752}{}{Bạn bắt gặp một đoàn lữ hành đang chiến đấu với deathclaw.}
+{753}{}{Bạn bắt gặp một đoàn lữ hành.}
+{754}{}{Bạn bắt gặp một đoàn lữ hành.}
+{755}{}{Bạn bắt gặp một đoàn lữ hành.}

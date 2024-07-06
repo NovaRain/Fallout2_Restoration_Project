@@ -83,7 +83,7 @@
  them in the wild. However, I am certain that you have noticed that we are an exception. My pack poses
  no threat to you or your human communities. We have evolved beyond our base cousins and wish simply to
  be left alone.}
-{157}{}{Uh... yeah.}
+{157}{}{Ừ... vậy à.}
 {158}{}{Your heightened intellect could make you even more of a threat than the average deathclaw,
  Gruthar.}
 {159}{}{I can see that you are not the savage killers that deathclaws are known to be.}
@@ -177,7 +177,7 @@
 {231}{}{. Have you examined the machine?}
 {232}{}{. I will wait for your return.}
 {233}{}{. Have you found the part to fix the machine?}
-{234}{}{Uh, okay.}
+{234}{}{Ừ, okay.}
 {235}{}{I hope you are enjoying your stay.}
 {236}{}{Unfortunately, it had to come to this. I allowed him to stay unharmed as long as he presented no threat to the pack. He chose his path. I hope you understand.}
 {237}{}{You bad.}
