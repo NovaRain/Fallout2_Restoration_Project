@@ -39,12 +39,12 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
 
 ### Version 30
 
-- General:
+- General
   - Fix: new PCs properly get Virgin of the Wastes title (broken in v29).
   - Fix: Alcohol addiction now also applies when using alcohol from inventory. Penalty for addiction is changed to -1 Agi, -1 Cha, like in other Fallout games (previously was -2 PE). Finally, drug-related perks are also taken into account.
 - Random encounters
   - Fixed Arroyo Nomads encounter possibly missing some critters.
-- EPA:
+- EPA
   - [Fixed](https://github.com/BGforgeNet/Fallout2_Restoration_Project/pull/288) EPA holograms multiplying floaters on save/load.
   - [Fix](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/286): Kitsune is no longer prevented from using Lockpick skill when wearing Power Armor.
 
