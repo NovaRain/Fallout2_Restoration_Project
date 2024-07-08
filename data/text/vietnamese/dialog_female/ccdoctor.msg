@@ -1,7 +1,7 @@
 {100}{}{Bạn thấy một nhà khoa học.}
 {101}{}{Bạn thấy Tiến sĩ Schreber.}
 {102}{}{Bạn thấy một ông hói mặc áo choàng thí nghiệm.}
-{103}{}{Ta hi vọng là cậu có lí do chính đáng để làm phiền ta đấy, đồ lính quèn.}
+{103}{}{Ta hi vọng là cô có lí do chính đáng để làm phiền ta đấy, đồ lính quèn.}
 {104}{}{Ngộ muốn hỏi câu.}
 {105}{}{Không, ngộ quay lại sau.}
 {106}{}{Được rồi. Tôi phải sống cạnh mấy gã lính quèn nên chắc là tôi sẽ cố thử

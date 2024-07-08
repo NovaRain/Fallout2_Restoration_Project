@@ -51,7 +51,7 @@ thằng đệ sẽ cho mày thấy hối hận là thế nào! (bắt đầu b�
 {141}{}{(nói vào radio) Báo động! Chúng ta có kẻ đột nhập tại trạm! Báo động!}
 {142}{}{[XONG]}
 {143}{}{Ồ, nói chuyện vui đấy. Lão khuyên này – khu này chẳng có quái gì ngoài
-hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Cậu nên đi về phía đó.}
+hoang mạc với phóng xạ đâu. Văn minh ở phía Nam ấy. Cô nên đi về phía đó.}
 {144}{}{Cám ơn.}
 {145}{}{Chim sắt? Ồ, ý cô là máy bay trực thăng. Nào tại sao cô lại đến đây
 để hỏi thế?}
@@ -126,7 +126,7 @@ chúng đến từ đây.}
 muốn làm gì với họ?}
 {191}{}{Ngộ muốn gia nhập.}
 {192}{}{Tôi muốn tham gia.}
-{193}{}{Gia nhập? Cô chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn một con bé toọc chứ?}
+{193}{}{Gia nhập? Cô chỉ là một tộc nhân! Cái gì khiến cô nghĩ họ lại muốn một con bé toọc chứ?}
 {194}{}{Gia nhập? Cô chỉ là một tộc nhân! Cái gì khiến cô nghĩ họ lại muốn
 một con bé toọc tay không tấc sắt chứ?}
 {195}{}{Ngộ nghiêm túc. Ngộ gia nhập Enclave.}

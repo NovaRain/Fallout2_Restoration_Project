@@ -59,36 +59,36 @@ Dù sao thì lão ta cũng gây ra đủ loại tiếng động cho đến khi c
 giữa biển. Ồ, không hẳn là giữa lỗ đít lắm, nhưng cũng gần như vậy. Cách duy nhất để đến đó là bằng tàu hoặc
 máy bay nhưng con tàu chết tiệt đã bị sửa đổi rồi. Cần một cái thẻ fob để vận hành mớ sắt vụn đấy.}
 {157}{}{Fob?}
-{158}{}{Yeah, a passkey. Commander keeps it in his office. Without it ya can't access some areas of the ship and that
- keeps the locals down in San Fran from paying an unwelcome visit.}
-{159}{}{Good idea.}
-{160}{}{Where commander office?}
-{161}{}{That's a good idea.}
-{162}{}{So where's the commander's office?}
-{163}{}{Take the elevator in the next room down, follow the hallway to the main junction, and go straight. }
+{158}{}{Ừ, một mã khóa. Chỉ huy để ở trong văn phòng của ông ta. Thiếu cái đó thì cô sẽ không thể vào một số khu vực
+trên tàu và đấy là cách để giữ chân đám thổ dân San Fran khỏi chèo thuyền đến chơi vô phép.}
+{159}{}{Ý hay đó.}
+{160}{}{Phòng chỉ huy đâu?}
+{161}{}{Đấy là một ý hay.}
+{162}{}{Thế phòng chỉ huy ở chỗ nào vậy?}
+{163}{}{Đi thang máy ở phòng bên cạnh xuống, dọc theo lối hành lang đến chỗ lối giao chính rồi đi thẳng.}
 {164}{}{Cám ơn.}
-{165}{}{Hey, soldier. Good to hear from you again. Grub or talk this time?}
-{166}{}{Food.}
-{167}{}{Chitchat.}
-{168}{}{Me just say hi.}
-{169}{}{Neither, I'm just saying hi.}
-{170}{}{Here ya go. It's dead, it's cooked, it's unidentifiable. Enjoy.}
-{171}{}{Uh... Thanks.}
-{172}{}{Son, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
-{173}{}{Little lady, I can tell from the smell that you're not wearin' one of them powered armor suits.
- If the Sarge sees you out of uniform you're screwed. And I ain't talking the type of screwing that feels good. Now get your ass down to supply and suit up.}
+{165}{}{Này, bạn tôi. Rất vui được gặp lại. Thích ăn hay nói chuyện nào?}
+{166}{}{Đồ ăn.}
+{167}{}{Tán gẫu.}
+{168}{}{Ngộ chỉ chào thôi.}
+{169}{}{Không gì cả, tôi chỉ chào thôi.}
+{170}{}{Đây. Đã chết, đã nướng, đéo biết thịt gì. Ăn đi.}
+{171}{}{Ờ... cám ơn.}
+{172}{}{Con giai, ngửi mùi thôi là bố biết mày đang không mặc áo giáp năng lượng rồi. Nếu Sarge mà
+nhìn thấy mày không mặc quân phục là đi đời đấy. Và bố đang nói về kiểu đi đời mà mày sẽ không thích đâu. Giờ thì lê đít xuống phòng hậu cần mặc đồ vào.}
+{173}{}{Quý cô, ngửi mùi thôi là bố biết là cô đang không mặc áo giáp năng lượng rồi. Nếu Sarge mà
+nhìn thấy cô không mặc quân phục là đi đời đấy. Và bố đang nói về kiểu đi đời mà cô không thích đâu. Giờ thì lê đít xuống phòng hậu cần mặc đồ vào.}
 {174}{}{Đâu vậy?}
 {175}{}{Okay.}
 {176}{}{Ở chỗ nào thế?}
-{177}{}{I'll take care of it.}
-{178}{}{Take the elevator in the next room down, follow the hall to the main junction, turn left, and it's the first door on your left. Off you go.}
+{177}{}{Tôi sẽ lo việc đó.}
+{178}{}{Đi thang máy ở phòng bên cạnh xuống, dọc theo lối hành lang đến chỗ lối giao chính, rẽ trái rồi vào phòng đầu tiên bên trái. Đi đi.}
 {179}{}{Cám ơn.}
-{180}{}{Holy shit! I'm just a cook... and a blind one at that. I didn't see any intruders come through here.}
+{180}{}{Giời đất ơi! Tôi chỉ là đầu bếp... và tôi bị mù. Tôi đéo thấy kẻ đột nhập nào đi qua đây cả.}
 {181}{}{Cám ơn.}
-{182}{}{Damned alarms. Always such a ruckus when they go off.}
-{183}{}{What the hell is that damn thing going on about this time?}
-{184}{}{I wish to hell we'd use silent alarms, damn thing gives me a headache.}
-{185}{}{I'm gonna fry your ass up and serve it on a plate.}
-{186}{}{Your goose is cooked. Ha! I made a funny!}
-{187}{}{Out of the frying pan and into the fire.}
+{182}{}{Đm báo động. Lúc nào cũng loạn cả lên mỗi lần rung.}
+{183}{}{Cái lìn gì khiến cái củ cặc này rung thế?}
+{184}{}{Ước gì chúng ta dùng chuông báo không ồn, cái củ cặc này khiến tôi đau hết cả đầu.}
+{185}{}{Bố sẽ nướng cặp mông mày lên và bày trên đĩa.}
+{186}{}{Ngỗng chín rồi đấy. Ha! Câu này hay đấy!}
+{187}{}{Bay khỏi chảo chui zô lửa.}
