@@ -65,7 +65,7 @@ bắt cóc người trong tộc. Tôi đến đây để tìm họ.}
 {151}{}{Tôi biết mấy người đang quan tâm đến máy bay trực thăng. Tôi
 đang cố định vị chúng cho họ.}
 {152}{}{Vậy là ông biết về máy bay trực thăng. Hãy nói những gì ông biết đi.}
-{153}{}{Pháp sư? Nghe này; nếu pháp sư của cô nói rằng ông ta thấy chim bay
+{153}{}{Pháp sư? Nghe này; nếu pháp sư của cậu nói rằng ông ta thấy chim bay
 quanh và ăn mất người thì ông ta bú cần quá độ rồi. Hiểu chứ?}
 {154}{}{Hakunin great shaman. If he say he see then he see.}
 {155}{}{Hakunin was a great shaman. If he says he saw vertibirds, then he
