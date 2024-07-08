@@ -4,7 +4,7 @@
 {103}{}{Ta hi vọng là cậu có lí do chính đáng để làm phiền ta đấy, đồ lính quèn.}
 {104}{}{Ngộ muốn hỏi câu.}
 {105}{}{Không, ngộ quay lại sau.}
-{106}{}{Được rồi. Tôi phải sống cạnh mấy gã lính quèn nên chắc là tôi sẽ cố thử
+{106}{}{Được rồi. Ta phải sống cạnh mấy gã lính quèn nên chắc là ta sẽ cố thử
 làm quen với cậu.}
 {107}{}{Muốn biết gì nào?}
 {108}{}{Ai ông?}
@@ -26,20 +26,20 @@ thứ khác nữa. Không cần nói tên đâu, lính quèn. Tất cả các ng
 y hệt nhau trong cái bộ giáp đấy.}
 {123}{}{Okay.}
 {124}{}{Hiểu rồi.}
-{125}{}{I work as the base physician but that's just a sideline. Actually,
- I'm a geneticist.}
-{126}{}{What that?}
-{127}{}{What's a geneticist?}
-{128}{}{I really don't think you have the intellectual capacity to
- understand my work, soldier. Let's just say that I can 'customize' people
- or animals.}
-{129}{}{Yeah... sure.}
-{130}{}{Yeah... I need to ask you a couple more things.}
-{131}{}{This was the base med lab. However, I felt that my experiments
- took precedence over the minimal medical needs of the soldiers here so
- I had it converted into a lab.}
-{132}{}{How... nice.}
-{133}{}{That's nice. So tell me something else.}
+{125}{}{Ta làm bác sĩ cho căn cứ nhưng thực chất đấy chỉ là phụ thôi.
+Thực ra ta là nhà di truyền học.}
+{126}{}{Gì vậy?}
+{127}{}{Di truyền học là gì?}
+{128}{}{Ta thực sự không nghĩ cậu có đủ trí thông minh để hiểu công việc
+của ta đâu, lính quèn. Chỉ cần hiểu là ta có thể "tùy chỉnh" người
+hoặc động vật.}
+{129}{}{Ờ... được rồi.}
+{130}{}{Ờ... tôi cần hỏi ông thêm mấy câu nữa.}
+{131}{}{Đây là phòng thuốc của căn cứ. Tuy nhiên, ta thấy rằng thí nghiệm
+của ta quan trọng hơn nhu cầu y tế tối thiểu của đám lính ở đây nên
+ta đã chuyển thành phòng thí nghiệm.}
+{132}{}{Hay... thật đấy.}
+{133}{}{Hay đấy. Cho tôi biết việc khác đi.}
 {134}{}{Why room made no sound? Oh, you mean the soundproofing! In the
  course of my research I perform... experiments on test subjects.
  Sometimes they get a little vocal. The base commander found this to
