@@ -44,11 +44,11 @@ còn Quincy thì khá ổn. Tôi hi vọng là ông ta cuối cùng sẽ thắng
 Dù sao thì lão ta cũng gây ra đủ loại tiếng động cho đến khi chỉ huy ra lệnh ốp cách âm cả căn phòng đó.}
 {141}{}{Hiểu rồi.}
 {142}{}{Hay đấy.}
-{143}{}{Ha! Đến phần ái tình rồi, anh bạn. Có vẻ như một con nghiện máy tính đã yêu một cô lính gác ở phía ngoài phòng thí nghiệm. Thậm chí còn đặt tên tình củm cho cô ta nữa, gọi là "Snookie" mới hài chứ.}
+{143}{}{Ha! Đến phần ái tình rồi, cô bạn. Có vẻ như một con nghiện máy tính đã yêu một cô lính gác ở phía ngoài phòng thí nghiệm. Thậm chí còn đặt tên tình củm cho cô ta nữa, gọi là "Snookie" mới hài chứ.}
 {144}{}{Đáng yêu đấy.}
 {145}{}{Nà, hết chuyện ở đây rồi. Nếu nghe thêm được gì tôi sẽ nói thêm sau. Tôi thích kể lại những gì mà tôi nghe được!}
 {146}{}{Cám ơn.}
-{147}{}{Sao cậu lại quan tâm đến thứ đó? Ồ mà chả sao. Quincy giữ chúng trong phòng bảo trì, tôi nghĩ thế.}
+{147}{}{Sao cô lại quan tâm đến thứ đó? Ồ mà chả sao. Quincy giữ chúng trong phòng bảo trì, tôi nghĩ thế.}
 {148}{}{Okay.}
 {149}{}{Đâu vậy?}
 {150}{}{Hiểu rồi.}
