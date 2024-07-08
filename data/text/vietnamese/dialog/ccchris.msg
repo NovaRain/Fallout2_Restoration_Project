@@ -122,13 +122,13 @@ hướng San Fran. Nếu cậu quan tâm đến máy bay trực thăng thì nên
 {188}{}{Được, tôi sẽ đi theo lối đó.}
 {189}{}{Nghe này, tôi có mấy người bạn nhờ tôi tìm máy bay trực thăng. Họ nói
 chúng đến từ đây.}
-{190}{}{Enclave? Một nhóm gì đấy à? Chưa lọt lỗ tai lần nào. Cậu muốn
-làm gì với họ?}
-{191}{}{Me want join.}
-{192}{}{I want to join.}
-{193}{}{Join up? You're a tribal! What makes you think they'd want a tribal?}
-{194}{}{Join up? You're a tribal! What makes you think they'd want a tribal,
- and his posse no less?}
+{190}{}{Enclave? Một nhóm gì đấy à? Chưa nghe đến lần nào. Thế cậu
+muốn làm gì với họ?}
+{191}{}{Ngộ muốn gia nhập.}
+{192}{}{Tôi muốn tham gia.}
+{193}{}{Gia nhập? Cậu chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn một gã toọc chứ?}
+{194}{}{Gia nhập? Cậu chỉ là một tộc nhân! Cái gì khiến cậu nghĩ họ lại muốn
+một gã toọc tay không tấc sắt chứ?}
 {195}{}{Me serious. Me join Enclave.}
 {196}{}{Me serious. Me Join Enclave.}
 {197}{}{I'm serious. I'm looking to join the Enclave.}
