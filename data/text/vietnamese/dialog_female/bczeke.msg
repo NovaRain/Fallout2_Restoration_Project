@@ -79,6 +79,6 @@ Rebecca nói là cô có tìm thấy một lối vào gì đó ở chỗ chúng 
 mở được. Đây, cầm lấy.}
 {159}{}{Cám ơn.}
 {160}{}{Tôi có thể giúp gì đây?}
-{161}{}{Chỉ là vấn đề với NCR, nhưng đề nghị của cô đã giải quyết chuyện đó rồi.}
+{161}{}{Chỉ là vấn đề với NCR, nhưng đề nghị của cậu đã giải quyết chuyện đó rồi.}
 {162}{}{Cô làm được rồi, cô bạn! Chúng tôi không còn phải lo về Darion nữa. Cám ơn!}
 {163}{}{Giờ thì Darion không còn nữa và chúng tôi chẳng có cách nào để kiếm lương thực. Chắc chắn là chúng tôi sẽ tiêu tùng rồi! Cám ơn nhiều đấy.}
