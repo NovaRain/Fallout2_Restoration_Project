@@ -6,9 +6,9 @@
 {201}{}{[This sun bronzed giant looks as if his corded muscles were carved out of granite. Beneath a mane of black hair,
  his smoldering blue eyes roam unabashedly over your body.] I'm Krom, the head warrior of this tribe. By the Gods, girl,
  your beauty could drive a man mad.}
-{202}{}{I'm }
+{202}{}{Tôi là }
 {203}{}{, and I'm on a holy quest to save my village, Arroyo, from certain destruction.}
-{204}{}{I'm }
+{204}{}{Tôi là }
 {205}{}{, and I've been on a holy quest to save my village, Arroyo, from certain destruction. I found what I needed though.}
 {206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
 {207}{}{[Smile.] Thank you, Krom.}
@@ -132,7 +132,7 @@
  for the taking, but if word gets out that he came to trade with us and never returned, we'll be blacklisted among the traders.}
 {412}{}{Sorry, I guess I got carried away.}
 {413}{}{He was civilized scum and deserved death.}
-{414}{}{Oops.}
+{414}{}{Chẹp.}
 {420}{}{I see now that it was a mistake to task you with this. I'll be keeping a close eye on you during your time at our
  village. Now come, let us take care of this mess and be on our way.}
 {430}{}{The lying bastard got what he deserved. Let his fate be a lesson to any trader who thinks they can cheat our valuables from us.
