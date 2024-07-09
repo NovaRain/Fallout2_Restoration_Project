@@ -1,4 +1,4 @@
-{100}{}{You see a balding man in a lab coat.}
+{100}{}{Bạn thấy một ông hói mặc áo choàng thí nghiệm.}
 {101}{}{You see Tom Murray, the head of the Atomic Energy Commission.}
 {102}{}{You see a very nervous old man in a pristine lab coat.}
 {103}{}{My machine! My beautiful machine gone. (Sob, sob.)}
@@ -31,7 +31,7 @@
 {130}{}{Intruders! Alert!}
 {131}{}{Run for your lives! The primitives are loose!}
 {132}{}{Guards! Heeeeeeelllllp!}
-{133}{}{Intruder alert! Intruder alert!}
+{133}{}{Có kẻ đột nhập! Có kẻ đột nhập!}
 {134}{}{Shut it down? Are you crazed? You're not going to shut down *my* reactor.}
 {135}{}{Yes, I am. You better tell me how, or I'll shut you down, permanently.}
 {136}{}{Did I say shut down? I'm sorry, I just wanted to know how your reactor works.}

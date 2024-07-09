@@ -83,7 +83,7 @@
 {412}{}{I said talk to Metzger!}
 {413}{}{Okay, fine! You can talk to him, but that's it! He's not stepping a foot outside that room. Got it? Now beat it!}
 {414}{}{Okay.}
-{415}{}{Thanks!}
+{415}{}{Cám ơn!}
 {430}{}{Yeah, talk to Metzger. I'm sure he has some work available. I think he said he needed another man.}
 {431}{}{Yeah, talk to Metzger. I'm sure he has some work available. He said he needed another man... but I'm sure you'll do.}
 {432}{}{Talk to Metzger.}
@@ -103,7 +103,7 @@
 {474}{}{Sorry, can't afford that.}
 {480}{}{Fine, see if I care.}
 {481}{}{Okay.}
-{482}{}{Fine.}
+{482}{}{Được rồi.}
 {490}{}{No, sorry.}
 {491}{}{I said no. Now beat it. You've got to talk to Metzger.}
 {492}{}{Okay.}

@@ -5,7 +5,7 @@
 {103}{}{Greetings, human.}
 {104}{}{How may I serve you?}
 {105}{}{Who you be?}
-{106}{}{What you do?}
+{106}{}{Ông làm gì?}
 {107}{}{Brain hurt. Me come back later.}
 {108}{}{Hello, who are you?}
 {109}{}{What's your job?}
@@ -45,7 +45,7 @@
 {140}{}{Me}
 {141}{}{Chào.}
 {142}{}{Unauthorized personnel. Meaning 'people who do not have permission to be here.'}
-{143}{}{Ok. Me understand.}
+{143}{}{Ok. Ngộ hiểu.}
 {144}{}{Me get another of those headaches. Me go now.}
 {145}{}{My goal is to maintain as much patience as I can, in light of the fact that you are being rude.
  If you cannot deal with me civilly, then please leave.}

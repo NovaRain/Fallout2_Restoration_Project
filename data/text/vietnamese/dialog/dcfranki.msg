@@ -27,7 +27,7 @@
 {172}{}{No way! That's too much!}
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{No thanks.}
-{175}{}{Anything else?}
+{175}{}{Gì nữa không?}
 {176}{}{Đúng vậy.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
@@ -111,7 +111,7 @@
 {257}{}{Come on, baby.}
 {258}{}{Follow me.}
 {259}{}{No woman stands me up. Get the hell out!}
-{260}{}{Fine.}
+{260}{}{Được rồi.}
 {261}{}{I forgot; I had something else I had to attend to right away. Please forgive me, baby.}
 {262}{}{I decided I didn't want to sleep with your ugly ass after all.}
 {263}{}{Lucky for you, I'm a nice guy. Just don't pull that crap with me again.}

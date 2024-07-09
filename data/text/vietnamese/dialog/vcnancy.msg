@@ -52,7 +52,7 @@
 {151}{}{Well, welcome to Vault City, fellow Citizen.}
 {152}{}{We don't see many new faces around here. I'm Phyllis. What's your name?}
 {153}{}{My name's }
-{154}{}{I'm }
+{154}{}{Tôi là }
 {155}{}{If I wanted to give you my name, I would have told it to you, "Sy-phyllis"... or whatever the hell your name is.}
 {156}{}{Sorry, I don't have time to talk right now.}
 {157}{}{Why, of all the...! I have NEVER met someone as low-class as yourself. I suggest you leave. Now.}
@@ -70,7 +70,7 @@
 {169}{}{What do you think of Dr. Troy?}
 {170}{}{Can you tell me where the Central Computer is?}
 {171}{}{I need some healing.}
-{172}{}{What do you do here?}
+{172}{}{Ông làm gì ở đây?}
 {173}{}{Can you tell me about Vault City?}
 {174}{}{Actually, never mind. Thanks anyway.}
 {175}{}{Oh, Dr. Troy can be pretty strict sometimes, but all in all, he's a good man. Vault City's fortunate to have him.}

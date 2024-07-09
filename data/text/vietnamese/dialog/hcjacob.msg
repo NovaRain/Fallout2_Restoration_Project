@@ -127,7 +127,7 @@
 {280}{}{We're leaving town. You should too.}
 {281}{}{Come find me when I'm in the store and we'll talk.}
 {282}{}{Your ore is done. Here you go.}
-{283}{}{Thanks!}
+{283}{}{Cám ơn!}
 {284}{}{I'm not done with the ore yet. Give me some time.}
 {285}{}{I had other questions.}
 {286}{}{Okay. Bye.}
@@ -135,7 +135,7 @@
 {288}{}{Ready to try that distraction again?}
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
-{291}{}{Anything else?}
+{291}{}{Gì nữa không?}
 {292}{}{Đúng vậy.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}
@@ -148,7 +148,7 @@
 {301}{}{Sorry, friend, but... I just lost my two best friends. Those bastard muties killed them in prison.}
 {302}{}{Urrggg. Toooo badddd. Bye.}
 {303}{}{Uh... Gee. I'm really sorry. You have my condolences. Bye.}
-{304}{}{Oops.}
+{304}{}{Chẹp.}
 {305}{}{Oops? Did you say 'Oops?' You didn't have nothin' to do with this, did you?}
 {306}{}{It was an accident, I swear!}
 {307}{}{Hell no. Of course not! Damn muties!}

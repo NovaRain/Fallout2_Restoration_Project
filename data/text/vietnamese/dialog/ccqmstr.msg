@@ -26,7 +26,7 @@
 {121}{}{Well, you'll need your standard issue, then. Go into the armory,
  suit up, and take your weapon. You should report to the Drill Sergeant
  afterwards.}
-{122}{}{Thanks!}
+{122}{}{Cám ơn!}
 {123}{}{You're welcome. Now get out of here. I've got work to do and I
  don't want to be disturbed.}
 {124}{}{I'm busy right now. Come back later.}
@@ -35,10 +35,10 @@
 {126}{}{Đúng vậy.}
 {127}{}{This base is on alert and I don't recognize you. Show me your
  papers, soldier.}
-{128}{}{Me not have papers with on me.}
-{129}{}{Me no need papers!}
-{130}{}{I don't have my papers with me. They're in my footlocker.}
-{131}{}{Papers? I've got your papers right here!}
+{128}{}{Ngộ không có giấy tờ theo người.}
+{129}{}{Ngộ không cần giấy tờ!}
+{130}{}{Tôi không mang theo giấy tờ. Chúng ở trong hòm đồ rồi.}
+{131}{}{Giấy tờ? Tôi có giấy tờ ở đây này!}
 {132}{}{Wrong answer. You're to carry your papers with you at all times
  and you should know that!}
-{133}{}{Oops.}
+{133}{}{Chẹp.}

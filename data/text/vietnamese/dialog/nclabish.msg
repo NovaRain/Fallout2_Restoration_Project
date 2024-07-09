@@ -40,7 +40,7 @@
  I am Leslie Anne Bishop. }
 {251}{}{My husband is the head of the Bishop family here in New Reno. And YOU are...?}
 {252}{}{My late husband was the head of the Bishop family here in New Reno. And YOU are...?}
-{253}{}{My name is }
+{253}{}{Tên tôi là }
 {254}{}{I am a simple traveler.}
 {255}{}{I'm a traveler, looking for Vault 13. Have you heard of it?}
 {256}{}{I'm a traveler... do you know where I could find something called the 'Garden of Eden Creation Kit?'}
@@ -374,7 +374,7 @@
  Don't mention that place.}
 {736}{}{Chuyện gì đã xảy ra thế?}
 {740}{}{JOHN happened. I used to live there. He visited once, I was pleasantly charmed because he was so... rough, I guess. Different from most Vault Citizens. Of course, he let me try some drugs and... (Sighs.)}
-{741}{}{And?}
+{741}{}{Và?}
 {745}{}{They had memory enhancers for the Pip-Boys there. Had dictionaries
  and encyclopedias stored on them. Took one of the lingual enhancers when I left, though I don't know why.}
 {746}{}{Where is this enhancer?}

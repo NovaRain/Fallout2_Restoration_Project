@@ -117,7 +117,7 @@
 {366}{}{How about someone else?}
 {367}{}{Well, let me ask you another question then.}
 {368}{}{Okay.}
-{369}{}{Fine.}
+{369}{}{Được rồi.}
 {370}{}{Okay.}
 {371}{}{Not worth it.}
 {372}{}{Không.}
@@ -231,7 +231,7 @@
 {650}{}{Oh, don't worry. I'm sure I can find it in my heart to pay- I mean repay you. Men, it's payday.}
 {651}{}{Oh, don't worry. I'm sure I can find it in my heart to pay- I mean repay you. Men,
  take this bitch down.}
-{652}{}{Oops.}
+{652}{}{Chẹp.}
 {653}{}{Garaka!}
 {654}{}{Uh... Tank?}
 {670}{}{Oh, I'm sure. This line of work isn't to be taken lightly. It takes trust and loyalty. We watch each other's backs. Good policy don't you think?}
