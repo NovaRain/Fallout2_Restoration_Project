@@ -26,7 +26,7 @@
 {125}{}{Ok.}
 {126}{}{Ồ... Đm. Ngộ bắn mở đường.}
 {127}{}{Đm. Rút súng ra mở đường vào thôi.}
-{128}{}{Cái gì? Ồ, tôi hiểu rồi. Cậu làm hỏng con cún và Dornan bắt cậu đi dọn cứt.}
+{128}{}{Cái gì? Ồ, tôi hiểu rồi. Cô làm hỏng con cún và Dornan bắt cô đi dọn cứt.}
 {129}{}{Ờ... ngộ hỏng... chó cún và... cứt.}
 {130}{}{(tự nói chuyện) Chỉ huy. Nhân viên dọn dẹp đã đến, thưa chỉ huy. (dừng) Vâng, thưa chỉ huy. (nhìn bạn) Vào đi.}
 {131}{}{Cám ơn.}
@@ -34,17 +34,17 @@
 {133}{}{Đưa tôi xem lệnh nào.}
 {134}{}{Cám ơn.}
 {135}{}{Ồ, tôi không mang theo lệnh rồi.}
-{136}{}{(yên lặng) Chắc cậu đi lạc rồi. Đây là văn phòng chỉ huy căn cứ. Không ai được phép vào đây trừ khi cụ khốt gửi cậu đến.}
+{136}{}{(yên lặng) Chắc cô đi lạc rồi. Đây là văn phòng chỉ huy căn cứ. Không ai được phép vào đây trừ khi cụ khốt gửi cô đến.}
 {137}{}{Không ai đến đây? Mãi mãi?}
 {138}{}{Không ai gặp ông?}
-{139}{}{(yên lặng) Không ai cả. Ồ, chỉ có đội dọn dẹp thôi. Họ thường đến đây sau khoảng một tiếng nữa. Ngoài ra, nơi này cấm vào. Giờ thì tốt nhất cậu nên đi ra đi.}
+{139}{}{(yên lặng) Không ai cả. Ồ, chỉ có đội dọn dẹp thôi. Họ thường đến đây sau khoảng một tiếng nữa. Ngoài ra, nơi này cấm vào. Giờ thì tốt nhất cô nên đi ra đi.}
 {140}{}{Okay.}
 {141}{}{(tự nói chuyện) Chỉ huy. Nhân viên dọn dẹp đã đến, thưa chỉ huy. (dừng) Vâng, thưa chỉ huy. (nhìn bạn) Vào đi.}
 {142}{}{Đến sớm thế. Đúng giờ thì quay lại.}
 {143}{}{Okay.}
 {144}{}{Vậy thì quay lại chỗ trung tâm liên lạc và bảo họ in lại lệnh đi.}
 {145}{}{Okay.}
-{146}{}{Chắc là cậu đang tìm kho khí giới. Quay trở lại hành lang, rẽ phải và vào chỗ cửa đầu tiên bên trái. Cậu sẽ được cấp đồ tại đó.}
+{146}{}{Chắc là cô đang tìm kho khí giới. Quay trở lại hành lang, rẽ phải và vào chỗ cửa đầu tiên bên trái. Cô sẽ được cấp đồ tại đó.}
 {147}{}{Cám ơn.}
 {148}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
 {149}{}{Chúng ta đã bị xâm nhập! Báo động!}
@@ -55,7 +55,7 @@
 {154}{}{Chúng tao sẽ cho mày cạp đất!}
 {155}{}{Enclave sẽ thống trị cả thế giới!}
 {156}{}{Mày phải chết để Enclave tồn tại!}
-{160}{}{Cậu quay lại rồi. Cậu có mang theo lệnh lấy fob theo không?}
+{160}{}{Cô quay lại rồi. Cô có mang theo lệnh lấy fob theo không?}
 {161}{}{Chưa. Tôi sẽ đi lấy.}
 {162}{}{Ờ, đúng vậy. Tôi nói cho cậu là đội dọn dẹp sẽ đến và rồi cậu biến hình thành một nhân viên lau dọn.
 Cậu thậm chí còn chưa đi khuất khỏi mắt tôi. Đm cậu nghĩ tôi bị ngu à? Cút con mẹ nó khỏi đây ngay!}
