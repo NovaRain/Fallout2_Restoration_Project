@@ -203,9 +203,10 @@
 {232}{}{Ich bin mir nicht so sicher, wie die Leute hier in Redding auf eine Vault City
  Herrschaft reagieren würden.}
 {233}{}{Ja, zweifellos. Wiedersehn, Doc.}
-{234}{}{I fill the user-ampoules with Jet and then distribute it purely as a service to the people of
- Redding. I don't make a profit doing it. If I didn't do it, then some other quack would be preparing
- the drug with germ-encrusted, rusty equipment. I'd never get this population disease-free after that.}
+{234}{}{Füllen und Verteilen der Jet-Ampullen ist ein Gefallen für die Leute von Redding. Ich
+ mache damit keine Geschäfte. Wenn ich es nicht täte, würde irgendso ein Quacksalber die Droge
+ mit verkeimter, rostiger Ausrüstung aufbereiten. Danach würde ich die Bevölkerung nie wieder
+ gesund kriegen.}
 {235}{}{Was für'n netter Kerl du doch bist, Doc. Das finde ich toll. Lass mich dich noch etwas
  fragen.}
 {236}{}{Wie *nobel* von dir, Doc.}
