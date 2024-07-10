@@ -89,7 +89,7 @@
 {188}{}{Those two escaped convicts? They're in cahoots with Jacob and Aileen. They're hiding out around Jacob's Drugstore.}
 {189}{}{Jacob és Aileen megkért, hogy segítsek nekik kihozni két embert a börtönből. Azt hiszem, van kész tervük is rá.}
 {190}{}{Jacob és Aileen azt akarják, hogy robbantsam fel a bányát. Gondoltam, jobb ha tudsz róla.}
-{191}{}{A scientist from NCR wants to try an experimental drug that'll wipe out mutants. Be careful of what you eat and drink.}
+{191}{}{Egy ÚKK-s tudós azt akarta, hogy próbáljak itt ki egy kísérleti mutánsölő szérumot. Jobb lesz, ha figyeltek rá, hogy mit esztek és isztok!}
 {192}{}{It looks like you were right about Chad skimming money. He lied to the Gecko rep about a miners' strike to justify a price hike. I'm guessing he's pocketing the profit.}
 {193}{}{Chad kept about $1000 from the last uranium shipment for himself. He's planning on bailing outta town. I got a briefcase of documents to prove it.}
 {194}{}{Semmi. Felejtsd el!}

@@ -9,8 +9,8 @@
 {108}{}{Wilder Kämpfer}
 {109}{}{Verhext}
 {110}{}{Umgänglich}
-{111}{}{Drug Reliant}
-{112}{}{Drug Resistant}
+{111}{}{Anfällig}
+{112}{}{Stabil}
 {113}{}{Sex Appeal}
 {114}{}{Versiert}
 {115}{}{Begabt}
