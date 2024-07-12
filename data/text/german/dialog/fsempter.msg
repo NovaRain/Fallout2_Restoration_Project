@@ -275,9 +275,9 @@ Achtung! Verbindung zum CGN Zentralserver Peking nicht verfügbar. Rufe Archivda
  und es ist nicht genug um damit lange durchzuhalten. Die Mannschaft wird unruhig.}
 {501}{}{Weiterlesen.}
 {502}{}{::zurück::}
-{510}{}{2077-11-08: The Emperor is back online, but barely. We still have no navigation and the crew is on the verge of
- mutiny - I had to stop two sailors from beating up Jing. The situation is dire. Unless we surface in the next few days,
- I fear we will kill each other.}
+{510}{}{8.11.2077: Der Kaiser funktioniert wieder, aber nur notdürftig. Wir haben immer noch keine Navigation und die Mannschaft ist am
+ Rande einer Meuterei - ich musste zwei Seeleute davon abhalten, Jing zusammenzuschlagen. Die Lage ist verheerend. Wenn wir in den
+ nächsten Tagen nicht auftauchen, fürchte ich, dass wir uns gegenseitig umbringen.}
 {511}{}{Weiterlesen.}
 {512}{}{::zurück::}
 {520}{}{12.11.2077: Endlich! Wir liefen in der San Francisco Bucht auf Grund. Die Matrosen jubelten, bis die Luken aufgeschnitten waren.
