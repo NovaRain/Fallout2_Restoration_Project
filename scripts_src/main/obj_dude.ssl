@@ -194,15 +194,15 @@ procedure timed_event_p_proc begin
       reg_anim_end();
    end else if (fixed_param == SMOKE_POWER) then begin
       script_overrides;
-   	reg_anim_clear(self_obj);
-   	reg_anim_begin();
-   	reg_anim_animate(self_obj, ANIM_falling, -1);
-   	reg_anim_play_sfx(self_obj, "powr", 6);
-   	reg_anim_animate(self_obj, ANIM_jump_begin, -1);
-   	reg_anim_play_sfx(self_obj, "zippo", 9);
-   	reg_anim_animate_reverse(self_obj, 5, -1);
-   	reg_anim_play_sfx(self_obj, "powrb", 8);
-   	reg_anim_end();
+      reg_anim_clear(self_obj);
+      reg_anim_begin();
+         reg_anim_animate(self_obj, ANIM_falling, -1);
+         reg_anim_play_sfx(self_obj, "powr", 6);
+         reg_anim_animate(self_obj, ANIM_jump_begin, -1);
+         reg_anim_play_sfx(self_obj, "zippo", 9);
+         reg_anim_animate_reverse(self_obj, 5, -1);
+         reg_anim_play_sfx(self_obj, "powrb", 8);
+      reg_anim_end();
    end else if (fixed_param == HIGH_SEQUENCE) then begin
       if (count == 3) then begin
          float_msg(dude_obj, message_str(SCRIPT_ZISMOKE,210), FLOAT_MSG_GREEN);
@@ -404,45 +404,45 @@ procedure use_obj_on_p_proc begin
       if ((dude_is_male) and (obj_pid(obj_being_used_with) == PID_CIGARETTE)) then begin
          if not (combat_is_initialized) then begin
             if ( ((obj_pid(dude_armor) == PID_POWERED_ARMOR) or (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
-            	script_overrides;
-            	if (local_var(LVAR_Smoke_Count) == 0) then
-            	  display_msg(message_str(SCRIPT_ZISMOKE, 100));
-            	else
-            	  display_msg(message_str(SCRIPT_ZISMOKE, 101));
+               script_overrides;
+               if (local_var(LVAR_Smoke_Count) == 0) then
+                  display_msg(message_str(SCRIPT_ZISMOKE, 100));
+               else
+                  display_msg(message_str(SCRIPT_ZISMOKE, 101));
 
-            	add_timer_event(dude_obj, 1, SMOKE_POWER);
+               add_timer_event(dude_obj, 1, SMOKE_POWER);
 
-            	set_local_var(LVAR_Smoke_Count,local_var(LVAR_Smoke_Count)+1);
+               set_local_var(LVAR_Smoke_Count, local_var(LVAR_Smoke_Count) + 1);
 
-            	if ((local_var(LVAR_Smoke_Count)%10) == 0) then begin
+               if ((local_var(LVAR_Smoke_Count) % 10) == 0) then begin
                   script_overrides;
                   display_msg(message_str(SCRIPT_ZISMOKE, 103));
-                  set_global_var(GVAR_PLAYER_SMOKER,1);
+                  set_global_var(GVAR_PLAYER_SMOKER, 1);
                   rm_obj_from_inven(dude_obj,obj_being_used_with);
                end
 
             end
 
             else if ( (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
-            	script_overrides;
+               script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 102));
             end
 
             else if ((source_obj == dude_obj) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
-            	script_overrides;
-            	if (local_var(LVAR_Smoke_Count) == 0) then
-            	  display_msg(message_str(SCRIPT_ZISMOKE, 100));
-            	else
-            	  display_msg(message_str(SCRIPT_ZISMOKE, 101));
+               script_overrides;
+               if (local_var(LVAR_Smoke_Count) == 0) then
+                  display_msg(message_str(SCRIPT_ZISMOKE, 100));
+               else
+                  display_msg(message_str(SCRIPT_ZISMOKE, 101));
 
-            	add_timer_event(dude_obj, 1, SMOKE_NONPOWER);
+               add_timer_event(dude_obj, 1, SMOKE_NONPOWER);
 
-            	set_local_var(LVAR_Smoke_Count,local_var(LVAR_Smoke_Count)+1);
+               set_local_var(LVAR_Smoke_Count, local_var(LVAR_Smoke_Count) + 1);
 
-               if ((local_var(LVAR_Smoke_Count)%10) == 0) then begin
+               if ((local_var(LVAR_Smoke_Count) % 10) == 0) then begin
                   script_overrides;
                   display_msg(message_str(SCRIPT_ZISMOKE, 103));
-                  set_global_var(GVAR_PLAYER_SMOKER,1);
+                  set_global_var(GVAR_PLAYER_SMOKER, 1);
                   rm_obj_from_inven(dude_obj,obj_being_used_with);
                end
             end
@@ -460,23 +460,23 @@ procedure use_obj_on_p_proc begin
          if not (combat_is_initialized) then begin
             game_ui_disable;
             if ( ((obj_pid(dude_armor) == PID_POWERED_ARMOR) or (obj_pid(dude_armor) == PID_HARDENED_POWER_ARMOR)) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
-            	script_overrides;
-            	display_msg(message_str(SCRIPT_ZISMOKE, 200));
+               script_overrides;
+               display_msg(message_str(SCRIPT_ZISMOKE, 200));
 
-            	add_timer_event(dude_obj, 1, SMOKE_POWER);
+               add_timer_event(dude_obj, 1, SMOKE_POWER);
 
             end
 
-            else if ( (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2) ) then begin
-            	script_overrides;
+            else if ((obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR) or (obj_pid(dude_armor) == PID_ADVANCED_POWER_ARMOR_MK2)) then begin
+               script_overrides;
                display_msg(message_str(SCRIPT_ZISMOKE, 102));
             end
 
             else if ((source_obj == dude_obj) and (dude_item_count(PID_LIGHTER) >= 1)) then begin
-            	script_overrides;
-            	display_msg(message_str(SCRIPT_ZISMOKE, 200));
+               script_overrides;
+               display_msg(message_str(SCRIPT_ZISMOKE, 200));
 
-            	add_timer_event(dude_obj, 1, SMOKE_NONPOWER);
+               add_timer_event(dude_obj, 1, SMOKE_NONPOWER);
 
             end
 
@@ -563,24 +563,6 @@ procedure use_obj_on_p_proc begin
             gfade_in(ONE_GAME_SECOND);
             script_overrides;
             scr_return(1);
-         end else if (obj_pid(obj_being_used_with) == PID_MAGIC_8_BALL) then begin
-            script_overrides;
-            if (dude_luck <= 3) then
-               temp := random( 199, 228 );
-            else if (dude_luck < 9) then
-               temp := random( 200, 228 );
-            else if ( dude_luck >= 9 ) then
-               temp := random( 200, 243 );
-            if (temp == 232) then begin
-               set_global_var(GVAR_8_BALL_TOILET_SECRET, true);
-            end else if (temp == 233) then begin
-               set_global_var(GVAR_8_BALL_TRASH_SECRET, true);
-            end else if (temp == 243) then begin
-               set_global_var(GVAR_8_BALL_VAULT_TERMINAL, 1);
-            end
-            script_overrides;
-            display_msg(message_str(SCRIPT_ZI8BALL, temp));
-            scr_return(0);
          end else if (obj_pid(obj_being_used_with) == PID_ENCLAVE_HOLODISK_5) then begin
             script_overrides;
             if (global_var(GVAR_HOLODISK_MB_OUTSIDE) != DOWNLOAD_HOLODISK) then begin
