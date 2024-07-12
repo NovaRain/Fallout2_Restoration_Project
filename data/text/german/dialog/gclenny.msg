@@ -228,7 +228,8 @@
 {6012}{}{Nein. Ich versiche einen gebrechlichen, alten Mann zu ermorden und habe versucht, etwas Kreativeres zu finden, als mich anzuschleichen und eine Papiertüte zu knallen.}
 {6013}{}{Schiebe es einfach auf akademische Neugier, denke ich.}
 {6020}{}{Heh. Kein Grund, b'bissig zu werden.}
-{6021}{}{Well, mostly, it's just c'common sense stuff. Eatin' right, steerin' c'clear of the harder c'chems, that sorta thing. K'keepin' stress to a m'minimum. B'basically, livin' m'more like an old l'lady, and less like... well, us. Heh. O'course, the b'best thing you could d'do would probably be to t'tamp it down with some c'cardiac regulators, m'maybe some v'vasodilators.}
+{6021}{}{Naja, hauptsächlich, ist es normales Zeug. Richtig essen, Finger w'weg von den D'drogen, die Art von Zeug.
+N'nicht zu viel S'stress. Im G'grunde, leben wie e'eine alte D'dame, und nicht wie... naja, wir. Heh. N'natürlich, das b'beste was du t'tun kannst ist w'wahrscheinlich einen H'herzschrittmacher einzusetzen oder v'vielleicht ein paar V'vasodilatatoren.}
 {6022}{}{Herz was jetzt?}
 {6023}{}{Hmm. Herztabletten.}
 {6030}{}{Lass mal sehen... (Lenny murmelt vor sich hin, als er das Etikett liest.)}
