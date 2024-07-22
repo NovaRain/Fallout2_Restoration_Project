@@ -6,7 +6,7 @@
 {105}{}{Đi tiếp đi. Cổng ở lối đó.}
 {106}{}{Tốt nhất là nên đi xin cấp đồ đi.}
 {107}{}{Đừng có đi loanh quanh mà không mặc quân phục.}
-{108}{}{Cậu nhập ngũ rồi. Đừng có để bị tóm lúc không mặc quân phục.}
+{108}{}{Cô nhập ngũ rồi. Đừng có để bị tóm lúc không mặc quân phục.}
 {109}{}{Có kẻ đột nhập ở cổng chính!}
 {110}{}{Rung chuông báo động lên! Có kẻ đột nhập!}
 {111}{}{Gửi tiếp viện đến cổng chính đi. Chúng ta đang bị đột nhập!}
