@@ -103,7 +103,7 @@
 {193}{}{! Well done! Bravo!}
 {194}{}{Oh, I will for sure! I wish there were more people who did, too.}
 {195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
-{196}{}{Really? Used to?}
+{196}{}{Är det sant? Brukade du göra det?}
 {197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
 {198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
 {199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
