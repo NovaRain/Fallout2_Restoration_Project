@@ -216,7 +216,21 @@ procedure move_critical_items begin
       PID_VIC_WATER_FLASK,
       PID_WESTIN_HOLO,
       PID_YELLOW_PASS_KEY,
-      PID_YELLOW_REACTOR_KEYCARD
+      PID_YELLOW_REACTOR_KEYCARD,
+
+      // RPU
+      // repurposed vanilla items
+      PID_MOTIVATOR,           // Abbey
+      PID_HEART_PILLS,         // Cassidy & Abbey
+      // RP added
+      PID_BUCKET,              // Umbra tribe
+      PID_ABBEY_MISSING_BOOK,  // Abbey
+      PID_EPA_BOTANY_HOLODISK, // Abbey
+      PID_EXPERIMENTAL_SEEDS,  // SanFran/Dr.Sheng
+      PID_ERSI,                // EPA companion
+      PID_DR_SHENG_PLANT_SEED, // SanFran/Dr.Sheng
+      PID_FAKE_HEART_PILLS
+      // end RPU
    ];
    foreach pid in pids begin
       if (obj_is_carrying_obj_pid(self_obj, pid) > 0) then begin
