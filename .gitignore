@@ -4,6 +4,8 @@
 *.exe
 *.int
 *.log
+*.orig
+*.rej
 *.tmp
 *.zip
 **/.tmp.ssl
