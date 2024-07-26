@@ -71,8 +71,6 @@ procedure destroy_p_proc begin
       tail := create_object(PID_SCORPION_TAIL,0,0);
 
    add_obj_to_inven(self_obj,tail);
-
-   //inc_evil_critter - comment out by killap (expansion)
 end
 
 procedure damage_p_proc begin
