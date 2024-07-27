@@ -231,4 +231,4 @@
 {30000}{}{Ah, ça fait du bien. Je crois que je pourrais mieux m'en tirer maintenant.}
 {30001}{}{Wahou, j'me sens vraiment différent. Ces pilules marchent vraiment.}
 {30100}{}{Ouais, pourquoi pas... Ca m'aidera à me sentir moins vivant.}
-{30300}{}{[Next]}
+{30300}{}{[Suivant]}
