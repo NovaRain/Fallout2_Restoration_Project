@@ -5,7 +5,7 @@
 {201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
  I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
  warped brain of yours.}
-{202}{}{Who are you?}
+{202}{}{Vem är du?}
 {203}{}{Where can I barter for some supplies?}
 {204}{}{Somebody is digging up graves, why don't you do anything about it?}
 {205}{}{I heard something about animals in the basement. Know anything about that?}
