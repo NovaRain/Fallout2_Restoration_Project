@@ -26,7 +26,7 @@
 {171}{}{Here's your money.}
 {172}{}{No way! That's too much!}
 {173}{}{Why does your whiskey cost so much more than Becky's?}
-{174}{}{No thanks.}
+{174}{}{Nej tack.}
 {175}{}{Anything else?}
 {176}{}{Ja.}
 {177}{}{Nope, thanks.}
@@ -69,7 +69,7 @@
 {214}{}{Damn! Well, in the mean time she'll have no booze.}
 {215}{}{Why fight her, Frankie? Join her.}
 {216}{}{Think. Where else can you get liquor?}
-{217}{}{What do you mean?}
+{217}{}{Vad menar du?}
 {218}{}{Buy liquor from her. It's cheaper than New Reno's, so you'll make more money, too.}
 {219}{}{I don't want to do this.}
 {220}{}{Never mind.}

@@ -14,7 +14,7 @@
 {112}{}{Why D'claw in other room?}
 {113}{}{Why doggie by door no move? No nothing?}
 {114}{}{Me got go now.}
-{115}{}{Who are you?}
+{115}{}{Vem är du?}
 {116}{}{What do you do here?}
 {117}{}{Vad är det här för ställe?}
 {118}{}{Why is this room soundproofed?}
@@ -135,6 +135,6 @@
 {197}{}{I didn't sign up for combat, so leave me alone.}
 {198}{}{Damn it! I'm a doctor not a soldier!}
 {200}{}{[MER]}
-{201}{}{I wanted to ask you some questions.}
+{201}{}{Jag vill ställa några frågor till dig.}
 {202}{}{Not right now. Sorry to bother you.}
 {800}{}{You killed Doctor Schreber.}

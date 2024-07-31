@@ -16,7 +16,7 @@
 {115}{}{San-tah Klass?}
 {116}{}{Shamble off}
 {117}{}{Can I ask you some questions?}
-{118}{}{Who are you?}
+{118}{}{Vem är du?}
 {119}{}{Just looking around, thanks. Good day.}
 {120}{}{How did you get into our City? Guards! We have an Outworlder that needs to be escorted to the gate!}
 {121}{}{I go no I GO NO}
@@ -167,7 +167,7 @@
 {266}{}{If it is money you want, money you will receive. Here's $500 for your troubles. Now good day.}
 {267}{}{THANK you.}
 {268}{}{Five hun --? You better cough up some more and fast, or your life won't be worth $2.}
-{269}{}{What do you mean?}
+{269}{}{Vad menar du?}
 {270}{}{If I had a hydroelectric magnetosphere regulator, I could make their plant run clean.}
 {271}{}{Oh, nothing. Sorry to trouble you.}
 {272}{}{That's an acceptable solution. Stopping the radiation poisoning is all I care about.}

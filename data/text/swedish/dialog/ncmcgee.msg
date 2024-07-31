@@ -105,8 +105,8 @@
 {391}{}{Who you}
 {392}{}{ wanna play machine}
 {393}{}{Wander off}
-{394}{}{Who are you?}
-{395}{}{What are you doing?}
+{394}{}{Vem är du?}
+{395}{}{Vad är det du gör?}
 {396}{}{Mind if I give it a pull?}
 {397}{}{Nothing. Sorry to bother you.}
 {405}{}{(A series of symbols roll by on the slot machine, and there is a *bzzzzt*) Dammmit!

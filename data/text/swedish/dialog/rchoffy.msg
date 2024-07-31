@@ -11,7 +11,7 @@
 {110}{}{I hear that you had some trouble with some of your caravans. Everyone has trouble sometimes -
  just don't make a habit of it.}
 {111}{}{I hear you did some caravan work already. That's good. There's always room for good caravan guards.}
-{112}{}{Who are you?}
+{112}{}{Vem är du?}
 {113}{}{Are there any caravans ready to go out now?}
 {114}{}{Where do the caravans from Redding usually go?}
 {115}{}{Hear any news around town lately?}
@@ -84,7 +84,7 @@
 {163}{}{Let me ask you something.}
 {164}{}{I just thought I'd check. Thanks and goodbye for now.}
 {165}{}{Nope, no problem at all. You know that you're messing around with politics with that, don't ya?}
-{166}{}{What do you mean?}
+{166}{}{Vad menar du?}
 {167}{}{Yeah, sure. Goodbye.}
 {168}{}{Well, whichever mine owner you give the chip to is gonna do real well with it. Well enough to
  put the other mine outta business.}

@@ -6,12 +6,12 @@
 {105}{}{ successfully disarms the trap.}
 {106}{}{ fail to disarms the trap.}
 {107}{}{ accidentally sets off the trap.}
-{200}{}{Thank you.}
+{200}{}{Tack.}
 {201}{}{Good Day.}
 {202}{}{Tack.}
 {203}{}{Tack!}
 {204}{}{No thank you.}
-{205}{}{No thanks.}
+{205}{}{Nej tack.}
 {206}{}{Visst.}
 {207}{}{Ja.}
 {208}{}{Nej.}

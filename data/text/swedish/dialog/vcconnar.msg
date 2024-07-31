@@ -14,14 +14,14 @@
 {113}{}{They didn't tell me that.}
 {114}{}{They're paying me to get rid of them, and the job's done.}
 {115}{}{You idiot! Why the hell did you do that!}
-{116}{}{I needed the money.}
-{117}{}{They'll come for us if you do that, you know.}
-{118}{}{Not my problem.}
+{116}{}{Jag behövde pengarna.}
+{117}{}{De kommer att komma efter oss om du gör det, vet du.}
+{118}{}{Inte mitt problem.}
 {119}{}{Well I hope you choke on it. They'll be here for us soon.}
-{120}{}{I didn't know this was why they wanted the job done.}
+{120}{}{Jag visste inte att det var därför de ville ha jobbet gjort.}
 {121}{}{Yeah, well, I don't deal with trash like you anyway.}
-{122}{}{Well, we can't let you do that.}
-{123}{}{You gotta do what you gotta do.}
+{122}{}{Vi kan inte låta dig göra det.}
+{123}{}{Du måste göra det du måste göra.}
 {124}{}{You believed them at face value? You've a lot to learn about the world, friend.}
 {125}{}{Is there anything I could do to help?}
 {126}{}{The Vault City boys aren't the bravest. You show them any kind of a fight and they run for the

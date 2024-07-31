@@ -54,7 +54,7 @@
 {153}{}{Just keepin' things in line here.}
 {154}{}{Play nice.}
 {155}{}{Keep things nice and frosty.}
-{156}{}{Move along.}
+{156}{}{Gå vidare.}
 {157}{}{Nothing to see here.}
 {158}{}{Have a nice day.}
 {159}{}{Welcome to Ascorti's.}
@@ -85,7 +85,7 @@
 {184}{}{I can't believe you're pulling that shit right in front of us.}
 {185}{}{Uh, excuse me. KNOCK THAT SHIT OFF!}
 {186}{}{Stop fucking with the door, you idiot.}
-{187}{}{What are you doing?}
+{187}{}{Vad är det du gör?}
 {188}{}{Sheesh, just a lower quality of criminals every day. }
 {189}{}{Step away from the door.}
 {190}{}{Don't touch that door again.}
