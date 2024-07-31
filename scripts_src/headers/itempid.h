@@ -573,7 +573,7 @@
 
 
 /******************************************************************
-***************       RP                ***************
+***************       RP Items                      ***************
 ******************************************************************/
 #define PID_BUCKET                          (534)  // added by killap - expansion pack (Primitive Tribe)
 #define PID_FISH                            (535)  // added by killap - expansion pack (Primitive Tribe)
