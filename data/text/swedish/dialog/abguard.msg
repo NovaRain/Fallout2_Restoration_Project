@@ -41,6 +41,6 @@
 {611}{}{I'll see what I can do. In the meantime, let me ask you something else.}
 {612}{}{Hej då.}
 {613}{}{I am a tough guy, which is why I'm gonna kick your ass.}
-{700}{}{What else do you want to know?}
+{700}{}{Vad mer vill du veta?}
 {800}{}{It's good to see you again.}
 {801}{}{I'm keeping my eye on you.}
