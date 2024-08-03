@@ -7,7 +7,7 @@
 {203}{}{Jag är ledsen, men jag har inte tid med någon med din intelligens.}
 {300}{}{Ja?}
 {301}{}{Ni har verkligen många datorer här.}
-{302}{}{What can you tell me about the Abbey?}
+{302}{}{Vad kan du berätta om Klostret?}
 {303}{}{Berätta om er ledare.}
 {304}{}{Do you have any info about a GECK?}
 {305}{}{Do you know where I could find Vault 13?}

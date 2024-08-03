@@ -1,16 +1,16 @@
-{100}{}{You see a stout nun.}
-{101}{}{You see Elaine.}
-{102}{}{You still see her.}
+{100}{}{Du ser en stark nunna.}
+{101}{}{Du ser Elaine.}
+{102}{}{Du ser henne fortfarande.}
 {200}{}{Hälsningar!}
-{201}{}{Hi, what's your name?}
-{202}{}{What can you tell me about the Abbey?}
+{201}{}{Hej, vad heter du?}
+{202}{}{Vad kan du berätta om Klostret?}
 {203}{}{Hej då.}
 {300}{}{If you want to know more about our order, talk to the Abbot. You can find him in his quarters on the third floor.}
 {301}{}{I see. A few more questions...}
 {400}{}{Of course. What would you like to know?}
 {401}{}{Vad heter du?}
 {402}{}{Nothing really, bye.}
-{403}{}{What can you tell me about the Abbey?}
+{403}{}{Vad kan du berätta om Klostret?}
 {500}{}{My name is Elaine.}
 {501}{}{I see. A few more questions...}
 {600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
