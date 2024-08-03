@@ -52,4 +52,4 @@ något annat.}
 {308}{}{Well, thanks for the information. See you around.}
 {400}{}{Found everything you need?}
 {401}{}{Actually, I'd like to take another look at your goods.}
-{402}{}{Yes I did. See you around.}
+{402}{}{Ja, det gjorde jag. Vi ses.}

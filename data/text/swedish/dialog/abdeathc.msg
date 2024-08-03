@@ -1,3 +1,3 @@
-{100}{}{You see a mean looking deathclaw.}
-{101}{}{You see a huge deathclaw covered with scars. It is breathing slowly and loudly.}
-{102}{}{You gain 500 experience points for killing the beast.}
+{100}{}{Du ser en dödsklo som ser elak ut.}
+{101}{}{Du ser en enorm dödsklo täckt av ärr. Den andas långsamt och ljudligt.}
+{102}{}{Du får 500 erfarenhetspoäng för att döda odjuret.}
