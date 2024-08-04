@@ -98,7 +98,7 @@
 {332}{}{Alright, but I need to take care of some things first. I'll let you know when I'm ready to go.}
 {340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
 {341}{}{Alright. Suit yourself. Bye.}
-{350}{}{What do you want?}
+{350}{}{Vad vill du?}
 {351}{}{I just wanted to say hi. See ya.}
 {352}{}{I changed my mind. I'll format the computer for you.}
 {353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
