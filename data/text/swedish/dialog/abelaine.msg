@@ -13,9 +13,9 @@
 {403}{}{Vad kan du berätta om Klostret?}
 {500}{}{Jag heter Elaine.}
 {501}{}{Jag förstår. Några fler frågor...}
-{600}{}{Hey! Before you go, perhaps you could do me a favor. I'm supposed to bring this machine part to Max in the
- basement copy room. But you see, my left knee has been acting up lately, and it's a real pain for me to go up and down
- all those stairs. Would it trouble you too much to bring him this part for me?}
+{600}{}{Innan du går, kanske du kan göra mig en tjänst. Jag ska ta den här maskindelen till Max i
+ kopieringsrummet i källaren. Men du förstår, mitt vänstra knä har krånglat på sistone, och det är en riktig smärta för mig att gå upp och ner
+ alla dessa trappor. Skulle det besvära dig alltför mycket att ge honom den här delen åt mig?}
 {601}{}{Visst.}
 {602}{}{Sorry, I don't have time for this. Bye.}
 {603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
