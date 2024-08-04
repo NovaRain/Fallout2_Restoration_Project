@@ -1,6 +1,6 @@
 {100}{}{You see a bespectacled young monk.}
-{101}{}{You see Brother Jason.}
-{102}{}{This monk seems to be brooding.}
+{101}{}{Du ser broder Jason.}
+{102}{}{Den här munken verkar grubbla.}
 {200}{}{[The young monk quickly pockets a deck of "Tragic" cards as you approach.] What do you want?}
 {201}{}{Nothing from you. Bye.}
 {202}{}{I want to know why you just hid that card deck from me.}
