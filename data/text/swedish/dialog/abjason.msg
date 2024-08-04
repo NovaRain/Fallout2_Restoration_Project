@@ -114,7 +114,7 @@
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
  I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
  [He hands you a Stealth Boy.] See ya.}
-{373}{}{Thanks. Bye.}
+{373}{}{Tack. Hej då.}
 {374}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
 {380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.

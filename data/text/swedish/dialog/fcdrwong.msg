@@ -12,7 +12,7 @@
 {111}{}{Aagh!}
 {112}{}{I am Dr. Wong. I am the head scientist of this installation.}
 {113}{}{More questions, please.}
-{114}{}{Thanks. Bye.}
+{114}{}{Tack. Hej då.}
 {115}{}{I oversee the scientific experiments we create and run here. I also am in charge of the computer network.}
 {116}{}{What are you planning?}
 {117}{}{How does one get access to the computer network?}
@@ -20,7 +20,7 @@
 {119}{}{I see. Bye.}
 {120}{}{Ah, but if I tell you our plans, then everyone will know. I'm afraid they are secret plans, for now.}
 {121}{}{Fine, fine. I have other questions.}
-{122}{}{Thanks. Bye.}
+{122}{}{Tack. Hej då.}
 {123}{}{How about if I stick a gun under your nose and force you to tell me?}
 {124}{}{Why, one learns how to hack into it, or how to make friends with one of my underlings. I'm joking, of course, about hacking into it - if you were to do that, I'd send someone after you to kill you. [He smiles to show he means no offense.]}
 {125}{}{Would you really kill me?}
@@ -155,7 +155,7 @@
 {514}{}{Actually, I went through quite a bit of trouble to get that sample for you. I think it's worth a reward.}
 {520}{}{Do you, now? The Shi did not solicit this plant sample from you, but if you feel your deeds have earned some compensation, I suppose we could spare this. [He hands you a super stimpak.] Now I really should be getting back to work.}
 {521}{}{Actually, I would like to ask you something else.}
-{522}{}{Thanks. Bye.}
+{522}{}{Tack. Hej då.}
 {523}{}{Really? You call this a reward? I'm gonna knock you around until something more valuable falls out.}
 {530}{}{[Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.}
 {531}{}{I agree. He's quite the madman.}
