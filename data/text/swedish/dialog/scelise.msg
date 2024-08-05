@@ -1,7 +1,7 @@
 {100}{}{You see a pretty young woman dressed in combat clothes.}
 {101}{}{It's Elise.}
 {102}{}{She's got a no-nonsense air about her, like she's used to giving orders and having folks obey them.}
-{103}{}{What do you want?}
+{103}{}{Vad vill du?}
 {104}{}{You again?}
 {105}{}{Karl sent me.}
 {106}{}{Doc Jubilee said I should talk to you.}
@@ -136,7 +136,7 @@
 {273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
 {274}{}{You're welcome. Now why don't you tell me who you are?}
 {280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
-{281}{}{Thanks. Bye.}
+{281}{}{Tack. Hej då.}
 {282}{}{Thanks. Now why don't you tell me who you are?}
 {290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
 {291}{}{Let's hear it.}

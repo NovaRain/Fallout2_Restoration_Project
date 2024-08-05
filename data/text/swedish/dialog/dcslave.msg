@@ -27,7 +27,7 @@
 {330}{}{What did we do wrong?}
 {331}{}{Leave us alone, slaver!}
 {332}{}{Gör mig inte illa!}
-{333}{}{Get away from me!}
+{333}{}{Försvinn från mig!}
 {350}{}{Who you?}
 {351}{}{You no slaver.}
 {352}{}{You no hurt?}
@@ -104,7 +104,7 @@
 {475}{}{Wait. I look for someone. Where more slaves?}
 {476}{}{Thankee. Go now!}
 {480}{}{What you want?}
-{481}{}{What do you want?}
+{481}{}{Vad vill du?}
 {482}{}{Oh, nothing.}
 {500}{}{Vadå?}
 {501}{}{Never mind. You're free to go. Metzger's dead.}

@@ -5,7 +5,7 @@
 {104}{}{Wha?}
 {105}{}{Who are YOU?}
 {106}{}{Jag är}
-{107}{}{None of your business.}
+{107}{}{Det angår inte dig.}
 {108}{}{Nothing. I'm leaving now.}
 {109}{}{You don't belong here if you're an imbecile. Run along now, before I call the guards.}
 {110}{}{You really don't understand me, do you? Perhaps you will understand the guards. Guards! Intruder!}
@@ -49,7 +49,7 @@
 {148}{}{How about some money? I think $}
 {149}{}{I decided I'd rather keep it.}
 {150}{}{Consider it done. I'll make the adjustments shortly. Now, if you'll excuse me, I must get back to work.}
-{151}{}{Thanks. Bye.}
+{151}{}{Tack. Hej då.}
 {152}{}{So much? Ah! Yet, for such a powerful suit of armor to study... very well. Here is your money.}
 {153}{}{Thanks. So long.}
 {154}{}{You want to keep it? Very well. If you should change your mind, let me know.}
@@ -62,7 +62,7 @@
 {161}{}{Because I have some questions.}
 {162}{}{I have no idea. Goodbye.}
 {163}{}{Do not try my patience.}
-{164}{}{What do you want?}
+{164}{}{Vad vill du?}
 {165}{}{What do you do here?}
 {166}{}{I'm here to obtain fuel for the Poseidon Oil Tanker.}
 {167}{}{I'm here to obtain fuel for the Hubologists.}

@@ -2,7 +2,7 @@
 {101}{}{You see Ken Lee, advisor to the Emperor.}
 {102}{}{You see a stocky Shi man wearing glasses and a half-smile.}
 {103}{}{What would you like, friend?}
-{104}{}{What do you want?}
+{104}{}{Vad vill du?}
 {105}{}{What can I do for you?}
 {106}{}{You?}
 {107}{}{Vem är du?}
@@ -63,11 +63,11 @@
 {162}{}{Ska ske.}
 {163}{}{Glöm det.}
 {164}{}{Will you reconsider taking our test?}
-{165}{}{Nepp.}
+{165}{}{Näpp.}
 {166}{}{Oh, all right. I'll do it.}
 {167}{}{Lost villagers? I have heard nothing of this. Perhaps the Emperor would know of them.}
 {168}{}{I have more questions.}
-{169}{}{Thanks. Bye.}
+{169}{}{Tack. Hej då.}
 {170}{}{You must complete a second test: the Hubologists are our enemies. Their leader, AHS-9, has been abducting and brainwashing our children. Kill him for the good of the Shi and I shall tell you how to speak to the Emperor.}
 {171}{}{He's as good as dead.}
 {172}{}{No, I don't think so.}

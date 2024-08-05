@@ -17,7 +17,7 @@
 {116}{}{Yeah, well, I need some information instead of your bellyaching.}
 {117}{}{::he gasps for air:: Fuck you.}
 {118}{}{::he gasps for air:: Piss off.}
-{119}{}{Yeah, whatever.}
+{119}{}{Ja, ja, sak samma.}
 {120}{}{Hey, I changed my mind. I want to help.}
 {121}{}{Yeah, I sold it. I was drunk! Plus, I think Lao Chou slipped some Jet in my drink. I need my spleen back because I'm getting infections now.}
 {122}{}{Hey, you lost it. It's your problem. You deal with it.}
@@ -78,16 +78,16 @@
 {177}{}{Nothing right now, thanks. Bye.}
 {178}{}{Check with the Captain. He lives in the captain's office upstairs.}
 {179}{}{Thanks. More questions...}
-{180}{}{Thanks. Bye.}
+{180}{}{Tack. Hej då.}
 {181}{}{Word has it they got taken west, across the water. Your best bet in getting there is getting this tub running.}
 {182}{}{Thanks. More questions...}
-{183}{}{Thanks. Bye.}
+{183}{}{Tack. Hej då.}
 {184}{}{Computer work? If you can't get it from the Shi or the Hubologists, you'll want to talk to Badger. He's a whiz.}
 {185}{}{Thanks. More questions...}
-{186}{}{Thanks. Bye.}
+{186}{}{Tack. Hej då.}
 {187}{}{Shit. Talk to the Hubologists or the Shi. With Badger dead, I have no idea.}
 {188}{}{Thanks. More questions...}
-{189}{}{Thanks. Bye.}
+{189}{}{Tack. Hej då.}
 {190}{}{Scumbag.}
 {191}{}{You're going to need some painkillers.}
 {192}{}{Dirtball. I'm going to work you over.}

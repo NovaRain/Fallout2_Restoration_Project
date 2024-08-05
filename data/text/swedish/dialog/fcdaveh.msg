@@ -5,7 +5,7 @@
 {104}{}{How can I help you, enlightened one?}
 {105}{}{I'm going to move on Vikki... umm... soon.}
 {106}{}{How can I help you?}
-{107}{}{What do you want?}
+{107}{}{Vad vill du?}
 {108}{}{Da... oooh...}
 {109}{}{Vem är du?}
 {110}{}{What do you do here?}
@@ -19,7 +19,7 @@
 {117}{}{I'm Dave Handy. I'm down from Canada.}
 {118}{}{So, what do you do here?}
 {119}{}{What brought you down?}
-{120}{}{Thanks. Bye.}
+{120}{}{Tack. Hej då.}
 {121}{}{I show these guys how to move their data and I answer stupid questions all day long.}
 {122}{}{Would you be able to hack into the Shi database?}
 {123}{}{What sort of stupid questions?}

@@ -39,7 +39,7 @@
 {134}{}{No, I'm not a prisoner. I stay because I'm needed here. I've learned to accept the fact that
  some of my patients are deathclaws.}
 {135}{}{Okay. Need know more.}
-{136}{}{Thanks. Bye.}
+{136}{}{Tack. Hej då.}
 {137}{}{That's very commendable of you.}
 {138}{}{I see.}
 {139}{}{That's a decision that I can't agree with, but it's your life.}
@@ -65,7 +65,7 @@
  watching you,' it said, 'and I know that you are a healer. Are you dedicated to your art enough to heal
  someone foreign to you? Someone whom many would consider an enemy?'}
 {153}{}{Ugh.}
-{154}{}{Thanks. Me be leave now.}
+{154}{}{Tack. Jag gå nu.}
 {155}{}{What a waste to be here when you could be helping others.}
 {156}{}{You are truly a dedicated man who deserves recognition.}
 {157}{}{Intressant.}

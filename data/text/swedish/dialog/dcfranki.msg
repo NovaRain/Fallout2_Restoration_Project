@@ -27,13 +27,13 @@
 {172}{}{No way! That's too much!}
 {173}{}{Why does your whiskey cost so much more than Becky's?}
 {174}{}{Nej tack.}
-{175}{}{Anything else?}
+{175}{}{Nåt annat?}
 {176}{}{Ja.}
 {177}{}{Nope, thanks.}
 {178}{}{You don't have enough money! This ain't no charity!}
 {179}{}{Oh, sorry. I'm low on funds.}
 {180}{}{I'll come back.}
-{181}{}{What do you want?}
+{181}{}{Vad vill du?}
 {182}{}{Whiskey.}
 {183}{}{Nothing. I'm leaving.}
 {184}{}{Wahdo a peedee!}
@@ -85,7 +85,7 @@
 {230}{}{Then I'm in the wrong place. Bye.}
 {231}{}{Go talk to Sheila. Hey, Sheila, you got a customer!}
 {232}{}{Wait, that's not what I want!}
-{233}{}{Thanks. Bye.}
+{233}{}{Tack. Hej då.}
 {234}{}{Yeah, I bet. You must have the damnedest time getting men. Try your luck somewhere else, sister. I ain't into no charities.}
 {235}{}{Fine! Something else then.}
 {236}{}{Why, you little...}

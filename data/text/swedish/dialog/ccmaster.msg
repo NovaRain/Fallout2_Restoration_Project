@@ -45,7 +45,7 @@
 {141}{}{Svärdfisk.}
 {142}{}{Right. Unit?}
 {143}{}{Arroyo.}
-{144}{}{Nepp.}
+{144}{}{Näpp.}
 {145}{}{I got better.}
 {146}{}{42.}
 {147}{}{That with an S or a C?}
@@ -84,7 +84,7 @@
 {179}{}{Screw this!}
 {180}{}{Right, J. Okay, Unit?}
 {181}{}{Arroyo.}
-{182}{}{Nepp.}
+{182}{}{Näpp.}
 {183}{}{I got better.}
 {184}{}{42.}
 {185}{}{You deaf? Who are you?}
@@ -97,5 +97,5 @@
 {191}{}{Not if I shoot first!}
 {192}{}{Wait a minute -- you're not one of us! GUARDS!}
 {193}{}{Look soldier, I already gave you your gear, so get on out of here.}
-{194}{}{What do you want?}
+{194}{}{Vad vill du?}
 {195}{}{Drååg?}

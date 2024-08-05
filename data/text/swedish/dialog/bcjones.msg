@@ -42,7 +42,7 @@
  be here for the people in the town above. They have no medical help at all, and there is a lot I can
  do to aid them.}
 {137}{}{Okay. Need know more.}
-{138}{}{Thanks. Bye.}
+{138}{}{Tack. Hej då.}
 {139}{}{That's very commendable of you.}
 {140}{}{I see. I'll be going now.}
 {141}{}{They're squatters! Let 'em die. Get on with your life.}
@@ -61,18 +61,18 @@
 {150}{}{Got go now.}
 {151}{}{Uh-huh. Well, I'll be leaving now.}
 {152}{}{Wow; I'm impressed with your knowledge.}
-{153}{}{Sounds like my kind of guy.}
-{154}{}{I was kidnapped. I was traveling from Vault City to New Reno for a well-deserved vacation. Went
- to bed one night and woke up bound and gagged the next morning. A week or so later, I was here. Been
- here ever since.}
+{153}{}{Låter som min typ av kille.}
+{154}{}{Jag blev kidnappad. Jag var på väg från Valvstaden till Nya Reno för en välförtjänt semester. Gick
+ till sängs en kväll och vaknade bunden och med munkavle nästa morgon. Runt en vecka senare var jag här. Har varit
+ här sedan dess.}
 {155}{}{Ugh.}
-{156}{}{Thanks. Me be leave now.}
-{157}{}{The weak are often the prey of the strong.}
+{156}{}{Tack. Jag gå nu.}
+{157}{}{De svaga är ofta de starkas byte.}
 {158}{}{I'm sorry to hear that.}
-{159}{}{Interesting, but I need to get going.}
-{160}{}{Yeah, he's got a dog. Personally, I think it's the meanest, most vile creature on the face of
- the earth. It seems to love Darion, though, so I guess it can't be all that bad.}
-{161}{}{Me ask more.}
+{159}{}{Intressant, men jag måste gå.}
+{160}{}{Ja, han har en hund. Personligen tycker jag att det är den elakaste, mest avskyvärda varelsen på
+ jorden. Den verkar dock älska Darion, så jag antar att den inte kan vara så illa.}
+{161}{}{Frågar mer.}
 {162}{}{Uh, bye.}
 {163}{}{I see. Well, thanks for the warning.}
 {164}{}{Ah. Well, I've got to go.}

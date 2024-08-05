@@ -9,12 +9,12 @@
 {108}{}{Who the--? <zzzt> We got an intruder here!}
 {109}{}{You there! Halt!}
 {110}{}{Intruder on base!}
-{111}{}{Wait you--oh, never mind. }
-{112}{}{Look, better get your id. These false alarms got everybody jumpy.}
-{113}{}{You're supposed to be here, right? Damn these false alarm's get on my nerves!}
-{114}{}{Intruder's over here! Get 'em!}
-{115}{}{There's the intruder!}
-{116}{}{Over here! Don't let 'em get away!}
-{117}{}{We got an attack on the front. Send backup!}
-{118}{}{Don't let the intruder get to the gate!}
+{111}{}{Vänta du--åh, glöm det. }
+{112}{}{Bäst att du hämtar din legitimation. De här falska larmen gör alla nervösa.}
+{113}{}{Du ska vara här, eller hur? De här falska larmen går mig på nerverna!}
+{114}{}{Inkräktaren är här borta! Ta 'em!}
+{115}{}{Där är inkräktaren!}
+{116}{}{Här borta! Låt 'em inte komma undan!}
+{117}{}{Vi blir attackerade på framsidan. Skicka förstärkning!}
+{118}{}{Låt inte inkräktaren komma fram till grinden!}
 {119}{}{Die, primitive!}

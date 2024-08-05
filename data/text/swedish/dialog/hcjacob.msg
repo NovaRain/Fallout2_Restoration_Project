@@ -2,7 +2,7 @@
 {101}{}{You see Jacob the Chemist.}
 {102}{}{You see a bedraggled man in a stained lab coat. His hands are discolored from chemicals.}
 {103}{}{Hi there. I'm Jacob, the chemist of the Chemist's Drugstore. What can I do for you?}
-{104}{}{What do you want?}
+{104}{}{Vad vill du?}
 {105}{}{Hello again! What can I for you today?}
 {106}{}{Welcome back. What can I do for you?}
 {107}{}{Da yagga! Eep oop op!}
@@ -135,7 +135,7 @@
 {288}{}{Ready to try that distraction again?}
 {289}{}{You got it. Want to help me make a distraction?}
 {290}{}{I'd like to buy some... uh... medicine.}
-{291}{}{Anything else?}
+{291}{}{Nåt annat?}
 {292}{}{Ja.}
 {293}{}{No, thanks. Bye.}
 {294}{}{Now you can see how treacherous the mutants are. If only you had seen earlier.}

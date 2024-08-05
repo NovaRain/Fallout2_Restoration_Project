@@ -1,7 +1,7 @@
 {100}{}{You see Max.}
 {101}{}{You see a regular Abbey monk.}
 {102}{}{He looks a little nervous.}
-{200}{}{Hello. What can I do for you?}
+{200}{}{Hej, vad kan jag göra för dig?}
 {201}{}{I have something from Elaine...}
 {202}{}{Vad är det här för ställe?}
 {203}{}{Hej då.}

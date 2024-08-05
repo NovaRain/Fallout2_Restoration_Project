@@ -1,62 +1,62 @@
 {100}{}{You see a bespectacled young monk.}
-{101}{}{You see Brother Jason.}
-{102}{}{This monk seems to be brooding.}
-{200}{}{[The young monk quickly pockets a deck of "Tragic" cards as you approach.] What do you want?}
-{201}{}{Nothing from you. Bye.}
-{202}{}{I want to know why you just hid that card deck from me.}
-{210}{}{I don't know what you're talking about. I don't have any card deck.}
-{211}{}{Don't lie to me. I saw you put it away in your pocket. I just wanted to know why.}
-{212}{}{Alright, whatever you say. See ya.}
-{220}{}{Look, don't tell anyone, alright? We're not suppose to "use" pre-war relics, just worship them. But these Tragic
- cards are so damn cool. [He seems to get lost in another world as he gazes lovingly at the deck. After a moment,
- he looks up at you.] Oh, sorry. I'm Brother Jason by the way. I, uh, don't suppose you play Tragic?}
-{221}{}{BRING FORTH THE GARNERING!!!}
-{222}{}{Hell yeah, I love Tragic the Garnering.}
-{223}{}{I've tried it, but it's not for me.}
-{224}{}{I used to be addicted as hell to that game. I try to stay away from it now.}
-{225}{}{Nepp.}
-{226}{}{Hell no. Do I look like a pathetic loser to you?}
-{230}{}{Hey, fuck you asshole. Just leave me alone.}
-{231}{}{Hey, fuck you whore. Just leave me alone.}
-{232}{}{I'd love to, but I'm overcome with a desire to do you great bodily harm.}
-{233}{}{Alright, fine. Bye.}
-{234}{}{Look, I'm sorry. That was rude of me. I'm just not a fan of Tragic.}
-{240}{}{Ah man, I'd love to play against you, but it's too risky. I don't want these taken from me. That's what I hate
- about this place. We're sitting on a damn goldmine of awesome things from before the war, but we're forbidding ourselves
- from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{241}{}{Ah man, I know what you mean. I wish I could play more myself, but it's too risky. I don't want these taken from me.
- That's what I hate about this place. We're sitting on a damn goldmine of awesome things from before the war, but we're
- forbidding ourselves from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{242}{}{[He chuckles.] We got an addict on our hands here, I see. I wish I could play more myself, but it's too risky.
- I don't want these taken from me. That's what I hate about this place. We're sitting on a damn goldmine of awesome things
- from before the war, but we're forbidding ourselves from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{243}{}{It doesn't matter, we wouldn't be able to play anyway -- it's too risky. I don't want these taken from me. That's what
- I hate about this place. We're sitting on a damn goldmine of awesome things from before the war, but we're forbidding ourselves
- from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{244}{}{Yeah, that does sound stupid.}
-{245}{}{If you don't agree with the ideals of your order, then why are you a monk?}
-{250}{}{You think I *chose* to be a monk? I was born into this shitty lifestyle. I just wish the others would wake up and
- see how stupid it is to not take advantage of all this sweet stuff we've collected. But no, they're perfectly content to
- worship and catalog the relics, but never actually do anything useful with them. Like I said, it's fucking moronic.}
-{251}{}{You got a point, that does sound pretty stupid.}
-{252}{}{About as moronic as me sitting here listening to you bitch about your life. Bye.}
-{253}{}{If you think it's so stupid, then why don't you do something to try and change things?}
-{260}{}{Finally, someone who agrees with me! Look, I have this idea, and maybe you could help me out. You see, the monks
- here have spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally"
- format the database, they'd lose all that work. I think something like that might shock them back to their senses and we
- might finally give up this stupid way of life. So, what do you say?}
-{261}{}{I say that's a terrible idea and that I'm done talking to you.}
-{262}{}{Erase years of someone else's hard work? Sounds fun. I'll do it.}
-{263}{}{Why don't you format it yourself?}
-{264}{}{If you hate it here, why don't you just leave?}
-{270}{}{Actually, I *do* have an idea of how to change things. Maybe you could help me out. You see, the monks here have
- spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally" format the
- database, they'd lose all that work. I think something like that might shock them back to their senses and we might finally
- give up this stupid way of life. So, what do you say?}
-{271}{}{I say that's a terrible idea and that I'm done talking to you.}
+{101}{}{Du ser broder Jason.}
+{102}{}{Den här munken verkar grubbla.}
+{200}{}{[Den unge munken plockar snabbt fram en "Tragik"-kortlek när du närmar dig.] Vad är det du vill?}
+{201}{}{Inget från dig. Hej då.}
+{202}{}{Jag vill veta varför du just gömde kortleken för mig.}
+{210}{}{Jag vet inte vad du pratar om. Jag har inte någon kortlek.}
+{211}{}{Ljug inte för mig. Jag såg att du stoppade ner den i fickan. Jag ville bara veta varför.}
+{212}{}{Okej, vad du än säger. Vi ses.}
+{220}{}{Berätta inte för någon, okej? Det är inte meningen att vi ska "använda" reliker från förkrigstiden, bara dyrka dem. Men dessa Tragik-
+ korten är så jävla coola. [Han verkar försvinna in i en annan värld medan han tittar kärleksfullt på kortleken. Efter en stund,
+ tittar han upp på dig.] Åh, förlåt. Jag är broder Jason förresten. Jag antar att du inte spelar Tragik?}
+{221}{}{ÅKALLA HOPSAMLANDET!!!}
+{222}{}{Ja, för fan, jag älskar Tragik, Hopsamlingen.}
+{223}{}{Jag har provat det, men det är inget för mig.}
+{224}{}{Jag brukade vara beroende som fan av det spelet. Jag försöker hålla mig borta från det nu.}
+{225}{}{Näpp.}
+{226}{}{Nej, för fan. Ser jag ut som en patetisk förlorare?}
+{230}{}{Dra åt helvete, din skitstövel. Lämna mig bara ifred.}
+{231}{}{Dra åt helvete, din hora. Lämna mig bara ifred.}
+{232}{}{Jag skulle gärna göra det, men jag är överväldigad av en önskan att göra dig stor kroppslig skada.}
+{233}{}{Okej, bra. Hej då.}
+{234}{}{Jag är ledsen. Det var oförskämt av mig. Jag är bara inte ett fan av Tragik.}
+{240}{}{Jag skulle gärna spela mot dig, men det är för riskabelt. Jag vill inte att de här tas ifrån mig. Det är det jag hatar
+ med det här stället. Vi sitter på en jäkla guldgruva av fantastiska saker från före kriget, men vi förbjuder oss själva
+ från att njuta av det. Det är helt obegripligt. Det är helt jävla idiotiskt.}
+{241}{}{Ah man, jag vet vad du menar. Jag önskar att jag kunde spela mer själv, men det är för riskabelt. Jag vill inte att de här ska tas ifrån mig.
+ Det är det jag hatar med det här stället. Vi sitter på en jäkla guldgruva av fantastiska saker från före kriget, men vi
+ förbjuder oss själva från att njuta av det. Det är helt obegripligt. Det är helt jävla idiotiskt.}
+{242}{}{[Han skrattar.] Vi har en missbrukare på halsen här, ser jag. Jag önskar att jag kunde spela mer själv, men det är för riskabelt.
+ Jag vill inte att de här tas ifrån mig. Det är det jag hatar med det här stället. Vi sitter på en jäkla guldgruva av fantastiska saker
+ från före kriget, men vi förbjuder oss själva från att njuta av det. Det är helt obegripligt. Det är helt jävla idiotiskt.}
+{243}{}{Det spelar ingen roll, vi skulle ändå inte kunna spela - det är för riskabelt. Jag vill inte att de här ska tas ifrån mig. Det är det
+ jag hatar med det här stället. Vi sitter på en jäkla guldgruva av fantastiska saker från före kriget, men vi förbjuder oss själva
+ från att njuta av det. Det är helt obegripligt. Det är helt jävla idiotiskt.}
+{244}{}{Ja, det låter dumt.}
+{245}{}{Om du inte håller med om din ordens ideal, varför är du då en munk?}
+{250}{}{Tror du att jag valde att bli munk? Jag föddes in i den här skitlivsstilen. Jag önskar bara att de andra skulle vakna upp och
+ se hur dumt det är att inte dra nytta av allt det här fina vi har samlat på oss. Men nej, de är helt nöjda med att
+ dyrka och katalogisera relikerna, men aldrig göra något användbart med dem. Som jag sa, det är jävligt idiotiskt.}
+{251}{}{Du har en poäng, det låter ganska dumt.}
+{252}{}{Lika korkad som jag som sitter här och lyssnar på dig när du gnäller om ditt liv. Hej då.}
+{253}{}{Om du tycker att det är så dumt, varför gör du då inte något för att försöka ändra på saker och ting?}
+{260}{}{Äntligen någon som håller med mig! Jag har en idé, och du kanske kan hjälpa mig. Du förstår, munkarna
+ här har spenderat *år* med att transkribera förkrigsinformation till vår databas. Om någon skulle "råka"
+ formatera databasen, skulle de förlora allt det arbetet. Jag tror att något sådant kan chocka dem tillbaka till sina sinnen och vi
+ kanske äntligen ger upp detta dumma sätt att leva. Så, vad säger du?}
+{261}{}{Jag säger att det är en hemsk idé och att jag har pratat färdigt med dig.}
+{262}{}{Radera åratal av någon annans hårda arbete? Låter kul. Jag fixar det.}
+{263}{}{Varför formaterar du det inte själv?}
+{264}{}{Om du hatar att vara här, varför åker du inte bara härifrån?}
+{270}{}{Jag har faktiskt en idé om hur man kan förändra saker. Du kanske kan hjälpa mig. Du förstår, munkarna här har
+ tillbringat *år* med att transkribera förkrigsinformation till vår databas. Om någon skulle råka formatera
+ databasen, skulle de förlora allt det arbetet. Jag tror att något sådant kan chocka dem tillbaka till sina sinnen och vi kan äntligen
+ ge upp det här dumma sättet att leva. Så, vad säger du?}
+{271}{}{Jag säger att det är en hemsk idé och att jag har pratat färdigt med dig.}
 {272}{}{Radera hundratals år av någon annans hårda arbete? Låter kul. Jag gör det.}
-{273}{}{Why don't you format it yourself?}
-{274}{}{If you hate it here, why don't you just leave?}
+{273}{}{Varför formaterar du det inte själv?}
+{274}{}{Om du hatar att vara här, varför åker du inte bara härifrån?}
 {280}{}{Are you kidding me? They'd crucify me if I did that. You however, you're an experienced adventurer. Hell, I bet
  you could massacre everyone here without breaking a sweat. So will you do it, or are you afraid of a bunch of pacifist monks?}
 {281}{}{I'm not afraid of anyone. I'll do it.}
@@ -98,7 +98,7 @@
 {332}{}{Alright, but I need to take care of some things first. I'll let you know when I'm ready to go.}
 {340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
 {341}{}{Alright. Suit yourself. Bye.}
-{350}{}{What do you want?}
+{350}{}{Vad vill du?}
 {351}{}{I just wanted to say hi. See ya.}
 {352}{}{I changed my mind. I'll format the computer for you.}
 {353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
@@ -114,7 +114,7 @@
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
  I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
  [He hands you a Stealth Boy.] See ya.}
-{373}{}{Thanks. Bye.}
+{373}{}{Tack. Hej då.}
 {374}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
 {380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.

@@ -92,8 +92,8 @@
 {236}{}{No way! I want double!}
 {237}{}{You drive a hard bargain. Here is your money!}
 {238}{}{Thanks. I have some more questions.}
-{239}{}{Thanks. Bye.}
-{240}{}{Anything else?}
+{239}{}{Tack. Hej då.}
+{240}{}{Nåt annat?}
 {241}{}{Yes, I have a question.}
 {242}{}{Nope. Bye.}
 {243}{}{Which "friend" are you selling?}
