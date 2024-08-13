@@ -56,7 +56,7 @@ procedure map_enter_p_proc begin
    end
 
    Enclave_Lighting;
-   set_global_var(GVAR_LOAD_MAP_INDEX,0);
+   set_global_var(GVAR_LOAD_MAP_INDEX, 0);
    mark_on_map(AREA_THE_ENCLAVE)  // player cannot see the world map while on the oil rig so it's fine
 end
 
