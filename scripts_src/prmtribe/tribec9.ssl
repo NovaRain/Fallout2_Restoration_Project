@@ -172,10 +172,11 @@ procedure critter_p_proc begin
        attack(dude_obj);
    end else begin
 
-      if ( (self_tile != 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
-         anim_move_to_point_rate(22727, 1)
-      end else if ( (self_tile == 22727) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
-         set_local_var(LVAR_Move_To_Exit,2);
+      if ( (self_tile != 22945) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
+         anim_move_to_point_rate(22945, 1)
+      end else if ( (self_tile == 22945) and (local_var(LVAR_Move_To_Exit) == 1) ) then begin
+         //set_local_var(LVAR_Move_To_Exit,2);
+         destroy_object(self_obj);
       end
 
    end
@@ -379,10 +380,10 @@ end
 procedure Node990 begin
    //reg_anim_begin();
       anim(self_obj, ANIM_stand, 2);
-	//reg_anim_end();
+   //reg_anim_end();
 
-	set_local_var(LVAR_Move_To_Exit,1);
-	call Node991;
+   set_local_var(LVAR_Move_To_Exit,1);
+   call Node991;
 end
 
 procedure Node991 begin
