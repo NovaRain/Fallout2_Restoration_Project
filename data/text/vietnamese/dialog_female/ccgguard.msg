@@ -33,11 +33,11 @@
 {132}{gate8b}{Đứng lại! -- Lại là cô. Tôi thấy là cô vẫn đi dẫn đoàn. (đặt tay lên vũ khí) Tôi khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có quay trở lại. Tôi nói thế đã rõ chưa?}
 {133}{}{Đầu cừu.}
 {134}{}{Đúng vậy.}
-{135}{gate9}{Halt! -- Back again, huh? You'd better have your pass or know your password this time. Well, I'm waiting?}
-{136}{}{Uh... me not know. Me come back.}
-{137}{}{Screw this. Me walk in over you dead body.}
-{138}{}{Look, I lost my pass...}
-{139}{}{Oh to hell with it. Bite the bullet, asshole!}
+{135}{gate9}{Đứng lại! -- Lại nữa à? Tốt nhất lần này cậu nên cầm theo thẻ hoặc biết mật khẩu đấy. Nào, tôi đang chờ đây?}
+{136}{}{Ừ... ngộ không biết. Ngộ quay lại.}
+{137}{}{Bỏ đi. Ngộ bước qua xác ông vào.}
+{138}{}{Nghe này, tôi làm mất thẻ rồi...}
+{139}{}{Ôi cái mả mẹ nó. Ăn đạn đi, đồ chết tiệt!}
 {140}{gate10}{This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {141}{}{Ok, me go again...}
 {142}{}{In words of ancients... Fuck you!}
