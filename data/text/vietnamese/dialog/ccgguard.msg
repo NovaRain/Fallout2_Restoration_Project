@@ -7,7 +7,7 @@
 {106}{}{Ngộ mới. Ngộ được nói ông biết.}
 {107}{}{Ồ. Xin lỗi, ngộ đi.}
 {108}{}{Tôi có thẻ ra vào... ở ngay đây.}
-{109}{}{Tôi là lính mới nhập ngũ. Tôi được bảo là ông sẽ biết tôi.}
+{109}{}{Tôi là lính mới nhập ngũ. Họ nói ông đang chờ tôi.}
 {110}{}{Ồ, xin lỗi. Tôi sẽ đi chỗ khác vậy.}
 {111}{gate2}{Lề mề quá nhỉ? Này, cứ tiếp tục di chuyển đi và đừng có quay trở lại. Mọi việc sẽ ổn thôi, hiểu chứ?}
 {112}{}{Ngộ muốn vào trong.}
