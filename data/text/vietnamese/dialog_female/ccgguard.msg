@@ -40,16 +40,16 @@
 {139}{}{Ôi cái mả mẹ nó. Ăn đạn đi, đồ chết tiệt!}
 {140}{gate10}{This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
 {141}{}{Ok, me go again...}
-{142}{}{In words of ancients... Fuck you!}
+{142}{}{Theo ngữ cổ... Đmm!}
 {143}{}{Được rồi, con đi đây.}
-{144}{}{In the words of the ancients... Fuck you!}
-{145}{gate11a}{Halt! -- You again? You were warned. Alarm! Intruder at the gate! }
-{146}{}{Damn!}
-{147}{}{Intruder at the gate!}
-{148}{}{Main entrance under attack!}
-{149}{}{To the gate! Intruder at the gate!}
-{200}{}{...asshole...}
-{201}{}{...yeah, you'd BETTER walk away...}
-{202}{}{...what a brownie hound...}
-{203}{}{...yes, sir! fuckin' sir!...}
-{300}{}{Move along soldier.}
+{144}{}{Nói theo lối ngôn ngữ cổ... Đmm!}
+{145}{gate11a}{Đứng lại! -- Lại là mày à? Tao đã nói rồi. Báo động! Có kẻ đột nhập tại cổng! }
+{146}{}{Mẹ kiếp!}
+{147}{}{Có kẻ đột nhập tại cổng!}
+{148}{}{Cổng chính đang bị tấn công!}
+{149}{}{Đến cổng ngay! Có kẻ đột nhập tại cổng!}
+{200}{}{...đồ chết tiệt...}
+{201}{}{...đúng rồi, TỐT HƠN HẾT là mày nên bước đi...}
+{202}{}{...con chó này đen thế...}
+{203}{}{...vâng, thưa ngài! đcm ngài!...}
+{300}{}{Đi tiếp đi, đồ lính.}
