@@ -11,7 +11,7 @@
 {110}{}{Có kẻ đột nhập căn cứ!}
 {111}{}{Chờ đã -- ồ, không có gì. }
 {112}{}{Này, cầm theo thẻ đi. Mấy cái báo động giả này khiến mọi người phát điên lên được.}
-{113}{}{Cậu đúng là người ở đây chứ? Mẹ nó mấy cái báo động giả này khiến tôi phát rồ lên!}
+{113}{}{Cô đúng là người ở đây chứ? Mẹ nó mấy cái báo động giả này khiến tôi phát rồ lên!}
 {114}{}{Kẻ đột nhập ở đây! Bắt lấy!}
 {115}{}{Kẻ đột nhập kia rồi!}
 {116}{}{Ở đây! Đừng để nó chạy thoát!}

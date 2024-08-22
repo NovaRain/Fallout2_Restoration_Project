@@ -71,8 +71,8 @@ một sát thủ hoang mạc liều chết thì cậu và cả lũ các cậu gi
 {427}{}{. Tôi thích cưỡi chim sắt đi chơi! Bay lại đi! Đi tiếp lần nữa!}
 {428}{}{Mày không cần biết tên. Ngộ không thích mày. Ngộ giết [Nhảy ra và bắt đầu chiến đấu].}
 {430}{}{Cậu làm sao thế, say à? Cậu đang ở Navarro chứ đâu nữa. Nếu đầu óc có vấn đề thì cậu nên đi khám sức khỏe đi. Có thể cậu đã bị nhiễm phóng xạ ngoài đó rồi.}
-{440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
-{450}{}{Sir! Yes sir!}
-{451}{}{Ma'am! Yes ma'am!}
-{460}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made him retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bastard out of his misery before he contaminates us.}
-{461}{}{[The soldier looks at one of his comrades.] My God, contact with all the muties and radiation out there must have made her retarded. You see? *That's* why I never volunteer for those wasteland runs. Anyway, let's put this stupid bitch out of her misery before she contaminates us.}
+{440}{}{Đừng có bày trò cứt gì ở đây. Mày là một tân binh chứ gì? Hề. Cái mồm dẻo quẹo sẽ khiến mày gặp đủ mọi rắc rối đây -- và tao muốn xem lắm cơ. Giờ thì về chỗ gác đi, đồ lính.}
+{450}{}{Sếp! Vâng, thưa sếp!}
+{451}{}{Sếp! Vâng, thưa sếp!}
+{460}{}{[Gã lính nhìn sang phía đồng đội] Chúa ơi, tiếp xúc với đám đột biến và phóng xạ làm cho gã này teo hết cả não rồi. Thấy chưa? *Đấy* là lí do mà bố không bao giờ xung phong đi tuần hoang mạc cả. Mà giờ thì hãy xử gã ngốc này đi trước khi hắn ta lây bệnh cho chúng ta.}
+{461}{}{[Gã lính nhìn sang phía đồng đội] Chúa ơi, tiếp xúc với đám đột biến và phóng xạ làm cho con mụ này teo hết cả não rồi. Thấy chưa? *Đấy* là lí do mà bố không bao giờ xung phong đi tuần hoang mạc cả. Mà giờ thì hãy xử con ngốc này đi trước khi cô ta lây bệnh cho chúng ta.}
