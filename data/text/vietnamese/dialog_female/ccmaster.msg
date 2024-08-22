@@ -57,7 +57,7 @@ xong việc.}
 {153}{}{Pisces?}
 {154}{}{Cá kiếm.}
 {155}{}{Arroy -- Chờ đã! Bọn ta vừa mới dẹp chỗ đó. Mày là một gã tộc chết tiệt! Lính gác đâu!}
-{156}{}{Này, gã hề, đừng có bày trò hoặc ta sẽ cho người lôi ngươi ra làm thịt đấy. Trả lời câu hỏi đi.}
+{156}{}{Này, cô hề, đừng có bày trò hoặc ta sẽ cho người lôi ngươi ra làm thịt đấy. Trả lời câu hỏi đi.}
 {157}{}{Arroyo.}
 {158}{}{42.}
 {159}{}{Được rồi! Lê đít về chỗ trung sĩ đi. Ta gửi ngươi về đó chịu phạt. Giải tán.}
