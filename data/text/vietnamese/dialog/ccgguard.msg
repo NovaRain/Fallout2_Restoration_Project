@@ -38,8 +38,8 @@
 {137}{}{Bỏ đi. Ngộ bước qua xác ông vào.}
 {138}{}{Nghe này, tôi làm mất thẻ rồi...}
 {139}{}{Ôi cái mả mẹ nó. Ăn đạn đi, đồ chết tiệt!}
-{140}{gate10}{This is your final warning. I suggest you leave this installation immediately and do not return here. Do I make myself clear?}
-{141}{}{Ok, me go again...}
+{140}{gate10}{Cảnh báo lần cuối. Tôi nhắc là cần cút khỏi khu này ngay và đừng có quay trở lại. Nói thế đã thủng lỗ tai chưa?}
+{141}{}{Ok, ngộ lại đi...}
 {142}{}{Theo ngữ cổ... Đmm!}
 {143}{}{Được rồi, con đi đây.}
 {144}{}{Nói theo lối ngôn ngữ cổ... Đmm!}

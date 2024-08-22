@@ -2,9 +2,9 @@
 {101}{}{Bạn thấy một lính gác mặc power armor.}
 {102}{}{Bạn thấy một người mặc power armor có thiết kế khác lạ. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
 {103}{}{Không có gì mới.}
-{104}{}{Tôi không thấy có gì mới, cậu thì sao?}
+{104}{}{Tôi không thấy có gì mới, cô thì sao?}
 {105}{}{Này cậu lính, sao cậu không về vị trí gác đi? Đừng có đi lang thang ở đây.}
-{106}{}{Cậu đang không mặc quân phục.}
+{106}{}{Cô đang không mặc quân phục.}
 {107}{}{Tốt hơn hết là đến chỗ Trung sĩ báo cáo rồi đi nhận quân phục đi.}
 {108}{}{Cậu to gan lắm mới đi lại mà không mặc quân phục đấy. Tốt nhất là nên đi báo lại cho hậu cần đi.}
 {109}{}{Chúng mày là thế đéo nào... Báo động! Có kẻ xâm nhập!}
@@ -20,7 +20,7 @@
 {201}{}{...đúng rồi, TỐT HƠN HẾT là mày nên bước đi...}
 {202}{}{...con chó này đen thế...}
 {203}{}{...vâng, thưa ngài! đcm ngài!...}
-{300}{}{Chờ đã. Cậu đang làm cái quái gì với chiếc máy bay thế? Làm gì có lịch bay nào trong mấy ngày tới.}
+{300}{}{Chờ đã. Cô đang làm cái quái gì với chiếc máy bay thế? Làm gì có lịch bay nào trong mấy ngày tới.}
 {301}{}{Nrg?}
 {302}{}{Tôi biết.}
 {303}{}{Tôi xin lỗi. Tôi chỉ xem thôi. Đi giờ đây.}
@@ -29,8 +29,8 @@
 {311}{}{(Cười rồi tấn công).}
 {312}{}{(Đi khỏi).}
 {315}{}{Ồ cứt thật, có vẻ như chúng ta bị đột nhập rồi. Mã đỏ! Nhắc lại, mã Đỏ!}
-{316}{}{Nghe hay đấy. Động vào cái máy bay lần nữa và tôi sẽ nhồi chì vào đầu cậu.}
-{320}{}{Rồi. Và cậu là...}
+{316}{}{Nghe hay đấy. Động vào cái máy bay lần nữa và tôi sẽ nhồi chì vào đầu cô.}
+{320}{}{Rồi. Và cô là...}
 {321}{}{Chuẩn bị đi đây. Xin lỗi đã làm phiền.}
 {322}{}{Chuẩn bị đi gửi tin quan trọng về căn cứ chính.}
 {323}{}{Ồ thật ư? Và tin này về việc gì thế.}
@@ -39,7 +39,7 @@
 sẽ dẫn đến đại hoảng loạn. Biết gì không? Tôi nhận thấy một trong số chuyến hàng nô lệ gần đây đã bị nhiễm một loại 
 virus không xác định và cực kì nguy hiểm. Tôi *phải* đi đến căn cứ ngay, nếu không tất cả chúng ta sẽ tiêu đời. Giờ thì 
 đừng có làm lãng phí thời gian nữa vì không thể chờ được nữa đâu.}
-{326}{}{Được, tôi tin cậu. Có vẻ như chúng ta có kẻ đột nhập...}
+{326}{}{Được, tôi tin cô. Có vẻ như chúng ta có kẻ đột nhập...}
 {327}{}{Mẹ nó chứ! À, sao cũng được. Chẳng ai nói cái cứt gì cho tôi cả. Rồi. Đi đi.}
 {328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
 {329}{}{[XONG]}

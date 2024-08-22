@@ -2,7 +2,7 @@
 {101}{}{Bạn thấy một lính gác mặc áo giáp chiến đấu.}
 {102}{}{Bạn thấy ai đó mặc áo giáp chiến đấu. Có miếng phù hiệu trên tấm giáp ngực mà bạn không nhận ra.}
 {103}{}{Không có gì mới.}
-{104}{}{Tôi không thấy có gì mới, cậu thì sao?}
+{104}{}{Tôi không thấy có gì mới, cô thì sao?}
 {105}{}{Này cậu lính, sao cậu không về vị trí gác đi? Đừng có đi lang thang ở đây.}
 {106}{}{Cậu đang không mặc quân phục. }
 {107}{}{Tốt hơn hết là đến chỗ Trung sĩ báo cáo rồi đi nhận quân phục đi.}
