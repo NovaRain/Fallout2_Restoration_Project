@@ -29,7 +29,7 @@
 {128}{gate7a}{Chờ chút. (dừng) Okay, vào đi. Hãy đến báo cáo cho đội trưởng huấn luyện. Đi vào cửa, qua hàng rào sắt đến chỗ cái cửa đầu tiên bên phải.}
 {129}{gate7b}{(lẩm bẩm) Mẹ kiếp lũ đầu đất càng lúc càng đần.}
 {130}{}{Ok.}
-{131}{gate8a}{Đứng lại! -- Ồ, tôi thấy là cô đã trở lại một mình. Được rồi, tân binh, mật khẩu là gì?}
+{131}{gate8a}{Đứng lại! -- Ồ, tôi thấy là cậu đã trở lại một mình. Được rồi, tân binh, mật khẩu là gì?}
 {132}{gate8b}{Đứng lại! -- Lại là cô. Tôi thấy là cô vẫn đi dẫn đoàn. (đặt tay lên vũ khí) Tôi khuyên là hãy rời khỏi nơi này ngay lập tức và đừng có quay trở lại. Tôi nói thế đã rõ chưa?}
 {133}{}{Đầu cừu.}
 {134}{}{Đúng vậy.}

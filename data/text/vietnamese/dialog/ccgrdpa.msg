@@ -41,36 +41,36 @@ virus không xác định và cực kì nguy hiểm. Tôi *phải* đi đến c�
 đừng có làm lãng phí thời gian nữa vì không thể chờ được nữa đâu.}
 {326}{}{Được, tôi tin cậu. Có vẻ như chúng ta có kẻ đột nhập...}
 {327}{}{Mẹ nó chứ! À, sao cũng được. Chẳng ai nói cái cứt gì cho tôi cả. Rồi. Đi đi.}
-{328}{}{Woah, that sounds bad. You better get moving then, I don't want this shit on my hands. Oh, and don't worry, I won't tell anyone.}
+{328}{}{Ồ, nghe tệ thật đấy. Vậy thì cậu nên lên đường đi, tôi không muốn dính phải cứt đâu. Ồ và đừng lo, tôi sẽ không nói với ai đâu.}
 {329}{}{[XONG]}
-{400}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
- turns to the others.] Holy shit! One of those mutie wastlanders stowed away in the 'bird! ALERT! We got an intruder!}
-{401}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of power armored soldiers. One of them does a double take at you then
- turns to the others.] Holy shit! Some of those mutie wastlanders stowed away in the 'bird! ALERT! We got intruders!}
-{402}{}{[Jump out and see how many you can take down before they waste you.]}
-{403}{}{[Raise hands in surrender and hope for the best.]}
-{410}{}{Aw, it doesn't look like the mutie's gonna put up a fight. Maybe we should bring him to the Commander -- see
- what he wants to do about this.}
-{411}{}{Aw, it doesn't look like the mutie's gonna put up a fight. Maybe we should bring her to the Commander -- see
- what he wants to do about this.}
-{412}{}{Aw, it doesn't look like the muties are gonna put up a fight. Maybe we should bring them to the Commander -- see
- what he wants to do about this.}
-{420}{}{[After a half hour of sitting in the dark cargo hold, you feel the craft touch down to earth once more. A moment
- later, the cargo door opens and you see a squad of Enclave soldiers. One of them does a double-take at you.] What the hell
- are you doing back here? You weren't authorized to be on that mission. What's your name, soldier?}
-{421}{}{It doesn't matter what my name is, 'cause I'm not here to talk. [Jump out and start fighting.]}
-{422}{}{Me? Oh, I'm, uh, *cough*mumble*cough*. Don't mind me, though. In fact, I should probably be going now.
- [Get out and attempt to walk away nonchalantly.]}
-{423}{}{My name's }
-{424}{}{. Where am I?}
-{425}{}{No, what's *your* name, soldier? I was put here to test you and I gotta say you FAILED. If I were a wasteland
- suicide assassin you and your whole crew would be dead right now! That is unacceptable! Shape up, soldier!}
-{426}{}{Uh . . . my name }
-{427}{}{. I take fun ride in metal birdie! Go again! Wanna go again!}
-{428}{}{You not need know my name. I no like you. I kill. [Jump out and start fighting.]}
-{430}{}{What are you, drunk? You're at Navarro, of course. If you're having memory problems, soldier, you might wanna go get yourself checked out. Maybe some of that radiation out there got to you.}
+{400}{}{[Sau khoảng nửa giờ ngồi trong khoang chứa tối tăm, bạn nhận thấy chiếc máy bay đã chạm đất. Một thoáng sau,
+cửa khoang chứa mở ra và bạn thấy một nhóm lính mặc power armor. Một người trong số này nhìn lại bạn rồi quay sang 
+những người khác] Cái đm! Một trong số lũ thổ dân đột biến đu càng trực thăng này! BÁO ĐỘNG! Chúng ta bị đột nhập!}
+{401}{}{[Sau khoảng nửa giờ ngồi trong khoang chứa tối tăm, bạn nhận thấy chiếc máy bay đã chạm đất. Một thoáng sau,
+cửa khoang chứa mở ra và bạn thấy một nhóm lính mặc power armor. Một người trong số này nhìn lại bạn rồi quay sang 
+những người khác] Cái đm! Mấy đứa thổ dân đột biến bám càng trực thăng này! BÁO ĐỘNG! Chúng ta bị đột nhập!}
+{402}{}{[Nhảy ra và xem bạn có thể tiêu diệt bao nhiêu tên trước khi chúng thịt bạn].}
+{403}{}{[Giơ hai tay đầu hàng và hi vọng sẽ được sống].}
+{410}{}{Ai dà, có vẻ như tay đột biến này không dám đấu. Có lẽ chúng ta nên dẫn hắn ta đến chỗ Chỉ huy -- xem ông ta 
+muốn xử lí việc này thế nào.}
+{411}{}{Ai dà, có vẻ như tay đột biến này không dám đấu. Có lẽ chúng ta nên dẫn cô ta đến chỗ Chỉ huy -- xem ông ta 
+muốn xử lí việc này thế nào.}
+{412}{}{Ai dà, có vẻ như lũ đột biến này không dám đấu. Có lẽ chúng ta nên dẫn chúng đến chỗ Chỉ huy -- xem ông ta muốn
+xử lí việc này thế nào.}
+{420}{}{[Sau khoảng nửa giờ ngồi trong khoang chứa tối tăm, bạn nhận thấy chiếc máy bay đã chạm đất. Một thoáng sau,
+cửa khoang chứa mở ra và bạn thấy một nhóm lính Enclave. Một người trong số họ nhìn lại bạn] Mày làm cái lìn gì ở trong đó
+thế? Mày làm gì có quyền đi làm nhiệm vụ đó. Tên mày là gì, đồ lính?}
+{421}{}{Tên gì không quan trọng, vì tôi không đến đây để nói chuyện [Nhảy ra và bắt đầu chiến đấu].}
+{422}{}{Tôi? Ồ, tôi, ừ *ho khan*lẩm bẩm*ho khan*. Đừng để ý đến tôi. Mà thực tế là giờ tôi phải đi đây [Chui ra và 
+cố bước đi một cách tự nhiên].}
+{423}{}{Tên tôi là }
+{424}{}{. Tôi đang ở đâu thế?}
+{425}{}{Không, tên *cậu* là gì, cậu lính? Tôi ở đây để thử thách cậu và tôi phải nói là cậu đã THẤT BẠI rồi. Nếu tôi là
+một sát thủ hoang mạc liều chết thì cậu và cả lũ các cậu giờ đã toi rồi! Không thể chấp nhận được! Cẩn trọng vào, lũ lính!}
+{426}{}{Ừ... tên tôi }
+{427}{}{. Tôi thích cưỡi chim sắt đi chơi! Bay lại đi! Đi tiếp lần nữa!}
+{428}{}{Mày không cần biết tên. Ngộ không thích mày. Ngộ giết [Nhảy ra và bắt đầu chiến đấu].}
+{430}{}{Cậu làm sao thế, say à? Cậu đang ở Navarro chứ đâu nữa. Nếu đầu óc có vấn đề thì cậu nên đi khám sức khỏe đi. Có thể cậu đã bị nhiễm phóng xạ ngoài đó rồi.}
 {440}{}{Don't give me that bullshit. You're one of the new recruits, aren't you? Heh. That smart mouth of yours is gonna land you in all sorts of trouble--and I can't wait to see it happen. Now get back to your post, soldier.}
 {450}{}{Sir! Yes sir!}
 {451}{}{Ma'am! Yes ma'am!}
