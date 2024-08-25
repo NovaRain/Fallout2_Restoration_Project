@@ -48,7 +48,7 @@
 {300}{}{Beat it, tough guy, before I get angry on Your face.}
 {301}{}{Beat it, bitch. Metzger wouldn't have sent a woman anyhow, so take a hike.}
 {302}{}{Bitch? I'll show you what this bitch can do.}
-{303}{}{Fuck you.}
+{303}{}{Đmm.}
 {304}{}{[Leave]}
 {310}{}{Beat it.}
 {320}{}{That's nice. Me Tyler. Me go bye bye.}
@@ -125,7 +125,7 @@
 {500}{}{Not so fast, slick. Just to be sure, we'll wait until after they show.
  You could be lying to me for all I know. You just be sure they show, and I'll pay you after.}
 {501}{}{But I'm a lover, not a fighter.}
-{502}{}{Sounds good.}
+{502}{}{Được đấy.}
 {510}{}{Look, I don't give a rat's ass what you are. I'm not giving you a dollar
  until after they show. We'll do the fighting, but you better be sure they show.}
 {511}{}{Okay.}

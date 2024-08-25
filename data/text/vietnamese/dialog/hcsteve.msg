@@ -67,7 +67,7 @@
 {155}{}{Tell me about the place.}
 {156}{}{Who lives here?}
 {157}{}{What services do you have here?}
-{158}{}{No thanks.}
+{158}{}{Không cám ơn.}
 {159}{}{We make our living by refining the ore we dig from the hills, and selling it to nearby
  communities like Vault City, Gecko, and the New California Republic. We use some ourselves for our
  own power. More?}
@@ -128,7 +128,7 @@
 {300}{}{You can usually find Marcus near the bank -- that also serves as a tougher jail -- or at the
  Jail. Sometimes he's in the tavern or at home, but he's usually working.}
 {301}{}{Bummer!}
-{302}{}{Damn!}
+{302}{}{Mẹ kiếp!}
 {303}{}{Hooray!}
 {304}{}{Scoundrels!}
 {305}{}{That rat bastard!}

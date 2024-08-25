@@ -565,7 +565,7 @@ procedure Node19a begin
    add_obj_to_inven(self_obj, obj);
    dude_caps_adjust(500);
 
-   if has_rep_slaver or (self_rep >= abs(KARMA_BETRAYER)) then
+   if has_rep_slaver or (beacon_rep <= KARMA_BETRAYER or dude_has_cult) then
       call Node024;
    else
       call Node019;

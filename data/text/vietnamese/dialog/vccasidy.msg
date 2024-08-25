@@ -76,10 +76,10 @@
 {174}{}{I wanted to ask you some questions...}
 {175}{}{You look like you've taken some damage. Use some stims and heal yourself.}
 {176}{}{Cassidy, I need you to wait here until I come back.}
-{177}{}{Put your weapon away.}
-{178}{}{Stay close to me.}
-{179}{}{Don't get too far away.}
-{180}{}{We should spread out a bit.}
+{177}{}{Bỏ vũ khí xuống.}
+{178}{}{Đứng gần tôi.}
+{179}{}{Đừng đi xa quá.}
+{180}{}{Chúng ta nên dãn ra một chút.}
 {181}{}{C'mon, Cassidy. Time to head out.}
 {182}{}{Không, không có gì.}
 {261}{Cas0261}{You want me to put a bullet in Myron's head, is that it? It'd be no trouble. Just give the word.}
@@ -215,10 +215,10 @@
 {9999}{}{I wanted to ask you some questions...}
 {10001}{}{Take some more stims and heal yourself.}
 {10002}{}{Cassidy, I need you to wait here until I come back.}
-{10003}{}{Put your weapon away.}
-{10004}{}{Stay close to me.}
-{10005}{}{Don't get too far away.}
-{10006}{}{We should spread out a bit.}
+{10003}{}{Bỏ vũ khí xuống.}
+{10004}{}{Đứng gần tôi.}
+{10005}{}{Đừng đi xa quá.}
+{10006}{}{Chúng ta nên dãn ra một chút.}
 {10007}{}{Let's head out then.}
 {10100}{}{C'mon, Cassidy. Time to head out.}
 {20000}{Cas20000}{All right, I'm listening.}

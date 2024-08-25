@@ -202,7 +202,7 @@
 {2807}{}{Need some back up?}
 {2808}{}{Need something repaired, don't you? I'm your man, Boss!}
 {2809}{}{Don't worry, Boss. Sulik and I'll get along, honest.}
-{2810}{}{Let's go.}
+{2810}{}{Đi thôi.}
 {2811}{}{Stay here. I'll be right back.}
 {2812}{}{Ngộ đi.}
 {3100}{}{What? Uh... okay, Boss. If you say so.}
@@ -219,7 +219,7 @@
 {4001}{}{This better Boss?}
 {4002}{}{How 'bout here?}
 {4003}{}{Yes Boss.}
-{4004}{}{What?}
+{4004}{}{Cái gì?}
 {4005}{}{Where we going?}
 {4006}{}{We leaving Boss?}
 {4007}{}{I'm moving.}

@@ -58,7 +58,7 @@
 {313}{}{There you go. That should help you melt those mutants who get in your way.}
 {314}{}{Cám ơn.}
 {390}{}{You ready to take me with you?}
-{391}{}{Let's go.}
+{391}{}{Đi thôi.}
 {392}{}{Chưa.}
 {400}{}{Need something?}
 {401}{}{How can the Cat be of service?}

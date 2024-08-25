@@ -74,9 +74,9 @@ trên tàu và đấy là cách để giữ chân đám thổ dân San Fran kh�
 {169}{}{Không gì cả, tôi chỉ chào thôi.}
 {170}{}{Đây. Đã chết, đã nướng, đéo biết thịt gì. Ăn đi.}
 {171}{}{Ờ... cám ơn.}
-{172}{}{Con giai, ngửi mùi thôi là bố biết mày đang không mặc áo giáp năng lượng rồi. Nếu Sarge mà
+{172}{}{Con giai, ngửi mùi thôi là bố biết mày đang không mặc áo giáp năng lượng rồi. Nếu Trung sĩ mà
 nhìn thấy mày không mặc quân phục là đi đời đấy. Và bố đang nói về kiểu đi đời mà mày sẽ không thích đâu. Giờ thì lê đít xuống phòng hậu cần mặc đồ vào.}
-{173}{}{Quý cô, ngửi mùi thôi là bố biết là cô đang không mặc áo giáp năng lượng rồi. Nếu Sarge mà
+{173}{}{Quý cô, ngửi mùi thôi là bố biết là cô đang không mặc áo giáp năng lượng rồi. Nếu Trung sĩ mà
 nhìn thấy cô không mặc quân phục là đi đời đấy. Và bố đang nói về kiểu đi đời mà cô không thích đâu. Giờ thì lê đít xuống phòng hậu cần mặc đồ vào.}
 {174}{}{Đâu vậy?}
 {175}{}{Okay.}
