@@ -150,18 +150,6 @@ end
 #define perceived_rep_positive (perceived_rep > 0)
 #define perceived_rep_negative (perceived_rep < 0)
 
-// normal mode: critter likes dude if he has title, taking Evil_Critter into account
-procedure check_title(variable title) begin
-   variable rep := cult_rep;
-   if self_is_evil then return (rep <= title);
-   else return (rep >= title);
-end
-// inverse mode: critter dislikes dude if he has title, taking Evil_Critter into account
-procedure check_title_bad(variable title) begin
-   variable rep := cult_rep;
-   if self_is_evil then return (rep >= title);
-   else return (rep <= title);
-end
 
 // call before restock
 procedure move_quest_items begin
