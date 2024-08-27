@@ -122,7 +122,7 @@
 {457}{}{Very well. I'd like to know something else though.}
 
 {500}{}{Stop that!}
-{501}{}{You gain 200 experience points for bringing back the book.}
+{501}{}{You gain %d experience points for bringing back the book.}
 
 {600}{}{I fixed your broken waterpump.}
 {601}{}{That is great news, indeed. That waterpump had been acting up for quite some time. Those merchants said they

@@ -21,7 +21,7 @@
 {400}{}{This is our printing works. We copy our books here.}
 {401}{}{Ok, thanks for the info.}
 
-{500}{}{You gain 100 experience points for delivering the part.}
+{500}{}{You gain %d experience points for delivering the part.}
 
 #dumb dialgoue
 {600}{}{I be BIG helper today. I have macheen part from pretty name woman.}

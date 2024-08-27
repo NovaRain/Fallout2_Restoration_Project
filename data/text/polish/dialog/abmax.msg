@@ -15,7 +15,7 @@
 {307}{}{Wszystko jedno. Zmywam się stąd.}
 {400}{}{Tu jest nasza drukarnia. Tutaj kopiujemy nasze książki.}
 {401}{}{Dobra, dzięki za informację.}
-{500}{}{Dostajesz 100 punktów doświadczenia za dostarczenie części.}
+{500}{}{Dostajesz %d punktów doświadczenia za dostarczenie części.}
 {600}{}{Ja Wielka pomoc dzisiaj. Ja mieć część masiny od kobieta o ładne imię.}
 {610}{}{To musi być część o którą prosiłem Elaine. Dzięki za przyniesienie jej tutaj. Proszę, weź w nagrodę tę instrukcję serwisową... eee oczywiście, jeżeli potrafisz czytać .}
 {611}{}{Ja czytać dziesięć słów. Woleć książki z obrazki. Som bardzo śmieszne. Dziękuje!}

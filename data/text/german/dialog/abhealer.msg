@@ -17,7 +17,7 @@
 {408}{}{(Plötzlich beginnt Jack zu schmelzen.) ICH SCHMELZE, ICH SCHMELZE, OH WAS FÜR EINE WELT...}
 {409}{}{Was zur Hö...}
 {500}{}{Hey, klau keine Medikamente!}
-{501}{}{Du erhältst 200 Erfahrungspunkte, weil du Jack geschmolzen hast. Bist du jetzt glücklich, du Bastard?}
+{501}{}{Du erhältst %d Erfahrungspunkte, weil du Jack geschmolzen hast. Bist du jetzt glücklich, du Bastard?}
 {600}{}{Ich bin Doktor. Ich kümmere mich um die Menschen von Abbey, oh, schon etwa fünfzehn Jahre, denke ich.}
 {601}{}{Aha! Das sind viele Jahre, um all die medizinischen Bücher in der Bibliothek des Klosters zu studieren.
  Du bist sicher der vollkommene Doktor.}

@@ -17,7 +17,7 @@
 {408}{}{(Nagle, Jack zaczyna się topić.) ROZTAPIAM SIĘ, ROZTAPIAM SIĘ, O OKRUTNY ŚWIECIE...}
 {409}{}{Co, do chol...}
 {500}{}{Hej, nie kradnij moich medycznych zapasów!}
-{501}{}{Dostajesz 200 punktów doświadczenia za sprawienie, że Jack się roztopił. I coś ty zrobił? Jesteś zadowolony, draniu!?}
+{501}{}{Dostajesz %d punktów doświadczenia za sprawienie, że Jack się roztopił. I coś ty zrobił? Jesteś zadowolony, draniu!?}
 {600}{}{Jestem tutejszym doktorem. Jestem tu już od 15 lat.}
 {601}{}{Rozumiem. Miałeś wiele lat na studiowanie medycznych książek w bibliotece Opactwa. Musisz być niezłym lekarzem.}
 {602}{}{Skąd masz sprzęt medyczny?}

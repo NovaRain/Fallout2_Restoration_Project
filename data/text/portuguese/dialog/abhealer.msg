@@ -17,7 +17,7 @@
 {408}{}{(De repente, Jack começa a derreter.) EU ESTOU DERRETENDO, EU ESTOU DERRETENDO, OH QUE MUNDO...}
 {409}{}{O que o fu...}
 {500}{}{Ei, não roube meu suprimentos médicos!}
-{501}{}{Você ganha 200 pontos de experiência por fazer o derretimento de Jack. Você está feliz agora, você é doente?}
+{501}{}{Você ganha %d pontos de experiência por fazer o derretimento de Jack. Você está feliz agora, você é doente?}
 {600}{}{Eu sou um médico. Eu tenho estado cuidando das pessoas desta Abadia por aproximadamente, oh, quinze anos agora, eu acredito.}
 {601}{}{Entendo. São muitos anos para estudar todos os livros médicos pré-guerra na biblioteca da Abadia. Você deve ser o médico.}
 {602}{}{De onde você tirou todos os seus equipamentos médicos?}

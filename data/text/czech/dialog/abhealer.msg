@@ -17,7 +17,7 @@
 {408}{}{(Zničeho nic se Jack začíná rozpouštět.) Já se rozpouštím, já se rozpouštím, co je to za svět...}
 {409}{}{Co to kur...}
 {500}{}{Hej, přestaň mi krást moje věci!}
-{501}{}{Získáváš 200 zkušenostních bodů za rozpuštění Jacka. Už jsi spokojený, ty úchylný hovado?!}
+{501}{}{Získáváš %d zkušenostních bodů za rozpuštění Jacka. Už jsi spokojený, ty úchylný hovado?!}
 {600}{}{Jsem zdejší doktor. O lidi v Opatství se starám už asi, eh, patnáct let.}
 {601}{}{Aha. To jsi měl určitě hodně času studovat všechny ty předválečné, lékařské knihy ve zdejší knihovně. Musíš mít úžasné znalosti medicíny.}
 {602}{}{Kde jsi přišel ke všemu tomu lékařskému vybavení?}

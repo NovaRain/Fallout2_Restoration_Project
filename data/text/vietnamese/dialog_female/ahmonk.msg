@@ -100,7 +100,7 @@ nghĩ về lời của cô. Tôi cảm nhận được trí tuệ của cô, ng�
 {456}{}{Cám ơn. Tôi muốn hỏi về việc khác nữa.}
 {457}{}{Được rồi. Tôi muốn hỏi về việc khác nữa.}
 {500}{}{Dừng lại!}
-{501}{}{Bạn nhận được 200 điểm kinh nghiệm vì đã mang cuốn sách trở lại.}
+{501}{}{Bạn nhận được %d điểm kinh nghiệm vì đã mang cuốn sách trở lại.}
 {600}{}{Tôi đã sửa cái máy bơm nước bị hỏng rồi.}
 {601}{}{Đúng là tin tốt đấy. Cái máy bơm nước đấy bị trục trặc lâu lắm rồi. Mấy tay thương lái cứ bảo để đấy họ lo, nhưng
 mãi chẳng thấy có kết quả gì. Thật tốt là cô đã đến giúp. Cám ơn cô nhiều.}

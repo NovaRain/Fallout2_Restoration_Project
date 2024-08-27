@@ -17,7 +17,7 @@
 {408}{}{(Đột nhiên, Jack bắt đầu chảy ra) TÔI ĐANG CHẢY, TÔI ĐANG CHẢY RA, ÔI GIỜI...}
 {409}{}{Cái đi...}
 {500}{}{Này, đừng có ăn trộm vật tư ý tế của tôi!}
-{501}{}{Bạn nhận được 200 điểm kinh nghiệm vì đã làm Jack tan chảy. Vui lắm nhỉ, đồ bệnh hoạn?}
+{501}{}{Bạn nhận được %d điểm kinh nghiệm vì đã làm Jack tan chảy. Vui lắm nhỉ, đồ bệnh hoạn?}
 {600}{}{Tôi là bác sĩ. Tôi đã chăm sóc mọi người ở Tu viện này trong khoảng, ồ, tầm 15 năm rồi, chắc vậy.}
 {601}{}{Vậy ư. Dành từng đấy năm để đọc toàn bộ chỗ sách y học trước chiến tranh trong thư viện, chắc hẳn ông là bác sĩ giỏi lắm.}
 {602}{}{Ông kiếm đâu ra chỗ thiết bị y tế này thế?}

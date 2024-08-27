@@ -101,7 +101,7 @@ retornar para a humanidade, ele deve primeiro provar ter subido acima de sua ten
 {456}{}{Obrigado. Eu gostaria de saber algo mais embora.}
 {457}{}{Muito bem. Eu gostaria de saber algo mais embora.}
 {500}{}{Pare com isso!}
-{501}{}{Você ganha 200 pontos de experiência por trazer de volta o livro.}
+{501}{}{Você ganha %d pontos de experiência por trazer de volta o livro.}
 {600}{}{Eu reparei sua bomba de água quebrada.}
 {601}{}{Isso é uma ótima notícia, na verdade. Aquela bomba de água estava travando a algum tempo. Esses comerciantes disseram que
   poderiam cuidar disso, mas eles não pareciam estar fazendo muito progresso. É uma coisa boa que você veio. Obrigado novamente.}
