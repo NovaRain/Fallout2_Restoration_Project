@@ -65,7 +65,7 @@
 {456}{}{Díky. Chci se ještě na něco zeptat.}
 {457}{}{Tak dobře. Chci se ještě na něco zeptat.}
 {500}{}{Přestaň s tím!}
-{501}{}{Získáváš 200 zkušeností za přinesení knihy.}
+{501}{}{Získáváš %d zkušeností za přinesení knihy.}
 {600}{}{Podařilo se mi opravit vaši vodní pumpu.}
 {601}{}{To je vskutku dobrá zpráva. S tou pumpou byly poslední dobou jen samé potíže. Ti obchodníci říkali, že se o to postarají, ale zdá se, že příliš daleko nepokročili. Jsme rádi, že vás tu máme. Ještě jednou děkuji.}
 {602}{}{Víte, očekávám za to nějakou finanční odměnu. Tak ji navalte!}

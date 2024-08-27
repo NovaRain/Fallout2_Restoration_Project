@@ -15,7 +15,7 @@
 {307}{}{Chậc, tôi đi đây.}
 {400}{}{Đây là xưởng in của tu viện. Chúng tôi in sách tại đây.}
 {401}{}{Ok, cám ơn vì thông tin.}
-{500}{}{Bạn nhận được 100 điểm kinh nghiệm vì đã gửi bộ phận.}
+{500}{}{Bạn nhận được %d điểm kinh nghiệm vì đã gửi bộ phận.}
 {600}{}{Ngộ là trợ thủ LỚN hôm nay. Ngộ có bộ mạy từ bà tên đẹp.}
 {610}{}{Chắc là bộ phận máy mà tôi yêu cầu Elaine. Cám ơn đã cầm nó xuống. Đây, cầm lấy quyển sách hướng dẫn
 sinh tồn này thay lời cảm ơn... nếu mà cậu biết đọc.}

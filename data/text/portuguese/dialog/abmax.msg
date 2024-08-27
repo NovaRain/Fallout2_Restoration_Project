@@ -15,7 +15,7 @@
 {307}{}{Seja como for, estou fora daqui.}
 {400}{}{Esta é a nossa impressão de obras. Nós cópiamos nossos livros aqui.}
 {401}{}{Ok, obrigado pela informação.}
-{500}{}{Você ganha 100 pontos de experiência por entregar a parte.}
+{500}{}{Você ganha %d pontos de experiência por entregar a parte.}
 {600}{}{Atualmente, sou um grande ajudante. Eu tenho um macheen parte de uma mulher muito conhecida.}
 {610}{}{Essa deve ser a parte de serviço que solicitei para Elaine. Obrigado por me trazer isso. Aqui, pegue isso
   manual de sobrevivência para os seus problemas ... uh se você pode ler isso.}

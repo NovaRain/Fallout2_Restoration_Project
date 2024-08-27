@@ -66,7 +66,7 @@
 {456}{}{Dziękuję. Ale chcę wiedzieć coś jeszcze.}
 {457}{}{Niech będzie. Ale chcę wiedzieć coś jeszcze.}
 {500}{}{Przestań!}
-{501}{}{Dostajesz 200 punktów doświadczenia za przyniesienie książki.}
+{501}{}{Dostajesz %d punktów doświadczenia za przyniesienie książki.}
 {600}{}{Naprawiłem pompę wodną na zewnątrz kościoła.}
 {601}{}{To w rzeczy samej, wspaniała nowina. Ta pompa wodna sprawiała problemy już od jakiegoś czasu. Ci handlarze powiedzieli, że mogą się tym zająć, ale jak widać nie szło im najlepiej. Dobrze, że tu jesteś. Jeszcze raz, dziękuję.}
 {602}{}{Dla twojej wiadomości, spodziewam się za to wynagrodzenia. No, wyskakuj z kasy!}
