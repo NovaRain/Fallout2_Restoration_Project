@@ -81,36 +81,32 @@ procedure Node999; // Exit dialog
 
 variable more_info := 0;
 
-procedure start
-begin
+procedure start begin
 end
 
 procedure critter_p_proc begin
-   if ( (global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
+   if ((global_var(GVAR_TOWN_REP_ABBEY) == -30) and (self_can_see_dude)) then begin
       attack(dude_obj);
    end
 end
 
-procedure look_at_p_proc
-begin
- script_overrides;
- display_msg(mstr(100));
+procedure look_at_p_proc begin
+   script_overrides;
+   display_msg(mstr(100));
 end
 
-procedure description_p_proc
-begin
- script_overrides;
- display_msg(mstr(101));
+procedure description_p_proc begin
+   script_overrides;
+   display_msg(mstr(101));
 end
 
-procedure timed_event_p_proc
-begin
- if (fixed_param == 1) and
-    (not combat_is_initialized) and
-    (self_can_see_dude) and
-    (self_distance_from_dude <= 4) then
-  call Node001;
- add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+procedure timed_event_p_proc begin
+   if (fixed_param == 1) and
+      (not combat_is_initialized) and
+      (self_can_see_dude) and
+      (self_distance_from_dude <= 4) then
+      call Node001;
+   flush_add_timer_event_sec(self_obj, random(5,10), 1);
 end
 
 procedure damage_p_proc begin
@@ -152,120 +148,104 @@ procedure talk_p_proc begin
    set_local_var(LVAR_Herebefore,1);
 end
 
-procedure map_enter_p_proc
-begin
- set_self_team(TEAM_ABBEY);
- add_timer_event(self_obj, random(5,10)*ONE_GAME_SECOND, 1);
+procedure map_enter_p_proc begin
+   set_self_team(TEAM_ABBEY);
+   flush_add_timer_event_sec(self_obj, random(5,10), 1);
 end
 
-procedure destroy_p_proc
-begin
- inc_good_critter
+procedure destroy_p_proc begin
+   inc_good_critter
 end
 
-procedure pickup_p_proc
-begin
- if (source_obj == dude_obj) then begin
-  if (local_var(LVAR_stolen_before) == 1) then begin
-   set_global_var(GVAR_TOWN_REP_ABBEY, -30);
-   attack(dude_obj);
-  end else begin
-   float_msg(self_obj, mstr(500), FLOAT_MSG_RED);
-   set_local_var(LVAR_stolen_before, 1);
-  end
- end
+procedure pickup_p_proc begin
+   if (source_obj == dude_obj) then begin
+      if (local_var(LVAR_stolen_before) == 1) then begin
+         set_global_var(GVAR_TOWN_REP_ABBEY, -30);
+         attack(dude_obj);
+      end else begin
+         float_msg(self_obj, mstr(500), FLOAT_MSG_RED);
+         set_local_var(LVAR_stolen_before, 1);
+      end
+   end
 end
 
-procedure fNode
-begin
- floater_rand(200, 202);
+procedure fNode begin
+   floater_rand(200, 202);
 end
 
-procedure Node001a
-begin
+procedure Node001a begin
    if ((global_var(GVAR_ABBEY_BEAST) == 2) and (local_var(LVAR_Herebefore) == 1)) then
-       call Node009;
+      call Node009;
    else
-       call Node001;
+      call Node001;
 end
 
-procedure Node001
-begin
+procedure Node001 begin
+   Reply(300 + (2700 * more_info));
 
- Reply(300 + (2700*more_info));
-
- if (global_var(GVAR_ABBEY_PUMP) == PUMP_FIXED) then
-   NOption(600,Node016,4);
- NOption(301,Node002,4);
- NOption(302,Node003a,4);
- NOption(303,Node004,4);
- if (global_var(GVAR_ABBEY_PUMP) < PUMP_QUEST_GIVEN) then
-   NOption(444,Node018,4);
- if (global_var(GVAR_ABBEY_PUMP) == PUMP_FOUND_PROBLEM) then
-   NOption(445,Node020,4);
- NOption(304,Node999,4);
+   if (global_var(GVAR_ABBEY_PUMP) == PUMP_FIXED) then
+      NOption(600,Node016,4);
+   NOption(301,Node002,4);
+   NOption(302,Node003a,4);
+   NOption(303,Node004,4);
+   if (global_var(GVAR_ABBEY_PUMP) < PUMP_QUEST_GIVEN) then
+      NOption(444,Node018,4);
+   if (global_var(GVAR_ABBEY_PUMP) == PUMP_FOUND_PROBLEM) then
+      NOption(445,Node020,4);
+   NOption(304,Node999,4);
 end
 
-procedure Node002
-begin
- Reply(400);
- NOption(430,Node015,4);
- NOption(431,Node014,4);
- NOption(432,Node001,4);
-
+procedure Node002 begin
+   Reply(400);
+   NOption(430,Node015,4);
+   NOption(431,Node014,4);
+   NOption(432,Node001,4);
 end
 
-procedure Node003a
-begin
+procedure Node003a begin
    if (global_var(GVAR_ABBEY_BEAST) > 2) then
-       call Node013;
+      call Node013;
    else
-       call Node003b;
+      call Node003b;
 end
 
-procedure Node003b
-begin
- Reply(402);
- NOption(403,Node005,4);
+procedure Node003b begin
+   Reply(402);
+   NOption(403,Node005,4);
 end
 
-procedure Node004
-begin
- Reply(404);
- NOption(405,Node001,4);
+procedure Node004 begin
+   Reply(404);
+   NOption(405,Node001,4);
 end
 
-procedure Node005
-begin
- Reply(406);
- NOption(407,Node006,4);
+procedure Node005 begin
+   Reply(406);
+   NOption(407,Node006,4);
 end
 
-procedure Node006
-begin
- Reply(408);
- if (global_var(GVAR_ABBEY_BEAST) == 2) then
-   NOption(1100,Node030,4);
- else
-   NOption(4091,Node006a,4);
+procedure Node006 begin
+   Reply(408);
+   if (global_var(GVAR_ABBEY_BEAST) == 2) then
+      NOption(1100,Node030,4);
+   else
+      NOption(4091,Node006a,4);
 end
 
 procedure Node006a begin
- Reply(4092);
- NOption(409,Node007,4);
- NOption(410,Node007,4);
- NOption(1411,Node999,4);
+   Reply(4092);
+   NOption(409,Node007,4);
+   NOption(410,Node007,4);
+   NOption(1411,Node999,4);
 end
 
-procedure Node007
-begin
- Reply(411);
- GOption(412,Node008,4);
- NOption(413,Node999,4);
+procedure Node007 begin
+   Reply(411);
+   GOption(412,Node008,4);
+   NOption(413,Node999,4);
 end
 
-procedure Node008
-begin
+procedure Node008 begin
    set_global_var(GVAR_ABBEY_BEAST,1);
    set_local_var(LVAR_Find_Book,1);
    Reply(414);
@@ -287,11 +267,10 @@ procedure Node009 begin
    end
 end
 
-procedure Node010
-begin
- Reply(418);
- GOption(419,Node011,4);
- BOption(420,Node012,4);
+procedure Node010 begin
+   Reply(418);
+   GOption(419,Node011,4);
+   BOption(420,Node012,4);
 end
 
 procedure Node011 begin
@@ -327,62 +306,53 @@ procedure Node012 begin
    NOption(1113,Node001,4);
 end
 
-procedure Node013
-begin
- Reply(425);
- NOption(426,Node999,4);
+procedure Node013 begin
+   Reply(425);
+   NOption(426,Node999,4);
 end
 
-procedure Node014
-begin
- Reply(434);
- NOption(435,Node014a,4);
- NOption(436,Node001,4);
+procedure Node014 begin
+   Reply(434);
+   NOption(435,Node014a,4);
+   NOption(436,Node001,4);
 end
 
-procedure Node014a
-begin
- Reply(437);
- NOption(438,Node014b,4);
+procedure Node014a begin
+   Reply(437);
+   NOption(438,Node014b,4);
 end
 
-procedure Node014b
-begin
- Reply(439);
- NOption(440,Node002,4);
- if((dude_iq > 5)and(has_skill(dude_obj, SKILL_SPEECH) > 49)) then begin
- NOption(441,Node014c,4);
-end
-end
-
-procedure Node014c
-begin
- Reply(442);
- //if (local_var(LVAR_Learn_Of_Founders) == 0) then
- //  NOption(446,Node025,4);
- NOption(443,Node002,4);
+procedure Node014b begin
+   Reply(439);
+   NOption(440,Node002,4);
+   if ((dude_iq > 5) and (has_skill(dude_obj, SKILL_SPEECH) > 49)) then begin
+      NOption(441,Node014c,4);
+   end
 end
 
-procedure Node015
-begin
- Reply(433);
- if ( (dude_iq >= 6) and (local_var(LVAR_Explained_Knowledge) == 0) ) then
-   NOption(448,Node022,4);
- NOption(401,Node002,4);
+procedure Node014c begin
+   Reply(442);
+   //if (local_var(LVAR_Learn_Of_Founders) == 0) then
+   //   NOption(446,Node025,4);
+   NOption(443,Node002,4);
 end
 
-procedure Node999
-begin
+procedure Node015 begin
+   Reply(433);
+   if ((dude_iq >= 6) and (local_var(LVAR_Explained_Knowledge) == 0)) then
+      NOption(448,Node022,4);
+   NOption(401,Node002,4);
 end
 
-procedure Node997
-begin
+procedure Node999 begin
+end
+
+procedure Node997 begin
    give_exp_points(200);
-   display_msg(mstr(501));
+   display_msg(sprintf(mstr(501), calc_actual_xp_gain(200)));
 end
 
-procedure Node016
-begin
+procedure Node016 begin
    Reply(601);
    BOption(602,Node016b,4);
    BOption(6020,Node016b,4);
@@ -432,7 +402,6 @@ procedure Node017a begin
    Reply(701);
    NOption(702,Node999,4);
    NOption(1113,Node001,4);
-
 end
 
 procedure Node018 begin
@@ -443,7 +412,7 @@ procedure Node018 begin
 end
 
 procedure Node018a begin
-    set_global_var(GVAR_ABBEY_PUMP,PUMP_QUEST_GIVEN);
+   set_global_var(GVAR_ABBEY_PUMP,PUMP_QUEST_GIVEN);
 end
 
 procedure Node019 begin
@@ -513,15 +482,13 @@ procedure Node027 begin
 end
 
 procedure Node028 begin
-
    Reply(416);
    if ((dude_item_count(PID_ABBEY_MISSING_BOOK))) then
       NOption(1030,Node029,1);
-
 end
 
 procedure Node029 begin
-variable item;
+   variable item;
    item:=dude_item(PID_ABBEY_MISSING_BOOK);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
