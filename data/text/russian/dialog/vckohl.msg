@@ -95,12 +95,12 @@
 {194}{}{О, обязательно! Если бы в мире было больше людей, как вы.}
 {195}{}{Подпишусь под каждым словом! Давненько я не встречал заинтересованных в этом людей. Хотя, знавал одного торговца, увлеченного этим вопросом...}
 {196}{}{Really? Used to?}
-{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
+{197}{}{Что ж, приятно знать, что нас больше. Не против, если я спрошу кое-что еще?}
 {198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
-{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
-{200}{}{Wow, that's a very comforting thought! Where was his home?}
-{201}{}{Why doesn't he come around anymore?}
-{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
-{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
-{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
-{205}{}{Ah, pushed his luck. Where did he say he was from?}
+{199}{}{Да, он приходил во двор менять алкоголь, но заходил ко мне за книгами. Я даже денег не брала, но он настаивал. Говорил, что у них дома книги очень ценятся.}
+{200}{}{Вау, это очень приятно слышать! Откуда он был?}
+{201}{}{Почему он больше не появляется?}
+{202}{}{Он сказал, что это место зовут Аббатством, к северу отсюда. Он даже показал мне, где это точно находится, вот... здесь. Я бы с удовольствием посмотрел на него, но один только вид двора меня пугает до паники.}
+{203}{}{Ну, возможно, он пытался торговать спиртным в городе. Это ведь незаконно, знаешь ли.}
+{204}{}{Ах, какое несчастье. Спасибо за информацию. Не возражаете, если я спрошу еще кое-что?}
+{205}{}{Ах, попытал удачу. А откуда он говорил, что приехал?}

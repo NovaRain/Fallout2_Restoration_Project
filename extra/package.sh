@@ -13,9 +13,8 @@ export file_list
 
 short_sha="$(git rev-parse --short HEAD)"
 # defaults, local build or github non-tagged
-export version="git$short_sha"
+export version="2.4.git$short_sha"
 export vversion="$version" # in package names
-export uversion="$version" # in game
 
 if [[ -n "${GITHUB_REF-}" ]]; then                 # github build
     if echo "$GITHUB_REF" | grep "refs/tags"; then # tagged
@@ -23,7 +22,6 @@ if [[ -n "${GITHUB_REF-}" ]]; then                 # github build
         version="$(echo "$GITHUB_REF" | sed 's|refs\/tags\/v||')"
         export version
         export vversion="v$version"
-        export uversion="u$version" # in game
     fi
 fi
 
