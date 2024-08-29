@@ -21,7 +21,7 @@
 {409}{}{What the fu...}
 
 {500}{}{Hey, don't steal my medical supplies!}
-{501}{}{You gain 200 experience points for making Jack melt. Are you happy now, you sick fuck?}
+{501}{}{You gain %d experience points for making Jack melt. Are you happy now, you sick fuck?}
 
 {600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
 {601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}

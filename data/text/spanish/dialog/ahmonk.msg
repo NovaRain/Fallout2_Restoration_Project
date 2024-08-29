@@ -69,7 +69,7 @@
 {456}{}{Gracias. Aunque me gustaría saber algo más.}
 {457}{}{Muy bien. Aunque me gustaría saber algo más.}
 {500}{}{¡Para eso!}
-{501}{}{Ganas 200 puntos de experiencia para traer de vuelto el libro.}
+{501}{}{Ganas %d puntos de experiencia para traer de vuelto el libro.}
 {600}{}{He reparado su bomba de agua.}
 {601}{}{Esa es una gran noticia, de hecho. Esa bomba de agua había estado actuando durante bastante tiempo. Esos comerciantes dijeron que podían encargarse de eso, pero no parecían estar progresando mucho. Es algo bueno que hayas venido. Gracias de nuevo.}
 {602}{}{Espero algo de dinero por esto, ya sabes. Ahora tíralo!}

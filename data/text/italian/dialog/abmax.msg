@@ -15,7 +15,7 @@
 {307}{}{Whatever, I'm outta here.}
 {400}{}{This is our printing works. We copy our books here.}
 {401}{}{Ok, thanks for the info.}
-{500}{}{You gain 100 experience points for delivering the part.}
+{500}{}{You gain %d experience points for delivering the part.}
 {600}{}{I be BIG helper today. I have macheen part from pretty name woman.}
 {610}{}{That must be the service part that I requested from Elaine. Thanks for bringing this to me. Here, take this
  survival manual for your trouble... uh if you can read it that is.}

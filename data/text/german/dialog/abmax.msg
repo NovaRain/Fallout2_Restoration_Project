@@ -16,7 +16,7 @@
 {307}{}{Was auch immer, ich bin raus hier.}
 {400}{}{Das ist unsere Druckerei. Wir kopieren unsere Bücher hier.}
 {401}{}{Ok, danke für die Information.}
-{500}{}{Du erhältst 100 Erfahrungspunkte für die Lieferung des Teiles.}
+{500}{}{Du erhältst %d Erfahrungspunkte für die Lieferung des Teiles.}
 {600}{}{Ich bin RIESIG Helfer heut. Ich habe Teil von hübsche Name Frau.}
 {610}{}{Das ist das Wartungsteil, das ich von Elaine angefordert habe. Danke, dass du es mir gebracht hast.
  Hier, nimm dieses Pfadfinder-Handbuch für deine Mühe... ähh wenn du das überhaupt lesen kannst.}

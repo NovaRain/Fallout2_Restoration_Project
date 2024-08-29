@@ -65,7 +65,7 @@
 {456}{}{Danke. Ich möchte aber noch etwas anderes wissen.}
 {457}{}{Na schön. Ich möchte aber noch etwas anderes wissen.}
 {500}{}{Hör auf damit!}
-{501}{}{Du bekommst für's zurückbringen des Buches 200 Erfahrungspunkte.}
+{501}{}{Du bekommst für's zurückbringen des Buches %d Erfahrungspunkte.}
 {600}{}{Ich habe eure kaputte Wasserpumpe repariert.}
 {601}{}{In der Tat, das sind großartige Neuigkeiten. Die Wasserpumpe funktionierte bisher nur ab und zu. Diese Händler sagten, dass sie sich darum kümmern könnten, aber sie schienen nicht viele Fortschritte zu machen. Es ist gut, dass du vorbeigekommen bist. Nochmals Danke.}
 {602}{}{Ich erwarte, dass man mich fürs Arbeiten bezahlt. Also her mit der Kohle!}

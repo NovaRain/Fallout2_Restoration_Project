@@ -15,7 +15,7 @@
 {307}{}{Kašlu na to, mizím odsud.}
 {400}{}{Tohle je tiskárna. Kopírujeme tu naše knihy.}
 {401}{}{Dobrá, díky za informace.}
-{500}{}{Získáváš 100 zkušenostních bodů za doručení součástky.}
+{500}{}{Získáváš %d zkušenostních bodů za doručení součástky.}
 {600}{}{Já být dneska VELKÁ pomocník. Mít soušátka od žena s krásný jméno.}
 {610}{}{To musí být ta součástka, kterou jsem si vyžádal od Elaine. Děkuji, že jsi ji přinesl. Tady,
  za odměnu si vezmi tuhle příručku k přežití...pokud tedy umíš číst.}

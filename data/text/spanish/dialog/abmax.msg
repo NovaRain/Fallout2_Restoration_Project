@@ -15,7 +15,7 @@
 {307}{}{Da igual, me largo de aquí.}
 {400}{}{Este es nuestro trabajo de impresión. Copiamos nuestros libros aquí.}
 {401}{}{Bueno, gracias por la información.}
-{500}{}{Ganas 100 puntos de experiencia para entregar la pieza.}
+{500}{}{Ganas %d puntos de experiencia para entregar la pieza.}
 {600}{}{Seré GRANDE ayudante hoy. Tengo pieza de macuina de la mujer bonita.}
 {610}{}{Esa debe ser la pieza del servicio que solicité a Elaine. Gracias por traerme esto. Aquí, toma este
 manual de supervivencia por las molestias ... uh si puede leerlo, eso es.}

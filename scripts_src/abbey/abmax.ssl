@@ -183,7 +183,7 @@ variable item;
    item:=dude_item(PID_MOTIVATOR);
    rm_obj_from_inven(dude_obj,item);
    destroy_object(item);
-   display_msg(mstr(500));
+   display_msg(sprintf(mstr(500), calc_actual_xp_gain(100)));
    give_exp_points(100);
    set_global_var(GVAR_ABBEY_PART,2);
    inc_global_var_amt(GVAR_TOWN_REP_ABBEY,5);
