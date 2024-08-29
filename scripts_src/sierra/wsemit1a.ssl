@@ -219,8 +219,8 @@ procedure damage_p_proc begin
             destroy_object(Field_Ptr);
             Field_Ptr:=0;
             if (Field_Pid == PID_NS_FORCE_FIELD) then begin
-            ndebug("Make NW Pain Field.");
-            create_object_sid(PID_NS_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
+                ndebug("Make NW Pain Field.");
+                create_object_sid(PID_NS_PAIN_FIELD,Field_Hex,Field_Elev,CUR_FIELD_SCRIPT);
             end
             else begin
                ndebug("Make EW Pain Field.");

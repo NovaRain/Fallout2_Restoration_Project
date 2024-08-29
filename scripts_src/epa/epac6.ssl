@@ -399,8 +399,7 @@ begin
   give_xp(500);
 end
 
-procedure Node001a
-begin
+procedure Node001a begin
   call Node001;
 end
 

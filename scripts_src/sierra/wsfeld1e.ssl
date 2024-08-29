@@ -83,13 +83,11 @@ end
 //end added
 
 procedure map_update_p_proc begin
-
    if self_exists then begin
        FIELD_PTR:=self_obj;
    end
 
    if (global_var(GVAR_SIERRA_BASE_POWER) == 0) then begin              // power on
-
        if (self_exists and (map_var(FIELD_STATUS) != FIELD_DAMAGED)) then begin
            if (self_pid == PID_NS_PAIN_FIELD) then begin
                FIELD_PTR:=create_object_sid(PID_NS_FORCE_FIELD,self_tile,self_elevation,CUR_SCRIPT);
