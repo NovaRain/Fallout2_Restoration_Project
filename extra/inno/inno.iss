@@ -2,22 +2,21 @@
 #define backup_dir "backup\" + basename
 #define mods_dir "{app}\mods"
 ; build process shenanigans, see inno.sh
-#define uversion "u0"
-#define vversion "v0"
+#define version "v0"
 
 [Setup]
 AppName=Fallout 2 Restoration Project
-AppVerName=Fallout 2 Restoration Project 2.3.3{#uversion}
+AppVerName=Fallout 2 Restoration Project {#version}
 AppId=Fallout 2 Restoration Project
 AppPublisher=BGforge
 AppPublisherURL=https://bgforge.net
 AppSupportURL=https://forums.bgforge.net/viewforum.php?f=34
 AppUpdatesURL=https://github.com/BGforgeNet/Fallout2_Restoration_Project
-VersionInfoTextVersion=2.3.3{#uversion}
+VersionInfoTextVersion={#version}
 DefaultDirName=C:\Games\Fallout2
 AppendDefaultDirName=no
 DisableProgramGroupPage=yes
-OutputBaseFilename={#basename}_{#vversion}
+OutputBaseFilename={#basename}_v{#version}
 Compression=lzma
 DirExistsWarning=no
 Uninstallable=no
