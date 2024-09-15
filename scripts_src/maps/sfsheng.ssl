@@ -38,16 +38,14 @@ procedure map_exit_p_proc;
 procedure map_enter_p_proc;
 procedure map_update_p_proc;
 
-procedure start
-begin
+procedure start begin
 end
 
-procedure map_enter_p_proc
-begin
+procedure map_enter_p_proc begin
    override_map_start_hex(16724,0,1);
 
    if (map_first_run) then begin
-     display_msg(mstr(100));
+      display_msg(mstr(100));
    end
 
    //added by killap - prevent car from disappearing if the car runs out of gas while on the town circle
@@ -61,22 +59,20 @@ begin
       Check_Create_Car(CAR_SAN_FRANCISCO_DR_SHENG_HEX, CAR_SAN_FRANCISCO_DR_SHENG_ELEV)
    //end added
 
-   if( dude_elevation == 0) then
+   if (dude_elevation == 0) then
       Lighting;
    else
       Cavern_Lighting;
 
    set_global_var(GVAR_LOAD_MAP_INDEX,0);
-
 end
 
 procedure map_update_p_proc begin
-   if ( dude_elevation == 0) then begin
+   if (dude_elevation == 0) then
       Lighting;
-   end
+   else
+      Cavern_Lighting;
 end
 
-procedure map_exit_p_proc
-begin
-
+procedure map_exit_p_proc begin
 end
