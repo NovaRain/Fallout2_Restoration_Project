@@ -44,15 +44,15 @@ procedure map_enter_p_proc begin
       Check_Create_Car(CAR_ABBEY_HEX, CAR_ABBEY_ELEV)
    //end added
 
-   if (dude_elevation == 0) then begin
+   if (dude_elevation == 0) then
       Lighting;
-   end
+   else
+      Military_Base_Lighting;
 end
 
 procedure map_update_p_proc begin
-   if (dude_elevation == 0) then begin
+   if (dude_elevation == 0) then
       Lighting;
-   end else begin
-      Military_Base_Lighting; //set_light_level(50);
-   end
+   else
+      Military_Base_Lighting;
 end
