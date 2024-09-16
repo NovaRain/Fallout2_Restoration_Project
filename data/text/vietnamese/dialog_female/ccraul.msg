@@ -3,7 +3,7 @@
 {102}{}{Bạn thấy một người đàn ông mặc bộ quân phục bẩn thỉu. Nhìn vào mấy vết
 dầu mỡ bạn nghĩ người này giống thợ cơ khí hơn là lính, hơn nữa còn
 chăm làm lắm.}
-{103}{}{Xin lỗi, em giai, nhưng ta không có thời gian tán nhảm, rõ chứ? Ta còn
+{103}{}{Xin lỗi, cô em, nhưng ta không có thời gian tán nhảm, rõ chứ? Ta còn
 phải làm cho con chim này bay được.}
 {104}{}{Tiến sĩ muốn sửa K-9. Ông ta nói ông có bộ phận.}
 {105}{}{Ừ... okay.}
@@ -11,7 +11,7 @@ phải làm cho con chim này bay được.}
 {107}{}{Tiến sĩ muốn sửa con chó. Ông ta cử tôi đến lấy bộ phận.}
 {108}{}{Rồi. Tạm biệt.}
 {109}{}{Raul, Quincy muốn gặp ông.}
-{110}{}{Quincy à? Ồ, Raul không muốn gặp lão ta, em giai à. Raul chán đống
+{110}{}{Quincy à? Ồ, Raul không muốn gặp lão ta, cô em à. Raul chán đống
 cứt đấy lắm rồi, hiểu chứ?}
 {111}{}{Okay.}
 {112}{}{Quincy nói ông đầu lìn. Ông sợ không dám đến.}
@@ -23,8 +23,8 @@ sửa chim không? Làm đéo có chuyện. Chỉ có Raul mới sửa được 
 Biết tại sao không? Vì Quincy đéo biết cái lìn gì, rõ chưa!}
 {116}{}{Ừ...}
 {117}{}{Ờ...}
-{118}{}{Này, xin lỗi em giai. Raul không nên quát cậu, hiểu chứ? Đâu phải lỗi của
-cậu; cậu chỉ là người đưa tin. Này, em giai, cậu có đang bận gì không?}
+{118}{}{Này, xin lỗi cô em. Raul không nên quát cô em, hiểu chứ? Đâu phải lỗi của
+cô; cô em chỉ là người đưa tin. Này, cô em, cô có đang bận gì không?}
 {119}{}{Không, ngộ không bận. Sao chứ?}
 {120}{}{Không hẳn, sao chứ?}
 {121}{}{Hey look, man. Raul's going to go pay Quincy a visit, you know?
