@@ -14,10 +14,10 @@
 {113}{}{Ngộ không hiểu. Ngộ đi.}
 {114}{}{Này, tôi có thể dùng hệ thống một chút không? Thế nào nhỉ, kiểm tra thôi?}
 {115}{}{Này, nói chuyện vui đấy. Gặp lại sau nhé.}
-{116}{}{Ồ... tôi không được phép để những người chưa được đào tạo sử dụng thiết bị. Cậu phải hiểu là thứ này phức tạp và dễ hỏng lắm.}
+{116}{}{Ồ... tôi không được phép để những người chưa được đào tạo sử dụng thiết bị. Cô phải hiểu là thứ này phức tạp và dễ hỏng lắm.}
 {117}{}{Làm ơn? Ngộ không phá.}
 {118}{}{Tôi hứa sẽ không làm hỏng}
-{119}{}{Được rồi. Cậu có thể truy cập vào hệ thống bằng bảng máy tính ở kia. Nhớ làm ơn cẩn thận giùm. Họ sẽ bắn cả hai ta nếu cậu làm hỏng chiếc máy. Ồ, mật khẩu cho khách là "Snookie".}
+{119}{}{Được rồi. Cô có thể truy cập vào hệ thống bằng bảng máy tính ở kia. Nhớ làm ơn cẩn thận giùm. Họ sẽ bắn cả hai ta nếu cô làm hỏng chiếc máy. Ồ, mật khẩu cho khách là "Snookie".}
 {120}{}{Tôi rất tiếc nhưng không thể được. Tôi thậm chí còn không được phép để người vào trong phòng chứ đừng nói là để họ sử dụng thiết bị.}
 {121}{}{Snookie? Snookie nào?}
 {122}{}{Ok. Ngộ hiểu.}
