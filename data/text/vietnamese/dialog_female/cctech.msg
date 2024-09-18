@@ -21,7 +21,7 @@ như cũ.}
 {119}{}{Bộ phận hồi chuyển ở chỗ đéo nào thế?}
 {120}{}{Mẹ cái lũ ruồi bay, lúc đéo nào cũng làm hỏng máy.}
 {121}{}{Đã rõ, chúng tôi đã bắt được tín hiệu trên máy quét -- đừng có làm phiền, tôi đang làm việc.}
-{122}{}{Này, không được gọi ai cả, cậu lính.}
+{122}{}{Này, không được gọi ai cả, cô lính.}
 {123}{}{Xin lỗi, hiện không giúp được.}
 {124}{}{Có việc gì ở đây à? Không thì tránh đường.}
 {125}{}{Đây là khu vực hạn chế, đồ lính.}
