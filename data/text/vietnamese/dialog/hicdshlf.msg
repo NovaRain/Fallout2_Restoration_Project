@@ -1,6 +1,6 @@
-{100}{}{You open the dresser and find rows of files and notes.}
-{101}{}{Search the dresser.}
-{102}{}{Leave.}
+{100}{}{Bạn mở cửa tủ và tìm thấy hàng đống tài liệu cùng giấy tờ.}
+{101}{}{Tìm kiếm trong tủ.}
+{102}{}{Rời khỏi.}
 {103}{}{As you search through the records in the dresser, you notice a thin leather briefcase stuffed carefully deep in the back.}
 {104}{}{Pull out briefcase.}
 {105}{}{Ignore and continue perusing.}
