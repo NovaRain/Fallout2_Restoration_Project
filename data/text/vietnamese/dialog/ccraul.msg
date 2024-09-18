@@ -49,20 +49,20 @@ củ lìn ra vào đây một chọi một, meno e mano, với Raul nào.}
 {132}{}{Thế thì đừng có đmm nghịch chim của Raul nữa! Cút khỏi đây ngay!}
 {133}{}{Okay.}
 {134}{}{Raul nghĩ cậu em chắc phải điên lắm mới lượn lờ quanh đây mà không mặc quân phục.}
-{135}{}{Hey, man, if the sergeant catches you out of uniform he'll hand
- you your ass.}
-{136}{}{Why are you out of uniform, man?}
+{135}{}{Này cậu em, trung sĩ mà bắt được cậu không mặc quân phục là
+lão ta cho cậu nát mông đấy.}
+{136}{}{Sao cậu em lại không mặc quân phục thế?}
 {137}{}{Đm! Chúng ta đang bị xâm nhập! Báo động!}
 {138}{}{Có kẻ xâm nhập! Gọi bảo vệ ngay!}
-{139}{}{Guard! Intruders in the hangar!}
-{140}{}{Hey, man, what's up? We under attack?}
-{141}{}{Why the alert, man? What's happening?}
+{139}{}{Lính gác! Có kẻ đột nhập vào khoang chứa máy bay!}
+{140}{}{Này cậu em, sao thế? Chúng ta bị tấn công à?}
+{141}{}{Sao lại báo động thế? Có chuyện gì vậy?}
 {142}{}{Cái củ lìn gì đang diễn ra thế?}
-{143}{}{Raul's going to put you in med lab, man.}
-{144}{}{Hey, man, say your prayers!}
-{145}{}{Raul's going to kick your ass!}
-{146}{}{Hey, man, it's in the locker over there. Take it and tell the doc
- Raul says hi.}
+{143}{}{Raul sẽ cho cậu vào bệnh xá đấy, cậu em.}
+{144}{}{Này cậu em, hãy cầu nguyện đi!}
+{145}{}{Raul sẽ cho cậu em một trận!}
+{146}{}{Này cậu em, nó ở trong cái tủ khóa đằng kia. Lấy đi và nói với tiến sĩ
+là Raul gửi lời chào nhé.}
 {147}{}{Cám ơn.}
 {150}{}{Hey, man! Raul don't like it when people mess with his shit. Get out, man.}
 {151}{}{Raul told you not to go through his stuff! Guards!}
