@@ -1,37 +1,37 @@
-{100}{}{You see a short man with a thick mustache.}
-{101}{}{You see the Great Ananias.}
-{102}{}{You see a short, mustachioed, man with a somewhat furtive look to him.}
-{103}{}{You! What do you want to do to the, formerly, Great Ananias now?}
-{104}{}{Get away from me!}
-{105}{}{Go ruin someone else's business.}
-{106}{}{Take it out on someone else.}
-{107}{}{You've already done your worst to me.}
-{108}{}{Just go away, you've done enough harm to me.}
-{109}{}{I'm so hungry.}
-{110}{}{How will I ever feed my family now?}
-{111}{}{You were born with a heart 12 sizes too small.}
-{112}{}{No, my friend, a MUMMY! Straight from the sands of ancient Egypt to the sands of the Wastes! Exclusively for you to see!}
-{113}{}{OK, I'll bite. How much to see the wizened corpse?}
-{114}{}{(to yourself) Hmm, a mummy would kinda describe the way a ghoul looks. OK, I'd like to take a look -- how much?}
-{115}{}{I've seen enough corpses already. Goodbye.}
-{116}{}{Hello, welcome, salutations! I am the Great Ananias (he offers you a slight bow, with a flourish). I bring mysteries from near and far friend. Mysteries from a world beyond our own... of the Netherworld.}
-{117}{}{Come back to learn of the Great Ananias' mysteries of the Netherworld have you?}
-{118}{}{What kind of mysteries?}
-{119}{}{Uh, nice to meet you Mr. Great Anus... something.}
-{120}{}{Hmm, mysteries make me sleep uneasily, I better go. Goodbye.}
-{121}{}{Step right up!}
-{127}{}{Today, in the room within, I have, for your eyes exclusively... A Jan-u-wine Egyptian Mummy!}
-{128}{}{A mummy?}
-{129}{}{A mummy? Hmm, I wonder if it could be.... No, nobody could be that stupid.}
-{130}{}{I don't have any interest in that sort of thing. Corpses scare me.}
-{131}{}{Out of the way, you're blocking paying customers.}
-{132}{}{I don't think this is for you.}
-{133}{}{Why don't you take your little tribal self elsewhere.}
-{134}{}{This isn't really for you.}
-{135}{}{I see, hmmm, how about GO (he points) AWAY!}
-{136}{}{For a person of your obvious class I would be happy to show this unique, and historic, specimen to you for a mere $25.}
-{137}{}{OK, I'll cough up the dough. Now... Show Me The Mummy!}
-{138}{}{I don't want to spend that much. I think I'll survive without seeing the thing. Goodbye.}
+{100}{}{Bạn thấy một người đàn ông thấp lùn với bộ râu rậm.}
+{101}{}{Bạn thấy Montania vĩ đại.}
+{102}{}{Bạn thấy một người đàn ông thấp lùn để râu ria với bộ dạng lén lút.}
+{103}{}{Ngươi! Ngươi muốn làm gì với Ananias vốn từng vĩ đại đây?}
+{104}{}{Tránh xa ta ra!}
+{105}{}{Đi phá chỗ khác đi.}
+{106}{}{Đi chỗ khác mà đái.}
+{107}{}{Ngươi đã khiến ta mất tất cả rồi.}
+{108}{}{Hãy cút đi, ngươi phá thế là đủ lắm rồi.}
+{109}{}{Tôi đói quá.}
+{110}{}{Làm thế nào nuôi sống được gia đình giờ?}
+{111}{}{Ngươi sinh ra với trái tim nhỏ hơn 12 cỡ.}
+{112}{}{Không phải, bạn tôi ơi, một XÁC ƯỚP! Được đưa trực tiếp từ cát vùng Ai Cập cổ đại đến cát vùng Hoang mạc! Chỉ có mình ngươi được thấy!}
+{113}{}{Rồi, cắn câu rồi đây. Thế nghía cái xác chết khô hết bao xèng?}
+{114}{}{(tự lẩm nhẩm) Hừm, xác ướp cũng khá giống với ghoul. OK, tôi sẽ xem -- bao nhiêu?}
+{115}{}{Tôi đã thấy đủ xác chết rồi. Chào.}
+{116}{}{Xin chào, chào mừng! Ta là Montania vĩ đại (ông ta khẽ cúi chào với động tác khoa trương). Ta mang đến điều bí ẩn từ mọi chốn xa xôi, bạn à. Những điều bí ẩn từ thế giới vượt ra khỏi thế giới của chúng ta... thế giới Bên kia.}
+{117}{}{Quay lại để tìm hiểu những điều bí ẩn của Montania vĩ đại về thế giới Bên kia à?}
+{118}{}{Bí ẩn nào thế?}
+{119}{}{Ờ, rất vui được gặp ngài Mông to... gì đấy.}
+{120}{}{Hừm, bí ẩn làm tôi mất ngủ. Tôi nên đi thì hơn. Chào.}
+{121}{}{Tiến lên đi!}
+{127}{}{Hôm nay, trong căn phòng này, ta có thứ này, chỉ mình ngươi được thấy... Xác ướp Ai Cập Jan-ướp-rượu!}
+{128}{}{Xác ướp à?}
+{129}{}{Xác ướp à? Hừm, không biết có phải... Không, làm gì có ai ngốc đến thế.}
+{130}{}{Tôi không quan tâm đến mấy thứ đó. Xác chết kinh bỏ xừ.}
+{131}{}{Tránh đường, ngươi đang cản lối khách trả tiền đấy.}
+{132}{}{Ta không nghĩ thứ này hợp với ngươi.}
+{133}{}{Sao ngươi không lê cái thân toọc đi chỗ khác đi.}
+{134}{}{Thứ này không hợp với ngươi.}
+{135}{}{Hiểu rồi. Hừm, vậy thì BIẾN (ông ta chỉ tay) ĐI!}
+{136}{}{Đối với một nhân vật sành sỏi như ngươi, ta rất vui được trưng bày mẫu vật đặc biệt và cổ đại này chỉ với giá 25$.}
+{137}{}{OK, tôi sẽ nôn tiền ra. Giờ thì... Cho xem Xác ướp nào!}
+{138}{}{Tôi không muốn tiêu phí tiền. Tôi chắc là mình không cần nhìn thứ đó. Chào.}
 {139}{}{Simply open the sarcophagus lid and the marvelous Mummy will be revealed, in all its ancient glory, to you. But please, no touching, and, uh, no flash photography.}
 {140}{}{Great.}
 {141}{}{There you go! The MUMMY! (the door to the sarcophagus swings open to reveal a desiccated corpse, that looks very much like an ordinary ghoul, standing in a poorly painted, chipped and cracked paper-mache sarcophagus.)}

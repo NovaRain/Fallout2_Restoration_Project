@@ -46,7 +46,7 @@
 {300}{}{I can't believe someone fucking killed Tubby...}
 {301}{}{What the fuck happened to Tubby?}
 {302}{}{Ah, why did Tubby have to die.}
-{303}{}{Ahhh...}
+{303}{}{À à...}
 {304}{}{Didn't like that asshole anyway.}
 {305}{}{Flick's dead... Crap.}
 {306}{}{What happened to Flick?}
