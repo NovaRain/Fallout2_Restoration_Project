@@ -43,8 +43,8 @@
 {604}{}{Interesting. Well, I must be going.}
 {700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
-{701}{}{Fair enough. Another question.}
-{800}{}{It is good to see you again }
-{801}{}{. What can I do for you?}
-{802}{}{I have some questions.}
-{803}{}{Nothing. See you around.}
+{701}{}{Rimligt nog. En annan fråga.}
+{800}{}{Det är trevligt att se dig igen }
+{801}{}{. Vad kan jag göra för dig?}
+{802}{}{Jag har några frågor.}
+{803}{}{Det var inget. Vi ses.}
