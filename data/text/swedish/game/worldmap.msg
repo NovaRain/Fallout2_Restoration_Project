@@ -1871,7 +1871,7 @@
 {6677}{}{The Cafe of Broken Dreams.}
 {6678}{}{A band of angry marauders.}
 {6700}{}{Remnants of the Master's army fighting mutated molerats.}
-{6701}{}{Remnants of the Master's armies.}
+{6701}{}{Rester av Mästarens arméer.}
 {6702}{}{A swarm of mantis.}
 {6703}{}{A pack of mutated molerats.}
 {6704}{}{Some bounty hunters.}
@@ -1899,7 +1899,7 @@
 {6760}{}{Some bounty hunters.}
 {6761}{}{Some bounty hunters.}
 {6762}{}{A band of ruffians led by a Morton Brother.}
-{6763}{}{Remnants of the Master's armies.}
+{6763}{}{Rester av Mästarens arméer.}
 {6764}{}{A swarm of mantis.}
 {6765}{}{A pack of mutated molerats.}
 {6766}{}{A pack of radscorpions.}
