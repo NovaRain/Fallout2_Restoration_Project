@@ -19,7 +19,7 @@
 {167}{}{Được rồi, được rồi. Nhận lỗi thế là được.}
 {168}{}{Phù. Tôi hỏi mấy câu được không?}
 {169}{}{Tôi mừng là chúng ta đã giải quyết xong chuyện đó. Gặp lại sau.}
-{170}{}{Chào, rất vui gặp lại cậu.}
+{170}{}{Chào, rất vui gặp lại cô.}
 {171}{}{Chào Metzger. Chúng ta cần nói chuyện.}
 {172}{}{Ông cũng thế. Chào.}
 {173}{}{Ợ.}
