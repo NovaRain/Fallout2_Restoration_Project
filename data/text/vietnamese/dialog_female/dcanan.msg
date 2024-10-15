@@ -42,7 +42,7 @@
 {146}{}{Ồ, tuyệt thật đấy... Chắc vậy (Bạn chăm chú nhìn Xác ướp một lúc). Ờ, cám ơn. Chào.}
 {147}{}{(Xác ướp hắt xì hơi, duỗi người một cách uể oải rồi nhìn bạn bằng ánh mắt ngái ngủ) Chào. (ông ta nói bằng giọng ngủ gật).}
 {148}{}{Con mẹ nó! Đây *là* Woody! Chạy đi Woody, chạy đi! À, ờ, lê bước đi cũng được! Đi nào, Woody, đi đi!}
-{149}{}{Tôi đảm bảo với cậu rằng Xác ướp này đúng thực là một xác-ngâm-rượu.}
+{149}{}{Tôi đảm bảo với cô rằng Xác ướp này đúng thực là một xác-ngâm-rượu.}
 {150}{}{Tôi không nghĩ mình có thể tin được ông. Để tôi thử xem sao. WOODY! Này WOODY! Phải ông không thế?}
 {151}{}{Ồ, nếu ông đã nói thế. Nhưng tôi vẫn chắc là thứ này trông giống một gã ghoul bình thường. Chào.}
 {152}{}{(Wood -- đúng là Woody chứ không phải một Xác ướp, đứng dậy một cách ngái ngủ -- vịn tay vào thành chiếc
