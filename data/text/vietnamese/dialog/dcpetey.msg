@@ -11,7 +11,7 @@
 {160}{}{Sorry; bye.}
 {161}{}{Duh, you are welcome, uh-huh, yeah.}
 {162}{}{Maybe next time. Thank you anyway. [cough]}
-{163}{}{[done]}
+{163}{}{[xong]}
 {164}{}{Thank you so much. [cough] So, so, so very much.}
 {165}{}{Không có gì.}
 {166}{}{Yeah, yeah.}
