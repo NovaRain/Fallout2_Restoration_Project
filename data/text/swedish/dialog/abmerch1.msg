@@ -26,19 +26,19 @@
 {311}{}{Jag ska se vad jag kan göra då.}
 {312}{}{Jag tänkte att jag kanske kunde hjälpa till, men om du vill vara en skitstövel så är du välkommen att lösa det på egen hand.}
 {313}{}{Jag sa till abboten att jag gärna hjälper till, men om du vill vara en skitstövel får du gärna lösa det på egen hand.}
-{320}{}{[He squints at you for a moment, then slowly lets out his breath in a sigh.] Sorry friend, this thing's being a
- real bitch, and it's gotten me all worked up. I didn't mean to snap at ya. }
-{321}{}{Well, what seems to be the problem then?}
-{322}{}{Whatever, bye.}
-{330}{}{Come back and talk to me in the morning.}
-{400}{}{Oh, it's you again. Any luck?}
-{401}{}{No, not yet. I'll get back to you if I do.}
-{402}{}{Actually, yes. I looked inside and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
-{500}{}{Hmm... the connectors are shot on the main motor, eh? Well, I got some wires here with me that will work, but not
- that specific motor. I am sure Vault City has the part though. Go there and speak with Harry in the main courtyard. Tell him
- Dave sent you. Damn motor is expensive, but he should give you a good deal.}
-{501}{}{I'll head there now. Be back soon.}
+{320}{}{[Han kisar på dig ett ögonblick och släpper sedan långsamt ut andan i en suck.] Ledsen vän, den här saken är en
+ riktig bitch, och den ha' gjort mig helt upprörd. Jag menade inte att snäsa åt dig.}
+{321}{}{Tja, vad verkar vara problemet då?}
+{322}{}{Visst, hej då.}
+{330}{}{Kom tillbaka och prata med mig i morgon bitti.}
+{400}{}{Åh, det är du igen. Har du lyckats än?}
+{401}{}{Nej, inte än. Jag hör av mig om jag gör det.}
+{402}{}{Ja, faktiskt. Jag tittade inuti och det verkar som om motorn är helt paj. Anslutningarna är körda, så vi
+ måste få tag på en ny motor, samt några kablar för att återansluta allt eftersom de gamla kablarna är stekta.}
+{500}{}{Hmmm... Kontakterna är körda på huvudmotorn, va? Tja, jag har några kablar här med mig som kommer att fungera, men inte
+ den specifika motorn. Jag är säker på att Valvstaden har delen dock. Gå dit och prata med Harry på huvudgården. Säg till honom att
+ Dave skickade dig. Den jäkla motorn är dyr, men han borde ge dig en bra deal.}
+{501}{}{Jag ska dit nu. Kommer snart tillbaka.}
 {502}{}{Vänta lite. Jag var glad att hjälpa dig att förstå problemet, men vem sa att jag är villig att vandra över
  ödemarken för att köpa en dyr motor till dig? Om du vill ha min hjälp, så kommer det att kosta dig.}
 {503}{}{Vad sägs om att *du* säger det till Harry när du hämtar den helt jäkla själv? Jag är inte din jävla springpojke. Hej då.}
@@ -50,13 +50,13 @@
 {602}{}{Japp, jag har delen här.}
 {700}{}{Utmärkt. Ska jag installera den jäkla saken, eller vill du ha nöjet?}
 {701}{}{Jag tror att jag klarar av det. Stig åt sidan.}
-{702}{}{Actually, I think I've done enough on this job. Go ahead and install it yourself.}
-{800}{}{Alright fine, hand it over.}
-{801}{}{Here you go.}
-{900}{}{That should do it.}
-{901}{}{The water pump has been repaired.}
-{910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
-{911}{}{The Abbot said you might need some assistance. What seems to be the trouble?}
+{702}{}{Jag tror att jag har gjort tillräckligt med det här jobbet. Kör igång och installera den själv.}
+{800}{}{Okej bra, lämna över den.}
+{801}{}{Varsågod.}
+{900}{}{Så där ja.}
+{901}{}{Vattenpumpen har reparerats.}
+{910}{}{(Torkar svetten från pannan.) Ja, behöver du något?}
+{911}{}{Abboten sa att du kanske behövde lite hjälp. Vad verkar vara problemet?}
 {912}{}{Nevermind. Goodbye.}
-{913}{}{I took a look at the water pump and it seems the motor is completely busted. The connections are shot, so we're
- going to have to get our hands on a new motor, as well as some wires to reconnect everything since the old wires are fried.}
+{913}{}{Jag tog en titt på vattenpumpen och det verkar som om motorn är helt paj. Anslutningarna är körda, så vi
+ måste få tag på en ny motor, samt några kablar för att återansluta allt eftersom de gamla kablarna är stekta.}
