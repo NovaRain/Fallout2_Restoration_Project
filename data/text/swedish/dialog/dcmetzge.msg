@@ -46,15 +46,15 @@
 {255}{}{Jag har någon jag skulle vilja sälja.}
 {256}{}{Om Vic...}
 {257}{}{Jag letar efter en handlare.}
-{258}{}{Lara wanted me to ask you for permission to fight Tyler.}
+{258}{}{Lara ville att jag skulle be dig om tillstånd att slåss mot Tyler.}
 {259}{}{Can I join the guild?}
 {260}{}{What can you tell me about your guild?}
 {261}{}{I'd like to go on a slave run.}
 {262}{}{Never mind. Bye.}
 {263}{}{ want to ill.}
 {264}{}{Na.}
-{265}{}{I was looking over the slaves you got back there, but you see, I have very, uh...*selective* tastes, and none of
- them are quite what I'm looking for. Are these all the slaves you have to offer?}
+{265}{}{Jag tittade på slavarna du har där borta, men du förstår, jag har mycket, eh ... *selektiv * smak, och ingen av
+ dem är riktigt vad jag letar efter. Är det här alla slavar du har att erbjuda?}
 {270}{}{You think you can cut it? I don't take in just anyone... What the hell. If
  you fuck up, I'll sell you off. You'll have to get a tattoo on your forehead
  identifying you as a slaver to everyone. It's permanent, so no second thoughts.}
