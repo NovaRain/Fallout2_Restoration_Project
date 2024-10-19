@@ -1,5 +1,5 @@
-{100}{}{You see a small computer terminal.}
-{101}{}{You see the Abbey's computer terminal.}
+{100}{}{Du ser en liten datorterminal.}
+{101}{}{Du ser klostrets datorterminal.}
 {102}{}{You see a small computer terminal. It appears to be functional.}
 {103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
 {104}{}{Read GECK info.}

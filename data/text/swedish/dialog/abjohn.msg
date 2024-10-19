@@ -9,8 +9,8 @@
 {401}{}{Så, vad är ditt jobb?}
 {402}{}{Jag förstår, hej då.}
 {403}{}{Jag brukade jobba på en gård, men det var dåligt för mitt hjärta.}
-{404}{}{You have heart problems?}
-{405}{}{That's too bad, bye!}
+{404}{}{Har du hjärtproblem?}
+{405}{}{Det är synd, hej då!}
 {406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
  to find medicine for that problem in today's world you know.}
 {407}{}{I might have a solution for your heart problems...}
