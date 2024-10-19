@@ -102,4 +102,4 @@
  Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
  it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
 {1000}{}{You upload the EPA Botany Holodisk.}
-{2000}{}{You format the Abbey's book databases.}
+{2000}{}{Du formaterar klostrets bokdatabaser.}
