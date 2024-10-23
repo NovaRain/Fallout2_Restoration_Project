@@ -159,7 +159,7 @@
 {1158}{}{I think I just want to lay down for a while.}
 {1159}{}{It's getting so dark now.}
 {1160}{}{Aggghhh! My leg!}
-{1161}{}{My leg!}
+{1161}{}{Mitt ben!}
 {1162}{}{There goes my knee!}
 {1163}{}{My dance career's over.}
 {1164}{}{My kneecap's just gone man, gone.}
@@ -169,7 +169,7 @@
 {1168}{}{It hurts, somebody make it stop!}
 {1169}{}{The pain! Oh, the pain!}
 {1170}{}{Aggghhh! My leg!}
-{1171}{}{My leg!}
+{1171}{}{Mitt ben!}
 {1172}{}{There goes my knee!}
 {1173}{}{I can't feel my leg at all.}
 {1174}{}{I guess I better find myself a parrot and an eyepatch.}
@@ -178,9 +178,9 @@
 {1177}{}{Who'll hire me now?}
 {1178}{}{I'm no good to anyone as a cripple. (sob, sob)}
 {1179}{}{My leg, I can't feel it.}
-{1180}{}{Aggghhh! I'm blind!}
-{1181}{}{My eyes! My eyes!}
-{1182}{}{My eye! You'll pay for that one!}
+{1180}{}{Aggghhh! Jag är blind!}
+{1181}{}{Mina ögon! Mina ögon!}
+{1182}{}{Mitt öga! Det där ska du få betala för!}
 {1183}{}{You tore my eye out.}
 {1184}{}{Who turned out the lights?}
 {1185}{}{My eye! Aiiieeeee!}
@@ -188,19 +188,19 @@
 {1187}{}{My eye, I can't see anything!}
 {1188}{}{It's so dark, and lonely all of a sudden.}
 {1189}{}{I'd give anything to see again.}
-{1190}{}{Oooooo, my groin!}
-{1191}{}{Oooooooooo!}
+{1190}{}{Åååååå, mitt skrev!}
+{1191}{}{Åååååååååå!}
 {1192}{}{Jag... kan... inte... andas...}
-{1193}{}{Erg! Right in the jewels!}
+{1193}{}{Erg! Mitt i juvelerna!}
 {1194}{}{Smärtan, smärtan...}
-{1195}{}{Damn, that hurts!}
+{1195}{}{Fan, vad ont det gör!}
 {1196}{}{No more kids for me.}
 {1197}{}{*unh* low blow.}
 {1198}{}{Eeeeeep!}
 {1199}{}{Oh yeah, that hurts.}
-{1200}{}{Ow! You son of a...}
-{1201}{}{You broke my nose!}
-{1202}{}{I'll take your head off!}
+{1200}{}{Aj! Din jävla...}
+{1201}{}{Du bröt min näsa!}
+{1202}{}{Jag ska hugga huvudet av dig!}
 {1203}{}{You hit my fuckin' skull!}
 {1204}{}{Gotta try harder than that, but not much harder.}
 {1205}{}{Ouch, that's going to cost you.}
@@ -208,8 +208,8 @@
 {1207}{}{That hurt.}
 {1208}{}{You fucked up my pretty face.}
 {1209}{}{That's going to leave a scar.}
-{1210}{}{Ow, my arm.}
-{1211}{}{You just made the biggest mistake of your life.}
+{1210}{}{Aj, min arm.}
+{1211}{}{Du gjorde just ditt livs största misstag.}
 {1212}{}{Min arm!}
 {1213}{}{Hah, I'm right handed.}
 {1214}{}{Only need one arm to kill you.}
@@ -218,8 +218,8 @@
 {1217}{}{Damn, that's gonna take away from my swing.}
 {1218}{}{I can still take you out of the picture.}
 {1219}{}{Damn, snapped my arm right in two.}
-{1220}{}{Ow, my arm.}
-{1221}{}{You just made the biggest mistake of your life.}
+{1220}{}{Aj, min arm.}
+{1221}{}{Du gjorde just ditt livs största misstag.}
 {1222}{}{Min arm!}
 {1223}{}{I can take you left handed.}
 {1224}{}{Hah, I'm a southpaw anyhow.}
@@ -235,8 +235,8 @@
 {1234}{}{Ugh! Det där gjorde ont!}
 {1235}{}{Ouch!}
 {1236}{}{Argh!}
-{1237}{}{Oh, I think you broke a rib!}
-{1238}{}{Ow!!! My spleen!}
+{1237}{}{Åh, jag tror att du bröt ett revben!}
+{1238}{}{Aj!!! Min mjälte!}
 {1239}{}{Yeah, that just got me started.}
 {1240}{}{Now you've got me pissed off.}
 {1241}{}{I didn't like that at all.}
@@ -258,8 +258,8 @@
 {1257}{}{Soon as I catch my breath (cough, cough) I'm coming for you.}
 {1258}{}{You tore something up inside me.}
 {1259}{}{You don't know what you just started.}
-{1260}{}{Ow, my leg.}
-{1261}{}{I don't need to stand to kill you!}
+{1260}{}{Aj, mitt ben.}
+{1261}{}{Jag behöver inte stå för att döda dig!}
 {1262}{}{My knee!}
 {1263}{}{My achilles tendon!}
 {1264}{}{Aaiiiieeee!!}
@@ -268,8 +268,8 @@
 {1267}{}{Break my leg? I'll tear you apart!}
 {1268}{}{Where's a tourniquet when you need one.}
 {1269}{}{Fuck, my leg hurts.}
-{1270}{}{Ow, my leg.}
-{1271}{}{I don't need to stand to kill you!}
+{1270}{}{Aj, mitt ben.}
+{1271}{}{Jag behöver inte stå för att döda dig!}
 {1272}{}{My knee!}
 {1273}{}{That's going to give me a nice limp for a while.}
 {1274}{}{Come here, don't make me hobble after you.}
@@ -278,8 +278,8 @@
 {1277}{}{That'll bench me for sure.}
 {1278}{}{I've got another leg.}
 {1279}{}{Hah-hah, that was my prosthetic leg anyhow.}
-{1280}{}{I can't see!}
-{1281}{}{This fight is getting worse by the second.}
+{1280}{}{Jag kan inte se!}
+{1281}{}{Den här striden blir värre för varje sekund.}
 {1282}{}{That was a real cheap shot!}
 {1283}{}{I'm fuckin' blind here!}
 {1284}{}{You prick, you blinded me!}
@@ -288,8 +288,8 @@
 {1287}{}{Crap, my eye's dangling by the optic nerve here.}
 {1288}{}{I can still hear where you are.}
 {1289}{}{Don't you ever touch my fucking eyes again!}
-{1290}{}{Oooooo, my groin!}
-{1291}{}{I'll feel that in the morning.}
+{1290}{}{Åååååå, mitt skrev!}
+{1291}{}{Jag kommer att känna det i morgon bitti.}
 {1292}{}{Fucking coward!}
 {1293}{}{Urp!}
 {1294}{}{That won't help you any.}
@@ -298,9 +298,9 @@
 {1297}{}{I'm gonna tear yours off and make you eat them.}
 {1298}{}{I think I need to sit down for a while.}
 {1299}{}{Got to try harder than that, my cup caught most of it.}
-{1300}{}{That'll be a cool scar!}
-{1301}{}{I'm starting to get annoyed.}
-{1302}{}{Do that again, pig.}
+{1300}{}{Det där blir ett häftigt ärr!}
+{1301}{}{Jag börjar bli irriterad.}
+{1302}{}{Gör det igen, din gris.}
 {1303}{}{Det gör mig bara arg.}
 {1304}{}{Det där ringande ljudet jag hör är din dödsklocka.}
 {1305}{}{Ett ärr till kommer inte att göra mig fulare.}
@@ -310,7 +310,7 @@
 {1309}{}{Jag har fortfarande *några* tänder kvar.}
 {1310}{}{You winged me!}
 {1311}{}{Jag kan ta mig an dig med bara en hand.}
-{1312}{}{You broke my arm, but I'll break your neck!}
+{1312}{}{Du bröt min arm, men jag ska bryta nacken av dig!}
 {1313}{}{Du kan inte stoppa mig så lätt.}
 {1314}{}{Det var bara min vänstra arm.}
 {1315}{}{Jag kan fortfarande ta hand om små problem som du.}
@@ -319,7 +319,7 @@
 {1318}{}{Fan, där försvann ett par fingrar till.}
 {1319}{}{Om du tar mitt finger, så tar jag din jävla hand.}
 {1320}{}{Jag kan ta mig an dig vänsterhänt.}
-{1321}{}{It's just a scratch...}
+{1321}{}{Det är bara en skråma...}
 {1322}{}{Du bröt min arm, så jag ska bryta din nacke.}
 {1323}{}{Jag behöver bara en arm för att slå ner dig.}
 {1324}{}{Du tog bort ett finger till. Det gjorde ont.}
@@ -328,7 +328,7 @@
 {1327}{}{Goddamn that hurt.}
 {1328}{}{That'll need stitches.}
 {1329}{}{I'll tear out your liver for that.}
-{1330}{}{A little blood ain't hurt no-one.}
+{1330}{}{Lite blo' ha' aldri' skada' nån.}
 {1331}{}{Oof! I'm gonna scrag you for that...}
 {1332}{}{Aj!}
 {1333}{}{I like the pain!}
@@ -583,7 +583,7 @@
 {1667}{}{You whacked my wingtips!}
 {1668}{}{And I just shaved them too.}
 {1669}{}{I'll bite your kneecaps off!}
-{1670}{}{My leg!}
+{1670}{}{Mitt ben!}
 {1671}{}{You gored my Gucci's!}
 {1672}{}{Ouch! Hey! That's below the belt!}
 {1673}{}{You can raise welts like nobody else.}
@@ -594,7 +594,7 @@
 {1678}{}{That's going to blister.}
 {1679}{}{Kai, yai, yippee, ai, ay!}
 {1680}{}{Damn blood in my eyes!}
-{1681}{}{My eye! You'll pay for that one!}
+{1681}{}{Mitt öga! Det där ska du få betala för!}
 {1682}{}{Din jävel!}
 {1683}{}{Who turned out the lights?}
 {1684}{}{Hah, that was my glass eye!}
@@ -2162,11 +2162,11 @@
 {36060}{}{Ow, my leg!}
 {36061}{}{You're gonna pay for that!}
 {36062}{}{Ah! MY LEG!}
-{36070}{}{My leg!}
+{36070}{}{Mitt ben!}
 {36071}{}{Unh! Aiming a little low aren't you?}
 {36072}{}{You weren't trying to hit my leg were you!?!}
 {36080}{}{Damn blood in my eyes!}
-{36081}{}{My eye! You'll pay for that one!}
+{36081}{}{Mitt öga! Det där ska du få betala för!}
 {36082}{}{Din jävel!}
 {36090}{}{Oooooo, time out, I have to pick something up.}
 {36091}{}{Ooo! Kaga gotta learn that move...}
@@ -3637,10 +3637,10 @@
 {70401}{}{I think my ear's bleeding.}
 {70402}{}{Cào! I hope that didn't break my nose.}
 {70410}{}{Cào! My arm!}
-{70411}{}{Damn, that hurts!}
+{70411}{}{Fan, vad ont det gör!}
 {70412}{}{At least it's not broken... I don't think.}
 {70420}{}{Cào! My arm!}
-{70421}{}{Damn, that hurts!}
+{70421}{}{Fan, vad ont det gör!}
 {70422}{}{At least it's not broken... I don't think.}
 {70430}{}{I think I broke a rib.}
 {70431}{}{I won't die that easily.}
