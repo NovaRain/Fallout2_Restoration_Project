@@ -3621,10 +3621,10 @@
 {70301}{}{Screw it, you're not worth it.}
 {70302}{}{Fuck this, I'm outta' here.}
 {70303}{}{Gotta Jet while I've still got a life to spare.}
-{70304}{}{You won this time, monkey!}
-{70320}{}{Don't worry, this'll be over *real* soon.}
-{70321}{}{This cat's about to pounce!}
-{70322}{}{Let's waste these smegheads.}
+{70304}{}{Du vann den här gången, apa!}
+{70320}{}{Oroa dig inte, det här kommer att vara över *riktigt* snart.}
+{70321}{}{Den här katten är på väg att slå till!}
+{70322}{}{Låt oss göra slut på de här idioterna.}
 {70340}{}{Hurry up and die so I can go take a nap.}
 {70341}{}{At least I'm killing you with style.}
 {70342}{}{You best not bleed on my clothes. }
