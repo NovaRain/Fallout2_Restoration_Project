@@ -1,10 +1,10 @@
 {100}{}{You see a stern-looking woman with thick glasses, wearing a Vault City jumpsuit. Judging from her bearing, she seems important.}
-{101}{}{You see First Citizen Lynette. She looks preoccupied.}
-{102}{}{You see First Citizen Lynette. She looks preoccupied.}
-{103}{}{It is late. Schedule an appointment for tomorrow morning, and I will receive you then.}
-{104}{}{As I SAID, I don't receive visitors this late. MOST Citizens have retired to bed by this time.}
-{105}{}{Schedule an appointment for tomorrow morning. I will receive you then.}
-{106}{}{I will speak with you TOMORROW.}
+{101}{}{Du ser Första Medborgaren Lynette. Hon ser upptagen ut.}
+{102}{}{Du ser Första Medborgaren Lynette. Hon ser upptagen ut.}
+{103}{}{Det är sent. Boka en tid i morgon bitti, så tar jag emot dig då.}
+{104}{}{Som jag SA, jag tar inte emot besökare så här sent. DE FLESTA Medborgarna har gått till sängs vid den här tiden.}
+{105}{}{Boka en tid i morgon bitti. Jag tar emot dig då.}
+{106}{}{Jag pratar med dig I MORGON.}
 {107}{}{I don't know how you got past the guards and into my private chambers, but you had best leave.}
 {108}{}{I don't know what you intend to gain by clicking on me, but I won't tolerate it much longer.}
 {109}{}{Perhaps you find clicking on me... amusing. Perhaps you will find the Corrections Center just as humorous.}
@@ -822,7 +822,7 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {815}{}{My little dreadlocks are cute.}
 {816}{}{T-Ray thinks a little too highly of himself.}
 {817}{}{This is good news.}
-{818}{}{Very well.}
+{818}{}{Mycket bra.}
 {819}{}{Good day.}
 {820}{}{Good day, Citizen.}
 {821}{}{I'll take that.}
@@ -844,10 +844,10 @@ substantial way. As an Outsider, you are in a unique position to resolve a diffi
 {837}{}{Degenerate!}
 {838}{}{Outsider}
 {839}{}{Outsider filth...}
-{840}{}{*Snorts*}
+{840}{}{*Fnys*}
 {841}{}{*Zzzzzzzzzzz*}
-{842}{}{What is contained on the disk should put a stop to them; the raiders have been exposed, and if
- the contents of the disk were to get out to NCR's outer districts they would never be trusted again.}
+{842}{}{Det som finns på disken borde sätta stopp för dem; plundrarna har blivit avslöjade, och om
+ diskens innehåll skulle komma ut till NKRs yttre distrikt skulle ingen lita på dem igen.}
 {843}{}{My sources at Gecko assure me that there are still ghouls within the city. Your Citizenship
  depends on resolving this situation... completely. Am I making myself clear?}
 {844}{}{Sorry, thought I'd killed them all.}

@@ -16,7 +16,7 @@
 {400}{}{Det här är vårt tryckeri. Här kopierar vi våra böcker.}
 {401}{}{Ok, tack för informationen.}
 {500}{}{Du får %d erfarenhetspoäng för att ha levererat delen.}
-{600}{}{I be BIG helper today. I have macheen part from pretty name woman.}
-{610}{}{That must be the service part that I requested from Elaine. Thanks for bringing this to me. Here, take this
- survival manual for your trouble... uh if you can read it that is.}
-{611}{}{I read ten words. I likie pitcher books more. They fun to look. Tankee!}
+{600}{}{Jag e STOR hjälpare idag. Jag har massiindel från finnamn kvinna.}
+{610}{}{Det måste vara den reservdel som jag bad om från Elaine. Tack för att du kom hit med den. Här, ta den här
+ överlevnadsmanualen för ditt besvär... eh om du kan läsa den vill säga.}
+{611}{}{Jag läsa tio ord. Jag gillar bildbokar mer. De kul att titta. Taack!}
