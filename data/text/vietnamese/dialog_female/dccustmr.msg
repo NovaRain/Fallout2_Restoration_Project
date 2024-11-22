@@ -19,13 +19,13 @@
 {303}{}{Thứ lỗi.}
 {304}{}{Chào.}
 {305}{}{Chỗ của Becky là số một, và không chỉ có mỗi giá thôi đâu.}
-{306}{}{Anh đến đây để uống hay chơi bạc?}
+{306}{}{Cô đến đây để uống hay chơi bạc?}
 {307}{}{Giờ thì chỉ cần thêm một lũ hát rong nữa thôi.}
 {308}{}{Chào.}
-{309}{}{Anh có chơi không?}
+{309}{}{Cô có chơi không?}
 {310}{}{Bên ngoài sao rồi?}
 {311}{}{Frank là một gã tồi. Lão ta thù hận Becky chẳng vì cái gì cả.}
-{312}{}{Anh có phải bạn của Becky không?}
+{312}{}{Cô có phải bạn của Becky không?}
 {313}{}{Gọi đồ uống đi, bạn tôi ơi!}
 {314}{}{Uống đi! Đồ ở đây rẻ lắm!}
 {315}{}{Mấy món này không pha nước đâu.}
@@ -36,7 +36,7 @@
 {320}{}{Kẻ nào mà dám động tay vào cô ta sẽ phải hối hận.}
 {321}{}{Món này ngon đấy.}
 {340}{}{Bọn ta phải giết ngươi vì những gì ngươi đã làm.}
-{341}{}{Tôi không biết cô ta đã làm gì với cậu nhưng cô ta không đáng phải chết.}
+{341}{}{Tôi không biết cô ta đã làm gì với cô nhưng cô ta không đáng phải chết.}
 {342}{}{Có lẽ chúng ta nên đến New Reno vì giờ quán Becky đóng cửa rồi.}
 {343}{}{Tôi nhớ nụ cười của Becky quá.}
 {344}{}{Thế là hết rượu rẻ rồi.}

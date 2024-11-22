@@ -35,12 +35,12 @@
 {183}{}{Tao mà thấy mày chạm vào cửa lần nữa thì đầu mày sẽ ăn đạn đấy.}
 {184}{}{Này, anh nghĩ mình đang làm cái quái gì thế?}
 {185}{}{Thế là đủ lắm rồi.}
-{186}{}{Xin lỗi; Tôi có thể để anh vào, nhưng mấy người bạn này phải chờ ở ngoài.}
+{186}{}{Xin lỗi; Tôi có thể để cô vào, nhưng mấy người bạn này phải chờ ở ngoài.}
 {187}{}{Mỗi lần chỉ được một người vào thôi.}
 {200}{}{Chào buổi tối.}
 {201}{}{Chào buổi chiều.}
 {202}{}{Chào buổi sáng.}
-{203}{}{Cứ lo việc của anh đi, cám ơn.}
+{203}{}{Cứ lo việc của cô đi, cám ơn.}
 {250}{}{Này, anh bạn biết gì không, tao thấy mấy trò khỉ này đủ lắm rồi!}
 {251}{}{Này, cô đũy biết gì không, tao thấy mấy trò khỉ này đủ lắm rồi!}
 {252}{}{[KẾT THÚC]}
