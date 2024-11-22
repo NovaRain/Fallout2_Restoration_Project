@@ -8,7 +8,7 @@
 {204}{}{Đừng làm phiền tôi nữa.}
 {205}{}{Tôi cháy túi rồi.}
 {206}{}{Doh!}
-{207}{}{Này, cậu đang làm gì ở đây thế?}
+{207}{}{Này, cô đang làm gì ở đây thế?}
 {220}{}{Stay away from Metzger, tribal.}
 {221}{}{Why is it always so damn hot?}
 {222}{}{Why do we live in the desert?}
