@@ -5,7 +5,7 @@ This file lists changes for RPU only (since RP 2.3.3).
 In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
 
-- [Version 2.3.32](#version-2332)
+- [Version 32](#version-32)
 - [Version 30](#version-30)
 - [Version 29](#version-29)
 - [Version 28](#version-28)
@@ -38,7 +38,7 @@ Sometimes UPU or RPU may be updated independently, which is why you might see ga
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
-### Version 2.3.32
+### Version 32
 
 - General
   - [Reordered](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/322) the ending slides to keep tank vagrants as the last one.
