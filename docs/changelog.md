@@ -87,10 +87,13 @@
 
 ### Version 29
 
+#### General
+
 - Enhanced worldmap: visible city ruins are now present on tiles set as the "city" terrain type, by Lexx.
 - Installer
-
   - More components are optional.
+
+#### Locations
 
 - Abbey
   - PC now always [notes](https://github.com/BGforgeNet/Fallout2_Restoration_Project/issues/266) Peterson's complaints about crops.
