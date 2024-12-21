@@ -190,5 +190,5 @@
 {289}{}{Et ensuite ?}
 {290}{hak122}{Trop de saisons et trop de blessures, Etre Elu. Tu devrais plutôt écouter.}
 {291}{}{D'accord.}
-{300}{}{Ceux qui volent portent un grand fardeau. Rappelle-le-toi, être élu.}
+{300}{}{Ceux qui volent portent un lourd fardeau. N'oublie pas cela, Etre Elu.}
 {301}{}{Tu dois maintenant payer pour tes péchés, être élu.}
