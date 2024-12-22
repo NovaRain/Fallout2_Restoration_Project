@@ -9,5 +9,5 @@
 {201}{}{Je suis content que les autres enfants aient arrêté de voler}
 {300}{}{Salut m'dame !}
 {301}{}{Je suis content que les autres enfants aient arrêté de voler}
-{400}{}{Un petit garçon.}
+{400}{}{Tu vois un petit garçon.}
 {401}{}{Tu vois une petite fille.}
