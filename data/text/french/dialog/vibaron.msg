@@ -51,7 +51,7 @@
 {331}{}{C'est un plaisir de faire du business avec toi. Au revoir.}
 {332}{}{Salut.}
 {340}{}{Attends, t'es en train de me menacer ? Personne ne me menace et reste en vie ! [Aux gardes de sa caravane :] Tuez-moi ce pauvre crétin !}
-{341}{}{Amenez-vous !}
+{341}{}{Vas-y, ramène-toi !}
 {350}{}{Ecoute, je ne veux pas de problème. Si tu veux que je fasse un saut au village pour faire des échanges, je suis d'accord, y a pas de problème. Bon sang, maintenant que j'y pense, c'est à peine si je dois m'écarter de mon trajet habituel. Aucun problème.}
 {351}{}{Je suis content qu'on se soit compris. Je garde un oeil sur toi. Salut.}
 {352}{}{Il vaudrait mieux pour toi qu'il n'y ait aucun problème. Parce que s'il y en a un, je vais le régler. Salut.}
@@ -79,7 +79,7 @@
 {403}{}{[Tu vérifies tes armes en attendant]}
 {404}{}{[Tu restes là sans parler et dans un moment embarrassant, tes yeux rencontre ceux des gardes de la caravane tandis qu'on peut entendre le son de ta femme en train d'être souillée par le marchand.]}
 {410}{}{[Une heure plus tard, tu vois Robert Baron et Miria qui reviennent, ils sont débraillés et couvert de sueur. Tu remarques que Miria boîte légèrement. Le marchand te sourit tandis qu'il reboucle sa ceinture.] Merde alors, toi tu sais vraiment marchander. Si un jour t'as encore besoin qu'un marchand fasse quelque chose, n'hésite pas à me faire signe. Maintenant, il faut vraiment que j'y aille. J'ai été ravi de faire des affaires avec toi.}
-{411}{}{Allez va, salut.}
+{411}{}{Peu importe. Salut.}
 {412}{}{C'est quand tu veux. Salut.}
 {413}{}{Salut.}
 {500}{}{Tu as convaincu le marchand d'ajouter le village à son trajet commercial.}

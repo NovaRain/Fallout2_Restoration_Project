@@ -135,7 +135,7 @@
 {502}{}{Je reviendrai. A bientôt.}
 {510}{}{C'était tout simplement atroce. Je ne sais pas comment tu as fait, mais pour de bon, tu es pire que le clown habituel. Je ne pense pas que nous aurons encore besoin de toi.}
 {511}{}{Bien, je vais donc montrer mon talent à quelqu'un qui SAURA l'apprécier.}
-{512}{}{Allez va, salut.}
+{512}{}{Peu importe. Salut.}
 {520}{}{Tu as fait un véritable tabac. Le prochain Traci Lords. }
 {521}{}{Je ne pense pas avoir jamais vu quelqu'un bouger comme ça sur la scène. Tu as un réel talent. }
 {522}{}{Je reviendrai. A bientôt.}

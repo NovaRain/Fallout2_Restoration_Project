@@ -198,7 +198,7 @@
 {2040}{}{[Le robot déambule d'avant en arrière avec allégresse.] Je suis heureux de te l'entendre dire. Je dois m'en aller maintenant, j'ai d'autres goodies à libérer dans ce monde.}
 {2041}{}{D'accord. Prends soin de toi, salut.}
 {2050}{}{[La tête du robot s'abaisse avec tristesse.] Eh bien, je suppose que mon travail n'est pas apprécié de la même manière par tout le monde. Maintenant si tu veux bien m'excuser, je dois m'en aller. J'ai un certain nombre de goodies à libérer dans ce monde.}
-{2051}{}{Allez va, salut.}
+{2051}{}{Peu importe. Salut.}
 {2060}{}{J'aime créer de nouvelles choses.}
 {2061}{}{Il y a tellement de détails maintenant. C'est superbe.}
 {2100}{}{Tu vois Mash.}

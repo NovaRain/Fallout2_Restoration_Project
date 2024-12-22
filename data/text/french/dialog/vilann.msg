@@ -1,4 +1,4 @@
-{100}{}{Voici une jeune femme.}
+{100}{}{Tu vois une jeune femme.}
 {101}{}{Tu vois Ann, la femme de Connar.}
 {102}{}{Elle a l'air très occupée à cuisiner.}
 {200}{}{Bonjour à toi, je m'appelle Ann et je suis la femme de Connar. Et tu dois être celui qui nous a aidés. Tu n'as pas idée à quel point nous apprécions ce que tu as fait. Il est dur de croire que nous allons enfin pouvoir vivre en paix sans avoir peur que les brutes épaisses de la Cité de l'Abri viennent nous enlever de nos maisons.}

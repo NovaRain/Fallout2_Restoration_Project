@@ -197,7 +197,7 @@
 {840}{}{Quoi ?! Donne-moi ça ! [Il arrache l'objet de tes mains.] Comment t'as fait... ?! Oh, tant pis. Retourne à la planche à dessin alors...}
 {841}{}{[Tu ignores sa réaction.] Bien, si t'as besoin de quelque chose d'autre, fais-le-moi savoir. Salut.}
 {850}{}{Ce n'est pas tes affaires. [Il arrache l’outil de tes mains.] Maintenant va-t'en. J'ai des choses à faire. [Il regarde ailleurs murmurant à lui même.]}
-{851}{}{Allez va, salut.}
+{851}{}{Peu importe. Salut.}
 {852}{}{Je ne crois pas. Tu as essayé de me tuer et maintenant je vais te retourner la pareille. Meurs !}
 {860}{}{Euh, oui, bien sûr. Bon, au travail maintenant.}
 {861}{}{[Terminé]}
