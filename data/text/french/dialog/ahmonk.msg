@@ -6,7 +6,7 @@
 {203}{}{Je suis désolé, mais le savoir que contiennent nos livres ne vous sera d'aucune utilité.}
 {300}{}{Bienvenue à l'Abbaye, voyageur. Comment puis je vous aider ?}
 {301}{}{Que peux-tu me dire au sujet de ton ordre ?}
-{302}{}{Avez-vous déjà entendu parler d'un J.E.K. ?}
+{302}{}{Avez-vous déjà entendu parler d'un J.E.K ?}
 {303}{}{Sais-tu où se trouve l'Abri 13 ?}
 {304}{}{Au revoir.}
 {400}{}{Que veux-tu savoir ?}

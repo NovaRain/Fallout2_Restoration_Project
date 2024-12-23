@@ -16,7 +16,7 @@
 {132}{}{Je m'appelle Chad.}
 {133}{}{Ecoute, je suis très occupé. Va embêter quelqu'un d'autre.}
 {134}{}{Je suis le maître de caravane de la ville. Je m'occupe du business au terme des itinéraires. Ces temps-ci je me concentre surtout sur Gecko.}
-{135}{}{D'OOkK !}
+{135}{}{Okééé !}
 {136}{}{Je voudrais travailler pour toi.}
 {137}{}{Ca a l'air excitant.}
 {138}{}{Ca a l'air chiant.}

@@ -30,7 +30,7 @@
 {190}{}{[Le coin de sa bouche se lève pour indiquer un sourire.] Ah, vous les étrangers, n'êtes pas si mal après tout. Tiens, prends cet argent. Les esprits me disent que tu en auras plus besoin que moi.}
 {191}{}{Merci.}
 {200}{}{Que tes ancêtres te guident vers l'éternité.}
-{201}{}{Merci pour ton aide.}
+{201}{}{Merci de ton aide.}
 {202}{}{C'est bon de te revoir.}
 {210}{}{Tu ne nous auras pas vivants, esclavagiste !}
 {300}{}{D'accord, calme en toi l'esprit de la colère. Je vais le faire moi-même. [Il marmonne :] Gros taré d'étranger...}

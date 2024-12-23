@@ -3,7 +3,7 @@
 {102}{}{Il semble légèrement nerveux.}
 {200}{}{Bonjour. Que puis-je faire pour vous ?}
 {201}{}{J'ai quelque chose de la part d'Elaine...}
-{202}{}{Où suis-je ici ?}
+{202}{}{Quel est cet endroit ?}
 {203}{}{Au revoir.}
 {300}{}{Laissez-moi deviner. C'est la pièce de service que j'avais demandé ?}
 {301}{}{Oui, la voilà.}

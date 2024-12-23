@@ -35,5 +35,5 @@
 {134}{}{Je n'aimais pas être fermier de toute façon.}
 {135}{}{Je reviendrai.}
 {136}{}{Prends ma femme, je t'en prie !}
-{200}{}{Merci pour ton aide.}
+{200}{}{Merci de ton aide.}
 {201}{}{Il était temps que quelqu'un ramène de l'ordre dans ce désert de pouilleux.}

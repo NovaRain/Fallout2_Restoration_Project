@@ -30,7 +30,7 @@
 {302}{}{En fait non. Je dois te demander quelque chose.}
 {303}{}{Non. Je dois y aller.}
 {310}{}{Bien, que voulez-vous savoir ? J'espère que cela concerne les toasts.}
-{311}{}{Où suis-je ici ?}
+{311}{}{Quel est cet endroit ?}
 {312}{}{Ca n'a pas d'importance. Au revoir.}
 {350}{}{Hé, vous m'avez réparé ! Je savais que ce robot avait fait du sale boulot. Je me sens mieux que jamais ! Merci.}
 {351}{}{Et oui, c'est l'effet que je fais à tout le monde. Allez, salut.}

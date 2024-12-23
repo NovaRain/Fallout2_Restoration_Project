@@ -172,4 +172,4 @@
 {271}{}{Tu reçois }
 {272}{}{points d'expérience pour avoir récupéré les papiers du Dr Henry.}
 {300}{}{Où penses-tu aller ?! Essaie ça encore et je te botte le cul.}
-{301}{}{Je t'ai prévenu !}
+{301}{}{Je t'avais prévenu !}
