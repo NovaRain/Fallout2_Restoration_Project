@@ -4,7 +4,7 @@
 {200}{}{Bonjour. Que puis-je faire pour vous ?}
 {201}{}{J'ai quelque chose de la part d'Elaine...}
 {202}{}{Où suis-je ici ?}
-{203}{}{Salut.}
+{203}{}{Au revoir.}
 {300}{}{Laissez-moi deviner. C'est la pièce de service que j'avais demandé ?}
 {301}{}{Oui, la voilà.}
 {302}{}{Non, en fait je plaisantais.}

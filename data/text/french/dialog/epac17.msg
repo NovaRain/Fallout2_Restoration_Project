@@ -153,7 +153,7 @@
 {703}{}{Lorsque la guerre a commencé, les autres scientifiques et moi-même, avons utilisé les chambres cryogéniques. Nous avons remis la gestion des équipements aux hologrammes et aux robots, nous nous sommes congelés lorsque la catastrophe est arrivée.}
 {704}{}{Mais, mais la grande guerre a eu lieu il y a très, très longtemps déjà.}
 {705}{}{C'est vrai. Nous sommes sortis de l'hibernation environ 90 ans après, et nous avons découvert que cet endroit avait été très abîmé. La plupart des scientifiques ont continué leurs recherches originelles, car ils ne savaient pas vraiment quoi faire.}
-{706}{}{[Plus]}
+{706}{}{[Suite]}
 {707}{}{Je ne pouvais pas croire leur courte vision scientifique... Leur manque total d'imagination ! Nous avions une occasion fantastique de faire quelque chose d'incroyable. Nous avions la chance de refaire des choses comme nous en avions envie. Malheureusement, mes camarades ont payé pour leur manque de vision...}
 {708}{}{Tu les as tués !?}
 {709}{}{Indubitablement.}

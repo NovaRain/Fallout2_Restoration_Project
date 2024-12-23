@@ -213,7 +213,7 @@
 {2131}{}{D'accord je ne l'oublierai pas. Merci.}
 {2132}{}{Mouais. Allez salut.}
 {2140}{}{Excellent. Allez, prends soin de toi.}
-{2141}{}{Salut.}
+{2141}{}{Au revoir.}
 {2142}{}{A plus tard.}
 {2150}{}{La Source est fourbe, mais je sais la manier.}
 {2151}{}{Profite de l'extension de la visibilité de ce monde !}

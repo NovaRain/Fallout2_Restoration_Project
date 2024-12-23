@@ -42,14 +42,14 @@
 {305}{}{En fait, laisse tomber. Salut.}
 {310}{}{Maintenant on parle la même langue ! D'accord, marché conclu. [Avec avarice il t'arrache l'argent et te serre la main.]}
 {311}{}{C'est un plaisir de faire du business avec toi. Au revoir.}
-{312}{}{Salut.}
+{312}{}{Au revoir.}
 {320}{}{$500 ? Ca ne vaut pas le coup. Disons $1 000 et je suis partant.}
 {321}{}{J'ai pas autant d'argent. Salut.}
 {322}{}{Très bien, comme tu voudras. Allons-y pour $1 000.}
 {323}{}{Pas question. Salut.}
 {330}{}{Maintenant on parle la même langue ! D'accord, marché conclu. [Avec avarice il t'arrache l'argent et te serre la main.]}
 {331}{}{C'est un plaisir de faire du business avec toi. Au revoir.}
-{332}{}{Salut.}
+{332}{}{Au revoir.}
 {340}{}{Attends, t'es en train de me menacer ? Personne ne me menace et reste en vie ! [Aux gardes de sa caravane :] Tuez-moi ce pauvre crétin !}
 {341}{}{Vas-y, ramène-toi !}
 {350}{}{Ecoute, je ne veux pas de problème. Si tu veux que je fasse un saut au village pour faire des échanges, je suis d'accord, y a pas de problème. Bon sang, maintenant que j'y pense, c'est à peine si je dois m'écarter de mon trajet habituel. Aucun problème.}
@@ -72,7 +72,7 @@
 {390}{}{[Le marchand sourit alors qu'il reboucle sa ceinture.] Merde alors, toi tu sais vraiment marchander. Si un jour t'as encore besoin qu'un marchand fasse quelque chose, n'hésite pas à me faire signe. Maintenant, il faut vraiment que j'y aille. J'ai été ravi de faire des affaires avec toi.}
 {391}{}{[Tu frissonnes.] Une fois ça suffira. Salut.}
 {392}{}{C'est quand tu veux. Salut.}
-{393}{}{Salut.}
+{393}{}{Au revoir.}
 {400}{}{[Il dévisage Miria de haut en bas, puis il sourit.] Marché conclu. [Il te serre la main, puis il prend Miria par la taille et l'emmène dans un endroit un peu plus privé.]}
 {401}{}{[Tu tapes du pied en attendant]}
 {402}{}{[Tu siffles en attendant]}
@@ -81,6 +81,6 @@
 {410}{}{[Une heure plus tard, tu vois Robert Baron et Miria qui reviennent, ils sont débraillés et couvert de sueur. Tu remarques que Miria boîte légèrement. Le marchand te sourit tandis qu'il reboucle sa ceinture.] Merde alors, toi tu sais vraiment marchander. Si un jour t'as encore besoin qu'un marchand fasse quelque chose, n'hésite pas à me faire signe. Maintenant, il faut vraiment que j'y aille. J'ai été ravi de faire des affaires avec toi.}
 {411}{}{Peu importe. Salut.}
 {412}{}{C'est quand tu veux. Salut.}
-{413}{}{Salut.}
+{413}{}{Au revoir.}
 {500}{}{Tu as convaincu le marchand d'ajouter le village à son trajet commercial.}
 {510}{}{Tu as tué le marchand, t'assurant ainsi que le village ne puisse pas faire d'échanges.}

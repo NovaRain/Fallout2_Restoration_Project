@@ -50,7 +50,7 @@
 {391}{}{Changeons de sujet.}
 {400}{}{Bonjour. Puis-je t'être utile ?}
 {401}{}{J'ai quelques questions.}
-{402}{}{Ca n'a pas d'importance. Salut.}
+{402}{}{Ca n'a pas d'importance. Au revoir.}
 {500}{}{Tu ouvres le panneau latéral de l'émetteur de l'hologramme pour regarder à l'intérieur. Tu y vois un foutoir de câbles et de circuits électroniques.}
 {501}{}{Eh bien, c'est parti.}
 {502}{}{Après quelque temps, tu trouves le problème et le corriges. Tu refermes le panneau puis essuies la sueur coulant sur ton front.}

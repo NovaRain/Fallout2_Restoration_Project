@@ -82,6 +82,6 @@
 {230}{}{Hé bien, vois-tu, je suis originaire de la République de la Nouvelle Californie, et j'ai vite réalisé que j'avais des dispositions particulières pour la médecine. J'ai donc appris tout ce que je pouvais sous la direction de l'équipe médicale de la RNC, puis j'ai décidé d'approfondir mes connaissances en me rendant à la Cité de l'Abri. J'ai eu la chance de rencontrer le Dr. Troy lors de mon voyage, alors qu'il tentait de soigner un citoyen en dehors de l'Abri, et pour faire court, il fut d'accord pour parfaire mon entraînement. Mon apprentissage se terminant, je décidais alors de reprendre la route lorsque Darion me captura.}
 {231}{}{C'est terrible. Hé bien, j'espère que tout se passera bien pour toi à l'avenir.}
 {240}{}{Je l'espère également. Et je pense que mes compétences médicales seront d'une certaine aide ici.}
-{241}{}{Salut.}
+{241}{}{Au revoir.}
 {250}{}{Merci encore pour tout.}
 {251}{}{C'est toujours gratifiant d'aider des personnes civilisées.}

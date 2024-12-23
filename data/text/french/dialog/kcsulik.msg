@@ -233,7 +233,7 @@
 {775}{slk46}{Les geckos. Les petits ne mordent pas fort. Mais les dorés... ils te font des trous énormes quand ils mordent.}
 {776}{slk47}{Nous entendre que Vic, le marchand, être ici. Lui dire savoir choses sur esclavagistes. Nous débarquer, lui pas là, gros problème.}
 {777}{}{Vic est là, mais je ne crois pas qu'il sache grand-chose sur les esclaves. Sauf qu'il a lui-même été esclave à la Fosse. Dis-moi autre chose...}
-{778}{}{Salut.}
+{778}{}{Au revoir.}
 {779}{slk48a}{Esclavagistes prendre notre soeur. Nous penser que Vic avoir informations. Nous pas trouver lui, nous être très en colère et boire comme des trous. Esprits de colère et de chaos grossir et nous maintenant devoir payer pour réparer.}
 {780}{slk48b}{Nous essayer de savoir par où aller pour trouver esclavagistes qui ont pris soeur. Peut-être Sud.}
 {781}{slk48c}{Nous descendre pour trouver soeur. Nous penser aller vers le Sud, mais pas encore bien sûr. Toi vouloir compagnie ?}
@@ -481,7 +481,7 @@
 {3088}{}{Encore merci pour tout l'ami.}
 {3090}{}{Ici être notre village. Nous et moi allons parler avec nos amis.}
 {3091}{}{Nous et moi allons parler avec nos amis avant d'aller faire fêter ça.}
-{3100}{}{[Plus]}
+{3100}{}{[Suite]}
 {3101}{}{Tu sais où est ta tribu exactement, Sulik ?}
 {3102}{}{Merci. Permets-moi de te demander autre chose.}
 {3103}{}{Toi aussi, Sulik. Prends soin de toi.}

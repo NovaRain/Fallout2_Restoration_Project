@@ -1,14 +1,14 @@
 {100}{}{Tu vois le Père Supérieur de l'Abbaye.}
 {101}{}{Ce moine a l'air d'être le chef.}
 {200}{}{Bienvenue voyageur.}
-{201}{}{Paix à toi.}
+{201}{}{Sois en paix.}
 {202}{}{Nous sommes les gardiens de la connaissance.}
 {203}{}{Je suis désolé, mais le savoir que contiennent nos livres ne vous sera d'aucune utilité.}
 {300}{}{Bienvenue à l'Abbaye, voyageur. Comment puis je vous aider ?}
 {301}{}{Que peux-tu me dire au sujet de ton ordre ?}
 {302}{}{Avez-vous déjà entendu parler d'un J.E.K. ?}
 {303}{}{Sais-tu où se trouve l'Abri 13 ?}
-{304}{}{Salut.}
+{304}{}{Au revoir.}
 {400}{}{Que veux-tu savoir ?}
 {401}{}{Ok. Je voudrais vous poser une autre question.}
 {402}{}{Hmm... Je crois me rappeler que quelqu'un dans notre Ordre possède ce savoir. Oui, je m'en rappelle maintenant, Frère Thomas a étudié ceci récemment.}

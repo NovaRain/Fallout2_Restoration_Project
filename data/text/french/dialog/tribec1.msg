@@ -168,7 +168,7 @@
 {863}{}{Je m'en vais.}
 {870}{}{Eh bien, on dirait que je suis d'humeur à te pardonner, l'ami. Que puis-je faire pour toi ?}
 {871}{}{Je n'aime pas être traité comme un jouet par une nana. Mais, par les dieux, comment puis-je en vouloir à une beauté comme toi ? Que puis-je faire pour toi ?}
-{872}{}{Ca n'a pas d'importance. Salut.}
+{872}{}{Ca n'a pas d'importance. Au revoir.}
 {1000}{}{[Respectueusement, l'immense guerrier te salut de la tête.] N'est-ce pas le grand héros des Terres Désolées ? C'est un sacré exploit que d'avoir envoyé en enfer ces chiens de l'Enclave. A dire vrai, le fait d'entendre raconter tes exploits m'a donné envie de reprendre la route dans le désert.}
 {1001}{}{Et où vas-tu aller ?}
 {1002}{}{Et tu vas partir comme ça ? Tu es le Chef Guerrier de la tribu.}

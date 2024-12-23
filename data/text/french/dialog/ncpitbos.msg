@@ -126,7 +126,7 @@
 {445}{}{[Tu fais les comptes des jetons récoltés dans la soirée. Pas mal.]}
 {446}{}{Le cuir était une touche sympa. }
 {447}{}{Cette petite blague était sympa. }
-{448}{}{[Continue]}
+{448}{}{[Continuer]}
 {455}{}{Ouais, il pue encore plus que la merde de Brahmine. Encore toi... ? Aïe, bon sang, pourquoi pas ? Une petite improvisation ne peut pas faire de mal, mais la foule est un peu dure... J'espère que tu vas t'en sortir.}
 {456}{}{Oh, je vais m'en sortir... Regarde-moi.}
 {457}{}{Pas tout de suite, mais je vais revenir.}

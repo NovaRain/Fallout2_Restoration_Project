@@ -34,7 +34,7 @@
 {406}{}{Merci pour tout ! Reviens nous voir quand on aura agrandi le village. Je vais enfin avoir une cuisine fonctionnelle.}
 {410}{}{Rebonjour.}
 {411}{}{Tu as l'air d'être plutôt occupée. As-tu besoin d'aide pour quelque chose ?}
-{412}{}{Ca n'a pas d'importance. Salut.}
+{412}{}{Ca n'a pas d'importance. Au revoir.}
 {420}{}{Comment ça s'est passé ?}
 {421}{}{Comment ça s'est passé ? Oh, le marchand. En réalité, j'en ai eu ma claque et je suis parti.}
 {430}{}{De quoi !? Tu réalises que c'était notre seule chance de négocier avec lui ? On va avoir l'air de quoi après ça ? Tu nous as bien baisés.}

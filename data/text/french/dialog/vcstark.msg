@@ -296,7 +296,7 @@
 {395}{}{je vais y réfléchir. Puis-je te poser d'autres questions ?}
 {396}{}{Non, pas mon genre de boulot. Au revoir.}
 {397}{}{Excellent. Laisse-moi te montrer la position exacte du village. [Stark marque la position du village sur la carte de ton Pip-Boy.] La paie est de $750. Reviens une fois que ce sera fait. Une dernière chose, si tu ne t'en occupes pas ce mois-ci, j'enverrai une escouade pour éliminer les monstres et tout autre menace.}
-{398}{}{Salut.}
+{398}{}{Au revoir.}
 {399}{}{Eh bien... Tu vois... J'ai l'impression que ces monstres pourraient représenter une menace pour nos patrouilles et... hem... la sécurité même des villageois. C'est comme ça.}
 {400}{}{je vais prendre ce boulot.}
 {401}{}{C'est clair. Et à propos du village ?}

@@ -134,7 +134,7 @@
 {233}{}{Oui, il me faudrait autre chose.}
 {234}{}{S'passe quoi en ville, en ce moment ?}
 {300}{}{Tu as aidé Fannie à vaincre sa dépendance au Jet.}
-{301}{}{Salut.}
+{301}{}{Au revoir.}
 {310}{}{J'ai peut-être quelque chose qui puisse aider Fannie. [Donner à Lou l'antidote au Jet]}
 {1103}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. Je tenais à ce que tu saches que je suis reconnaissante pour ce que t'as fait. Que puis-je faire pour toi ?}
 {1104}{}{Salut, je suis Lou. Patronne du Malamute Saloon, la meilleure maison au Nord de 'Frisco. La prison est bien trop douce après ce qu'a fait ce salaud.}
