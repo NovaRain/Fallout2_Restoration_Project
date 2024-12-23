@@ -184,7 +184,7 @@
 {1349}{}{Ok, merci. Excuse-moi de t'avoir dérangé.}
 {1355}{}{. Ils ont énormément investi d'énergie dans cet endroit pour en faire un vrai lieu de nuit, un véritable bijou à New Reno.}
 {1356}{}{. Ca pose un problème ? Parce que si tu n'es pas ici pour jouer, ce n'est pas un endroit pour toi. Compris ?}
-{1361}{}{. J'adore tes filmes.}
+{1361}{}{. J'adore tes films.}
 {1365}{}{Ce type ? Le vieux McGee ? Un vieux fou... Voilà des années qu'il joue à cette machine en attendant de remporter le gros jackpot. La fortune de toute sa vie a probablement été engloutie dans cette machine, mais elle ne lui rendra pas une seule pièce.}
 {1366}{}{Ce type ? Le vieux McGee ? Un vieux fêlé, pour sûr. Hé. Ca a dû lui foutre les boules de te voir gagner cette fortune. A ta place, je me méfierais de lui.}
 {1367}{}{Est-ce que la machine est truquée ?}
