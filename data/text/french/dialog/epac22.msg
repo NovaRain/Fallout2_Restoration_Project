@@ -6,7 +6,7 @@
 {203}{}{Mes... <zZzzzt> ...capteurs... <ZzzzzzZzt> [Grésille] ...réparer ?}
 {204}{}{Désolé, mais je n'arrive pas à te comprendre, il y a trop de bruit de fond. Je vais voir si je peux essayer d'arranger ça...}
 {205}{}{Je n'ai pas le temps pour ça. A plus.}
-{300}{}{Ah, merci beaucoup de m'avoir réparé !! Ca devenait terriblement ennuyeux de ne pas pouvoir communiquer avec les personnes que je rencontrais.}
+{300}{}{Ah, merci beaucoup de m'avoir réparé ! Je redoutais qu'un visiteur arrive et me pose des questions auxquelles je n'aurais pas pu répondre correctement à cause de l'électricité statique. Bien sûr, vous êtes le premier visiteur que je vois depuis la guerre, mais tout de même, *si* j'avais rencontré quelqu'un d'autre, cela aurait pu être assez embarrassant.}
 {301}{}{C'est agréable de pouvoir te comprendre. Quoi qu'il en soit, quel est cet endroit exactement ?}
 {302}{}{Ici, c'est "L'Agence de Protection Environnemental". Avant la guerre, c'était un complexe gouvernemental où l'on effectuait des recherches top secrètes. Ca a été très vite évacué après les premiers bombardements.}
 {303}{}{Intéressant. Et, quel est ton rôle ici ?}
