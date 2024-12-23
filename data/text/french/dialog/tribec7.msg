@@ -1,7 +1,7 @@
 {100}{}{Tu vois une tribale.}
 {101}{}{Tu vois Kurisu, la soeur de Sulik.}
 {102}{}{Tu vois une jeune femme tribale.}
-{150}{}{[FIN]}
+{150}{}{[Terminé]}
 {200}{}{Sulik ! Est-ce... [Elle se pince et commence à murmurer :] Est-ce vraiment toi ?}
 {201}{}{Moi ? Non, je suis l'Etre Elu. Tu veux sans douter parler du gars avec un os dans le nez à côté de moi.}
 {202}{}{[Sulik se précipite à travers la porte et prend les mains de sa soeur dans les siennes. Les larmes coulent sur leurs visages tandis qu'ils se saluent. Soudain, le craquement d'une brindille se fait entendre au dehors, Sulik lâche sa soeur et dégaine son arme tandis qu'il se rue vers la porte. Plus aucun son ne parvient de l'extérieur.]}

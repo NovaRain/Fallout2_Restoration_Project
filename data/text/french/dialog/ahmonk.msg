@@ -25,7 +25,7 @@
 {413}{}{Peut-être... J'ai besoin d'un peu de temps pour y réfléchir.}
 {414}{}{Bien. Quand vous aurez récupéré le livre, faites-le-moi savoir.}
 {415}{}{Ok, salut.}
-{416}{}{Re-bonjour, mon ami.}
+{416}{}{Rebonjour, mon ami.}
 {417}{}{J'ai tué la bête et récupéré le livre !}
 {418}{}{Excellent ! Donnez-le-moi !}
 {419}{}{Le voilà.}

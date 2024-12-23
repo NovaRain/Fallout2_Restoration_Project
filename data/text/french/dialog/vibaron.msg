@@ -18,7 +18,7 @@
 {242}{}{Oh, allez, ce n'est pas vraiment en dehors de ton chemin. A peu de chose près, tu passes à côté.}
 {243}{}{Y aurait-il un *moyen* de te faire changer d'avis ?}
 {250}{}{Bon, quoi encore ? Si tu n'as pas l'intention de faire échange, arrête de me faire perdre mon putain de temps.}
-{251}{}{Faisons un échange.}
+{251}{}{Faisons affaire.}
 {252}{}{Désolé, je dois y aller.}
 {253}{}{Toi je vais t'apprendre les bonnes manières.}
 {254}{}{Y aurait-il un *moyen* par lequel je pourrai te convaincre de commercer avec le village ?}

@@ -99,7 +99,7 @@
 {431}{}{Pas de problème. Je reviens aussitôt que je les ai.}
 {432}{}{Ho, j'ai déjà 10 peaux de gecko sur moi.}
 {440}{}{[Il te regarde.] Quoi ?}
-{441}{}{Euh, re-bonjour. Je ne pas compris qui tu étais la dernière fois que nous avons parlé.}
+{441}{}{Euh, rebonjour. Je ne pas compris qui tu étais la dernière fois que nous avons parlé.}
 {450}{}{Encore toi ? Que veux-tu maintenant ?}
 {451}{}{Que fais-tu ici ? L'endroit à l'air d'une ville fantôme.}
 {460}{}{Si tu ne veux pas m'aider, laisse-moi. Ou, serais-tu enfin décidé à me prêter main forte ?}

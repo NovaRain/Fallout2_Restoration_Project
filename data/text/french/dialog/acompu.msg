@@ -49,7 +49,7 @@
 {207}{}{L'ordinateur fait son choix... Calcul en cours... Match nul !}
 {300}{}{[L'écran de l'ordinateur affiche divers motifs colorés.]}
 {301}{}{Ohhh ! Jolies couleurs.}
-{302}{}{[Se déconnecter à regret]}
+{302}{}{[S'éclipser.]}
 {400}{}{[En lire plus]}
 {401}{}{[Retourner au menu]}
 {402}{}{Recherche par thème.}
