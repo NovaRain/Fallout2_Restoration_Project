@@ -60,9 +60,9 @@
  to scare off those who try to steal from us. If you examine the bodies closely, you'll notice that they
  are nothing but brahmin guts and dummies.}
 {224}{}{Then what about poor Karl? You know, the farmer that was living on your farm?}
-{225}{}{Was that his name, Karl? We scared him off the farm, nothing more. I assume he went back home
- when he discovered the farm was haunted. The Protectors reported him headed west. You might try
- searching for him that way.}
+{225}{}{¿Ese era su nombre, Karl? Le asustamos para que se fuera, nada más. Suponía que habría vuelto a
+ casa cuando descubrió que la granja estaba maldita. Los Protectores informaron de que se dirigía
+ hacia el oeste. Podrías intentar buscarlo por esa dirección.}
 {226}{}{I'll keep you informed of my progress.}
 {227}{}{We scared him off the farm -- nothing more. I assume he went back home when he discovered the
  farm was haunted. The Protectors reported him headed northwest. You might try searching for him that
