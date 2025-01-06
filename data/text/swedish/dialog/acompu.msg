@@ -1,6 +1,6 @@
 {100}{}{Du ser en liten datorterminal.}
 {101}{}{Du ser klostrets datorterminal.}
-{102}{}{You see a small computer terminal. It appears to be functional.}
+{102}{}{Du ser en liten datorterminal. Den ser ut att vara funktionell.}
 {103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
 {104}{}{Read GECK info.}
 {105}{}{Read Vault info.}
