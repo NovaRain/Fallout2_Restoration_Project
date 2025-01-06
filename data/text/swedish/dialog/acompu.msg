@@ -77,16 +77,16 @@
 {406}{}{Medicin.}
 {407}{}{Vapenanvändning.}
 {408}{}{Övertygande argument.}
-{410}{}{Efter några timmars läsning lär du dig mer om vetenskap.}
+{410}{}{Efter några timmars läsning lär du dig mer om vetenskapens konst.}
 {411}{}{Efter några timmars läsning lär du dig mer om konsten att reparera maskiner.}
 {412}{}{Efter några timmars läsning lär du dig mer om läkekonsten.}
-{413}{}{After a few hours of reading you learn more about the art of defending oneself with a weapon.}
-{414}{}{After a few hours of reading you learn more about the art of persuasion.}
-{420}{}{After a few hours of reading you learn nothing new about the art of science.}
-{421}{}{After a few hours of reading you learn nothing new about the art of repairing machines.}
-{422}{}{After a few hours of reading you learn nothing new about the art of medicine.}
-{423}{}{After a few hours of reading you learn nothing new about the art of firing a gun.}
-{424}{}{After a few hours of reading you learn nothing new about the art of persuasion.}
+{413}{}{Efter några timmars läsning lär du dig mer om konsten att försvara sig med ett vapen.}
+{414}{}{Efter några timmars läsning lär du dig mer om konsten att övertyga.}
+{420}{}{Efter några timmars läsning lär du dig ingenting om vetenskapens konst.}
+{421}{}{Efter några timmars läsning lär du dig ingenting om konsten att reparera maskiner.}
+{422}{}{Efter några timmars läsning lär du dig ingenting om läkekonsten.}
+{423}{}{Efter några timmars läsning lär du dig ingenting om konsten att avfyra ett vapen.}
+{424}{}{Efter några timmars läsning lär du dig ingenting om konsten att övertyga.}
 {430}{}{Tillbaka.}
 {500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
  it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
