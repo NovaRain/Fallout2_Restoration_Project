@@ -21,7 +21,7 @@
  will open. Now would everybody please...}
 {261}{}{YES, we've heard you already. Thanks for the code. Goodbye.}
 {270}{}{Hello again. What do you need? The EPA complex will be closed for the foreseeable future due to lack of staff.}
-{271}{}{Now that I have more time, could you tell me what you do here?}
+{271}{}{Nu när jag har mer tid, kan du berätta vad du gör här?}
 {272}{}{Det är inte viktigt.}
 {280}{}{Welcome back, visitor. There isn't a tour at the moment, but if you'd like to wait around for enough visitors to arrive, I'd be happy to arrange one.}
 {281}{}{I don't want to go on a tour, thanks. Goodbye.}

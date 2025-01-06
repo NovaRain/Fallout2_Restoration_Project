@@ -24,7 +24,7 @@
  Du får veta att den amerikanska regeringen i mitten av 2000-talet gav Valv-Tek i uppdrag att bygga 122 Valv över hela USA.
  Dessa Valv var avsedda att fungera som skyddsrum för upp till 1 000 amerikanska medborgare i händelse av en nukleär förintelse. Inom de underjordiska
  Valvens säkra väggar kunde Valinvånare leva en lyxig tillvaro i väntan på signalen som informerade dem om att
- att världen på ytan återigen är beboelig.}
+ världen på ytan återigen är beboelig.}
 {121}{}{När du söker igenom systemet hittar du hundratals digitaliserade böcker och tidskrifter som är kategoriserade på hårddisken. Du
  skulle inte ens veta var man skulle börja leta efter något användbart.}
 {122}{}{När du söker igenom systemet hittar du hundratals digitaliserade böcker och tidskrifter kategoriserade på hårddisken. Eftersom
@@ -34,52 +34,52 @@
  your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
  and other life saving information, all contained on four-hundred and sixty handy holodiscs!" and it even contains a "Miniature Pen Flashlight!"
  Surely, this miracle device is exactly what you need to save your dying village.}
-{125}{}{Read more.}
-{126}{}{You continue browsing the files, but the only mention you find of Vault 13, simply states that it's located in California,
- which doesn't help you much.}
-{130}{}{Add information.}
-{131}{}{[You have nothing to add.] Back.}
-{132}{}{Input Botony information.}
-{133}{}{Input [Blah] information.}
-{140}{}{Read Help/About file.}
-{141}{}{Congratulations on successfully installing Winblows 2075! This version is the most advanced Winblows version to date.
- With the probability of only one crash per million function calls confirmed, our technicians are confident that Winblows is perfect
- for any corporate environment. The newest addition to Winblows 2075 is an improved and tweaked code base which now only wastes 15%
- of your CPU cycles on background administration as opposed to previous versions which would waste up to 25% of your CPU cycles.
- Of course, much user consideration has been put into this latest release. As with previous versions of Winblows, the common
- commands of Search, Add, Move, Delete, and Format are available to the user.}
-{142}{}{Format file system, including all backup databases on host and networked machines.}
+{125}{}{Läs mer.}
+{126}{}{Du fortsätter att bläddra i filerna, men det enda du hittar om Valv 13 säger bara att det ligger i Kalifornien,
+ vilket inte hjälper dig mycket.}
+{130}{}{Lägg till information.}
+{131}{}{[Du har inget att tillägga.] Tillbaka.}
+{132}{}{Ange information om Botani.}
+{133}{}{Mata in [Bla] information.}
+{140}{}{Läs Hjälp/Om-filen.}
+{141}{}{Grattis till den lyckade installationen av Vindblås 2075! Denna version är den mest avancerade Vindblås-versionen hittills.
+ Med sannolikheten för endast en krasch per miljon funktionsanrop bekräftad, är våra tekniker övertygade om att Vindblås är perfekt
+ för alla företagsmiljöer. Det senaste tillskottet till Vindblås 2075 är en förbättrad och finjusterad kodbas som nu bara slösar bort 15%
+ av dina CPU-cykler på bakgrundsadministrationtill skillnad från tidigare versioner som skulle slösa upp till 25% av dina CPU-cykler.
+ Naturligtvis har mycket användarhänsyn tagits i denna senaste version. Som med tidigare versioner av Vindblås, är de vanliga
+ kommandon för att Söka, Lägga till, Flytta, Ta bort och Formatera tillgängliga för användaren.}
+{142}{}{Formatera filsystem, inklusive alla backup-databaser på värd- och nätverksmaskiner.}
 {143}{}{Tillbaka.}
-{144}{}{Formatting backup database... SUCCESS... Formatting current file system... WAITING... Warning: There has been a catastrophic error.
- Please stand by...}
+{144}{}{Formatering av backup-databas... LYCKAD... Formatering av aktuellt filsystem... VÄNTAR... Varning: Det har inträffat ett katastrofalt fel.
+ Vänligen vänta...}
 {145}{}{Vänta.}
-{146}{}{...System Error: The operation completed successfully...(A screeching sound begins to emanate from inside the computer and others nearby.}
-{147}{}{[Walk Away.]}
-{148}{}{Error: No keyboard found. Please press any key to reboot.}
-{150}{}{Uploading Environmental Protection Agency Botany information disk... Upload complete. Have a nice day.}
-{200}{}{Rock, Paper, Scissors V.0.3. Select an option.}
-{201}{}{Select ROCK.}
-{202}{}{Select PAPER.}
-{203}{}{Select SCISSORS.}
-{204}{}{Return to main menu.}
-{205}{}{Terminal makes selection.....Calculating.....Terminal wins!}
-{206}{}{Terminal makes selection.....Calculating.....User wins!}
-{207}{}{Terminal makes selection.....Calculating.....Draw!}
-{300}{}{(The computer screen shows various color patterns.)}
-{301}{}{Ohhh! Pretty colors.}
-{302}{}{Shamble off.}
-{400}{}{Read more.}
-{401}{}{Return to menu.}
-{402}{}{Search by topic.}
-{403}{}{Please enter a topic to search for.}
+{146}{}{...Systemfel: Operationen slutfördes framgångsrikt...(Ett skrikande ljud börjar höras inifrån datorn och från andra i närheten.}
+{147}{}{[Gå iväg.]}
+{148}{}{Fel: Inget tangentbord hittades. Tryck på valfri tangent för att starta om.}
+{150}{}{Laddar upp Naturvårdsverkets botaniska informationsdisk... Uppladdning slutförd. Ha en trevlig dag.}
+{200}{}{Sten, Sax, Påse V.0.3. Välj ett alternativ.}
+{201}{}{Välj STEN.}
+{202}{}{Välj PÅSE.}
+{203}{}{Välj SAX.}
+{204}{}{Återgå till huvudmenyn.}
+{205}{}{Terminalen väljer.....Beräknar.....Terminalen vinner!}
+{206}{}{Terminalen väljer.....Beräknar.....Användaren vinner!}
+{207}{}{Terminalen väljer.....Beräknar.....Oavgjort!}
+{300}{}{(Datorskärmen visar olika färgmönster.)}
+{301}{}{Åhh! Fina färger.}
+{302}{}{Stappla iväg.}
+{400}{}{Läs mer.}
+{401}{}{Återgå till menyn.}
+{402}{}{Sök efter ämne.}
+{403}{}{Ange ett ämne att söka efter.}
 {404}{}{Vetenskap.}
 {405}{}{Reparation.}
 {406}{}{Medicin.}
-{407}{}{Weapon Usage.}
-{408}{}{Persuasive Arguments.}
-{410}{}{After a few hours of reading you learn more about the art of science.}
-{411}{}{After a few hours of reading you learn more about the art of repairing machines.}
-{412}{}{After a few hours of reading you learn more about the art of medicine.}
+{407}{}{Vapenanvändning.}
+{408}{}{Övertygande argument.}
+{410}{}{Efter några timmars läsning lär du dig mer om vetenskap.}
+{411}{}{Efter några timmars läsning lär du dig mer om konsten att reparera maskiner.}
+{412}{}{Efter några timmars läsning lär du dig mer om läkekonsten.}
 {413}{}{After a few hours of reading you learn more about the art of defending oneself with a weapon.}
 {414}{}{After a few hours of reading you learn more about the art of persuasion.}
 {420}{}{After a few hours of reading you learn nothing new about the art of science.}
