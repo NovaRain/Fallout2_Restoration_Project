@@ -1,34 +1,34 @@
 {100}{}{Du ser en liten datorterminal.}
 {101}{}{Du ser klostrets datorterminal.}
 {102}{}{Du ser en liten datorterminal. Den ser ut att vara funktionell.}
-{103}{}{You access the computer and scan all available files. You find some files containing the keywords "GECK" and "Vault".}
-{104}{}{Read GECK info.}
-{105}{}{Read Vault info.}
-{106}{}{ERROR! access card not found. Please, insert access card into encryption slot.}
-{107}{}{(You insert the access card into the slot) BEEP!, access card accepted. LOADING Winblows 2075......DONE.}
-{108}{}{Input command.}
-{109}{}{Scan files for any information about GECK or VAULT 13.}
-{110}{}{Access other files.}
-{111}{}{Play Rock Paper Scissors.}
+{103}{}{Du startar datorn och skannar alla tillgängliga filer. Du hittar några filer som innehåller nyckelorden "GECK" och "Valv".}
+{104}{}{Läs information om GECK.}
+{105}{}{Läs information om Valv.}
+{106}{}{FEL! passerkort hittades inte. Vänligen sätt in passerkortet i krypteringsfacket.}
+{107}{}{(Du sätter in passerkortet i kortplatsen) PIIP!, passerkort accepterat. LADDAR Vindblås 2075......FÄRDIG.}
+{108}{}{Mata in kommando.}
+{109}{}{Skanna filer efter information om GECK eller VALV 13.}
+{110}{}{Öppna andra filer.}
+{111}{}{Spela Sten Sax Påse.}
 {112}{}{Tillbaka.}
 {113}{}{Logga ut.}
 {114}{}{[FORTSÄTT]}
-{115}{}{You find some files containing the keywords "GECK" and "Vault".}
-{116}{}{Browse files pertaining to "GECK".}
-{117}{}{Browse files pertaining to "Vault".}
-{118}{}{The search program seems to be a little too difficult for you.}
+{115}{}{Du hittar några filer som innehåller nyckelorden "GECK" och "Valv".}
+{116}{}{Bläddra bland filer som handlar om "GECK".}
+{117}{}{Bläddra bland filer som handlar om "Valv".}
+{118}{}{Sökprogrammet verkar vara lite för svårt för dig.}
 {119}{}{Your eyes widen and your heart quickens as you discover what appears to be an old advertisement for a Garden of Eden
  Creation Kit. The ad depicts a grinning cartoon guy in a vault suit holding up a large case that says, "Survival Kit". It's
  almost as if the smiling bastard is taunting you.}
-{120}{}{You browse over the files, which contain mostly government propaganda for how amazing life in the Vaults would be.
- You learn that in the mid-21st century, the US government commissioned Vault-Tec to construct 122 Vaults across the United States.
- These Vaults were meant to serve as shelters for up to 1,000 US citizens in the event of a nuclear holocaust. Within the safe confines
- of the underground Vaults, the Vault Dwellers could live out a luxurious existence as they await the signal informing them that the
- surface world is once again inhabitable.}
-{121}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. You
- wouldn't even know where to begin searching for something of use.}
-{122}{}{As you search through the system you find hundreds of digitized books and magazines categorized on the hard drive. Since
- you are skilled in how information is usually stored, perhaps searching by topic would yield something of use.}
+{120}{}{Du bläddrar igenom filerna, som mest innehåller regeringspropaganda om hur fantastiskt livet i Valven skulle vara.
+ Du får veta att den amerikanska regeringen i mitten av 2000-talet gav Valv-Tek i uppdrag att bygga 122 Valv över hela USA.
+ Dessa Valv var avsedda att fungera som skyddsrum för upp till 1 000 amerikanska medborgare i händelse av en nukleär förintelse. Inom de underjordiska
+ Valvens säkra väggar kunde Valinvånare leva en lyxig tillvaro i väntan på signalen som informerade dem om att
+ att världen på ytan återigen är beboelig.}
+{121}{}{När du söker igenom systemet hittar du hundratals digitaliserade böcker och tidskrifter som är kategoriserade på hårddisken. Du
+ skulle inte ens veta var man skulle börja leta efter något användbart.}
+{122}{}{När du söker igenom systemet hittar du hundratals digitaliserade böcker och tidskrifter kategoriserade på hårddisken. Eftersom
+ du är insatt i hur information vanligtvis lagras, kanske en sökning efter ämne skulle ge dig något användbart.}
 {123}{}{[MER]}
 {124}{}{According to the ad, the kit includes a "Base Replicator Unit", which "replicates food and basic items needed for building
  your new world", a "Holodisc Reader with Library", which "includes selections from the Library of Congress, complete set of encyclopedias,
