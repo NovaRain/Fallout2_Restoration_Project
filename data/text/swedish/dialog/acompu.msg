@@ -88,18 +88,18 @@
 {423}{}{Efter några timmars läsning lär du dig ingenting om konsten att avfyra ett vapen.}
 {424}{}{Efter några timmars läsning lär du dig ingenting om konsten att övertyga.}
 {430}{}{Tillbaka.}
-{500}{}{As you read over more articles, you learn the GECK was developed by Future-Tec, a division of Vault-Tec, and that
- it was standard issue in all Vault-Tec vaults. It was meant to be used upon exiting a Vault, to help re-establish life in
- the harsh environments of a world devastated by nuclear war.}
-{501}{}{Upon further reading, you discover the GECK isn't quite the miracle device the ad made it out to be. The "Base Replicator"
- is actually nothing more than a fertilizer system containing food seeds, soil supplements, and chemicals specifically engineered to
- turn arid wasteland into fertile soil. Its claim that it can "build basic items" actually alludes to new codes it provides for the
- Vault's machines, allowing them to create new items from the dispensers. The GECK also contains schematics for basic force fields
- and the construction of "sand-crete" walls and buildings.}
+{500}{}{När du läser fler artiklar får du veta att GECK utvecklades av Framtid-Tek, en division av Valv-Tek, och att
+ den var standardutrustning i alla Valv-Teks valv. Den var tänkt att användas när man lämnade ett Valv, för att hjälpa till att återupprätta livet i
+ de hårda miljöerna i en värld som förstörts av kärnvapenkrig.}
+{501}{}{När du läser vidare upptäcker du att GECK inte riktigt är den mirakelapparat som annonsen utmålade den som. "Basåterskaparen"
+ är faktiskt inget annat än ett gödningssystem som innehåller matfrön, jordtillskott och kemikalier som är speciellt konstruerade för att
+ förvandla torra ödemarker till bördig jord. Dess påstående att den kan "bygga grundläggande föremål " syftar faktiskt på nya koder som den ger
+ Valvets maskiner, så att de kan skapa nya föremål från automaterna. GECK innehåller också ritningar för grundläggande kraftfält
+ och konstruktionen av väggar och byggnader gjorda av "sand-tong".}
 {502}{}{[MER]}
-{503}{}{It seems the GECK itself is meant to be disassembled over the course of its use. You read an example of how its cold fusion
- power source is intended be used for main city power production. The GECK even contains instructions on disassembling sections of the
- Vault to create homes and defensive structures for the new community. As you finish reading over the files, you decide that even though
- it's not the magical device the Elder seems to think it is, finding a GECK is still your best option if you hope to save your tribe.}
-{1000}{}{You upload the EPA Botany Holodisk.}
+{503}{}{Det verkar som om själva GECK är avsedd att demonteras under användningens gång. Du läste ett exempel på hur dess kalla fusionskraftkälla
+ är avsedd att användas som huvudströmkälla för staden. GECK innehåller även instruktioner om hur man demonterar delar av
+ Valvet för att skapa hem och försvarsstrukturer för det nya samhället. När du har läst igenom filerna bestämmer du dig för att även om
+ det inte är den magiska anordning som den Äldste verkar tro, är det fortfarande ditt bästa alternativ att hitta en GECK om du hoppas kunna rädda din stam.}
+{1000}{}{Du laddar upp Naturvårdsverkets Botani-holodisk.}
 {2000}{}{Du formaterar klostrets bokdatabaser.}
