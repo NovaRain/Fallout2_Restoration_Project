@@ -29,10 +29,6 @@
 
 #define TIMER_INIT_V13_SEQUENCE    (4)
 
-#define TRAGIC_ADDICTION           (5) //added by killap
-
-#define LVAR_Applied_Tragic_Addiction (1) //added by killap
-
 #define LVAR_Smoke_Count              (2) //added by killap
 
 //For the random bess encounter
@@ -180,10 +176,6 @@ procedure timed_event_p_proc begin
          add_timer_event(dude_obj, 1, CHECK_RNDBESS_FLOAT);
    end else if (fixed_param == TIMER_INIT_V13_SEQUENCE) then begin
       set_global_var(GVAR_DUDE_START_SEQ_1, game_time + (ONE_GAME_WEEK * 2));
-   //added by killap
-   end else if (fixed_param == TRAGIC_ADDICTION) then begin
-      if (global_var(GVAR_ADDICT_TRAGIC) == 1) then
-         set_global_var(GVAR_ADDICT_TRAGIC,0);
    end else if (fixed_param == SMOKE_NONPOWER) then begin
       script_overrides;
       reg_anim_clear(self_obj);
