@@ -15,29 +15,34 @@ variable game_timer2;
 
 procedure start begin
     if is_loading_game then return;
+
 	if game_loaded then begin
 	  	set_global_script_repeat(60);
 		set_global_script_type(3);
 		do_once = 0;
-	end else begin
-      if global_var(GVAR_ADDICT_TRAGIC) == 1 then begin
-	     if do_once != 1 then begin
-	        do_once = 1;
+        return;
+	end
+
+    if global_var(GVAR_ADDICT_TRAGIC) == 1 then begin
+        if do_once != 1 then begin
+            do_once = 1;
             game_timer = game_time;
             game_timer2 = game_time;
         end
+
         if game_time - game_timer >= TIME_TRAGIC_USAGE then begin
             if in_world_map then force_encounter(0);
+
             game_timer = game_time;
             if game_time - game_timer2 < TIME_DURATION_OF_ADDICTION then begin
                 display_msg(message_str(SCRIPT_OBJ_DUDE,1000));
             end
         end
+
         if game_time - game_timer2 < TIME_DURATION_OF_ADDICTION then begin
             set_global_var(GVAR_ADDICT_TRAGIC, 0);
             if not dude_is_addicted() then hide_iface_tag(INTERFACE_TAG_ADDICT);
             display_msg(message_str(SCRIPT_OBJ_DUDE,1001));
         end
-      end
-   end
+    end
 end
