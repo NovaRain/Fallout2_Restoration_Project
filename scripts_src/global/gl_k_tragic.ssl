@@ -5,6 +5,7 @@
 
 #define TIME_TRAGIC_USAGE ONE_GAME_DAY
 #define TIME_DURATION_OF_ADDICTION ONE_GAME_WEEK
+#define INTERFACE_TAG_ADDICT 4
 
 procedure start;
 
@@ -34,8 +35,7 @@ procedure start begin
         end
         if game_time - game_timer2 < TIME_DURATION_OF_ADDICTION then begin
             set_global_var(GVAR_ADDICT_TRAGIC, 0);
-            if not dude_trait(TRAIT_drug_addict) then
-                hide_iface_tag(4);
+            if not dude_is_addicted() then hide_iface_tag(INTERFACE_TAG_ADDICT);
             display_msg(message_str(SCRIPT_OBJ_DUDE,1001));
         end
       end
