@@ -27,40 +27,40 @@
 {121}{}{Nagor, tänk om något händer dig? Morlis skulle vara ensam och det skulle
  göra henne riktigt ledsen. Du vill väl inte göra henne ledsen, eller hur?}
 {122}{}{Gör det du.}
-{123}{}{Well... no, I don't want to do that. Okay, I won't go, but it's not fair!}
-{124}{}{Smoke will be okay. Goodbye.}
-{125}{}{You found Smoke! Thanks! Smoke, you're a bad dog!}
-{126}{}{You're welcome. Goodbye.}
-{127}{}{Thanks again. I hope you have a really fun trip!}
-{128}{}{I miss Smoke. Why couldn't you save him? You're the Chosen One.}
-{129}{}{I'm busy, dumb one. Go play someplace else.}
-{130}{}{I go.}
-{131}{}{I'm going after Smoke.}
-{200}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{201}{}{Hello cousin... uh, I mean Chosen One. I hope you've found the GECK. I've heard a lot of
- talk about hard times to come.}
-{202}{}{Me still look, Nagor.}
-{203}{}{I'm still looking, cousin.}
-{204}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{205}{}{Welcome home, cousin. Things are getting a little tight around here. Have you found the holy
- Thirteen and the GECK?}
-{206}{}{Me not find. Sorry.}
-{207}{}{I'm sorry, Nagor. I'm still looking.}
-{208}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{209}{}{Hello again, cousin. I guess you've noticed that things are really falling apart here. Please
- find the GECK. We are in desperate need!}
-{210}{}{Hi, cousin.}
-{211}{}{Hi, cousin.}
-{212}{}{You not sound like usual self.}
-{213}{}{You don't sound like your usual self.}
-{214}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are
- sick, the brahmin are dying and... I... my dog Smoke died - Morlis cooked him. I miss him so much. Sorry, but I can't
- really talk any more...}
-{215}{}{I'm sorry, cousin. Things have been getting worse and worse since you last left. People are sick,
- the brahmin are dying and... I... my dog Smoke died. I miss him so much. Sorry, but I can't really
- talk any more...}
+{123}{}{Nej, det vill jag inte göra. Okej, jag kommer inte att gå, men det är inte rättvist!}
+{124}{}{Smoke kommer att klara sig. Hej då.}
+{125}{}{Du hittade Smoke! Tack! Smoke, du är en stygg hund!}
+{126}{}{Varsågod. Hej då.}
+{127}{}{Tack åter igen. Jag hoppas att du får en riktigt rolig resa!}
+{128}{}{Jag saknar Smoke. Varför kunde du inte rädda honom? Du är den Utvalde.}
+{129}{}{Jag är upptagen, dumskalle. Gå och lek någon annanstans.}
+{130}{}{Jag går.}
+{131}{}{Jag letar efter Smoke.}
+{200}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
+ prat om kommande svåra tider.}
+{201}{}{Hej kusin... eh, jag menar Utvalde. Jag hoppas att du har hittat GECK. Jag 'har hört en hel del
+ prat om kommande svåra tider.}
+{202}{}{Jag fortfarande letar, Nagor.}
+{203}{}{Jag letar fortfarande, kusin.}
+{204}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
+ Tretton och GECK?}
+{205}{}{Välkommen hem, kusin. Det börjar bli lite tufft här. Har du hittat den heliga
+ Tretton och GECK?}
+{206}{}{Jag inte hitta. Ledsen.}
+{207}{}{Jag är ledsen, Nagor. Jag letar fortfarande.}
+{208}{}{Hej igen, kusin. Jag antar att du har märkt att saker och ting verkligen faller samman här. Snälla
+ hitta GECK. Vi är i desperat behov!}
+{209}{}{Hej igen, kusin. Jag antar att du har märkt att saker och ting verkligen faller samman här. Snälla
+ hitta GECK. Vi är i desperat behov!}
+{210}{}{Hej, kusin.}
+{211}{}{Hej, kusin.}
+{212}{}{Du inte låta som vanligt.}
+{213}{}{Du låter inte som ditt vanliga jag.}
+{214}{}{Jag är ledsen, kusin. Saker och ting har blivit värre och värre sedan du senast var här. Folk är
+ sjuka, brahminerna är döende och... jag... min hund Smoke dog - Morlis lagade mat av honom. Jag saknar honom så mycket. Ledsen, men jag kan inte
+ riktigt prata längre...}
+{215}{}{Jag är ledsen, kusin. Saker och ting har blivit värre och värre sedan du senast var här. Folk är sjuka,
+ brahminerna är döende och... jag... min hund Smoke dog. Jag saknar honom så mycket. Ledsen, men jag kan inte
+ riktigt prata längre...}
 {300}{}{Du ser Nagor.}
 {302}{}{Kusin, vad jag är glad att se dig! Jag behöver din hjälp.}
