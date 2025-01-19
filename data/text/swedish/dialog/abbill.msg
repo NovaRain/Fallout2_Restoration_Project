@@ -34,11 +34,11 @@
 något annat.}
 {221}{}{Den här rackaren kan lätt smältas ner för att göra tre eller fyra uppsättningar metallrustningar. Låt oss säga 3 000 dollar.}
 {222}{}{Jag har råd med det.}
-{223}{}{I think I'll pass for right now. Let me ask you something else.}
-{224}{}{Alright then. This is going to take two of us to move this thing, so let me help you fit it to your friend here.}
+{223}{}{Jag tror att jag står över just nu. Låt mig fråga dig något annat.}
+{224}{}{Okej, då så. Det kommer att krävas två av oss för att flytta den här saken, så låt mig hjälpa dig att se till att den passar din vän.}
 {225}{}{[Färdig]}
-{226}{}{Hey, this fits nicely!}
-{300}{}{I might know a thing or two. What would you like to know?}
+{226}{}{Hörru, den passar bra!}
+{300}{}{Jag kanske vet en sak eller två. Vad skulle du vilja veta?}
 {301}{}{How often do you get resupplied?}
 {302}{}{Are the caravans hiring?}
 {303}{}{On second thought, I have to go.}
