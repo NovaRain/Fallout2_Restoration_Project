@@ -55,7 +55,7 @@
  tu progreso.}
 {219}{}{Entonces no me molestes más.}
 {220}{}{¿Sobre qué?}
-{221}{}{No confían en vosotros. Creen que matásteis a los transeúntes y empalásteis sus cuerpos en la entrada de la granja.}
+{221}{}{No confían en vosotros. Creen que mataron a los transeúntes y que empalaron sus cuerpos en la entrada de la granja.}
 {222}{}{Quieren saber qué le ocurrió al granjero que vivía aquí.}
 {223}{}{Somos gente pacífica y no hemos matado a nadie. Esos cuerpos son simplemente señuelos que
  fabricamos para ahuyentar a quienes intentan robarnos. Si examinas los cuerpos de cerca, notarás
@@ -68,7 +68,11 @@
 {227}{}{Lo asustamos para que se fuera. Se suponía que tendría que volver a casa en cuanto descubriera que
  la granja estaba maldita. Los Protectores informarón de que se dirigía hacia el oeste. Puedes intentar
  buscarlo ahí.}
-{231}{}{Veo que has encontrado a Jonny. Le descubrimos vagando por la oscuridad de uno de nuestros túneles más profundos. Decía que se había caído por un pozo cerca de su casa, y entonces quedó atrapado en un túnel por un derrumbe. Le hemos tratado como si fuera uno de los nuestros y es querido por todos... así que comprenderás que no lo entregue a un extraño que aún debe probar que es digno de confianza. Llevaré a Jonny de vuelta a Modoc cuando esté seguro de que puede llegar a casa sano y salvo.}
+{231}{}{Ya veo que has conocido a Jonny. Lo encontramos vagando en la oscuridad de uno de nuestros túneles más profundos. 
+ Dijo que había caído en un pozo cerca de su casa y luego quedó atrapado en un túnel por un derrumbe.
+ Lo hemos tratado como a uno de los nuestros y es querido por todos, así que entenderás que estoy
+ reacio a confiarlo a un extraño que aún no ha demostrado ser digno de confianza. Devolveré a Jonny
+ cuando esté seguro de que llegará a casa con seguridad.}
 {232}{}{Has demostrado ser digna de confianza, aquí abajo echaremos de menos al pequeño Jonny.
  Para asegurar su regreso, les hemos asignado una escolta para que regresen a Modoc ahora mismo.
 
