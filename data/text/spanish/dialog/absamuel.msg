@@ -5,7 +5,9 @@
 {201}{}{*hip* Hola de nuevo.}
 {202}{}{Solo voy a echar un vistazo. ¿Tiendes a este cementerio?}
 {203}{}{¿Conoces a un Padre Tully?}
-{204}{}{Padre Tully, ¿dices? [Parece que se está metiendo en el cerebro tratando de recordar.] Sí ... yo * hickup * 'cuerdo a Tully. ¿Cómo está ese chico de todos modos? No lo he visto desde que fue expulsado hace mucho tiempo * hipo * hace mucho tiempo. [Sonríe borracho mientras reflexiona.] Muchacho, era un pitido. Él y yo juntos, * hickup * qué combo.}
+{204}{}{Padre Tully, dices? [Parece que está esforzándose por recordar.] Sí...*hip* recuerdo a Tully.
+ ¿Cómo le va a ese tipo? No lo he visto desde que lo expulsaron de aquí hace mucho tiempo. *hip*
+ [Sonríe melancolicamente.] ¡Ese tipo era divertido! Él y yo juntos, ¡qué dúo!}
 {205}{}{Ahora vive en Nuevo Reno, predicando la buena palabra, er, algo así. Sabes, ustedes dos se parecen mucho.}
 {206}{}{Nuevo Reno, ¿eh? [Se apoya en su pala, saca una pequeña botella y da un gran trago.] Recuerdo que dijo que iba a *hip* 
  dirigirse hacia allí. Me alegra que llegara allí con seguridad. Siempre *hip* me gustó ese tipo. Un verdadero personaje. 
@@ -22,8 +24,8 @@
 {400}{}{Sí, *hip* me encargo de cuidar estas tumbas. Nadie más quiere *hip* hacerlo, así que Ol' Sammy se quedó con el trabajo. 
  No es tan malo como podría parecer. Tiene sus... ventajas, si sabes a qué me refiero. [Sonríe con torpeza y mueve sus cejas pobladas 
  hacia ti.]}
-{401}{}{No. No sé a lo que te refieres y no quiero saberlo. Adiós.}
-{402}{}{No. No sé a lo que te refieres. Pero déjeme preguntarle otra cosa.}
+{401}{}{Negativo. No sé a lo que te refieres y no quiero saberlo. Adiós.}
+{402}{}{Negativo. No sé a lo que te refieres. Pero déjeme preguntarle otra cosa.}
 {403}{}{No. No sé a lo que quires decir, pero tengo una curiosidad mórbida...}
 {404}{}{Demonios, sí lo hago. Nada me excita como un cadáver podrido.}
 {410}{}{Vaya!, puedo estar al aire libre y nadie está cerca para decirle a Ol' Sammy cuándo ha tenido ¨suficiente¨. 
@@ -44,11 +46,11 @@
 {503}{}{Tiene sentido, supongo. Tengo algunas preguntas más.}
 {504}{}{Supongo que sí. Ya nos veremos, Sammy.}
 {505}{}{Ya veo. Mira, debo irme.}
-{600}{}{Hmm ... * hickup * déjame ... déjame ver un minuto. Sí, podría tener algo, si estás preparado.}
+{600}{}{Hmm ... * hip * déjame ... déjame ver un minuto. Sí, podría tener algo, si estás preparado.}
 {601}{}{Eh, olvídelo, Sam. Debo irme ahora.}
 {602}{}{Claro, Sam, qué necesitas?}
 {603}{}{Bueno, en los últimos días, he visto *hip* que algunas de estas tumbas están siendo desenterradas. Quien sea que lo esté haciendo
-  no parece llegar tan lejos, pero es un *hip* un martirio para mí volver a llenarlas.}
+  no parece llegar lejos, pero es un *hip* un martirio para mí volver a llenarlas.}
 {604}{}{Hmm, ¿has intentado averiguar quién ha estado haciendo esto?}
 {605}{}{Claro que *hip* lo intenté. La otra vez me quedé hasta la medianoche y nadie apareció. Debo haberme quedado dormido
  poco después de beber demasiado supongo. [Sonríe, saca su frasco y toma un fuerte trago.] Entonces 
@@ -60,7 +62,7 @@
 {608}{}{Sé lo que podemos hacer.}
 {609}{}{Creo que voy a pasar. Debo irme.}
 {700}{}{He cuidado de la situación de excavación de las tumbas. No deberíais tener más problemas aquí.}
-{701}{}{Bueno, esas son *hickup* buenas noticias. Me alegro de no caer en más tumbas *hickup* abiertas. Gracias por la ayuda.}
+{701}{}{Bueno, esas son *hip* buenas noticias. Me alegro de no caer en más tumbas *hip* abiertas. Gracias por la ayuda.}
 {702}{}{Encantado de ayudar. Aunque tengo algunas preguntas.}
 {703}{}{Bueno, cuídate, entonces.}
 {704}{}{No creo que las tumbas abiertas sean la verdadera razón por la que caes Samuel, pero tomatelo con calma ahora.}
