@@ -157,7 +157,7 @@
 {661}{}{De verdad. Hasta otra, Mynoc.}
 {662}{}{Lo que sea. Parecía como un capullo a mí. Nos vemos, Mynoc.}
 {1000}{}{Anciano}
-{1001}{}{Fundora}
+{1001}{}{Fundadora}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

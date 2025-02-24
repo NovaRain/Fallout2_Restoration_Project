@@ -2,7 +2,7 @@
 {101}{}{Ves al hermano Samuel, el guardián del cementerio.}
 {102}{}{Se ve borracho y un poco adormilado.}
 {200}{}{* hickup * Por qué, 'aquí, mi nombre es Samuel. ¿Qué, uh, * hickup * te trae por aquí?}
-{201}{}{*hipo* Hola de nuevo.}
+{201}{}{*hip* Hola de nuevo.}
 {202}{}{Solo voy a echar un vistazo. ¿Tiendes a este cementerio?}
 {203}{}{¿Conoces a un Padre Tully?}
 {204}{}{Padre Tully, ¿dices? [Parece que se está metiendo en el cerebro tratando de recordar.] Sí ... yo * hickup * 'cuerdo a Tully. ¿Cómo está ese chico de todos modos? No lo he visto desde que fue expulsado hace mucho tiempo * hipo * hace mucho tiempo. [Sonríe borracho mientras reflexiona.] Muchacho, era un pitido. Él y yo juntos, * hickup * qué combo.}
