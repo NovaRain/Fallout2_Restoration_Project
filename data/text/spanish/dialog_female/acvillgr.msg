@@ -43,7 +43,7 @@
 {401}{}{[El aldeano te mira, con los ojos muy abiertos, luego se aleja lentamente de ti mientras mira nerviosamente a su alrededor.]}
 {402}{}{Bueno, supongo que no.}
 {1000}{}{Anciano}
-{1001}{}{Fundador}
+{1001}{}{Fundora}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

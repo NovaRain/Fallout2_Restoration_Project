@@ -47,7 +47,7 @@
 {203}{}{Ten cuidado con los Dunton; son peligrosos.}
 {204}{}{El barrio de los tramperos está plagado de ratas.}
 {1000}{}{Anciano}
-{1001}{}{Fundador}
+{1001}{}{Fundora}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

@@ -74,7 +74,7 @@
 {222}{}{¿Estás casada?}
 {223}{}{Uno, dos, tres - ¡siii!}
 {1000}{}{Anciano}
-{1001}{}{Fundador}
+{1001}{}{Fundora}
 {1002}{}{Morador del Refugio}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
