@@ -24,25 +24,25 @@
 {400}{}{Sí, *hip* me encargo de cuidar estas tumbas. Nadie más quiere *hip* hacerlo, así que Ol' Sammy se quedó con el trabajo. 
  No es tan malo como podría parecer. Tiene sus... ventajas, si sabes a qué me refiero. [Sonríe con torpeza y mueve sus cejas pobladas 
  hacia ti.]}
-{401}{}{Negativo. No sé a lo que te refieres y no quiero saberlo. Adiós.}
-{402}{}{Negativo. No sé a lo que te refieres. Pero déjeme preguntarle otra cosa.}
-{403}{}{Ni idea. No sé a lo que quieres decir, pero tengo una curiosidad mórbida...}
+{401}{}{No. Ni sé a lo que te refieres y ni quiero saberlo. Adiós.}
+{402}{}{No. Ni sé a lo que te refieres. Pero déjeme preguntarle otra cosa.}
+{403}{}{No. Ni sé a lo que quieres decir, pero tengo una curiosidad mórbida...}
 {404}{}{Demonios, sí lo hago. Nada me excita como un cadáver podrido.}
-{410}{}{Vaya!, puedo estar al aire libre y nadie está cerca para decirle a Ol' Sammy cuándo ha tenido ¨suficiente¨. 
- ¡Yo sé cuándo he tenido suficiente... cuando no queda nada! [Se ríe, lo que rápidamente se convierte en un horrible acceso de tos. 
- Después de toser hasta expulsar un par de pulmones, sonríe hacia ti.]}
+{410}{}{Por qué, puedo estar al aire libre y no hay nadie cerca para decirle a Ol' Sammy cuando ha tenido suficiente. Yo *sé* cuando he 
+ tenido suficiente... cuando no queda nada. [Se ríe, lo que rápidamente se convierte en un espantoso exceso de tos. 
+ Después de toser hasta sacar los pulmones, sonríe hacia ti.]}
 {411}{}{Eh, *por supuesto* eso es lo que quería decir. [Suspiro de alivio]. Sin embargo, permíteme preguntarte otra cosa.}
 {420}{}{[Sus ojos se abren con sorpresa y parece estar instantáneamente sobrio.] Eso no es lo que quise decir, tú... ¡ERES UN MONSTRUO, MANÍACO! 
- ¡Aléjate de mí!}
+ ¡Aléjate de mí! }
 {421}{}{Lo que sea, viejo borracho de mierda. No sabes de lo que te estás perdiendo.}
 {430}{}{¡Demonio asqueroso! ¡Fuera!}
 {500}{}{La Abadía, bueno, este lugar * hip* ha sido mi 'ogar por la mayor parte de mi vida. Todo mundo 'quí *hipo* es agradable, y 
  cualquier persona es bienvenida, siempre y cuando *hip* no cause problemas. Yo, yo mismo, no paso demasiado tiempo en el mona- 
- *hip* -monasterio, pero sé que nuestros lectores tienen todo tipo de información que se ha recopilado durante los últimos años.
+ *hip* -monasterio, pero sé que nuestros lectores tienen todo tipo de información que se ha recopilado durante los últimos años. 
  Tal vez algunos de ellos *hip* pueden ser de alguna utilidad para ti.}
 {501}{}{¿No pasas mucho tiempo en la iglesia? Eres un monje, ¿verdad?}
 {502}{}{[Se sonríe, mostrando una boca con dientes podridos y espacios vacíos.] *hip* Bueno, digamos que los otros monjes *hip* no 
- ven con buenos ojos mis ejem.. mis habitos con la bebida.}
+ ven con amabilidad mis ejem.. mis habitos con la bebida.}
 {503}{}{Tiene sentido, supongo. Tengo algunas preguntas más.}
 {504}{}{Supongo que sí. Ya nos veremos, Sammy.}
 {505}{}{Ya veo. Mira, debo irme.}
