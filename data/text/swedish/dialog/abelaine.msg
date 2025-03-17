@@ -18,13 +18,13 @@
  alla dessa trappor. Skulle det besvära dig alltför mycket att ge honom den här delen åt mig?}
 {601}{}{Visst.}
 {602}{}{Ledsen, jag har inte tid med det här. Hej då.}
-{603}{}{Do I look like your personal delivery service? Do it yourself, you fat lazy bitch. Bye.}
+{603}{}{Ser jag ut som din personliga leveransservice? Gör det själv, din feta, lata subba. Hej då.}
 {604}{}{Thanks! Here's the part. The copying room is in the basement. Just use the stairs directly behind Brother Matthew
  in the chapel area.}
 {605}{}{Not a problem. [You take the part.] I'll bring it down to Max right away.}
 {700}{}{Jag }
-{701}{}{. Who you?}
-{710}{}{Hehe. That pretty name.}
+{701}{}{. Vem du?}
+{710}{}{Hehe. Det fint namn.}
 {711}{}{Hej då!}
 {720}{}{You're a special little guy aren't you? Could you do me a BIG favor and be my special helper today?}
 {721}{}{You're a special little gal aren't you? Could you do me a BIG favor and be my special helper today?}

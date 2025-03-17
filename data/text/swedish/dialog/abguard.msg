@@ -1,6 +1,6 @@
-{100}{}{You see a Tough Guard.}
-{101}{}{You see an impressively muscled, but aging guard with sun burnt skin. He must have been quite something in his
- prime. His piercing gaze seems to follow you everywhere.}
+{100}{}{Du ser en Tuff Vakt.}
+{101}{}{Du ser en imponerande muskulös, men åldrande vakt med hud bränd av solen. Han måste ha varit något alldeles extra under sina
+ bästa dagar. Hans genomträngande blick verkar följa dig överallt.}
 {200}{}{Hi there, traveler. Welcome to the Abbey. Keep your nose clean and we'll get along just fine.}
 {201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
  I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
