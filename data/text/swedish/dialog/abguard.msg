@@ -2,9 +2,9 @@
 {101}{}{Du ser en imponerande muskulös, men åldrande vakt med hud bränd av solen. Han måste ha varit något alldeles extra under sina
  bästa dagar. Hans genomträngande blick verkar följa dig överallt.}
 {200}{}{Hi there, traveler. Welcome to the Abbey. Keep your nose clean and we'll get along just fine.}
-{201}{}{I'm watching you, slaver. One wrong move and you'll be tainting our graveyard for the rest of eternity.
- I wouldn't wish that on you, and I'm fairly sure you wouldn't enjoy that either, so don't get any funny ideas in that
- warped brain of yours.}
+{201}{}{Jag håller koll på dig, slavhandlare. Ett felsteg och du kommer att besudla vår kyrkogård för resten av evigheten.
+ Jag skulle inte önska dig det, och jag är ganska säker på att du inte skulle njuta av det heller, så få inga roliga idéer i din
+ snedvridna hjärna.}
 {202}{}{Vem är du?}
 {203}{}{Where can I barter for some supplies?}
 {204}{}{Somebody is digging up graves, why don't you do anything about it?}
