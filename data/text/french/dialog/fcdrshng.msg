@@ -119,7 +119,7 @@
 {554}{}{Je ne tuerai pas le Dr. Wong pour toi. J'arrête.}
 {560}{}{Excellent. Et qu'en est-il du Dr. Wong ?}
 {561}{}{Il est encore en vie. Je reviendrai quand il sera définitivement écarté.}
-{562}{}{Je ne tuerai pas le Dr Wong pour toi. Je leur ai déjà donné l'échantillon, maintenant c'est fini, je ne t'aiderai plus.}
+{562}{}{I'm not going to kill Dr. Wong for you. I gave them the plant sample, and now I'm done helping you.}
 {570}{}{Je dois les détruire, et tu sembles capable de réaliser cette tâche.}
 {571}{}{Pourquoi tu n'envoies pas tes créatures... euh, réussies... s'occuper d'elles ?}
 {572}{}{Ca va être marrant. Je vais le faire.}

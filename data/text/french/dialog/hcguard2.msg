@@ -3,7 +3,7 @@
 {200}{}{[Il te regarde avec ses yeux défoncés.] Hé. Que viens-tu foutre ici ?!}
 {201}{}{Je suis là pour te faire dégager. Je suis un nouveau garde.}
 {202}{}{Ashton m'a envoyé pour te rencontrer. Il a dit qu'il aurait besoin de vérifier avec toi l'ensemble des dons.}
-{210}{}{Ah ben c'est bien... Hé, attends une minute ! Je ne t'ai jamais vu dans le coin auparavant. Que fais-tu là ?}
+{210}{}{Oh, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
 {211}{}{J'suis une nouvelle recrue. Je suis arrivé il y a peu de temps.}
 {212}{}{Ouais, je suis là pour te descendre. Il est temps de mourir.}
 {220}{}{Merde ! je n'ai pas de temps à perdre avec ces conneries, mon service est presque terminé.}

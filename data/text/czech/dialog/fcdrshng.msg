@@ -119,7 +119,7 @@
 {554}{}{Dr. Wonga pro vás v žádném případě nezabiju. Skončili jsme spolu.}
 {560}{}{Výborně a co Dr. Wong?}
 {561}{}{Je stále naživu. Vrátím se, až ho vyřídím.}
-{562}{}{Nezabiju pro vás Dr. Wonga. Obdrželi ode mě ten vzorek a tím jsme spolu skončili.}
+{562}{}{I'm not going to kill Dr. Wong for you. I gave them the plant sample, and now I'm done helping you.}
 {570}{}{Potřebuji je zlikvidovat a vy vypadáte jako někdo, pro koho to nebude žádný problém.}
 {571}{}{Proč tam raději nepošlete ty, eh, úspěšnější výtvory, aby je vyřídili?}
 {572}{}{To zní jako zábava. Udělám to.}
