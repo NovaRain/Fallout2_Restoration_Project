@@ -12,7 +12,7 @@
 {223}{}{Ông đang làm cái chó gì ở đây thế?}
 {224}{}{Tôi đang đi tìm Vault – ồ đúng rồi, một gã thương gia tên Vic nữa. Biết tìm ở đâu không?}
 {225}{}{Tôi muốn trao đổi.}
-{240}{}{Vệy đã được chưa, cậu bạn?}
+{240}{}{Vệy đã được chưa, cô bạn?}
 {241}{}{Thật ra là tôi muốn xem lại hàng lần nữa, nếu được.}
 {242}{}{Thật ra tôi muốn hỏi một câu.}
 {243}{}{Được rồi. Gặp lại sau, Flick.}
