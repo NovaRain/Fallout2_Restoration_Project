@@ -3,7 +3,7 @@
 {200}{}{[Patrzy na ciebie znudzonym wzrokiem.] Hej. Co cię tu sprowadza?}
 {201}{}{Mam cię zluzować wcześniej. Jestem strażnikiem z następnej zmiany.}
 {202}{}{Ashton przysłał mnie po ciebie. Mówił, że musi się z tobą skonsultować w sprawie datków z ostatniej zbiórki.}
-{210}{}{Oh, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
+{210}{}{Naprawdę - Hej, czekaj! Nigdy cię tu wcześniej nie widziałem. Co ty tu robisz?}
 {211}{}{Niedawno mnie tu przeniesiono.}
 {212}{}{Tak, przysłano mnie tu żeby cię zabić. Czas umierać.}
 {220}{}{Cholera. Nie mam czasu na takie pierdoły, moja zmiana się już kończy.}

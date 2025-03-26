@@ -119,7 +119,7 @@
 {554}{}{Nie ma mowy, nie zabiję dla ciebie dr Wong'a. To koniec naszej współpracy.}
 {560}{}{Doskonale. A co z dr Wong'iem?}
 {561}{}{Wciąż żyje. Wrócę gdy to się zmieni.}
-{562}{}{I'm not going to kill Dr. Wong for you. I gave them the plant sample, and now I'm done helping you.}
+{562}{}{Nie, nie zamierzam zabijać dla ciebie dr Wong'a. Dostarczyłem próbki. To koniec naszej współpracy.}
 {570}{}{Potrzebuje im dołożyć, a ty wyglądasz jakbyś był stworzony do tego zadania.}
 {571}{}{Dlaczego nie możesz wysłać tam, eee... tych bardziej doświadczonych?}
 {572}{}{Brzmi nieźle. Zrobię to.}

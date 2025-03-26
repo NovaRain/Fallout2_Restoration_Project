@@ -3,7 +3,7 @@
 {200}{}{(Podívá se na tebe znuděným pohledem.) Ahoj. Co tě přivádí až sem?}
 {201}{}{Jsem tu, abych tě mohl dřív vystřídat. Mám po tobě další šichtu.}
 {202}{}{Ashton mě poslal, abych tě vystřídal. Říkal, že s tebou potřebuje projít nějaké nedávné příspěvky.}
-{210}{}{Oh, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
+{210}{}{Nazdar... hej, počkej! Nikdy jsem tě tu ještě neviděl. Co tady děláš?}
 {211}{}{Jsem nový rekrut. Nedávno mě sem převeleli.}
 {212}{}{Mám za úkol tě zabít.}
 {220}{}{Zatraceně. Na takovou blbost nemám čas, už mi skoro končí šichta.}

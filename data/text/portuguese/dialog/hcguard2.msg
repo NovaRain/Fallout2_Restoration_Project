@@ -3,7 +3,7 @@
 {200}{}{(Olha para você com olhos entediados) Ei. O que te traz aqui?}
 {201}{}{Estou aqui para te dar uma folga. Eu vou ficar no próximo turno.}
 {202}{}{Ashton pediu para eu te buscar. Ele disse que precisava verificar com você sobre o recente conjunto de doações.}
-{210}{}{Oh, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
+{210}{}{Ei, cara -- Ei, espere aí! Eu nunca te vi por aqui antes. O que você está fazendo aqui?}
 {211}{}{Eu sou o novo recruta, fui transferido recentemente para cá.}
 {212}{}{Sim, fui designado para te matar.}
 {220}{}{Droga. Não tenho tempo para essa besteira, meu turno está quase acabando.}
