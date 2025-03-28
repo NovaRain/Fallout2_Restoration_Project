@@ -21,7 +21,7 @@
 {600}{}{Jag är läkare. Jag har tagit hand Klostrets folk i ungefär, åh, femton år nu, tror jag.}
 {601}{}{Jag förstår. Det låter som många år av att studera alla medicinska böcker från förkrigstiden i Klostrets bibliotek. Du måste vara en riktigt bra doktor.}
 {602}{}{Var fick du tag på all din medicinska utrustning?}
-{603}{}{Interesting. I think I will be leaving now.}
+{603}{}{Intressant. Jag tror att jag ska gå nu.}
 {604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
 {605}{}{Ah, I see.}
 {700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
