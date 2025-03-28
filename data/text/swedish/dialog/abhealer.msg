@@ -1,26 +1,26 @@
-{100}{}{You see Jack, the Abbey's medic.}
-{101}{}{He has a red cross on his shoulder.}
-{200}{}{If you are injured, talk to me.}
-{300}{}{How can I help you?}
-{301}{}{I'm injured, can you help me?}
+{100}{}{Du ser Jack, Klostrets sjukvårdare.}
+{101}{}{Han har ett rött kors på axeln.}
+{200}{}{Om du är skadad, prata med mig.}
+{300}{}{Hur kan jag hjälpa dig?}
+{301}{}{Jag är skadad, kan du hjälpa mig?}
 {302}{}{[Dräggel.]}
-{303}{}{So, what do you do here at the Abbey?}
+{303}{}{Så vad gör du här på Klostret?}
 {304}{}{Hej då.}
-{400}{}{It is done!}
+{400}{}{Det är färdigt!}
 {401}{}{Tack.}
-{402}{}{Stop that!}
-{403}{}{[GO ON]}
+{402}{}{Sluta med det där!}
+{403}{}{[FORTSÄTT]}
 {404}{}{[LÄMNA]}
-{405}{}{STOP IT! STOP IT! STOP IT!}
-{406}{}{[GO ON]}
+{405}{}{SLUTA! SLUTA! SLUTA!}
+{406}{}{[FORTSÄTT]}
 {407}{}{[SLUTA]}
-{408}{}{(Suddenly, Jack starts to melt.) I'M MELTING, I'M MELTING, OH WHAT A WORLD...}
-{409}{}{What the fu...}
-{500}{}{Hey, don't steal my medical supplies!}
-{501}{}{You gain %d experience points for making Jack melt. Are you happy now, you sick fuck?}
-{600}{}{I'm a doctor. I've been tending to the people of this Abbey for about, oh, fifteen years now, I believe.}
-{601}{}{I see. That's a lot of years to study all the pre-war medical books in the Abbey's library. You must be quite the doctor.}
-{602}{}{Where did you get all your medical equipment?}
+{408}{}{(Plötsligt börjar Jack smälta.) JAG SMÄLTER, JAG SMÄLTER, ÅH VILKEN VÄRLD...}
+{409}{}{Vad i hel...}
+{500}{}{Stjäl inte mina medicinska förnödenheter!}
+{501}{}{Du får %d erfarenhetspoäng för att ha fått Jack att smälta. Är du glad nu, din sjuka jävel?}
+{600}{}{Jag är läkare. Jag har tagit hand Klostrets folk i ungefär, åh, femton år nu, tror jag.}
+{601}{}{Jag förstår. Det låter som många år av att studera alla medicinska böcker från förkrigstiden i Klostrets bibliotek. Du måste vara en riktigt bra doktor.}
+{602}{}{Var fick du tag på all din medicinska utrustning?}
 {603}{}{Interesting. I think I will be leaving now.}
 {604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
 {605}{}{Ah, I see.}
