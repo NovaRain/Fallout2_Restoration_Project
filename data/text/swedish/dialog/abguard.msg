@@ -34,7 +34,7 @@
 {601}{}{Ja, och broder Thomas saknas. Jag vet inte vad som finns där nere, men jag tror inte att det bara är ett gäng råttor
  och radioaktiva skorpisar. Varför tar du inte reda på det, tuffing?}
 {602}{}{Så varför går du inte och kollar?}
-{603}{}{You're the tough guy around here, aren't you? Why don't you drag your ass down there?}
+{603}{}{Du är tuffingen häromkring, eller hur? Varför drar du inte tummen ur röven och går ner dit?}
 {610}{}{Det är lite pinsamt, men efter att ha tillbringat så mycket tid utomhus med karavanerna blir jag väldigt nervös när jag
  går under jorden. Väggarna bara sluter sig om mig och jag får svårt att andas... Du kanske kan ta reda på vad som hände med
  Broder Thomas?}

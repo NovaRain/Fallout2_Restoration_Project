@@ -23,9 +23,9 @@
 {602}{}{Var fick du tag på all din medicinska utrustning?}
 {603}{}{Intressant. Jag tror att jag ska gå nu.}
 {604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
-{605}{}{Ah, I see.}
-{700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
-{701}{}{Interesting, bye.}
+{605}{}{Åh, jag förstår.}
+{700}{}{En del av medicinerna fick jag av min far. De flesta av de andra fanns redan här i Klostret.}
+{701}{}{Intressant, hej då.}
 {702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
 {703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
 {704}{}{Because I tend to get hurt... a lot.}
