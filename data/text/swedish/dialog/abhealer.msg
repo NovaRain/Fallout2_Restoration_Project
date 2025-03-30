@@ -26,7 +26,7 @@
 {605}{}{Åh, jag förstår.}
 {700}{}{En del av medicinerna fick jag av min far. De flesta av de andra fanns redan här i Klostret.}
 {701}{}{Intressant, hej då.}
-{702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
+{702}{}{Tror du att du kan ge mig lite av dina mediciner? Du verkar ha mer än du använder.}
 {703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
 {704}{}{Because I tend to get hurt... a lot.}
 {705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
