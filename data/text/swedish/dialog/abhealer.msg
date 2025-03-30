@@ -27,16 +27,16 @@
 {700}{}{En del av medicinerna fick jag av min far. De flesta av de andra fanns redan här i Klostret.}
 {701}{}{Intressant, hej då.}
 {702}{}{Tror du att du kan ge mig lite av dina mediciner? Du verkar ha mer än du använder.}
-{703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
-{704}{}{Because I tend to get hurt... a lot.}
+{703}{}{Vill du att jag bara ska *ge* dem till dig? Vad får dig att tro att du förtjänar dem mer än folket i Klostret?}
+{704}{}{För att jag brukar bli skadad... ofta.}
 {705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
  I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
  much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
-{706}{}{[He ponders over your words for a moment, then nods.] Alright, I'll give you some of our excess medical supplies.
- It sounds like you're gonna need 'em. Here. [He hands them to you.] Good luck, wanderer.}
-{707}{}{Thanks, Jack. You're a true savior of the wastes. Bye.}
-{708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
-{709}{}{Fine. GOODBYE.}
-{800}{}{I can't talk right now.}
-{801}{}{Sorry, I'm in the middle of something now. Come see me later.}
-{802}{}{Hello again.}
+{706}{}{[Han funderar över dina ord ett ögonblick och nickar sedan.] Okej, jag ska ge dig lite av vår överblivna medicinska utrustning.
+ Det låter som om du kommer att behöva dem. Här. [Han ger dem till dig.] Lycka till, vandrare.}
+{707}{}{Tack, Jack. Du har räddat mig från ödemarkens faror. Adjö.}
+{708}{}{Då kanske du borde lära dig att vara mer försiktig. Ledsen, men jag tänker inte bara ge bort Klostrets medicinska utrustning.}
+{709}{}{Okej. HEJ DÅ.}
+{800}{}{Jag kan inte prata just nu.}
+{801}{}{Ledsen, jag är mitt uppe i något nu. Kom och träffa mig senare.}
+{802}{}{Hej igen.}

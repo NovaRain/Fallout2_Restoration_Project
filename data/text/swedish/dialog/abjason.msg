@@ -1,4 +1,4 @@
-{100}{}{You see a bespectacled young monk.}
+{100}{}{Du ser en ung munk med glasögon.}
 {101}{}{Du ser broder Jason.}
 {102}{}{Den här munken verkar grubbla.}
 {200}{}{[Den unge munken plockar snabbt fram en "Tragik"-kortlek när du närmar dig.] Vad är det du vill?}
