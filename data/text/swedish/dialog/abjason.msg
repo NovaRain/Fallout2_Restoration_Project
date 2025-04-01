@@ -101,14 +101,14 @@
 {350}{}{Vad vill du?}
 {351}{}{I just wanted to say hi. See ya.}
 {352}{}{I changed my mind. I'll format the computer for you.}
-{353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
- someone there that loves a good game of Tragic.}
-{354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
-{360}{}{Are we ready to go yet? I'm dying to know what kind of Tragic cards this guy's got.}
+{353}{}{Du kanske vill tänka lite mer på mitt erbjudande att ta dig till Gecko, för jag känner
+ någon där som älskar att spela Tragik.}
+{354}{}{Jag känner nån i Gecko som älskar att spela Tragik. Jag kan ta med dig dit.}
+{360}{}{Är vi redo att dra snart? Jag vill gärna veta vad för slags Tragik-kort den här snubben har.}
 {361}{}{Alright, let's go.}
 {362}{}{Not yet. I'll let you know.}
-{370}{}{[Upon arriving in Gecko you introduce the young monk to Wooz. They quickly hit it off and begin comparing their
- Tragic card decks. You're about to leave when Brother Jason pulls himself away from Tragic long enough to have a word with you.]}
+{370}{}{[När ni anländer till Gecko presenterar du den unge munken för Wooz. De kommer snabbt överens och börjar jämföra sina
+ Tragik-kortlekar. Du är på väg att gå därifrån när broder Jason drar sig undan från Tragik länge nog för att snacka lite med dig].}
 {371}{}{[MER]}
 {372}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me. Here,
