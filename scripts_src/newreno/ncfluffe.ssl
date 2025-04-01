@@ -93,7 +93,7 @@ procedure timed_event_p_proc begin
          if (enclave_destroyed) then begin
             call Node003;
          end else if (dude_wearing_power_armor) then begin
-            call Node004 ;
+            call Node004;
          end else if (dude_has_porn_star_rep) then begin
             if (dude_is_female) then begin
                call Node006;
@@ -165,7 +165,7 @@ procedure talk_p_proc begin
    if (enclave_destroyed) then begin
       call Node015;
    end else if (dude_wearing_power_armor) then begin
-      call Node005;
+      call Node004;
    end else if (dude_has_porn_star_rep) then begin
       call Node016;
    end else if (dude_is_prizefighter) then begin
