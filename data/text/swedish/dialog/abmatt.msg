@@ -1,6 +1,6 @@
-{100}{}{You see a middle aged monk.}
-{101}{}{You see Brother Matthew.}
-{102}{}{He is standing at a podium preaching to the citizens of the Abbey.}
+{100}{}{Du ser en medelålders munk.}
+{101}{}{Du ser broder Matthew.}
+{102}{}{Han står på ett podium och predikar för Klostrets invånare.}
 {200}{}{Good people of the Abbey. Take a moment to listen, for I have much to say.}
 {201}{}{Here we collect, the holy relics of an age long past.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
