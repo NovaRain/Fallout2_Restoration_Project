@@ -145,8 +145,7 @@
 {518}{}{Oye, ¿alguna vez has oído hablar de un Kit de Creación del Jardín del Edén? ¿O del Refugio 13?}
 {519}{}{De acuerdo, entonces… me voy de aquí.}
 {525}{}{(Renesco continúa mirándote en silencio).}
-{526}{}{Y a veces la Anciana se molesta con pequeñeces, como… je, je… esa noche en la que ignoré mi voto de
- celibato y me colé con Reyna - Cuyas - Piernas - Aplastan - con - la - Fuerza - de - Mil - Serpientes en el cañón de Arroyo…}
+{526}{}{Y a veces la anciana se enoja por pequeñas cosas, como... je, je... aquella noche cuando ignoré mi voto de celibato y me escabullí con Reyna - Cuyas - Piernas - Aplastan - Con - Fuerza - de - Mil - Serpientes al cañón Arroyo...}
 {535}{}{(Renesco te lanza una mirada fulminante).}
 {536}{}{Es como si hubiera pasado ayer. El cuerpo de Reyna brillaba como la plata con la luz de la luna cuando se arrodilló y… oye, ¿sabes qué?
  Tú podrías ser como la Anciana. Tiene más o menos tu edad.}
@@ -386,7 +385,7 @@
 {6011}{}{Justo lo suficiente. De pasar, a continuación,...}
 {6012}{}{Vamos, podría humor mí? Sólo por esta vez? Bastante pleeease?}
 {6020}{}{Bien. Mi receta es de los cigarrillos y la carne roja, en grandes cantidades. Era eso todo? Si tengo que poner con mucho más vacua prattle hoy en día, soy responsable de tener un accidente cerebrovascular a mí mismo.}
-{6021}{}{Sí, está muy muy nervioso, no? Apuesto a Hakunin podría ayudar con eso. Él es el hombre de la medicina de vuelta a casa, en el Arroyo. Dicen que he dicho sobre el Arroyo?}
+{6021}{}{Sí, está muy nervioso, no? Apuesto a Hakunin podría ayudar con eso. Él es el hombre de la medicina de vuelta a casa, en Arroyo. Dicen que he dicho sobre Arroyo?}
 {6022}{}{Y ¿no sería una tragedia. La siguiente pregunta...}
 {6023}{}{Bueno, sólo una más rápida la cosa...}
 {6024}{}{Caramba, gracias Renesco. Yo sabía que podía contar con usted. Usted toma el cuidado ahora.}
