@@ -5,7 +5,7 @@
 {201}{}{Här samlar vi de heliga relikerna från en svunnen tid.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
 {203}{}{För att bevara den gamla visdomen, en minnessak vi skapa skall.}
-{204}{}{We must guard and care for it, though the flame has gone cold;}
+{204}{}{Vi måste vakta och vårda den, även om lågan har blivit kall;}
 {205}{}{It could ignite once again, should the wisdom be misused.}
 {206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
 {207}{}{But one day, men shall rise above their desire for destruction.}
