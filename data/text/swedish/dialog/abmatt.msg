@@ -4,7 +4,7 @@
 {200}{}{Gott folk i Klostret. Ta er en stund att lyssna, för jag har mycket att säga.}
 {201}{}{Här samlar vi de heliga relikerna från en svunnen tid.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
-{203}{}{A Memorabilia we shall make, to preserve the wisdom of old.}
+{203}{}{För att bevara den gamla visdomen, en minnessak vi skapa skall.}
 {204}{}{We must guard and care for it, though the flame has gone cold;}
 {205}{}{It could ignite once again, should the wisdom be misused.}
 {206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
