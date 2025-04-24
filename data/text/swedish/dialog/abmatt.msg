@@ -16,10 +16,10 @@
 {212}{}{For the guardians of knowledge, we have each, been gifted.}
 {213}{}{Now, please take a moment and reflect on what I have said.}
 {224}{}{Now, please take a moment and reflect on what I have said.}
-{300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
- spread the word about the importance of preserving the knowledge of the old ones.}
-{301}{}{It's good to meet you Matt. My name is }
-{302}{}{ and I am on a quest for the holy GECK.}
+{300}{}{Var hälsad, min vän. Jag tror inte att jag har sett dig här förut. Mitt namn är broder Matthew och jag hjälper till
+ att sprida ordet om vikten av att bevara de gamlas kunskap.}
+{301}{}{Det är trevligt att träffa dig, Matte. Jag heter }
+{302}{}{ och jag är på jakt efter den heliga GECK.}
 {303}{}{Sorry, I must be going.}
 {400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
  be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
