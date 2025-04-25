@@ -20,13 +20,13 @@
  att sprida ordet om vikten av att bevara de gamlas kunskap.}
 {301}{}{Det är trevligt att träffa dig, Matte. Jag heter }
 {302}{}{ och jag är på jakt efter den heliga GECK.}
-{303}{}{Sorry, I must be going.}
-{400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
- be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's
- possible he'll grant you access. It couldn't hurt to try, anyway. Oh, and feel free to browse through our collection
- of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
-{401}{}{I think I just might. I have some questions though.}
-{402}{}{Thanks. I think I'll go do that now.}
+{303}{}{Ursäkta, jag måste gå.}
+{400}{}{En GECK, va? Jag tycker mig minnas att jag läste något om det under en av mina transkriberingssessioner. Så det måste
+ finnas i vår databas, men jag är rädd att tillgången till våra datorer är begränsad. Men om du pratar med Abboten, är det
+ möjligt att han ger dig tillgång. Det skadar inte att försöka i alla fall. Åh, och känn dig fri att bläddra igenom vår samling
+ av heliga förkrigsreliker. Jag skulle be dig att inte skada något, men jag är rädd att allt redan är trasigt bortom all räddning.}
+{401}{}{Jag tror att jag kanske gör det. Jag har dock några frågor.}
+{402}{}{Tack. Jag tror att jag ska göra det nu.}
 {500}{}{Jag står till er tjänst. Vad skulle du vilja veta?}
 {501}{}{Vad kan du berätta om den här platsen?}
 {502}{}{Du verkar vara väldigt poetisk i dina predikningar. Finns det någon anledning till det?}
@@ -34,7 +34,7 @@
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
  visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
  this old monastery not long after the great Flame Deluge.}
-{601}{}{Go on.}
+{601}{}{Fortsätt.}
 {602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
  here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
  in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
