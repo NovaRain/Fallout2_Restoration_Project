@@ -35,11 +35,11 @@
  visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
  this old monastery not long after the great Flame Deluge.}
 {601}{}{Fortsätt.}
-{602}{}{The quiet, peaceful quality of this place has made it an appealing home to other travelers that have wandered
- here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
- in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
- fancy ourselves the keepers and guardians of that wisdom.}
-{603}{}{Very interesting. Another question.}
+{602}{}{Den lugna, fridfulla stämningen häromkring har gjort det till ett tilltalande hem för andra resenärer som har vandrat
+ hit genom åren för att fly från det mörka kaoset i ödemarken. Naturligtvis ligger denna plats verkliga värde
+ i dess stora bibliotek. Det är fyllt med gamla böcker som innehåller en förlorad tids märkliga visdom. Med tiden har vi börjat se
+ oss själva som bevarare och väktare av den visdomen.}
+{603}{}{Mycket intressant. En annan fråga.}
 {604}{}{Interesting. Well, I must be going.}
 {700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
