@@ -40,7 +40,7 @@
  i dess stora bibliotek. Det är fyllt med gamla böcker som innehåller en förlorad tids märkliga visdom. Med tiden har vi börjat se
  oss själva som bevarare och väktare av den visdomen.}
 {603}{}{Mycket intressant. En annan fråga.}
-{604}{}{Interesting. Well, I must be going.}
+{604}{}{Intressant. Nåväl, jag måste gå.}
 {700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
 {701}{}{Rimligt nog. En annan fråga.}
