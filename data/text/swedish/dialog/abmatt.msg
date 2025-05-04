@@ -41,8 +41,8 @@
  oss själva som bevarare och väktare av den visdomen.}
 {603}{}{Mycket intressant. En annan fråga.}
 {604}{}{Intressant. Nåväl, jag måste gå.}
-{700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
- and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
+{700}{}{[Mannen skrattar åt din fråga] Nej, ingen särskild anledning. Jag har bara läst mycket poesi under hela mitt liv
+ och jag tycker om att använda det i min undervisning. Det hjälper till att lämna en starkare intryck på de som lyssnar.}
 {701}{}{Rimligt nog. En annan fråga.}
 {800}{}{Det är trevligt att se dig igen }
 {801}{}{. Vad kan jag göra för dig?}
