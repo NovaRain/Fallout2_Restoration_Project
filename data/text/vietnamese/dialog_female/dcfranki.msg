@@ -3,14 +3,14 @@
 {150}{}{Đây có vẻ là người chủ chỗ này.}
 {151}{}{Đây là Frankie. Ông ta là chủ quán này.}
 {152}{}{[NÓI CHUYỆN]}
-{153}{}{Tôi là Frankie và cậu đang ở "The Hole". Quán bar tuyệt nhất trong vòng
+{153}{}{Tôi là Frankie và cô đang ở "The Hole". Quán bar tuyệt nhất trong vòng
  trăm dặm quanh đây! Mọi người mò đến The Hole khi cần phê pha.
  Giờ thì đừng giở trò rắc rối gì, được chứ?}
 {154}{}{Tôi nghe rồi.}
 {155}{}{Rồi, okay. Sao cũng được.}
 {156}{}{Tôi biết sao ông lại gọi chỗ này là "Cái lỗ" rồi.}
 {157}{}{Hở?}
-{158}{}{Cậu muốn thứ gì?}
+{158}{}{Cô muốn thứ gì?}
 {159}{}{Whiskey.}
 {160}{}{Gái.}
 {161}{}{Giai.}
@@ -30,7 +30,7 @@
 {175}{}{Gì nữa không?}
 {176}{}{Đúng vậy.}
 {177}{}{Không, cám ơn.}
-{178}{}{Cậu không có đủ tiền! Đây có phải chỗ từ thiện đâu!}
+{178}{}{Cô không có đủ tiền! Đây có phải chỗ từ thiện đâu!}
 {179}{}{Ồ, xin lỗi. Tôi đang cháy túi.}
 {180}{}{Tôi sẽ trở lại.}
 {181}{}{Muốn gì?}
@@ -39,7 +39,7 @@
 {184}{}{Wahdo a peedee!}
 {185}{}{Và đừng vào nữa!}
 {186}{}{[ĐI RA]}
-{187}{}{Tôi không muốn chứa người như cậu ở chỗ tôi. Biến đi!}
+{187}{}{Tôi không muốn chứa người như cô ở chỗ tôi. Biến đi!}
 {188}{}{Alright, I'm going.}
 {189}{}{Wa.}
 {190}{}{Those New Reno families charge an arm and a leg for their booze. I don't know how she does it!}
