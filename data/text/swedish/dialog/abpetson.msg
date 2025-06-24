@@ -1,5 +1,5 @@
-{100}{}{You see a young, strong looking man.}
-{101}{}{You see Mr. Peterson.}
+{100}{}{Du ser en ung man som ser stark ut.}
+{101}{}{Ni ser herr Peterson.}
 {200}{}{Hello, friend. Haven't seen you around here before. First time to the Abbey?}
 {201}{}{Good to see you again. What can I do for you?}
 {202}{}{Yeah. What can you tell me about this place?}

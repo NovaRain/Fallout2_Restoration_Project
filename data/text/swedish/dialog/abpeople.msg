@@ -18,5 +18,5 @@
 {117}{}{Bra jordbruksmark här...}
 {118}{}{Ha en trevlig dag.}
 {119}{}{Välkommen till Klostret, vandrare!}
-{120}{}{Impressive monastery we have here, eh?}
-{200}{}{Get your freaking hands off me!}
+{120}{}{Imponerande kloster vi har här, va?}
+{200}{}{Ta bort dina jäkla händer från mig!}
