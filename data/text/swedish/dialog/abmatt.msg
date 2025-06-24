@@ -5,11 +5,11 @@
 {201}{}{Här samlar vi de heliga relikerna från en svunnen tid.}
 {202}{}{Scorched by the Flame Deluge, into the dark, we were cast.}
 {203}{}{För att bevara den gamla visdomen, en minnessak vi skapa skall.}
-{204}{}{Vi måste vakta och vårda den, även om lågan har blivit kall;}
-{205}{}{It could ignite once again, should the wisdom be misused.}
-{206}{}{Thus, no one shall learn, for fear of another, Flame Deluge.}
-{207}{}{But one day, men shall rise above their desire for destruction.}
-{208}{}{And the Memorabilia will be there, awaiting re-introduction.}
+{204}{}{Vi måste vakta och vårda den, även om lågan blivit kall;}
+{205}{}{Den kan tändas igen, om visdomen missanvänds.}
+{206}{}{Därmed ingen veta skall, vi rädes Eldfloden åter tänds.}
+{207}{}{Men en dag ska människor resa sig över sin vilja till förstörelse.}
+{208}{}{Och Minnesmärket ska finnas där, väntande på återuppväckelse.}
 {209}{}{So we tend to our holy task, lest all that wisdom, we lose.}
 {210}{}{We must preserve and protect it, but never shall we use.}
 {211}{}{So go now my friends, and let your spirits be lifted;}
