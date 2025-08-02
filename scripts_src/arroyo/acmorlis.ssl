@@ -654,6 +654,8 @@ begin
         rm_obj_from_inven(self_obj,item);
         add_obj_to_inven(dude_obj,item);
         Reply(154);
+        NOption(115,Node999,004);
+        return;
       end
     end
     else
