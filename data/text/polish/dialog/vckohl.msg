@@ -94,13 +94,13 @@
 {193}{}{Bardzo dobrze! Brawo!}
 {194}{}{O tak, z pewnością! Szkoda tylko, że więcej osób tak nie robi.}
 {195}{}{Zdecydowanie podzielam twoje zdanie! Dawno już nie spotkałem nikogo, kto wykazywałby takie zainteresowanie. Kiedyś znałem handlarza, który również podzielał tę pasję...}
-{196}{}{Really? Used to?}
+{196}{}{Naprawdę? Kiedyś?}
 {197}{}{Cóż, dobrze wiedzieć, że jest nas więcej. Mogę jeszcze o coś spytać?}
 {198}{}{No cóż, mam nadzieję, że jest nas tam więcej. Wielkie dzięki i do zobaczenia!}
 {199}{}{Tak, wpadał na plac, żeby handlować gorzałą, ale do mnie zaglądał po książki. Nawet nie chciałem od niego zapłaty, ale nalegał. Mówił, że jego ludzie je uwielbiają.}
 {200}{}{Wow, to bardzo pocieszająca myśl! Skąd on właściwie pochodził?}
-{201}{}{Why doesn't he come around anymore?}
-{202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
-{203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
-{204}{}{Ah, most unfortunate. Well, thank you for the information. Mind if I ask you something else?}
-{205}{}{Ah, pushed his luck. Where did he say he was from?}
+{201}{}{Dlaczego przestał się pojawiać?}
+{202}{}{Mówił, że to miejsce zwą Opactwem, kawałek na północ stąd. Pokazał mi nawet gdzie dokładnie, to właśnie... o tutaj. Chętnie bym je zobaczył, ale sam widok dziedzińca wywołuje u mnie panikę.}
+{203}{}{Cóż, przypuszczam, że mógł w mieście próbować handlować gorzałą. Tylko wiesz, to nielegalne.}
+{204}{}{Ach, to bardzo niefortunne. Cóż, dziękuję za informacje. Mogę jeszcze o coś spytać?}
+{205}{}{Ach, przeholował. A mówił, że skąd jest?}
