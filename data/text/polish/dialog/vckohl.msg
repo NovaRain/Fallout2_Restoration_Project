@@ -92,13 +92,13 @@
 {191}{}{Rozumiem. Czy mogę zadać ci kilka innych pytań?}
 {192}{}{Może pójdę i poszukam.}
 {193}{}{Bardzo dobrze! Brawo!}
-{194}{}{Oh, I will for sure! I wish there were more people who did, too.}
-{195}{}{I certainly share the sentiment! It's been a while since I've seen someone who's the least bit interested. I used to know a trader shared the passion though...}
+{194}{}{O tak, z pewnością! Szkoda tylko, że więcej osób tak nie robi.}
+{195}{}{Zdecydowanie podzielam twoje zdanie! Dawno już nie spotkałem nikogo, kto wykazywałby takie zainteresowanie. Kiedyś znałem handlarza, który również podzielał tę pasję...}
 {196}{}{Really? Used to?}
-{197}{}{Well, it's nice to know there's more of us. Mind if I ask you about something else?}
-{198}{}{Well, I hope there's more of us out there. Thank you very much and goodbye!}
-{199}{}{Yes, he'd come around to the courtyard to trade alcoholic beverages, but he'd come in to buy books from me. I wouldn't even charge him, but he insisted. He said his people back home loved them.}
-{200}{}{Wow, that's a very comforting thought! Where was his home?}
+{197}{}{Cóż, dobrze wiedzieć, że jest nas więcej. Mogę jeszcze o coś spytać?}
+{198}{}{No cóż, mam nadzieję, że jest nas tam więcej. Wielkie dzięki i do zobaczenia!}
+{199}{}{Tak, wpadał na plac, żeby handlować gorzałą, ale do mnie zaglądał po książki. Nawet nie chciałem od niego zapłaty, ale nalegał. Mówił, że jego ludzie je uwielbiają.}
+{200}{}{Wow, to bardzo pocieszająca myśl! Skąd on właściwie pochodził?}
 {201}{}{Why doesn't he come around anymore?}
 {202}{}{He said it was a place they call the Abbey, a bit north of here. He even showed me exactly where, it's right... here. I'd love to see it, but the sight of the courtyard is enough to make me panic.}
 {203}{}{Well, I suppose he might have tried selling alcoholic beverages inside the city. It is illegal, you know.}
