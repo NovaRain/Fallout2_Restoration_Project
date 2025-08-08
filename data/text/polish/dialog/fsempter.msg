@@ -213,11 +213,11 @@
 {401}{}{::wróć::}
 {410}{}{Od: Dowództwa Głównego                                          Wszystkie formacje na pozycjach. Przesyłam ostateczne kody zatwierdzające. Rozpocząć operację Youmíng.}
 {411}{}{::wróć::}
-{420}{}{Scanning communication outlets...                                    PLA CentCom...		offline
-                                                CIN Beijing...		offline
-                                                   SSC Naval Yard...	offline
-                                              SCA Eastern Dragon..	offline
-                                        Warning: No connection to external servers could be made.}
+{420}{}{Szukanie nadajników komunikacyjnych...                                    PLA CentCom... 		niedostępny
+                                                CIN Pekin... 		niedostępny
+                                                   SSC Port Marynarki... 	niedostępny
+                                              SCA Wschodni Smok... 	niedostępny
+                                        Uwaga: Nie można nawiązać połączenia z zewnętrznymi serwerami.}
 {421}{}{To dopiero rozczarowanie...}
 {430}{}{Skanowanie dysków lokalnych...}
 {431}{}{[KONTYNUUJ]}

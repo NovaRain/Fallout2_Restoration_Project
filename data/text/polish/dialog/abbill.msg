@@ -5,7 +5,8 @@
 {202}{}{Pohandlujmy.}
 {203}{}{Słyszałem, że jesteś właściwą osobą żeby pogadać o karawanach.}
 {204}{}{Nieważne. Cześć.}
-{210}{}{Wygląda, że tu w Opactwie zgromadzono całkiem sporo starego sprzętu. Znalazłeś tu może coś interesującego?}
+{210}{}{Wygląda na to, że w Opactwie zgromadzono całkiem sporo starego sprzętu.
+Nie znalazłeś tu może czegoś... wyjątkowego przez ten czas?}
 {211}{}{Tak, mieszkańcy Opactwa lubią zbierać różne rzeczy. To nasz sposób na zapamiętanie przeszłości. (Patrzy na Marcusa.) To zabawne, że to ty pytasz. Mogę mieć coś co powinno interesować twojego kumpla.}
 {212}{}{Tak, mieszkańcy Opactwa lubią zbierać różne rzeczy. To nasz sposób na zapamiętanie przeszłości. (Patrzy na twoich towarzyszy.) Przykro mi, ale nie mam w tej chwili nic co mogłoby być dla ciebie użyteczne.}
 {213}{}{W takim razie zobaczmy co masz na stanie.}
