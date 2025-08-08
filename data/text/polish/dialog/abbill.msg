@@ -1,6 +1,6 @@
 {100}{}{Widzisz handlarza Billa.}
 {101}{}{Widzisz starszego mężczyznę, kupca.}
-{200}{}{Witaj podróżniku. Co dla ciebie?}
+{200}{}{Witaj, podróżniku. Bill jestem. Co dla ciebie?}
 {201}{}{Witam ponownie. Potrzebujesz jeszcze czegoś?}
 {202}{}{Pohandlujmy.}
 {203}{}{Słyszałem, że jesteś właściwą osobą żeby pogadać o karawanach.}
@@ -23,11 +23,11 @@ nie mam nic, co mogłoby ci się przydać.}
 {216}{}{Widzisz, niedawno przez te okolice przejechała karawana, twierdzili, że przybyli z dalekiego południa.
 Mieli podobno zostać zaatakowani przez te paskudne mutanty [zwraca się do Marcusa] bez urazy, wielkoludzie.
 No i dużo się przechwalali, jak to nie powybijali tych mutków. Twierdzili, że było ich prawie tuzin, od razu pomyślałem,
-że to bzdura. Jednak okazało się, że mieli na to jakieś dowody.}
+że to bzdura. Jednak okazało się, że mieli na to jakiś dowód.}
 {217}{}{Tak? A co takiego?}
 {218}{}{Potężny pancerz mutanta, który udało im się zedrzeć z jednego z trupów. Oczywiście, moim zdaniem po prostu zdarli go 
 z kości jakiegoś od dawna martwego mutka, na którego natknęli się na pustkowiach - ale kto to tam wie? Tak czy inaczej, 
-nie byli zbyt chętni, by dalej targać to żelastwo, więc puścili mi to bezcen. Nie miałem pojęcia, co z ty zrobić, 
+nie byli zbyt chętni, by dalej targać to żelastwo, więc puścili mi to bezcen. Nie miałem pojęcia co z ty zrobić, 
 ale pomyślałem, że jak promocja, to trzeba brać.}
 {219}{}{Cóż, myślę, że przyda się Marcusowi. Ile?}
 {220}{}{Interesujące. Jednak i bez tego Marcus jest wystarczająco wytrzymały. Nie sądzę, żebyśmy tego jeszcze potrzebowali.
