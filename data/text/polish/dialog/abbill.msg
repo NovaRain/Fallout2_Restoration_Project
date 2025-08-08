@@ -7,13 +7,23 @@
 {204}{}{Nieważne. Cześć.}
 {210}{}{Wygląda na to, że w Opactwie zgromadzono całkiem sporo starego sprzętu.
 Nie znalazłeś tu może czegoś... wyjątkowego przez ten czas?}
-{211}{}{Tak, mieszkańcy Opactwa lubią zbierać różne rzeczy. To nasz sposób na zapamiętanie przeszłości. (Patrzy na Marcusa.) To zabawne, że to ty pytasz. Mogę mieć coś co powinno interesować twojego kumpla.}
-{212}{}{Tak, mieszkańcy Opactwa lubią zbierać różne rzeczy. To nasz sposób na zapamiętanie przeszłości. (Patrzy na twoich towarzyszy.) Przykro mi, ale nie mam w tej chwili nic co mogłoby być dla ciebie użyteczne.}
+{211}{}{Hah, więc zauważyłeś to, co? No tak, ludzie z Opactwa mają jakąś obsesję na punkcie wszystkiego sprzed wojny,
+zwłaszcza jeśli chodzi o technologię. Zbudowali wokół tego jakąś pokręconą religię. Sam do końca tego nie 
+ogarniam, ale to mili ludzie i dobrze płacą za każdy przedwojenny grat, który uda mi się zdobyć. Ale jeśli 
+chodzi o coś naprawdę wyjątkowego... hmm... [Spogląda na Marcusa.] Zabawne, że o to pytasz. Może mam coś, 
+co zainteresuje twojego kolegę.}
+{212}{}{Hah, więc zauważyłeś to, co? No tak, ludzie z Opactwa mają jakąś obsesję na punkcie wszystkiego sprzed wojny,
+zwłaszcza jeśli chodzi o technologię. Zbudowali wokół tego jakąś pokręconą religię. Sam do końca tego nie 
+ogarniam, ale to mili ludzie i dobrze płacą za każdy przedwojenny grat, który uda mi się zdobyć. Ale jeśli 
+chodzi o coś naprawdę wyjątkowego... hmm... [Patrzy na twoich towarzyszy.] Przykro mi, ale w tej chwili 
+nie mam nic, co mogłoby ci się przydać.}
 {213}{}{W takim razie zobaczmy co masz na stanie.}
 {214}{}{W porządku. Pozwól, że zapytam cię o coś innego.}
 {215}{}{Tak, na przykład?}
-{216}{}{Widzisz, niedawno przejeżdżała tędy karawana, mówili, że przybyli z dalekiego południa. Podobno zostali zaatakowani przez agresywne mutanty (Zwraca się do Marcusa.) bez obrazy, wielkoludzie. Kontynuując, dużo o tym gadali,
- przechwalali się że ich wybili do nogi. Twierdzili, że był ich prawie tuzin, to ich wyśmiałem. Ale okazało się, że mają na to dowód.}
+{216}{}{Widzisz, niedawno przez te okolice przejechała karawana, twierdzili, że przybyli z dalekiego południa.
+Mieli podobno zostać zaatakowani przez te paskudne mutanty [zwraca się do Marcusa] bez urazy, wielkoludzie.
+No i dużo się przechwalali, jak to nie powybijali tych mutków. Twierdzili, że było ich prawie tuzin, od razu pomyślałem,
+że to bzdura. Jednak okazało się, że mieli na to jakieś dowody.}
 {217}{}{Tak? A co takiego?}
 {218}{}{Ogromną zbroję mutanta, którą udało im się pozyskać ze zwłok. Oczywiście, według mnie, zdarli ją z kości jakiego od dawna martwego mutka, ale kto wie? W każdym razie nie byli 
  zbyt chętni do wożenia tego żelastwa ze sobą, więc sprzedali mi to za półdarmo. Nie miałem pojęcia czy się kiedykolwiek przyda, ale biznes to biznes.}
