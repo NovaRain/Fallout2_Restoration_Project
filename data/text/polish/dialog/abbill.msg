@@ -25,10 +25,13 @@ Mieli podobno zostać zaatakowani przez te paskudne mutanty [zwraca się do Marc
 No i dużo się przechwalali, jak to nie powybijali tych mutków. Twierdzili, że było ich prawie tuzin, od razu pomyślałem,
 że to bzdura. Jednak okazało się, że mieli na to jakieś dowody.}
 {217}{}{Tak? A co takiego?}
-{218}{}{Ogromną zbroję mutanta, którą udało im się pozyskać ze zwłok. Oczywiście, według mnie, zdarli ją z kości jakiego od dawna martwego mutka, ale kto wie? W każdym razie nie byli 
- zbyt chętni do wożenia tego żelastwa ze sobą, więc sprzedali mi to za półdarmo. Nie miałem pojęcia czy się kiedykolwiek przyda, ale biznes to biznes.}
+{218}{}{Potężny pancerz mutanta, który udało im się zedrzeć z jednego z trupów. Oczywiście, moim zdaniem po prostu zdarli go 
+z kości jakiegoś od dawna martwego mutka, na którego natknęli się na pustkowiach - ale kto to tam wie? Tak czy inaczej, 
+nie byli zbyt chętni, by dalej targać to żelastwo, więc puścili mi to bezcen. Nie miałem pojęcia, co z ty zrobić, 
+ale pomyślałem, że jak promocja, to trzeba brać.}
 {219}{}{Cóż, myślę, że przyda się Marcusowi. Ile?}
-{220}{}{To interesujące. Ale i bez tego Marcus jest wystarczająco wytrzymały. Nie sądzę żeby jeszcze tego potrzebował. Pozwól, że zapytam o coś innego.}
+{220}{}{Interesujące. Jednak i bez tego Marcus jest wystarczająco wytrzymały. Nie sądzę, żebyśmy tego jeszcze potrzebowali.
+Pozwól, że zapytam o coś innego.}
 {221}{}{Pomyślmy, to cudo dałoby się przetopić na trzy albo cztery metalowe pancerze. Więc powiedzmy 3000$.}
 {222}{}{Mogę sobie na tyle pozwolić.}
 {223}{}{Myślę, że na razie to sobie daruję. Pozwól, że zapytam cię o coś innego.}
@@ -39,8 +42,11 @@ No i dużo się przechwalali, jak to nie powybijali tych mutków. Twierdzili, ż
 {301}{}{Jak często dostajesz towar?}
 {302}{}{Szukają kogoś do karawan?}
 {303}{}{W sumie, muszę już iść.}
-{304}{}{Dostawy mam dwa razy w miesiącu. Właściwie, chciałbym żeby przyjeżdżali częściej, ale jesteśmy z dala od głównych szlaków handlowych, więc to wszystko na co możemy liczyć.}
-{305}{}{Nie jestem pewny. Zwykle ci, którzy się tu zatrzymują są całkiem nieźle wyposażeni i nie są zainteresowani żeby się tu zatrzymywać na dłużej. Gdybyś chciał się gdzieś załapać, to na twoim miejscu skierowałbym się do Redding, albo nawet do Republiki Nowej Kalifornii. Karawany zawsze przechodzą przez te miejsca i zawsze chętnie zatrudniają pomocników.}
+{304}{}{Dostawy otrzymuję dwa razy w miesiącu. Właściwie chciałbym, żeby przyjeżdżały częściej, ale jesteśmy 
+z dala od głównych szlaków handlowych, więc to wszystko, na co możemy liczyć.}
+{305}{}{Nie jestem do końca pewien. Zazwyczaj ci, którzy tu się zatrzymują, są całkiem dobrze wyposażeni i nie mają ochoty 
+zbyt długo tu zostawać. Ale jeśli chcesz się z kimś takim dogadać, to na twoim miejscu skierowałbym się do Redding 
+albo nawet dalej, do RNK. Mają tam całkiem aktywne karawany i zawsze szukają dobrych pomocników.}
 {306}{}{Interesujące. Jestem ciekaw jeszcze czegoś.}
 {307}{}{Dzięki. Pohandlujmy.}
 {308}{}{Cóż, dzięki za informację. Do zobaczenia.}
