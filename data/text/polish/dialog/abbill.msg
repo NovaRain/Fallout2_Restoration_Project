@@ -44,9 +44,9 @@ Pozwól, że zapytam o coś innego.}
 {303}{}{W sumie, muszę już iść.}
 {304}{}{Dostawy otrzymuję dwa razy w miesiącu. Właściwie chciałbym, żeby przyjeżdżały częściej, ale jesteśmy 
 z dala od głównych szlaków handlowych, więc to wszystko, na co możemy liczyć.}
-{305}{}{Nie jestem do końca pewien. Zazwyczaj ci, którzy tu się zatrzymują, są całkiem dobrze wyposażeni i nie mają ochoty 
+{305}{}{Nie jestem do końca pewien. Zazwyczaj ci, którzy się tu zatrzymują, są całkiem dobrze wyposażeni i nie mają ochoty 
 zbyt długo tu zostawać. Ale jeśli chcesz się z kimś takim dogadać, to na twoim miejscu skierowałbym się do Redding 
-albo nawet dalej, do RNK. Mają tam całkiem aktywne karawany i zawsze szukają dobrych pomocników.}
+albo nawet dalej - do RNK. Mają tam całkiem aktywne karawany i zawsze szukają dobrych pomocników.}
 {306}{}{Interesujące. Jestem ciekaw jeszcze czegoś.}
 {307}{}{Dzięki. Pohandlujmy.}
 {308}{}{Cóż, dzięki za informację. Do zobaczenia.}
