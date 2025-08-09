@@ -1114,7 +1114,7 @@
 {57500}{}{Blaster}
 {57501}{}{'Przesądne religie i starożytna broń są bez porównania do dobrego blastera u boku, dzieciaku'  Min SI: 3}
 {57600}{}{Miecz Świetlny}
-{57601}{}{Starożytna broń z bardziej cywilizowanych czasów. Nie tak nieporęczna i przypadkowa jak blaster. Został ci podarowany przez Imperatorową Timeslip. Min SI: 2.}
+{57601}{}{Starożytna broń z bardziej cywilizowanych czasów. Nie tak nieporęczna i przypadkowa jak blaster. Został ci podarowany przez Cesarzową Timeslip. Min SI: 2.}
 {57700}{}{szyb wymiany powietrza}
 {57701}{}{Krata na tym szybie wygląda inaczej.}
 {57800}{}{metalowa szafka}

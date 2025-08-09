@@ -562,7 +562,7 @@
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
 {53100}{}{Obi-Wan-Killap}
-{53200}{}{Emperor Timeslip}
+{53200}{}{Cesarzowa Timeslip}
 {53300}{}{Luke Skynet}
 {53400}{}{Mon-Morticia}
 {53500}{}{Kanhef}
