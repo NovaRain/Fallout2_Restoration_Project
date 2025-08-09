@@ -98,8 +98,8 @@ Dobry bug to martwy bug.}
 {964}{}{Dziękuje Panie Bear Dude. Za wszystko. Niech Kod Źródłowy będzie z tobą.}
 {1000}{}{Widzisz Cesarzową Timeslip.}
 {1001}{}{Widzisz wrednie wyglądającą, zakapturzoną, przygarbioną postać.}
-{1010}{}{Jestem Cesarzowa Timeslip. Mistrz Programowania, uzdolnionym w sztuce Kodu Źródłowego. To ja pozwoliłem szpiegom Obi-Wan-Killapa wykraść moje
- poprawki silnika, które uczyniły ten świat stabilniejszym, oraz poprawić PROSTACKIE I GŁÓPIE BŁĘDY pozostawione przez moje bezużyteczne sługi.}
+{1010}{}{Jestem Cesarzową Timeslip. Mistrzynią Programowania, uzdolnioną w sztuce Kodu Źródłowego. To ja pozwoliłam szpiegom Obi-Wan-Killapa wykraść moje 
+ poprawki silnika, które uczyniły ten świat stabilniejszym, oraz poprawić PROSTACKIE I GŁÓPIE BŁĘDY pozostawione przez moich bezużytecznych sług.}
 {1011}{}{W rzeczy samej, mój mistrzu. Opowiedz mi o sobie, o wielki.}
 {1012}{}{Łoł. Dziwak z ciebie. A twoja twarz jest paskudna.}
 {1013}{}{To fajnie. Muszę lecieć.}
@@ -146,7 +146,7 @@ Dobry bug to martwy bug.}
 {1210}{}{Pomagałam w napisaniu przewodnika dla początkujących, który miał pomagać w ich nowych przygodach w tym ulepszonym świecie.}
 {1211}{}{Cholera! Jestem po złej stronie! Nigdy nie byłam pewna po czyjej mam być stronie.}
 {1212}{}{Czy moja pupa wygląda w tym na dużą?}
-{1213}{}{Cesarzowa Timeslip popełnił krytyczny błąd i przyszedł czas na nasz atak. *mruga*}
+{1213}{}{Cesarzowa Timeslip popełniła krytyczny błąd i przyszedł czas na nasz atak. *mruga*}
 {1300}{}{Widzisz Kanhefa.}
 {1301}{}{ON wygląda naprawdę na kogoś wielkiego.}
 {1310}{}{Właściwie to jestem na NMA od udzielania porad.}
