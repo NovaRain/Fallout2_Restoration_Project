@@ -504,7 +504,7 @@
 {48401}{}{Duch Nessy}
 {48500}{}{Szaman}
 {48501}{}{Szaman Plemienia}
-{48600}{}{Wojownik 	   }
+{48600}{}{Wojownik }
 {48601}{}{wojownik Plemienia}
 {48700}{}{Strażnik}
 {48800}{}{siostra Sulika}
