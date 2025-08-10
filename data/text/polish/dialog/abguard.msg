@@ -1,5 +1,6 @@
 {100}{}{Widzisz Twardego Strażnika.}
-{101}{}{Widzisz imponująco umięśnionego, starszego strażnika z mocną opaloną skórą. Musi być w sile wieku. Jego przenikliwy wzrok wydaje się podążać za tobą wszędzie.}
+{101}{}{Widzisz imponująco umięśnionego, starszego strażnika z mocno opaloną skórą. Musi być w sile wieku. Jego przenikliwy 
+wzrok wydaje się podążać za tobą wszędzie.}
 {200}{}{Witaj podróżniku. Zapraszamy do Opactwa. Trzymając swój nos z dala od kłopotów, unikniemy nieprzyjemności.}
 {201}{}{Obserwuję cię, łowco niewolników. Jeden fałszywy ruch i splugawimy nasz cmentarz twoim nieczystym ciałem na resztę wieczności. Nie chciałbym tego i jestem prawie pewien, że ty również nie będziesz zadowolony z tego faktu, więc zachowaj wszelkie zabawne pomysły w tym swoim wypaczonym umyśle.}
 {202}{}{Kim jesteś?}
