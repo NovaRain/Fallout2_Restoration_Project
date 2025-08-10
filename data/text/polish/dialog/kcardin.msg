@@ -123,7 +123,7 @@ a teraz na pewno nie żyje. Tak strasznie za nim tęsknię.}
 {414}{}{Tak? Wiesz już coś?}
 {415}{}{Myślę, że bracia Dunton kradną wasze bydło. Sądzę, że powinna Pani o tym wiedzieć.}
 {416}{}{Yyy. Nieważne.}
-{417}{}{Co!? Na pewno?  Jaki masz dowód?}
+{417}{}{Co!? Na pewno? Jaki masz dowód?}
 {418}{}{W chatce Duntonów na pastwiskach były części skorpiona. Przyznali się, że używali ich do straszenia Torra.}
 {419}{}{W chatce Duntonów na pastwiskach były części skorpiona. Można ich było z łatwością użyć do straszenia Torra.}
 {420}{}{Wiedziałam, że ci łajdacy są niebezpieczni! Mój biedny mały Torr, co za chuligani. Cóż, to wyjaśnia co straszyło Torra, ale potrzebujemy dowodów, że Duntonowie byli też odpowiedzialni za kradzież bydła. Twoje słowo nie wystarczy.}

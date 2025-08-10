@@ -71,10 +71,11 @@ Poprzez lata gapienia się w monitor nauczyłem się wykorzystywać tę moc.}
 {921}{}{Łoł. Nasz szaman zawsze mówił, że jest więcej na tym świecie niż jestem w stanie dostrzec, usłyszeć, dotknąć, zasmakować czy poczuć. Czy mógłbyś nauczyć mnie posługiwania się mocą Kodu Źródłowego?}
 {922}{}{Myślę, że mam już dość słuchania tego religijnego bełkotu, wystarczy mi go na następną nuklearną zimę. Prawdę mówiąc, wole nosić przy sobie pistolet plazmowy.}
 {923}{}{Świetnie, jeszcze jeden stuknięty szarlatan religijny. Wynoszę się stąd.}
-{930}{}{Fallout 2 to świat w którym się znajdujesz.  Stworzyłem go... nie raczej, uczyniłem go takim jaki powinien być. Widzisz nie tak dawno temu, świat był w chaosie.
- Podróżnicy którzy tu przybywali byli często zabijani przez hordy bagów błąkających się po pustkowiach i bez umiaru niszczących zapisy gry.
- Bogowie tego świata byli beztroscy. Ale wtedy pojawiłem się ja i używając mocy Kodu Źródłowego, moi przyjaciele i ja oczyściliśmy pustkowia. Można powiedzieć, że jestem zbawcą.
- Widzianym przez wielu jako bohater: Dziecko Przeznaczenia.}
+{930}{}{Fallout 2 to świat w którym się znajdujesz. Stworzyłem go, a raczej sprawiłem, że stał się taki, jakim powinien być. 
+Widzisz nie tak dawno temu, świat był w chaosie. Podróżnicy którzy tu przybywali byli często zabijani przez hordy bagów 
+błąkających się po pustkowiach i bez umiaru niszczących zapisy gry. Bogowie tego świata byli beztroscy. Ale wtedy 
+pojawiłem się ja i używając mocy Kodu Źródłowego, moi przyjaciele i ja oczyściliśmy pustkowia. Można powiedzieć, 
+że jestem zbawcą. Widzianym przez wielu jako bohater: "The Bear Dude".}
 {931}{}{Rozumiem. Cóż, właściwie, wydawało mi się, że to JA jestem Dzieckiem Przeznaczenia. Biegam sobie, zbieram różne gówna zabijam ludzi - no wiesz - bohatersko. No i czasem z nimi rozmawiam, ale to akurat bywa męczące.
  Po prostu klikam dalej, byle tylko dotrzeć do tej zabawnej części gry.}
 {932}{}{Świetna robota Panie Killap. Naprawdę doceniam całą ta ciężką pracę jaką odwaliliście, aby posprzątać pustkowie. Jeśli to co mówisz jest prawdą, to powinieneś wiedzieć, że też jestem Dzieckiem Przeznaczenia. Właściwie mi też udało się rozgnieść parę robali.}
