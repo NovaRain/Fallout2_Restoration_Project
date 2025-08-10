@@ -66,8 +66,8 @@
 {913}{}{Co to do cholery jest Fallout 2?}
 {914}{}{Dobra. A kim, jeśli wolno wiedzieć jest reszta tych narwańców?}
 {920}{}{Jestem mistrzem programowania, uzdolnionym w sztuce Kodu Źródłowego. To pole energii wytwarzane przez każdą rzecz cyfrową. Otacza i przenika nas.
- Utrzymuje galaktykę w harmonii. Ciebie, mnie - drzewo - skałę.  Tworami pikselowymi jesteśmy my... niech ta brutalna prawda *cię nie kole*.
- Poprzez lata gapienia się w monitor nauczyłem się wykorzystywać tę moc.}
+Utrzymuje galaktykę w harmonii. Ciebie, mnie - drzewo - skałę. Tworami pikselowymi jesteśmy my... niech ta brutalna prawda *cię nie kole*.
+Poprzez lata gapienia się w monitor nauczyłem się wykorzystywać tę moc.}
 {921}{}{Łoł. Nasz szaman zawsze mówił, że jest więcej na tym świecie niż jestem w stanie dostrzec, usłyszeć, dotknąć, zasmakować czy poczuć. Czy mógłbyś nauczyć mnie posługiwania się mocą Kodu Źródłowego?}
 {922}{}{Myślę, że mam już dość słuchania tego religijnego bełkotu, wystarczy mi go na następną nuklearną zimę. Prawdę mówiąc, wole nosić przy sobie pistolet plazmowy.}
 {923}{}{Świetnie, jeszcze jeden stuknięty szarlatan religijny. Wynoszę się stąd.}

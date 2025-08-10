@@ -131,7 +131,7 @@ ich, ale żyjemy w brutalnym świecie i wszyscy robimy co musimy żeby przetrwa�
 {809}{}{Ach... rozumiem. Naprawdę szkoda. Ale dziękuję za dobre chęci. Chcesz coś przed wyjściem?}
 {810}{}{Nie. Cześć Mamuśka.}
 {811}{}{Jeżeli złapie któregoś z tych gówniarzy na okradaniu mnie, to będzie ostatnia rzecz jaką zrobi. Nie obchodzą mnie ich wymówki, złodziej to złodziej. Cześć.}
-{820}{}{Udało mi się oczyścić budynek. Pojawił się oporny, ale ci dzicy lokatorzy nie będą  nam się już naprzykrzać.}
+{820}{}{Dobre wieści. Budynek jest już twój. Napotkałem mały problem, ale dzicy lokatorzy już ci nie będą przeszkadzać.}
 {821}{}{Squatterzy mówią, że opuszczą budynek i przepraszają za sprawianie kłopotów. Teraz tam sprzątają, żeby ci to wynagrodzić. Tak sobie myślę, jeśli dobrze, by się z tym sprawili, może mogłabyś zaoferować im pracę.}
 {822}{}{To świetne wieści. Jestem Ci taka wdzięczna! Mam nadzieje, że nikt przy tym nie ucierpiał. Dobrze, pozwól, że skontaktuję się z kilkoma przyjaciółmi i zaczynamy. Jeśli za kilka dni będziesz jeszcze w mieście, odwiedź mnie. Przy odrobinie szczęścia, wszystko będzie już gotowe. Tak się cieszę! Dziękuję. Proszę, to danie na mój koszt.}
 {823}{}{Hm... Sądzę, że każdy zasługuje na druga szansę. Zaglądnę tam z kilkoma przyjaciółmi i omówimy to z nimi. Jestem ci taka wdzięczna, za twoją pomoc. Jeśli za kilka dni będziesz jeszcze w mieście, odwiedź mnie. Przy odrobinie szczęścia, wszystko będzie już gotowe. Tak się cieszę! Dziękuję. Proszę, to danie na mój koszt.}

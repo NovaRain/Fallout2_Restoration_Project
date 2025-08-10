@@ -10,7 +10,7 @@
 {206}{}{By nikt nie poznał strachu przed następnym, Potopem Ognia.}
 {207}{}{Pewnego dnia, ludzie wzniosą się ponad swą chęć zagłady.}
 {208}{}{A wtedy Arka Pamięci tam będzie, by przywrócić to co utracone.}
-{209}{}{Więc kontujemy naszą świętą misję, aby  utrwalić wiedzę, którą straciliśmy.}
+{209}{}{Więc kontujemy naszą świętą misję, aby utrwalić wiedzę, którą straciliśmy.}
 {210}{}{Musimy przetrwać i ją chronić, ale nigdy z niej nie korzystać.}
 {211}{}{Więc idźcie moi przyjaciele i nie wasze dusze będą pełne nadziei;}
 {212}{}{Gdyż jako strażnicy wiedzy, wszyscy zostaliśmy, nagrodzeni.}
