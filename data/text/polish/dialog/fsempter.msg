@@ -242,7 +242,9 @@
  Obecnie dryfujemy w oceanie. Cesarz padł, nawigacja jest rozwalona i wygląda, że to będzie nasz grób.}
 {491}{}{Czytaj dalej.}
 {492}{}{::wróć::}
-{500}{}{2077-11-04: Dryfujemy już od kilku dni. Jingowi udało się częściowo przywrócić zasilanie systemów pokładowych, więc powinniśmy mieść dość tlenu żeby przetrwać kilka tygodni. Teraz bardziej martwię się o jedzenie i wodę - mamy mało zapasów i nie wystarczy ich dla wszystkich. Załoga robi się niespokojna.}
+{500}{}{2077-11-04: Dryfujemy już od kilku dni. Jingowi udało się częściowo przywrócić zasilanie systemów pokładowych, więc 
+powinniśmy mieść dość tlenu żeby przetrwać kilka tygodni. Teraz bardziej martwię się o jedzenie i wodę - mamy mało 
+zapasów i nie wystarczy ich dla wszystkich. Załoga robi się niespokojna.}
 {501}{}{Czytaj dalej.}
 {502}{}{::wróć::}
 {510}{}{2077-11-08: Cesarz znowu działa, ale ledwie. Ciągle nie mamy nawigacji, a załoga jest na krawędzi buntu -

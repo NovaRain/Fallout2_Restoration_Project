@@ -16,7 +16,8 @@
 {212}{}{Gdyż jako strażnicy wiedzy, wszyscy zostaliśmy, nagrodzeni.}
 {213}{}{A teraz, proszę poświęćcie chwilę na przemyślenie tego co tu usłyszeliście.}
 {224}{}{A teraz, proszę poświęćcie chwilę na przemyślenie tego co tu usłyszeliście.}
-{300}{}{Witaj. Chyba się jeszcze nie znamy. Jestem Brat Matthew, pomagam szerzyć słowo, o tym jak ważne jest przetrwanie wiedzy starożytnych.}
+{300}{}{Witaj. Chyba się jeszcze nie znamy. Jestem Brat Matthew, pomagam szerzyć słowo, o tym jak ważne jest 
+przetrwanie wiedzy starożytnych.}
 {301}{}{Miło mi cię poznać Matt. Nazywam się }
 {302}{}{ i podróżuję z misją odnalezienia świętego GECKa.}
 {303}{}{Wybacz, muszę już iść.}
