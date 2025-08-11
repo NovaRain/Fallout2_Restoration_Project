@@ -124,7 +124,7 @@
 {472}{}{Dann vergiss es. Ich wollte etwas anderes...}
 {473}{}{Nein danke. Man sieht sich.}
 {474}{}{Das ist mir zuviel. Lass uns noch mal darüber reden, wenn ich etwas mehr Geld habe.}
-{480}{}{(Smiles, rubs hands as you lay the money on the table.) Awright, here you go. }
+{480}{}{(Lächelt, reibt sich die Hände, während du das Geld auf den Tisch legst.) Also gut, hier hast du's. }
 {481}{}{(Denkt einen Moment darüber nach, sieht dich prüfend an, nickt dann.) Also gut... ist praktisch geschenkt, aber da hast du. (Gibt dir das Modul, nimmt dein Geld.) }
 {482}{}{Noch irgendwas?}
 {485}{}{Ja, ich interessiere mich da für noch etwas...}
