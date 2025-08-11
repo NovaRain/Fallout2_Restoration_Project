@@ -101,6 +101,6 @@
 {200}{}{Wow, to bardzo pocieszająca myśl! Skąd on właściwie pochodził?}
 {201}{}{Dlaczego przestał się pojawiać?}
 {202}{}{Mówił, że to miejsce zwą Opactwem, kawałek na północ stąd. Pokazał mi nawet gdzie dokładnie, to właśnie... o tutaj. Chętnie bym je zobaczył, ale sam widok dziedzińca wywołuje u mnie panikę.}
-{203}{}{Cóż, przypuszczam, że mógł w mieście próbować handlować gorzałą. Tylko wiesz, to nielegalne.}
+{203}{}{Cóż, być może próbował sprzedawać napoje alkoholowe w mieście w mieście. To jest nielegalne, wiesz.}
 {204}{}{Ach, to bardzo niefortunne. Cóż, dziękuję za informacje. Mogę jeszcze o coś spytać?}
-{205}{}{Ach, przeholował. A mówił, że skąd jest?}
+{205}{}{Ach, przeliczył się. A mówił, że skąd jest?}
