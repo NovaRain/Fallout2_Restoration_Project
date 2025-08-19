@@ -120,7 +120,7 @@
  contacted while you were away have shown no interest in helping us.}
 {410}{}{Jag fatta.}
 {411}{}{Jag förstår.}
-{412}{}{You are our only hope, Chosen One. Please do not fail us!}
+{412}{}{Du är vårt enda hopp, Utvalde. Snälla, svik oss inte!}
 {413}{}{It is good to see you, Chosen One. How fares your quest?}
 {414}{}{Me still look.}
 {415}{}{I'm still looking.}
