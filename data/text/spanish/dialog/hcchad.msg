@@ -29,7 +29,7 @@
 {145}{}{Él sospecha que está rozando el dinero que se supone que se va a Broken Hills.}
 {146}{}{Nada en realidad. Adiós.}
 {147}{}{Mira, yo no sé nada acerca de eso, y estoy seguro como el infierno que no le gusta cuando la gente me acusan de cosas. Ahora le sugiero que deje.}
-{150}{}{I'm going to find out the truth. Bye.}
+{150}{}{Voy a descubrir la verdad. Adiós.}
 {156}{}{Habla con Bill. Él te ayudará.}
 {157}{}{Tengo más preguntas.}
 {158}{}{Gracias. Adiós.}
