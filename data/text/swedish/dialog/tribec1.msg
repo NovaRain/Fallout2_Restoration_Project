@@ -165,7 +165,7 @@
 {462}{}{I was wondering if I could ask you a couple questions.}
 {463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
 {464}{}{[[Smile seductively] Yeah, big guy. I need something, alright. [Wink.]}
-{470}{}{Of course.}
+{470}{}{Självklart.}
 {471}{}{You look like you've been through a lot. I was wondering what your story is.}
 {472}{}{What could you tell me about this village?}
 {473}{}{Is there anything going on here I could help you with?}
