@@ -5,7 +5,7 @@
  to have difficulty breathing.}
 {200}{}{*Host*}
 {201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{202}{}{*Host* *Host*}
 {210}{}{Guards! Gu...*cough* *cough*...Guards!}
 {215}{}{(Salvatore turns to you with a stone-faced expression. He studies you for a fraction
  of a second, then makes a strange motion with his hand. Instantly, an alarm rings throughout the casino.)}
@@ -76,7 +76,7 @@
 {385}{}{(Salvatore looks up at you, takes a breath from the mask.) Have... you disposed of the thief?}
 {386}{}{Naw... Lloyd left town with the money.}
 {387}{}{Yep. The vultures are probably shitting pieces of him out right now.}
-{388}{}{Not yet.}
+{388}{}{Inte än.}
 {389}{}{No, Mr. Salvatore. Lloyd left town with the money.}
 {390}{}{Yes. I made an example of him, Mr. Salvatore.}
 {391}{}{Not yet, Mr. Salvatore.}

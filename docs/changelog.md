@@ -3,10 +3,11 @@
 - This file lists changes for RPU only (since RP 2.3.3).
 - In addition to the below list, RPU releases contain all applicable fixes from the corresponding [UPU releases](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md).
 - Sometimes UPU or RPU may be updated independently, which is why you might see gaps in version numbers.
-- Versions `2.4.*` contain [updated maps](https://forums.bgforge.net/viewtopic.php?t=371) produced by Pixote, and relevant script changes. Otherwise, they follow the same patch level convention.
+- Versions `2.4.*` contain [updated maps](https://forums.bgforge.net/viewtopic.php?t=371) produced by Pixote, and related script changes. Otherwise, they follow the same patch level convention.
 
 ---
 
+- [Version 34](#version-34)
 - [Version 33](#version-33)
 - [Version 32](#version-32)
 - [Version 30](#version-30)
@@ -41,6 +42,11 @@
   - [readme](rp-readme.txt)
   - [changelog](rp-changelog.txt)
 
+### Version 34
+
+(AKA 2.3.34, 2.4.34)
+
+All the same fixes as in [UPU v34](https://github.com/BGforgeNet/Fallout2_Unofficial_Patch/blob/master/docs/changelog.md#version-34).
 
 ### Version 33
 
