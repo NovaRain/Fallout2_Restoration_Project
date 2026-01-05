@@ -20,20 +20,20 @@
  om informationen du söker har transkriberats till våra datorer.}
 {407}{}{Vänta lite, du "har fått intrycket" att broder Thomas är död? Där jag kommer ifrån är döden en ganska tydlig sak. Så, är han död, eller är han inte?}
 {408}{}{Broder Thomas har varit försvunnen i flera dagar, ända sedan han gick ner till grottorna under Klostret. [Han drar en utmattad suck.]
- Du förstår, några av Klostrets invånare påstod sig ha sett en enorm best lura där nere, och broder Thomas var ganska skeptisk.
+ Du förstår, några av Klostrets invånare påstod sig ha sett ett enormt odjur lura där nere, och broder Thomas var ganska skeptisk.
  Han tog på sig att gå och skingra dessa rykten, men det visar sig att hans försvinnande bara har bekräftat dem ytterligare.}
 {409}{}{Hmmm. Jag kanske borde ta en titt på vad som finns där nere. *JAG ÄR* den utvalde trots allt...}
-{410}{}{I'm adventurous. I can take a look.}
-{411}{}{You'd really do that? Perhaps while you're down there, you could look for a certain book. You see, it was last
- known to be in Brother Thomas's possession, and it's very important to us, as it was passed down by our founders.
- If you could retrieve that book, I would be most grateful. In fact, I'd grant you full access to our computers, so you
- can look for whatever you desire.}
-{412}{}{It's a deal. I'll be back soon.}
-{413}{}{Maybe, let me think about this some more...}
-{414}{}{Thank you. Please let me know if you find the book.}
-{415}{}{Ok, bye.}
-{416}{}{Hello, my friend.}
-{417}{}{I've killed your beast, and I've got your book.}
+{410}{}{Jag är äventyrlig. Jag kan ta en titt.}
+{411}{}{Skulle du verkligen göra det? När du är där nere kanske du kan leta efter en viss bok. Du förstår, den var senast
+ i broder Thomas ägo, och den är mycket viktig för oss, eftersom den ärvdes genom leden från våra grundare.
+ Om du kunde hämta den boken, skulle jag vara mycket tacksam. Jag skulle ge dig full tillgång till våra datorer, så att du
+ kan leta efter vad du än önskar.}
+{412}{}{Det är en överenskommelse. Jag kommer snart tillbaka.}
+{413}{}{Kanske, låt mig tänka på det här lite mer...}
+{414}{}{Tack så mycket. Låt mig veta om du hittar boken.}
+{415}{}{Okej, hej då.}
+{416}{}{Hej, min vän.}
+{417}{}{Jag har dödat ditt odjur och jag har din bok.}
 {418}{}{Excellent! Let me have it!}
 {419}{}{Varsågod.}
 {420}{}{Not so fast. How much is it worth to you?}
@@ -43,7 +43,7 @@
 {423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
 {424}{}{Thanks for the money, bye.}
 {425}{}{You should look on a second floor computer, now that you have full access there.}
-{426}{}{Ok, bye.}
+{426}{}{Okej, hej då.}
 {430}{}{What is the purpose of your order?}
 {431}{}{What is the history behind the Abbey?}
 {432}{}{Hmm, I don't have any questions at the moment.}
