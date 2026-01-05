@@ -11,18 +11,18 @@
 {304}{}{Hej då.}
 {400}{}{Vad vill du veta?}
 {401}{}{Okej. Jag skulle vilja veta något annat.}
-{402}{}{Hmm... that *does* sound familiar. Why, yes, I recall Brother Thomas mentioning something about that recently. I'm sorry, but I don't recall exactly what he said.}
-{403}{}{That's fine. Just point me to Brother Thomas and I'll go ask him.}
+{402}{}{Hmm... det låter *faktiskt* bekant. Ja, jag minns att broder Thomas nämnde något om det nyligen. Jag är ledsen, men jag minns inte exakt vad han sa.}
+{403}{}{Det är okej. Peka bara ut var broder Thomas är så frågar jag honom.}
 {404}{}{Jag vet ingenting om det.}
-{405}{}{Well, thanks anyway.}
-{406}{}{I'm afraid I won't be able to do that. You see, I am under the impression that Brother Thomas is no longer among
- the living. But, fortunately for you, he was one of our most reliable transcribers. I'm sure whatever articles he came
- across concerning the information you seek has been transcribed into our computers.}
-{407}{}{Wait a second, you're "under the impression" that Brother Thomas is dead? Where I come from, death is a pretty clear cut thing. So, is he dead, or isn't he?}
-{408}{}{Brother Thomas has been missing for several days, ever since he went down to the caverns below the Abbey. [He sighs wearily.]
- You see, some of the Abbey's residents claimed to have seen a huge beast lurking down there, and Brother Thomas was quite skeptical.
- He took it upon himself to go dispel these rumors, yet, as it turns out, his disappearance has only further validated them.}
-{409}{}{Hmmm. Maybe I should take a look what's down there. *I AM* the chosen one after all...}
+{405}{}{Nåväl, tack ändå.}
+{406}{}{Jag är rädd att jag inte kommer att kunna göra det. Du förstår, jag har fått intrycket att broder Thomas inte längre är bland
+ de levande. Men lyckligtvis för er var han en av våra mest pålitliga transkriberare. Jag är säker på att alla artiklar han kom över
+ om informationen du söker har transkriberats till våra datorer.}
+{407}{}{Vänta lite, du "har fått intrycket" att broder Thomas är död? Där jag kommer ifrån är döden en ganska tydlig sak. Så, är han död, eller är han inte?}
+{408}{}{Broder Thomas har varit försvunnen i flera dagar, ända sedan han gick ner till grottorna under Klostret. [Han drar en utmattad suck.]
+ Du förstår, några av Klostrets invånare påstod sig ha sett en enorm best lura där nere, och broder Thomas var ganska skeptisk.
+ Han tog på sig att gå och skingra dessa rykten, men det visar sig att hans försvinnande bara har bekräftat dem ytterligare.}
+{409}{}{Hmmm. Jag kanske borde ta en titt på vad som finns där nere. *JAG ÄR* den utvalde trots allt...}
 {410}{}{I'm adventurous. I can take a look.}
 {411}{}{You'd really do that? Perhaps while you're down there, you could look for a certain book. You see, it was last
  known to be in Brother Thomas's possession, and it's very important to us, as it was passed down by our founders.
