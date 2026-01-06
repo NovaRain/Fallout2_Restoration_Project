@@ -34,19 +34,19 @@
 {415}{}{Okej, hej då.}
 {416}{}{Hej, min vän.}
 {417}{}{Jag har dödat ditt odjur och jag har din bok.}
-{418}{}{Excellent! Let me have it!}
+{418}{}{Utmärkt! Låt mig ta den!}
 {419}{}{Varsågod.}
-{420}{}{Not so fast. How much is it worth to you?}
-{421}{}{[He takes the book from you and caresses its cover as if to sooth it.] You have done us a great service. You now
- have full access to our computers in the library. Tell Brother Paul I grant you permission to access our files.}
+{420}{}{Inte så fort. Hur mycket är den värd för dig?}
+{421}{}{[Han tar boken från dig och smeker dess omslag som för att lugna den.] Du har gjort oss en stor tjänst. Du har nu
+ full tillgång till våra datorer i biblioteket. Säg till broder Paul att jag ger dig tillstånd att använda våra filer.}
 {422}{}{Tack.}
-{423}{}{You want money for it? Fine, here's $250. Go see Brother Paul for access to the computers.}
-{424}{}{Thanks for the money, bye.}
-{425}{}{You should look on a second floor computer, now that you have full access there.}
+{423}{}{Vill du ha pengar för den? Visst, här är $250. Gå till broder Paul för att få tillgång till datorerna.}
+{424}{}{Tack för pengarna, hej då.}
+{425}{}{Du borde titta igenom en dator på andra våningen, nu när du har full tillgång dit.}
 {426}{}{Okej, hej då.}
-{430}{}{What is the purpose of your order?}
-{431}{}{What is the history behind the Abbey?}
-{432}{}{Hmm, I don't have any questions at the moment.}
+{430}{}{Vad är syftet med er grupp?}
+{431}{}{Vad är historien bakom Klostret?}
+{432}{}{Hmm, jag har inga frågor just nu.}
 {433}{}{Our holy mission is to read, copy and take care of our sacred books of knowledge and other relics of the lost age.
  It is our hope that with this knowledge we are able to create a Memorabilia that might one day help humanity emerge from
  its self-imposed Dark Age. Any information that we come across is recorded, lest it be lost like so much was in the
