@@ -131,16 +131,16 @@
  talk to him later.}
 {202}{}{Tack.}
 {203}{}{I hope you find Chrissy soon.}
-{204}{}{Me looking.}
-{205}{}{I'll continue to search for her.}
-{206}{}{Thanks for everything you've done for me.}
-{207}{}{I can't explain why, but I don't believe the slavers took her. I've an uneasy feeling that
- something else is going on. And then there's this feeling that I'm being followed. I've had it ever
- since I talked to Zeke about Chrissy. I need someone to help me find my daughter. Will you help me,
- please?}
-{208}{}{They keep sending people here to try and talk us out of our home, but they don't understand
- that we have nowhere else to go. We don't have the skills necessary to survive on our own if we leave
- here.}
+{204}{}{Letar.}
+{205}{}{Jag kommer att fortsätta leta efter henne.}
+{206}{}{Tack för allt du har gjort för mig.}
+{207}{}{Jag kan inte förklara varför, men jag tror inte att slavhandlarna tog henne. Jag har en obehaglig känsla av att
+ något annat år på gång. Och så känner jag mig förföljd. Jag har haft det ända
+ sedan jag pratade med Zeke om Chrissy. Jag behöver nån som hjälper mig att hitta min dotter. Vill du hjälpa mig,
+ snälla?}
+{208}{}{De fortsätter skicka hit folk för att övertyga oss om att lämna vårt hem, men de förstår inte
+ att vi inte har någon annanstans att ta vägen. Vi har inte de färdigheter som krävs för att överleva på egen hand om vi flyttar
+ härifrån.}
 {209}{}{You know, it's kind of funny that they managed to get something that complex fixed, but not the
  lights. The damn place is lit by torches. Anyway, Darion doesn't want anyone to know what's going on
  with the vault. He's afraid that someone will take it all away from us if they find out. So, we're told
