@@ -129,7 +129,7 @@
 {1521}{}{Entregar la semilla de la planta de la muestra, el Dr. Wong.}
 {1522}{}{Eliminar el Dr. Wong sin alertar a los Shi'.}
 {1523}{}{Borrar el Dr. Sheng del laboratorio.}
-{1600}{}{Encárgate de la Garra mortal.}
+{1600}{}{Encárgate del sanguinario.}
 {1601}{}{Repara a K-9.}
 {1602}{}{Consigue el FOB del comandante de la base.}
 {1700}{}{}
