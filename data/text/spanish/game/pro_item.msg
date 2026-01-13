@@ -1051,7 +1051,7 @@
 {54301}{}{Parece ser un diario que pertenecía a una joven. La escritura en la portada interna dice: "Propiedad de Anna"
 La mayoría de las paginas fueron arrancadas o están muy descoloridas, pero una es aun legible. "Día 271: Hoy mi madre me dio un medallón de oro.
 Es la cosa más hermosa que he tenido. Nunca me separare de el"}
-{54400}{}{Botánica Holodisk}
+{54400}{}{Holodisco Botánico}
 {54401}{}{Esta información de disco clasifica las diversas vida de la planta que creció antes de la Gran Guerra.}
 {54500}{}{Expirado G. E. C. K.}
 {54501}{}{El Jardín de Eden Creation Kit. Esta unidad es un equipo estándar para todos los de Vault-Tec bóvedas. Un GECK es el recurso para la reconstrucción de la civilización después de la bomba. Sólo añadir agua y remover. Esto es así más allá de la fecha de caducidad. Qué desperdicio!}
