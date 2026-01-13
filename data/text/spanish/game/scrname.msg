@@ -763,7 +763,7 @@
 {863}{}{Explorador}
 {864}{}{Pandillero}
 {865}{}{Jefe Nómada}
-{866}{}{Hubologista}
+{866}{}{Hubólogo}
 {867}{}{Loco}
 {868}{}{Incursor}
 {869}{}{Caníbal}
@@ -1018,7 +1018,7 @@
 {1118}{}{Campo de fuerza}
 {1119}{}{Campo de fuerza}
 {1120}{}{Campo de fuerza}
-{1121}{}{Hubologista}
+{1121}{}{Hubólogo}
 {1122}{}{Computadora}
 {1123}{}{Puerta del búnker}
 {1124}{}{Puerta}
@@ -1380,7 +1380,7 @@
 {1480}{}{Persona con un extraño tipo de armadura}
 {1481}{}{seguro}
 {1482}{}{la guardia}
-{1483}{}{Hubologista}
+{1483}{}{Hubólogo}
 {1484}{}{Guardia Hubologista}
 {1485}{}{Guardia Hubologista}
 {1486}{}{Puerta metálica}
