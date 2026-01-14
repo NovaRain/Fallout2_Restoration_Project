@@ -64,7 +64,7 @@
 {801}{}{Encuentra al responsable de la muerte de Richard Wright.}
 {802}{}{     Sospechoso: Jeta Jimmy J}
 {803}{}{     Sospechoso: Jules}
-{804}{}{     Sospechoso: Pequeño Jesús Mordino}
+{804}{}{     Sospechoso: El Pequeño Jesus Mordino}
 {805}{}{     Sospechoso: Renesco}
 {806}{}{Encuentra una forma de entrar en el almacén Sierra.}
 {807}{}{Persigue a Lloyd, recupera el dinero, y... que sirva de ejemplo.}
@@ -78,7 +78,7 @@
 {815}{}{Entrega una pistola láser a Eldridge.}
 {816}{}{Entrega el paquete de Gran Jesús a Ramirez en los Establos.}
 {817}{}{Recauda el tributo de los Hermanos Corsican.}
-{818}{}{Asesina al líder de los Salvatore.}
+{818}{}{Asesina al líder de los Salvatore para el Gran Jesus Mordino.}
 {819}{}{Traer una botella de Abadía de hootch al Padre de Tully.}
 {900}{}{}
 {1000}{}{}
