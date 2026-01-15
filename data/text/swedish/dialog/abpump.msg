@@ -1,6 +1,6 @@
-{100}{}{You see a waterpump.}
-{101}{}{You see a really old waterpump that appears to be broken.}
-{102}{}{The waterpump is working fine now.}
+{100}{}{Du ser en vattenpump.}
+{101}{}{Du ser en riktigt gammal vattenpump som ser ut att vara trasig.}
+{102}{}{Vattenpumpen fungerar bra nu.}
 {103}{}{Du kommer att behöva mer än bara dina händer för att fixa den här maskinen. Kanske några verktyg skulle hjälpa till med att installera
  den här delen.}
 {104}{}{Du reparerade vattenpumpen.}
