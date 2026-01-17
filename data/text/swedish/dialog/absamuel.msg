@@ -1,10 +1,10 @@
-{100}{}{You see the monastery graveyard keeper.}
-{101}{}{You see Brother Samuel, the graveyard keeper.}
-{102}{}{He looks drunk and a bit drowsy.}
-{200}{}{*hickup* Why, 'ello there, my name's Samuel. What, uh, *hickup* brings you here?}
-{201}{}{*hickup* Hello again.}
-{202}{}{I'm just looking around. Do you tend to this graveyard?}
-{203}{}{Do you know a Father Tully?}
+{100}{}{Du ser klostrets kyrkogårdsvaktmästare.}
+{101}{}{Du ser broder Samuel, kyrkogårdsvaktmästaren.}
+{102}{}{Han ser full och lite sömnig ut.}
+{200}{}{*hick* Men, 'allå där, jag heter Samuel. Vad, eh, *hick* för dig hit?}
+{201}{}{*hick* Hej igen.}
+{202}{}{Jag ser mig bara omkring. Sköter du om den här kyrkogården?}
+{203}{}{Känner du en Fader Tully?}
 {204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah... I *hickup* 'member Tully.
  How's that fella doin anyway? I 'aven't seen him since he was kicked out of 'ere long time *hiccup* long time ago.
  [He grins drunkenly as he reflects.] Boy he was a hoot. Him and me together, *hickup* what a combo.}
@@ -49,12 +49,12 @@
 {600}{}{Hmm... *Hick* lå' me t'nka lite. Ja, jag kanske har nåt, om du ä' sugen på de'.}
 {601}{}{Eh, glöm det, Sam. Jag måste gå nu.}
 {602}{}{Visst, Sam, vad behöver du?}
-{603}{}{Well, th' past coupla days I've *hickup* noticed some of these graves are bein dug up. Now, whoever's doin this
- don't appear to be gettin that far, but it's a *hickup* a pain fer me to fill 'em back up.}
-{604}{}{Hmm, well did you try and figure out who has been doing this?}
-{605}{}{Sure *hickup* I tried. One night I stayed around till midnight or so and no one showed up. I must've fallen asleep
- soon afterwards. Too much drinking I s'pose. [He grins, pulls out his flask and takes a hefty swig.] So, what do you
- *hickup* say? You wanna help out?}
+{603}{}{De sen'ste dagar'a har jag *hick* märkt att nå'ra av gravarna grävts upp. Så, vem som än gö' det här
+ verkar inte ha kommi' så långt, men det är *hick* förjäkligt fö' mig att fylla opp dem igen.}
+{604}{}{Hmm, så har du försökt ta reda på vem som har gjort det här?}
+{605}{}{Visst *hick* försökte jag. En kväll stannade jag kvar till midnatt eller så och ingen dök upp. Jag måste ha somnat
+ strax efter. För mycket drickande tro' ja'. [Han flinar, tar fram sin plunta och tar en rejäl klunk.] Så, vad säger
+ *hick* du? Vill du hjälpa till?}
 {606}{}{Alright, I'll see what I can do. Do you know anything else that might help me?}
 {607}{}{Well, now that you mention it, I do *hickup* 'member Mr. Peterson sayin something about hearing some noises comin
  from his field. He might know something about this. He and that pretty little wife a his live right over there.
