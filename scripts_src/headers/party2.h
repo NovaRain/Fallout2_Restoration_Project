@@ -12,4 +12,27 @@ procedure party_size_humans begin
    return n;
 end
 
+/**
+ * Returns True if anyone in party is injured, False othewise.
+ * @ret {bool} injured
+ */
+procedure party_has_injured() begin
+   foreach (variable who in party_member_list_critters) begin
+      if Is_Injured(who) then return true;
+   end
+   return false;
+end
+
+/**
+ * Returns the count of injured party members
+ * @ret {int} injured_count
+ */
+procedure party_injured_count() begin
+   variable count = 0;
+   foreach (variable who in party_member_list_critters) begin
+      if Is_Injured(who) then count += 1;
+   end
+   return count;
+end
+
 #endif // PARTY2_H
