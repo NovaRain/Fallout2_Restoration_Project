@@ -28,6 +28,7 @@
 #define SCRIPT_REALNAME "rcdrjohn"
 #include "../headers/define.h"
 #include "../headers/reddown.h" // seraph's code
+#include "../sfall/lib.math.h"
 
 #define NAME                    SCRIPT_RCDRJOHN
 #define TOWN_REP_VAR            (GVAR_TOWN_REP_REDDING)
@@ -177,10 +178,7 @@ procedure map_enter_p_proc begin
    Doc_Johnson_Ptr:=self_obj;
 
    //added by killap - expansion
-
-   restock_fix
-
-   if (local_var(LVAR_Restock_Time) < game_time) then begin
+   if (unsigned_int_compare(local_var(LVAR_Restock_Time), game_time) < 0) then begin
       ndebug("Should have restocked");
       check_restock_item(PID_STIMPAK, 4, 5, 100)
       check_restock_item(PID_ANTIDOTE, 1, 1, 80)
