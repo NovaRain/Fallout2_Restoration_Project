@@ -8,19 +8,17 @@
 {204}{}{Father Tully, you say? [He appears to be racking his brain trying to remember.] Yeah... I *hickup* 'member Tully.
  How's that fella doin anyway? I 'aven't seen him since he was kicked out of 'ere long time *hiccup* long time ago.
  [He grins drunkenly as he reflects.] Boy he was a hoot. Him and me together, *hickup* what a combo.}
-{205}{}{He lives in New Reno now, preachin' the good word, er, something like that. You know, you two seem a lot alike.}
-{206}{}{New Reno, huh? [He leans on his shovel, pulls out a small flask and takes a big swig.] I 'member him sayin he'd
- *hickup* be headin that way. I'm glad he made it there safely. I always *hickup* liked that fella. A real hoot. If you
- see him again, tell him Ol' Sammy is still alive an' kickin.}
-{207}{}{I'll do that. I got some other questions though.}
-{208}{}{I'll do that. Take care Sam.}
-{209}{}{Nevermind. Sorry to bother you.}
-{210}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. I got some other questions though.}
-{211}{}{Actually I was just going to say that he sends his greetings. I'll be sure to tell him you say hello as well. Take care Sam.}
-{300}{}{What do you *hickup* wanna know?}
-{301}{}{Are you the gravekeeper?}
+{205}{}{Han bor i Nya Reno nu, predikar det goda ordet eller nåt sånt. Ni är ganska lika ni två, faktiskt.}
+{206}{}{Nya Reno, va? [han lutar över sin spade, tar fram en liten flaska och tar en klunk.] Ja' minns när han sa han *hick* skulle ditåt. Bra att han kom dit säkert. Jag har alltid *hick* gillat den gubben. Möts ni igen kan du säga att gamle Sammy fortfarande är vid livs levande.}
+{207}{}{Det ska jag. Jag har några fler frågor.}
+{208}{}{Det ska jag. Ha det bra Sam.}
+{209}{}{Strunt i det. Förlåt att jag stör.}
+{210}{}{Jag skulle just säga att han hälsar. Jag ska nämna att du säger hej också. Jag har några fler frågor.}
+{211}{}{Jag skulle just säga att han hälsar. Jag ska nämna att du säger hej också. Ha det bra Sam.}
+{300}{}{Vad vill du *hick* veta?}
+{301}{}{Är du gravvakt?}
 {302}{}{Vad kan du berätta om Klostret?}
-{303}{}{Anything I can help you with?}
+{303}{}{Någonting jag kan hjälpa dig med?}
 {400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
  not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy
  eyebrows at you.]}
