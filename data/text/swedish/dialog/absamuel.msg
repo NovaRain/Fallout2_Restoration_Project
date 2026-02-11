@@ -19,10 +19,10 @@
 {301}{}{Är du gravvakt?}
 {302}{}{Vad kan du berätta om Klostret?}
 {303}{}{Någonting jag kan hjälpa dig med?}
-{400}{}{Yes, *hickup* I tend to these 'ere graves. Nobody else wants to *hickup* do it, so Ol' Sammy got th' job. It's
- not as bad as one might think. It's got its... perks, if you know what I mean. [He grins sloppily and wiggles his bushy
- eyebrows at you.]}
-{401}{}{No. I don't know what you mean, and I never want to. Bye.}
+{400}{}{Ja, *hick* jag ta' hand om grava'na här. Ingen annan vill *hick* gör' det, så gamle Sammy fick jobbet. Det e' inte så 
+ illa som du kan tro. Det har... fö'måner, om du fattar vad jag mena'. [Han flinar och vinkar sina buskiga
+ ögonbryn mot dig.]}
+{401}{}{Nej. Jag vet inte vad du menar, och jag vill aldrig göra det. Hej då.}
 {402}{}{No. I don't know what you mean. But I think I'd rather ask you something else. }
 {403}{}{No. I don't know what you mean, but I'm morbidly curious...}
 {404}{}{Hell yeah I do. Nothing turns me on like a rotten cadaver.}
