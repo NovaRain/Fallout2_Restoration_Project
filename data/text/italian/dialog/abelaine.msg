@@ -27,7 +27,7 @@ Matthew nell'area della cappella.}
 {710}{}{Hehe. Bel nome.}
 {711}{}{Ciao!}
 {720}{}{Sei proprio un bravo ragazzone, vero? Potresti farmi un GRANDE favore ed essere il mio aiutante speciale oggi?}
-{721}{}{Sei proprio un bravo ragazzone, vero? Potresti farmi un GRANDE favore ed essere il mio aiutante speciale oggi?}
+{721}{}{Sei proprio una ragazzina speciale, vero? Potresti farmi un GRANDE favore ed essere la mia aiutante speciale oggi?}
 {722}{}{Io speciale. Io aiutare.}
 {723}{}{Io no aiutare.}
 {730}{}{Davvero? Bene! Per favore porta questo pezzo a Max nella stanza delle copie. Lo puoi trovare nel SEMINTERRATO. Okay?}
