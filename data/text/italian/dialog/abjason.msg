@@ -40,7 +40,7 @@
  worship and catalog the relics, but never actually do anything useful with them. Like I said, it's fucking moronic.}
 {251}{}{You got a point, that does sound pretty stupid.}
 {252}{}{About as moronic as me sitting here listening to you bitch about your life. Bye.}
-{253}{}{If you think it's so stupid, then why don't you do something to try and change things?}
+{253}{}{Se pensi che sia cosi' stupido, perche' non fai qualcosa per cercare di cambiare le cose?}
 {260}{}{Finally, someone who agrees with me! Look, I have this idea, and maybe you could help me out. You see, the monks
  here have spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally"
  format the database, they'd lose all that work. I think something like that might shock them back to their senses and we
