@@ -19,7 +19,7 @@
 {300}{}{Greetings, friend. I don't think I have seen you around here before. My name is Brother Matthew and I help
  spread the word about the importance of preserving the knowledge of the old ones.}
 {301}{}{It's good to meet you Matt. My name is }
-{302}{}{ and I am on a quest for the holy GECK.}
+{302}{}{ sono alla ricerca del sacro GECK.}
 {303}{}{Sorry, I must be going.}
 {400}{}{A GECK, huh? I seem to remember reading something about that during one of my transcribing sessions. So it must
  be in our database, but I'm afraid access to our computers is restricted. However, if you talk to the Abbot, it's

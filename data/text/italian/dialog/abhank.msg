@@ -2,16 +2,16 @@
 {101}{}{You see a greasy monk.}
 {102}{}{He is messing with a still.}
 {200}{}{Hey, buddy. Do you have a lighter on you?}
-{201}{}{Yep. [Hand your lighter to him.]}
-{202}{}{This is perfect. Thanks!}
+{201}{}{Sì. [Porgigli il tuo accendino.]}
+{202}{}{Capisco. Grazie!}
 {203}{}{Out of curiosity, what exactly are you doing here?}
-{204}{}{Sure. Since you brought me a lighter, here's one on the house.}
+{204}{}{Certo. Visto che mi hai portato un accendino, questo te lo offro io.}
 {205}{}{[Drink it.]}
 {206}{}{I changed my mind I don't want any alcohol. Bye.}
 {207}{}{(You feel warm and relaxed after you gulp down the wine.)}
 {208}{}{Gimme another, Hank.}
 {209}{}{I'll go now, bye.}
-{210}{}{(Suddenly you feel like shit, then your vision begins to blur. You fall on the ground...)}
+{210}{}{(Improvvisamente ti senti uno schifo, poi la tua visione comincia ad annebiarsi. Cadi a terra...)}
 {211}{}{[FATTO]}
 {212}{}{No, Sorry.}
 {213}{}{Ciao.}
