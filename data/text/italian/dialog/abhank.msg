@@ -44,4 +44,4 @@
 {810}{}{Si', e' quello di cui ho bisogno. Me lo dai?}
 {811}{}{Otay. A me non piaccee.}
 {812}{}{Io no dare a te.}
-{820}{}{You no now burn self too. Bye!}
+{820}{}{Adesso anche tu no bruci te stesso. Ciao!}
