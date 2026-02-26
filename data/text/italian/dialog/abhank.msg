@@ -6,27 +6,27 @@
 {202}{}{Capisco. Grazie!}
 {203}{}{Per curiosita', cosa stai facendo esattamente qui?}
 {204}{}{Certo. Visto che mi hai portato un accendino, questo te lo offro io.}
-{205}{}{[Drink it.]}
+{205}{}{[Bevilo.]}
 {206}{}{Ho cambiato idea, non voglio dell'alcol. Arrivederci.}
-{207}{}{(You feel warm and relaxed after you gulp down the wine.)}
+{207}{}{(Ti senti caldo e rilassato dopo aver trangugiato il vino.)}
 {208}{}{Dammene un altro, Hank.}
 {209}{}{Me ne vado, arrivederci.}
 {210}{}{(Improvvisamente ti senti uno schifo, poi la tua visione comincia ad annebiarsi. Cadi a terra...)}
 {211}{}{[FATTO]}
-{212}{}{No, Sorry.}
+{212}{}{No, mi dispiace.}
 {213}{}{Ciao, di nuovo.}
 {214}{}{Ciao e arrivederci.}
-{215}{}{This one won't be free. It'll cost you $20.}
-{216}{}{Sure. Here's the money.}
-{217}{}{Nah, I've had enough. Maybe next time.}
-{218}{}{(He pockets the money.) Alright then, here's the drink.}
+{215}{}{Questa non sara' gratis. Ti costera' $20.}
+{216}{}{Certo. Ecco i soldi.}
+{217}{}{No, ne ho avuto abbastanza. Forse la prossima volta.}
+{218}{}{(Si intasca i soldi.) D’accordo allora, ecco da bere.}
 {219}{}{Tornero' quando avro' piu' soldi.}
-{220}{}{Any luck finding a lighter?}
-{250}{}{I would like to buy some of the alcohol you make here.}
-{251}{}{Just looking around. Take care.}
-{252}{}{Sure. $20 a bottle.}
-{253}{}{[Hold on to it.]}
-{300}{}{Where did I put my lighter?}
+{220}{}{Hai trovato un accendino?}
+{250}{}{Vorrei comprare un po' dell'alcol che produci qui.}
+{251}{}{Sto solo guardando in giro. Stammi bene.}
+{252}{}{Certo. $20 a bottiglia.}
+{253}{}{[Tienilo.]}
+{300}{}{Dove ho messo il mio accendino?}
 {301}{}{I need a lighter.}
 {302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
 {303}{}{Uh, hi there.}
