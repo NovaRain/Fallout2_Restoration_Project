@@ -1,16 +1,16 @@
-{100}{}{You see Hank.}
-{101}{}{You see a greasy monk.}
-{102}{}{He is messing with a still.}
-{200}{}{Hey, buddy. Do you have a lighter on you?}
+{100}{}{Vedi Hank.}
+{101}{}{Vedi un monaco viscido.}
+{102}{}{Sta armeggiando con un alambicco.}
+{200}{}{Ehi, amico. Hai un accendino con te?}
 {201}{}{Sì. [Porgigli il tuo accendino.]}
 {202}{}{Capisco. Grazie!}
-{203}{}{Out of curiosity, what exactly are you doing here?}
+{203}{}{Per curiosita', cosa stai facendo esattamente qui?}
 {204}{}{Certo. Visto che mi hai portato un accendino, questo te lo offro io.}
 {205}{}{[Drink it.]}
-{206}{}{I changed my mind I don't want any alcohol. Bye.}
+{206}{}{Ho cambiato idea, non voglio dell'alcol. Arrivederci.}
 {207}{}{(You feel warm and relaxed after you gulp down the wine.)}
-{208}{}{Gimme another, Hank.}
-{209}{}{I'll go now, bye.}
+{208}{}{Dammene un altro, Hank.}
+{209}{}{Me ne vado, arrivederci.}
 {210}{}{(Improvvisamente ti senti uno schifo, poi la tua visione comincia ad annebiarsi. Cadi a terra...)}
 {211}{}{[FATTO]}
 {212}{}{No, Sorry.}
