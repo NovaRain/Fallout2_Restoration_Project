@@ -21,22 +21,20 @@
 {600}{}{Sono un dottore. Mi prendo cura della gente dell’Abbazia da… oh, saranno quindici anni ormai, credo.}
 {601}{}{Capisco. Sono molti anni per studiare tutti i libri di medicina pre?bellici nella biblioteca dell’Abbazia. Devi essere davvero un ottimo dottore.}
 {602}{}{Da dove hai preso tutto il tuo equipaggiamento medico?}
-{603}{}{Interesting. I think I will be leaving now.}
-{604}{}{[He frowns.] I fancy myself a fine doctor, but I can't credit the books for that since I'm not even allowed to... never mind, I won't get into that. My father was a doctor, and he passed his knowledge down to me.}
+{603}{}{Interessante. Credo che me ne andro' ora.}
+{604}{}{(Aggrugisce la fronte.) Mi considero un buon dottore, ma non posso certo dare il merito ai libri, visto che non mi è nemmeno permesso… lasciamo stare, non voglio parlarne. Mio padre era un dottore, ed e' stato lui a trasmettermi tutto ciò che so.}
 {605}{}{Ah, capisco.}
-{700}{}{Some of these meds I received from my father. Most of the rest were already here at the Abbey.}
-{701}{}{Interesting, bye.}
-{702}{}{Do you think you could give me some of your meds? You seem to have plenty to spare.}
-{703}{}{You want me to just *give* them to you? What makes you think you deserve them more than the people of the Abbey?}
+{700}{}{Alcuni di questi medicinali li ho ricevuti da mio padre. La maggior parte degli altri era gia' qui all’Abbazia.}
+{701}{}{Interessante. Ci vediamo.}
+{702}{}{Pensi di potermi dare un po' delle tue medicine? Sembri averne in abbondanza.}
+{703}{}{Vuoi che te le dia cosi', senza niente in cambio? Cosa ti fa pensare di meritarle piu' della gente dell'Abbazia?}
 {704}{}{Because I tend to get hurt... a lot.}
-{705}{}{Because I'm on a holy quest to find a Garden Of Eden Creation Kit. You see, my entire village will perish if
- I don't find this device in time. Your people, on the other hand, seem to live a peaceful life without much need for so
- much healing equipment. I'm not asking for a lot, even the smallest amount you could give me would help me greatly.}
-{706}{}{[He ponders over your words for a moment, then nods.] Alright, I'll give you some of our excess medical supplies.
- It sounds like you're gonna need 'em. Here. [He hands them to you.] Good luck, wanderer.}
-{707}{}{Thanks, Jack. You're a true savior of the wastes. Bye.}
-{708}{}{Then perhaps you should learn to be more careful. Sorry, I'm not going to just give away the Abbey's medical supplies.}
-{709}{}{Fine. GOODBYE.}
+{705}{}{Perche' sono in una missione sacra per trovare un Garden of Eden Creation Kit. Capisci, tutto il mio villaggio morira' se non trovo questo dispositivo in tempo. La tua gente, invece, sembra vivere una vita tranquilla, senza grande bisogno di cosi' tante medicine. Non ti sto chiedendo molto, anche la quantita' piu' piccola che puoi darmi mi aiuterebbe enormemente.}
+{706}{}{[Riflette un momento sulle tue parole, poi annuisce.] Va bene, ti daro' un po' delle nostre scorte mediche in eccesso. Sembra che te ne serviranno. Tieni.
+[Te le porge.] Buona fortuna, viandante.}
+{707}{}{Grazie, Jack. Sei un vero salvatore delle Lande. Arrivederci.}
+{708}{}{Allora forse dovresti imparare a stare piu' attento. Mi dispiace, ma non ho intenzione di regalare cosi' le scorte mediche dell'Abbazia.}
+{709}{}{D'accordo. Addio.}
 {800}{}{Adesso non posso parlare.}
-{801}{}{Sorry, I'm in the middle of something now. Come see me later.}
+{801}{}{Scusa, sono nel mezzo di qualcosa ora. Vieni a trovarmi piu' tardi.}
 {802}{}{Ciao.}

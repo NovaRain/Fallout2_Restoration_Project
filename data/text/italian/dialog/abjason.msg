@@ -1,64 +1,59 @@
-{100}{}{You see a bespectacled young monk.}
-{101}{}{You see Brother Jason.}
-{102}{}{This monk seems to be brooding.}
-{200}{}{[The young monk quickly pockets a deck of "Tragic" cards as you approach.] What do you want?}
-{201}{}{Nothing from you. Bye.}
-{202}{}{I want to know why you just hid that card deck from me.}
-{210}{}{I don't know what you're talking about. I don't have any card deck.}
-{211}{}{Don't lie to me. I saw you put it away in your pocket. I just wanted to know why.}
-{212}{}{Alright, whatever you say. See ya.}
-{220}{}{Look, don't tell anyone, alright? We're not suppose to "use" pre-war relics, just worship them. But these Tragic
- cards are so damn cool. [He seems to get lost in another world as he gazes lovingly at the deck. After a moment,
- he looks up at you.] Oh, sorry. I'm Brother Jason by the way. I, uh, don't suppose you play Tragic?}
-{221}{}{BRING FORTH THE GARNERING!!!}
-{222}{}{Hell yeah, I love Tragic the Garnering.}
-{223}{}{I've tried it, but it's not for me.}
-{224}{}{I used to be addicted as hell to that game. I try to stay away from it now.}
+{100}{}{Vedi un giovane monaco con gli occhiali.}
+{101}{}{Vedi Fratello Jason.}
+{102}{}{Questo monaco sembra essere assorto nei suoi pensieri.}
+{200}{}{[Il giovane monaco infila in fretta un mazzo di carte "Tragic" quando ti avvicini.] Che vuoi?}
+{201}{}{Per il momento nulla. Ci vediamo.}
+{202}{}{Voglio sapere perche' hai appena nascosto quel mazzo di carte.}
+{210}{}{Non so di cosa stai parlando. Non ho nessun mazzo di carte.}
+{211}{}{Non mentire. Ti ho visto infilarlo in tasca. Volevo solo sapere perche'.}
+{212}{}{Certo, come no? Ci si vede.}
+{220}{}{Senti, non dirlo a nessuno, va bene? Non dovremmo "usare" le reliquie prebelliche, solo venerarle. Ma queste carte Tragic sono dannatamente belle. 
+[Sembra perdersi in un altro mondo mentre guarda il mazzo con aria sognante. Dopo un momento, rialza lo sguardo verso di te.] Oh, scusa. Io sono Fratello Jason, comunque. Tu, ehm... non e' che giochi a Tragic?}
+{221}{}{PORTATE AVANTI LA RACCOLTA!!!}
+{222}{}{Cavolo si', adoro Tragic the Garnering.}
+{223}{}{L'ho provato, ma non fa per me.}
+{224}{}{Ero dipendente da quel gioco, sul serio. Ora cerco di starne alla larga.}
 {225}{}{No.}
-{226}{}{Hell no. Do I look like a pathetic loser to you?}
-{230}{}{Hey, fuck you asshole. Just leave me alone.}
-{231}{}{Hey, fuck you whore. Just leave me alone.}
-{232}{}{I'd love to, but I'm overcome with a desire to do you great bodily harm.}
-{233}{}{Alright, fine. Bye.}
-{234}{}{Look, I'm sorry. That was rude of me. I'm just not a fan of Tragic.}
-{240}{}{Ah man, I'd love to play against you, but it's too risky. I don't want these taken from me. That's what I hate
- about this place. We're sitting on a damn goldmine of awesome things from before the war, but we're forbidding ourselves
- from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{241}{}{Ah man, I know what you mean. I wish I could play more myself, but it's too risky. I don't want these taken from me.
- That's what I hate about this place. We're sitting on a damn goldmine of awesome things from before the war, but we're
- forbidding ourselves from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{242}{}{[He chuckles.] We got an addict on our hands here, I see. I wish I could play more myself, but it's too risky.
- I don't want these taken from me. That's what I hate about this place. We're sitting on a damn goldmine of awesome things
- from before the war, but we're forbidding ourselves from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{243}{}{It doesn't matter, we wouldn't be able to play anyway -- it's too risky. I don't want these taken from me. That's what
- I hate about this place. We're sitting on a damn goldmine of awesome things from before the war, but we're forbidding ourselves
- from indulging in it. It doesn't make any sense. It's fucking moronic.}
-{244}{}{Yeah, that does sound stupid.}
-{245}{}{If you don't agree with the ideals of your order, then why are you a monk?}
-{250}{}{You think I *chose* to be a monk? I was born into this shitty lifestyle. I just wish the others would wake up and
- see how stupid it is to not take advantage of all this sweet stuff we've collected. But no, they're perfectly content to
- worship and catalog the relics, but never actually do anything useful with them. Like I said, it's fucking moronic.}
-{251}{}{You got a point, that does sound pretty stupid.}
-{252}{}{About as moronic as me sitting here listening to you bitch about your life. Bye.}
+{226}{}{Assolutamente no. Ti sembro un povero fallito?}
+{230}{}{Ehi, vaffan… stronzo. Lasciami in pace.}
+{231}{}{Ehi, fanculo puttana. Lasciami in pace.}
+{232}{}{Mi piacerebbe, ma sono sopraffatto dal desiderio di farti del male.}
+{233}{}{D'accordo, allora. Addio.}
+{234}{}{Senti, mi dispiace. Sono stato scortese. E' solo che non sono un fan di Tragic.}
+{240}{}{Ah, amico, mi piacerebbe un sacco giocare contro di te, ma e' troppo rischioso. Non voglio che me le portino via. 
+E' questo che odio di questo posto. Siamo seduti su una dannata miniera d'oro di cose fantastiche di prima della guerra, ma ci proibiamo di godercele. 
+Non ha alcun senso. E' semplicemente da idioti.}
+{241}{}{Ah, amico, ti capisco benissimo. Vorrei poterci giocare anch'io piu' spesso, ma e' troppo rischioso. Non voglio che me le portino via. 
+E' questo che odio di questo posto. Siamo seduti su una dannata miniera d'oro di cose fantastiche di prima della guerra, ma ci proibiamo di godercele. Non ha alcun senso. E' semplicemente da idioti.}
+{242}{}{[Ride piano.] Abbiamo un dipendente tra le mani, vedo. Vorrei poter giocare anch'io piu' spesso, ma e' troppo rischioso. 
+Non voglio che me le portino via. E' questo che odio di questo posto. Siamo seduti su una dannata miniera d'oro di cose fantastiche di prima della guerra, ma ci proibiamo di godercele. 
+Non ha alcun senso. E' semplicemente da idioti.}
+{243}{}{Non importa, tanto non potremmo giocare comunque: e' troppo rischioso. Non voglio che me le portino via. 
+E' questo che odio di questo posto. Siamo seduti su una dannata miniera d'oro di cose fantastiche di prima della guerra, ma ci proibiamo di godercele. 
+Non ha alcun senso. E' semplicemente da idioti.}
+{244}{}{Sì, sembra davvero stupido.}
+{245}{}{Se non condividi gli ideali del tuo ordine, perche' sei un monaco?}
+{250}{}{Pensi che io abbia *scelto* di fare il monaco? Sono nato in questo stile di vita di merda. Vorrei solo che gli altri si
+svegliassero e capissero quanto e' stupido non approfittare di tutta questa roba preziosa che abbiamo raccolto. Ma no, sono
+perfettamente contenti di venerare e catalogare le reliquie, senza mai farne qualcosa di utile. Come ho detto, e' dannatamente idiota.}
+{251}{}{Hai ragione, sembra davvero stupido.}
+{252}{}{Tanto idiota quanto me che siedo qui ad ascoltarti lamentarti della tua vita. Addio.}
 {253}{}{Se pensi che sia cosi' stupido, perche' non fai qualcosa per cercare di cambiare le cose?}
-{260}{}{Finally, someone who agrees with me! Look, I have this idea, and maybe you could help me out. You see, the monks
- here have spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally"
- format the database, they'd lose all that work. I think something like that might shock them back to their senses and we
- might finally give up this stupid way of life. So, what do you say?}
-{261}{}{I say that's a terrible idea and that I'm done talking to you.}
-{262}{}{Erase years of someone else's hard work? Sounds fun. I'll do it.}
-{263}{}{Why don't you format it yourself?}
-{264}{}{If you hate it here, why don't you just leave?}
-{270}{}{Actually, I *do* have an idea of how to change things. Maybe you could help me out. You see, the monks here have
- spent *years* transcribing pre-war information into our computer database. If someone were to "accidentally" format the
- database, they'd lose all that work. I think something like that might shock them back to their senses and we might finally
- give up this stupid way of life. So, what do you say?}
-{271}{}{I say that's a terrible idea and that I'm done talking to you.}
-{272}{}{Erase hundreds of years of someone else's hard work? Sounds fun. I'll do it.}
-{273}{}{Why don't you format it yourself?}
-{274}{}{If you hate it here, why don't you just leave?}
-{280}{}{Are you kidding me? They'd crucify me if I did that. You however, you're an experienced adventurer. Hell, I bet
- you could massacre everyone here without breaking a sweat. So will you do it, or are you afraid of a bunch of pacifist monks?}
+{260}{}{Finalmente qualcuno che e' d'accordo con me! Senti, ho un'idea, e forse potresti aiutarmi. Vedi, i monaci
+qui hanno trascorso *anni* a trascrivere informazioni pre-guerra nel nostro database informatico. Se qualcuno dovesse "accidentalmente"
+formattare il database, perderebbero tutto quel lavoro. Penso che una cosa del genere potrebbe farli tornare in senso e potremmo
+finalmente abbandonare questo stupido stile di vita. Allora, che ne dici?}
+{261}{}{Dico che e' una pessima idea e che ho finito di parlare con te.}
+{262}{}{Cancellare anni del lavoro di qualcun altro? Sembra divertente. Lo faro'.}
+{263}{}{Perché non lo formatti tu stesso?}
+{264}{}{Se non ti piace stare qui, perché non te ne vai e basta?}
+{270}{}{In realta' ho un'idea su come cambiare le cose. Magari potresti darmi una mano. Vedi, i monaci qui hanno passato anni a trascrivere informazioni pre?belliche nel nostro database. Se qualcuno dovesse “per sbaglio” formattare il database, perderebbero tutto quel lavoro. Una cosa del genere potrebbe scioccarli abbastanza da farli rinsavire, e forse finalmente rinunceremmo a questo stupido stile di vita. Allora, che ne dici?}
+{271}{}{Dico che e' una pessima idea e che ho finito di parlare con te.}
+{272}{}{Cancellare secoli del lavoro di qualcun altro? Sembra divertente. Lo faro'.}
+{273}{}{Perché non lo formatti tu stesso?}
+{274}{}{Se non ti piace stare qui, perché non te ne vai e basta?}
+{280}{}{Stai scherzando? Mi crocifiggerebbero se lo facessi. Tu, invece… tu sei un avventuriero esperto. 
+Diamine, scommetto che potresti massacrare tutti qui senza nemmeno sudare. Allora, lo fai o hai paura di un branco di monaci pacifisti?}
 {281}{}{I'm not afraid of anyone. I'll do it.}
 {282}{}{Alright. I'll do it.}
 {283}{}{Nah, instead I think I'll test out your massacre theory. Starting with you.}
