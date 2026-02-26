@@ -27,22 +27,21 @@
 {252}{}{Certo. $20 a bottiglia.}
 {253}{}{[Tienilo.]}
 {300}{}{Dove ho messo il mio accendino?}
-{301}{}{I need a lighter.}
-{302}{}{COULD SOMEONE BRING ME A LIGHTER!?}
-{303}{}{Uh, hi there.}
-{304}{}{Sorry, I can't chat with you now.}
-{400}{}{Ooh, look at all those pretty stars!}
-{500}{}{Hello. Need something?}
-{501}{}{Hey, thanks again for the lighter. It's better than my old one.}
-{600}{}{We brew our own alcohol here at the monastery. Some of the most powerful stuff you'll taste in the Wastes.}
-{601}{}{Mind if I try some?}
-{602}{}{Sounds interesting. I must be going.}
-{700}{}{That's too bad. I lost mine recently and I can't seem to find it anywhere. If you ever get a hold of one,
- I'd be glad to take it off your hands.}
-{701}{}{Sure. If I come across one I'll let you know. Bye.}
-{702}{}{Sorry. I'm a bit of a collector and keep all that I find. Bye.}
-{800}{}{Li-ter? I have fire maker. It burn me many times. (You hold up a lighter.)}
-{810}{}{Yeah, that's what I need. Will you give it to me?}
-{811}{}{Otay. I no likee it.}
-{812}{}{I no give you.}
+{301}{}{Ho bisogno di un accendino.}
+{302}{}{QUALCUNO PUO' PORTARMI UN ACCENDINO!?}
+{303}{}{Uh, ciao.}
+{304}{}{Mi dispiace, non posso parlare con te adesso.}
+{400}{}{Ooh, guarda tutte quelle belle stelle!}
+{500}{}{Ciao. Hai bisogno di qualcosa?}
+{501}{}{Ehi, grazie ancora per l'accendino. E' meglio del mio vecchio.}
+{600}{}{Qui al monastero produciamo il nostro alcol. E' roba tra le più forti che ti capiterà di assaggiare nelle Lande.}
+{601}{}{Ti dispiace se ne assaggio un po'?}
+{602}{}{Sembra interessante. Devo andare.}
+{700}{}{Che sfortuna. Io l’ho perso di recente e non riesco a trovarlo da nessuna parte. Se mai dovessi metterne le mani su uno, sarei felice di toglierlo dalle tue.}
+{701}{}{Certo. Se ne trovo uno te lo faccio sapere. Arrivederci.}
+{702}{}{Scusa. Sono un po’ un collezionista e tengo tutto quello che trovo. Ciao.}
+{800}{}{Li-ter? Io avere “fa?fuoco”. Brucia me molte volte. (Alzi un accendino.)}
+{810}{}{Si', e' quello di cui ho bisogno. Me lo dai?}
+{811}{}{Otay. A me non piaccee.}
+{812}{}{Io no dare a te.}
 {820}{}{You no now burn self too. Bye!}
