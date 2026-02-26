@@ -14,8 +14,8 @@
 {210}{}{(Improvvisamente ti senti uno schifo, poi la tua visione comincia ad annebiarsi. Cadi a terra...)}
 {211}{}{[FATTO]}
 {212}{}{No, Sorry.}
-{213}{}{Ciao.}
-{214}{}{Hi and bye.}
+{213}{}{Ciao, di nuovo.}
+{214}{}{Ciao e arrivederci.}
 {215}{}{This one won't be free. It'll cost you $20.}
 {216}{}{Sure. Here's the money.}
 {217}{}{Nah, I've had enough. Maybe next time.}
