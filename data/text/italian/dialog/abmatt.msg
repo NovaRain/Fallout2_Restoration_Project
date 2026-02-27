@@ -27,10 +27,10 @@
  of holy pre-war relics. I'd ask you not to damage anything, but I'm afraid everything's already broken beyond repair.}
 {401}{}{Penso proprio di si'. Ho alcune domande pero'.}
 {402}{}{Grazie. Penso che lo faro' ora.}
-{500}{}{I am at your service. What would you like to know?}
+{500}{}{Sono a tua disposizione. Cosa vorresti sapere?}
 {501}{}{Cosa puoi dirmi di questo posto?}
 {502}{}{You seem to be very poetic in your preaching. Any reason for this?}
-{503}{}{Nevermind. Take care.}
+{503}{}{Non importa. Prenditi cura di te.}
 {600}{}{The Abbey is home to anyone, so long as they don't cause trouble. We are an independent community and rarely get
  visitors, such as yourself. The majority of those you see here are descended from the original founders that settled in
  this old monastery not long after the great Flame Deluge.}
@@ -39,12 +39,12 @@
  here over the years, seeking to escape from the dark chaos of the wastes. Of course, the true value of this place lies
  in its vast library. It's filled with old tomes, containing the strange wisdom of a lost age. Over time, we've come to
  fancy ourselves the keepers and guardians of that wisdom.}
-{603}{}{Very interesting. Another question.}
-{604}{}{Interesting. Well, I must be going.}
+{603}{}{Molto interessante. Un'altra domanda.}
+{604}{}{Interessante. Beh, devo andare.}
 {700}{}{[The man chuckles at your question] No, no particular reason. I have just read much poetry throughout my life
  and I enjoy applying it to my teachings. It helps leave a greater impact on those listening.}
-{701}{}{Fair enough. Another question.}
-{800}{}{It is good to see you again }
+{701}{}{Abbastanza giusto. Un'altra domanda.}
+{800}{}{E' bello rivederti.}
 {801}{}{. Cosa posso fare per te?}
 {802}{}{Ho delle domande da farvi.}
-{803}{}{Nothing. See you around.}
+{803}{}{Niente. A presto.}
