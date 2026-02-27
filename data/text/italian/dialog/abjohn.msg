@@ -17,18 +17,18 @@
 {408}{}{Mi dispiace sentire questo. Arrivederci.}
 {410}{}{Addio.}
 {411}{}{You do? Are you saying that you actually HAVE heart pills?}
-{412}{}{Yes, I do. It would be a pleasure to give them to you.}
-{413}{}{Yeah, I have heart pills. You can have them for $400.}
+{412}{}{Si', ce li ho. Sarebbe un piacere darteli.}
+{413}{}{Si', ho delle pillole per il cuore. Puoi averle per $400.}
 {414}{}{I was only joking. I don't have any heart pills.}
 {415}{}{[He takes the pills from you.] Thank you, my friend! Here, please take this item as a gesture of gratitude.}
-{416}{}{Happy to help, and thanks for the item. Bye!}
+{416}{}{Felice di aver aiutato, e grazie per l'oggetto. Arrivederci!}
 {417}{}{(He becomes quite angry, but then calms down) Ok, fine, here's your money. Now give me the pills!}
-{418}{}{I have decided to keep the pills myself. Thanks for the money!}
-{419}{}{Nice doing business with you, Bye.}
+{418}{}{Ho deciso di tenermi le pillole. Grazie per i soldi!}
+{419}{}{E' stato un piacere fare affari con te. Arrivederci.}
 {420}{}{Hmmm, sorry, I haven't. Talk to the Abbot, he might know something.}
-{421}{}{I'll do that, thanks. Now I have some other questions.}
+{421}{}{Lo faro', grazie. Ora ho altre domande.}
 {422}{}{If I weren't so sick, I would beat the shit out of you. NOW GET OUT OF HERE!}
-{423}{}{Fine, I'll go.}
-{500}{}{Thank you again for those heart pills, my friend. Good luck on your travels.}
-{600}{}{Just go away, please.}
-{700}{}{You showed John just how cruel the world is.}
+{423}{}{Bene, me ne vado.}
+{500}{}{Grazie ancora per quelle pillole per il cuore, amico mio. Buona fortuna nei tuoi viaggi.}
+{600}{}{Vai via, per favore.}
+{700}{}{Hai mostrato a John quanto crudele possa essere il mondo.}
