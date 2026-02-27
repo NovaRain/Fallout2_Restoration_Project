@@ -85,12 +85,12 @@ Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
 {330}{}{No shit, another Tragic player? Hmm, that kind of changes things... I wonder if he'd have a Black Dahlia to
  trade. Alright. I'll go if you'll escort me.}
 {331}{}{Andiamo.}
-{332}{}{Alright, but I need to take care of some things first. I'll let you know when I'm ready to go.}
+{332}{}{Va bene, ma devo prima sistemare alcune cose. Ti faro' sapere quando sono pronto a partire.}
 {340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
 {341}{}{Bene. Come preferisci. Arrivederci.}
 {350}{}{Cosa vuoi?}
-{351}{}{I just wanted to say hi. See ya.}
-{352}{}{I changed my mind. I'll format the computer for you.}
+{351}{}{Volevo solo salutarti. Ci vediamo.}
+{352}{}{Ho cambiato idea. Formattero' il computer per te.}
 {353}{}{Hey, you might want to reconsider my offer to take you to Gecko, because I know
  someone there that loves a good game of Tragic.}
 {354}{}{Hey, I know someone in Gecko that loves a good game of Tragic. I could take you there.}
@@ -105,21 +105,21 @@ Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
  I, uh, "borrowed" this from the Abbey's Memorabilia, amazingly it's one of the few tech relics that still works.
  [He hands you a Stealth Boy.] See ya.}
 {373}{}{Grazie. Ciao.}
-{374}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
+{374}{}{Sono solo felice di non doverti sentire lamentare ancora. Arrivederci.}
 {380}{}{Holy shit, Wooz *does* have a Black Dahlia! That alone has made this trip worthwhile. Sure, the ghouls are ugly
  as hell, but I found if I take off my glasses, then they're kinda tolerable. Anyway, thanks a lot for bringing me here.
  Here, [He reaches into his pocket, then frowns.] what the hell? I could swear I had it. Uh, sorry, but looks like I misplaced
  your reward, so you'll have to make due with a simple thanks. See ya.}
-{381}{}{Oh, uh, don't worry about it. Just glad I could help. Bye.}
-{382}{}{I'm just happy I won't have to hear you bitch anymore. Bye.}
+{381}{}{Oh, uh, non preoccuparti. Sono solo contento di aver potuto aiutare. Arrivederci.}
+{382}{}{Sono solo felice di non doverti sentire lamentare ancora. Arrivederci.}
 {400}{}{Can't talk... must build more powerful deck...}
 {500}{}{Lasciami in pace.}
 {501}{}{Vattene.}
-{502}{}{Fuck off.}
+{502}{}{Vaffanculo.}
 {600}{}{Oh, hey, it's you. Somebody blew up the reactor at Gecko and all the ghouls left. No reason for me to stay there,
  so I left and came back here. Luckily for me the monks here didn't question my absence, so I'm not in any trouble for leaving.
  This sucks though, I thought I was going to have a new life doing what I love. [He sighs deeply]}
-{601}{}{Sorry to hear that. See you around.}
+{601}{}{Mi dispiace sentire questo. A presto.}
 {602}{}{That's life. One minute you're on top of the world and the next instant you're face down in the mud. Live and learn. Bye.}
-{610}{}{Guess I just gotta get used to this place.}
+{610}{}{Immagino che dovro' solo abituarmi a questo posto.}
 {1000}{}{You safely escort Brother Jason to his new home.}

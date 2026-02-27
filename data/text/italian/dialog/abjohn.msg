@@ -1,20 +1,20 @@
-{100}{}{You see Brother John.}
-{101}{}{You see one of the Abbey's older Monks.}
-{102}{}{You see an old monk. He looks to be in his early seventies.}
-{300}{}{Hi there, youngster.}
+{100}{}{Vedi Fratello John.}
+{101}{}{Vedi uno dei monaci piu' anziani dell'Abbazia.}
+{102}{}{Vedi un vecchio monaco. Sembra avere poco piu' di settant'anni.}
+{300}{}{Ciao, giovanotto.}
 {301}{}{Chi sei?}
-{302}{}{Have you heard anything about a GECK or Vault 13?}
+{302}{}{Hai sentito parlare di un GECK o del Vault 13?}
 {303}{}{Addio.}
-{400}{}{My name is John, I'm one of the oldest monks here.}
-{401}{}{So, what's your job?}
-{402}{}{I see, bye.}
+{400}{}{Mi chiamo John, sono uno dei monaci piu' anziani qui.}
+{401}{}{Allora, qual e' il tuo compito?}
+{402}{}{Capisco. Arrivederci.}
 {403}{}{Well, I used to work on a farm, but it was bad for my heart.}
-{404}{}{You have heart problems?}
-{405}{}{That's too bad, bye!}
+{404}{}{Hai problemi al cuore?}
+{405}{}{Che peccato, arrivederci!}
 {406}{}{Yeah, I have a bad heart. If I still had my heart pills, it would ease my life a lot more. It is very difficult
  to find medicine for that problem in today's world you know.}
-{407}{}{I might have a solution for your heart problems...}
-{408}{}{Sorry to hear that, Bye.}
+{407}{}{Potrei avere una soluzione per i tuoi problemi al cuore...}
+{408}{}{Mi dispiace sentire questo. Arrivederci.}
 {410}{}{Addio.}
 {411}{}{You do? Are you saying that you actually HAVE heart pills?}
 {412}{}{Yes, I do. It would be a pleasure to give them to you.}
