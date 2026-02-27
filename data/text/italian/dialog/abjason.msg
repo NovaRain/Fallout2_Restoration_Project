@@ -54,45 +54,40 @@ finalmente abbandonare questo stupido stile di vita. Allora, che ne dici?}
 {274}{}{Se non ti piace stare qui, perché non te ne vai e basta?}
 {280}{}{Stai scherzando? Mi crocifiggerebbero se lo facessi. Tu, invece… tu sei un avventuriero esperto. 
 Diamine, scommetto che potresti massacrare tutti qui senza nemmeno sudare. Allora, lo fai o hai paura di un branco di monaci pacifisti?}
-{281}{}{I'm not afraid of anyone. I'll do it.}
-{282}{}{Alright. I'll do it.}
-{283}{}{Nah, instead I think I'll test out your massacre theory. Starting with you.}
-{284}{}{I'll pass. That's just not my style. Bye.}
-{285}{}{No, I'm not going to do it. If you hate it here, why don't you just leave?}
-{286}{}{Unless you've changed your mind about helping me, fuck off.}
-{287}{}{Alright. I'll do it.}
-{288}{}{No, I'm not going to do it. If you hate it here, why don't you just leave?}
-{290}{}{You will? Seriously? Oh man, that's awesome. But first, you'll need to get access, 'cause they're pretty protective
- of the database. It shouldn't be too hard though, these monks are pretty trusting. They're gonna be pissed as hell when
- you format it, but they're all a bunch of wimps, so don't worry about it. Just try not to kill anyone -- I don't want things
- to get too out of hand, you know?}
-{291}{}{Sure. Anything else?}
-{292}{}{I make no promises. Anything else?}
-{300}{}{Just format it, then take off, cause they're not going to want you around here. Don't even bother to come tell me
- you did it, because I'll have to act just as pissed as everyone else or they'll suspect something's up. Thanks again for
- doing this. It's for their own good.}
-{301}{}{Whatever you say. Bye.}
-{310}{}{Are you crazy? I've never been out in the wastes, but I've got a pretty damn good idea as to what it's like. I'd
- be lucky to make if fifty yards before a radscorpion shoved a foot-long stinger up my ass. Or even worse, I'd get captured
- and tortured by a gang of maniac raiders *or* I'd be eaten alive by cannibalistic tribals. Whatever. I just know that if
- I left here, I'd be fucked. So no, I'm stuck here.}
-{311}{}{Hey, it's not *that* bad out there... Actually, you're right. You probably wouldn't even make it to Gecko.
- At least, not without help. But what if I said I'd escort you?}
-{312}{}{Sucks to be you. Bye.}
-{313}{}{Keep your hopes up. I'm sure there is a town nearby that would be safe to travel to.}
-{315}{}{Yeah, well if you find one, let me know.}
+{281}{}{Non ho paura di nessuno. Lo faro'.}
+{282}{}{Va bene, lo faro'. }
+{283}{}{Nah, invece penso che mettero' alla prova la tua teoria del massacro. A partire da te.}
+{284}{}{Passo. Non e' proprio il mio stile. Ciao.}
+{285}{}{No, non lo faro'. Se ti trovi cosi' male qui, perche' non te ne vai tu?}
+{286}{}{A meno che tu non abbia cambiato idea sull'aiutarmi, vaffanculo.}
+{287}{}{Va bene, lo faro'. }
+{288}{}{No, non lo faro'. Se ti trovi cosi' male qui, perche' non te ne vai tu?}
+{290}{}{Lo farai? Sul serio? Oh, amico, fantastico. Pero' prima dovrai riuscire ad avere accesso, perche' sono parecchio protettivi riguardo al database. 
+Non dovrebbe essere troppo difficile comunque: questi monaci si fidano di chiunque. Si incazzeranno da morire quando lo formatterai, ma sono tutti dei deboli, quindi non preoccuparti. Cerca solo di non ammazzare nessuno — non voglio che la situazione degeneri troppo, ok?}
+{291}{}{Grande. Nient'altro?}
+{292}{}{Non faccio promesse. Altro?}
+{300}{}{Formatta il database e poi sparisci, perche' non vorranno piu' vederti in giro da queste parti. E non preoccuparti nemmeno di venire a dirmi che l’hai fatto: dovro' incazzarmi come tutti gli altri, altrimenti sospetteranno qualcosa. Grazie ancora per quello che stai facendo. E' per il loro bene.}
+{301}{}{Come vuoi. Arrivederci.}
+{310}{}{Sei impazzito? Non sono mai uscito nelle Lande, ma ho un’idea fin troppo chiara di com’e' la situazione la' fuori. 
+Sarei fortunato ad arrivare a cinquanta metri prima che uno scorpione radioattivo mi pianti un pungiglione lungo un piede nel culo. O peggio: potrei venire catturato e torturato da una banda di razziatori fuori di testa oppure finire mangiato vivo da tribali cannibali. 
+Qualunque cosa. So solo che, se me ne andassi da qui, sarei fottuto. Quindi no, sono bloccato qui.}
+{311}{}{Ehi, non e' *cosi'* brutto la' fuori... In realta', hai ragione. Probabilmente non arriveresti nemmeno a Gecko.
+Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
+{312}{}{Che sfiga essere te. Arrivederci.}
+{313}{}{Non perdere la speranza. Sono sicuro che ci sia una citta' nelle vicinanze dove potresti recarti in sicurezza.}
+{315}{}{Si', beh, se ne trovi una, fammelo sapere.}
 {316}{}{Lo faro'. Ci vediamo.}
-{320}{}{To Gecko? That's the ghoul town, right? Thanks, but no thanks.}
-{321}{}{Hey, the ghouls there are actually really friendly. Besides, I know one in particular that loves a good game of Tragic.}
+{320}{}{A Gecko? E' la citta' dei ghoul, giusto? Grazie, ma no grazie.}
+{321}{}{Ehi, i ghoul la' sono davvero molto amichevoli. Inoltre, ne conosco uno in particolare che ama fare una bella partita a Tragic.}
 {322}{}{Hey, the ghouls there are actually really friendly.}
 {323}{}{Hey, I hear the ghouls there are actually really friendly.}
-{324}{}{Alright. Suit yourself. Bye.}
+{324}{}{Bene. Come preferisci. Arrivederci.}
 {330}{}{No shit, another Tragic player? Hmm, that kind of changes things... I wonder if he'd have a Black Dahlia to
  trade. Alright. I'll go if you'll escort me.}
-{331}{}{Lets go.}
+{331}{}{Andiamo.}
 {332}{}{Alright, but I need to take care of some things first. I'll let you know when I'm ready to go.}
 {340}{}{Oh yeah? That doesn't change the fact that they look like brahmin shit. No thanks.}
-{341}{}{Alright. Suit yourself. Bye.}
+{341}{}{Bene. Come preferisci. Arrivederci.}
 {350}{}{Cosa vuoi?}
 {351}{}{I just wanted to say hi. See ya.}
 {352}{}{I changed my mind. I'll format the computer for you.}

@@ -28,7 +28,7 @@
 {701}{}{Interessante. Ci vediamo.}
 {702}{}{Pensi di potermi dare un po' delle tue medicine? Sembri averne in abbondanza.}
 {703}{}{Vuoi che te le dia cosi', senza niente in cambio? Cosa ti fa pensare di meritarle piu' della gente dell'Abbazia?}
-{704}{}{Because I tend to get hurt... a lot.}
+{704}{}{Perche' tendo a farmi male... spesso.}
 {705}{}{Perche' sono in una missione sacra per trovare un Garden of Eden Creation Kit. Capisci, tutto il mio villaggio morira' se non trovo questo dispositivo in tempo. La tua gente, invece, sembra vivere una vita tranquilla, senza grande bisogno di cosi' tante medicine. Non ti sto chiedendo molto, anche la quantita' piu' piccola che puoi darmi mi aiuterebbe enormemente.}
 {706}{}{[Riflette un momento sulle tue parole, poi annuisce.] Va bene, ti daro' un po' delle nostre scorte mediche in eccesso. Sembra che te ne serviranno. Tieni.
 [Te le porge.] Buona fortuna, viandante.}
