@@ -4,7 +4,7 @@
 {103}{}{Zia Patty. Ben tolto di mezzo, davvero.}
 {104}{}{Qui giace Per Joner. Morì con un sasso di meno."}
 {105}{}{Qui giace Padre Michael. Fondatore, Padre, Combattente.}
-{106}{}{"An Atheist. All dressed up and no place to go."}
+{106}{}{"Qui giace un Ateo vestito di tutto punto, ma senza un posto dove andare."}
 {107}{}{"Qui giace Johnny Yeast. Scusate se non mi alzo."}
 {108}{}{Mary Jane. Moglie e madre amorevole.}
 {109}{}{"'Scacco matto!' fu il grido per il caro vecchio Jon, Sulla scacchiera della vita, Era solo un pedone.}
@@ -12,6 +12,6 @@
 {111}{}{"Le lacrime non possono restituirmela -- quindi piango."}
 {112}{}{"Ogni giorno, in ogni modo, sto migliorando sempre di più."}
 {250}{}{Non ci sono scritte su questo paletto.}
-{251}{}{The grave marker is too cracked and broken to be read.}
+{251}{}{Il paletto segnatombe e' troppo incrinato e rotto per poter essere letto.}
 {252}{}{Inciso su questo paletto c'e' il nome John Doe.}
 {253}{}{Il nome e la data su questo paletto sono stati cancellati dalle intemperie.}
