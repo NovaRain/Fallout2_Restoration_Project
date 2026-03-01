@@ -54,7 +54,7 @@
 {800}{}{Va bene, consegnalo.}
 {801}{}{Ecco qua.}
 {900}{}{Questo dovrebbe bastare.}
-{901}{}{The water pump has been repaired.}
+{901}{}{La pompa dell'acqua e' stata riparata.}
 {910}{}{(Wipes the sweat from his forehead.) Yeah, need something?}
 {911}{}{L'Abate ha detto che potresti aver bisogno di aiuto. Qual e' il problema?}
 {912}{}{Non importa. Arrivederci.}
