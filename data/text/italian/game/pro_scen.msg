@@ -2272,9 +2272,9 @@
 {137700}{}{Vertibird}
 {137701}{}{Un grande velivolo militare.}
 {137800}{}{Porta Distrutta}
-{137801}{}{The rubble completely blocks the entrance.}
+{137801}{}{Le macerie bloccano completamente l'ingresso.}
 {137900}{}{Porta Distrutta}
-{137901}{}{The rubble completely blocks the entrance.}
+{137901}{}{Le macerie bloccano completamente l'ingresso.}
 {138000}{}{Parete}
 {138100}{}{Parete}
 {138200}{}{Parete}

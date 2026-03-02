@@ -1045,7 +1045,7 @@
 {54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
 {54100}{}{Chinese Army: Special Ops Manual}
 {54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
-{54200}{}{Bottle of wine}
+{54200}{}{Bottiglie di Birra...}
 {54201}{}{A fresh bottle of Abbey's finest wine.}
 {54300}{}{Diario}
 {54301}{}{It appears to be a diary which belonged to a young girl. The writing on the inside cover says: "Property of Anna" Most of the pages are either torn or faded, but one is still readable. "Day 271: Today my mother gave me a gold locket. It is the most beautiful thing I have ever owned. I will never part with it."}
@@ -1069,14 +1069,14 @@
 {55201}{}{Several cans of dog food.}
 {55300}{}{Bug Spray}
 {55301}{}{A spray can full of a substance that kills all known bugs.}
-{55400}{}{Environmental Armor}
+{55400}{}{Armatura ambientale}
 {55401}{}{Armor best worn against biological attacks.}
 {55500}{}{EPA Pamphlet}
 {55501}{}{A leaflet given out at the beginning of tours.}
 {55600}{}{Drugs}
 {55601}{}{Some sort of drugs preserved from before the war.}
 {55700}{}{Security Rooms Key Card}
-{55701}{}{A key card to unlock the security rooms.}
+{55701}{}{Un tesserino per sbloccare le stanze di sicurezza.}
 {55800}{}{Test tube rack}
 {55801}{}{A rack for holding chemical test tubes.}
 {55900}{}{Keys}

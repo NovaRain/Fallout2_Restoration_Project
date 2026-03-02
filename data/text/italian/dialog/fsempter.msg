@@ -125,8 +125,8 @@
 {230}{}{[The screen flashes for a second before switching to a monochromatic display filled with Chinese symbols.
  After a few moments, the screen clears and displays a list of contents. Most of the files are ancient and corrupted,
  but there are several that seem to be still intact.]}
-{231}{}{People's Liberation Army Navy                                       Emperor v. 4.01 Access Terminal
-                                    Please make a selection:}
+{231}{}{Marina dell’Esercito di Liberazione del Popolo                                    Terminale di Accesso Emperor v. 4.01
+                                  Si prega di effettuare una selezione:}
 {232}{}{Submarine status}
 {233}{}{Chinese Intelligence Network}
 {234}{}{Comlinks}
