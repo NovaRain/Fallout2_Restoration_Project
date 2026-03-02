@@ -2270,7 +2270,7 @@
 {137600}{}{Torcia}
 {137601}{}{Una torcia accesa, posta in un sostegno a muro.}
 {137700}{}{Vertibird}
-{137701}{}{A large military aircraft.}
+{137701}{}{Un grande velivolo militare.}
 {137800}{}{Porta Distrutta}
 {137801}{}{The rubble completely blocks the entrance.}
 {137900}{}{Porta Distrutta}
@@ -2604,12 +2604,12 @@
 {169400}{}{Ombra}
 {169500}{}{Ombra}
 {169600}{}{Ombra}
-{169700}{}{Strange machine, crashed}
-{169800}{}{Strange machine, crashed}
-{169900}{}{Strange machine, crashed}
-{170000}{}{Strange machine, crashed}
-{170100}{}{Strange machine, crashed}
-{170200}{}{Strange machine, crashed}
+{169700}{}{Strana macchina, schiantata}
+{169800}{}{Strana macchina, schiantata}
+{169900}{}{Strana macchina, schiantata}
+{170000}{}{Strana macchina, schiantata}
+{170100}{}{Strana macchina, schiantata}
+{170200}{}{Strana macchina, schiantata}
 {170300}{}{Ombra}
 {170400}{}{Ombra}
 {170500}{}{Ombra}
@@ -2634,9 +2634,9 @@
 {172200}{}{Vetro Anti-Proiettile}
 {172300}{}{Vetro Anti-Proiettile}
 {172400}{}{Torretta Laser Pesante}
-{172401}{}{The turret rotates in a menacing way.}
+{172401}{}{La torretta ruota in modo minaccioso.}
 {172500}{}{Torretta Laser Pesante}
-{172501}{}{The turret rotates in a menacing way.}
+{172501}{}{La torretta ruota in modo minaccioso.}
 {172600}{}{Rocce}
 {172700}{}{Rocce}
 {172800}{}{Rocce}
@@ -3459,11 +3459,11 @@
 {229200}{}{Heavy Laser Tower}
 {229201}{}{The laser turret rests on this concrete tower.}
 {229300}{}{Torretta Laser Pesante}
-{229301}{}{The turret rotates in a menacing way.}
+{229301}{}{La torretta ruota in modo minaccioso.}
 {229400}{}{Heavy Laser Tower}
 {229401}{}{The laser turret rests on this concrete tower.}
 {229500}{}{Torretta Laser Pesante}
-{229501}{}{The turret rotates in a menacing way.}
+{229501}{}{La torretta ruota in modo minaccioso.}
 {229800}{}{Film Poster}
 {229801}{}{An old tatered film poster. "Hobo With a Shotgun".}
 {229900}{}{An odd looking creature}
