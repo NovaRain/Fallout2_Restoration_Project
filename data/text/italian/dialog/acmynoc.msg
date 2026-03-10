@@ -113,26 +113,26 @@
 {429}{}{Ne ho abbastanza.}
 {430}{}{Mentre tu passeggi per le lande, qui la nostra gente muore. Forse dovresti cercare da qualche altra parte invece che tornare qui.}
 {500}{}{Hai gia' parlato con l'Anziana?}
-{600}{}{Any final advice for me before I head out into the unknown?}
-{601}{}{Certainly. Beware the weapons of the Outsiders. The gecko's bite is nothing compared to the destructive power of their boom-sticks.}
+{600}{}{Hai qualche consiglio finale per me prima che mi avventuri nell'ignoto?}
+{601}{}{Certamente. Guardati dalle armi degli Estranei. Il morso del gecko non e' nulla rispetto al potere distruttivo dei loro bastoni-tuono.}
 {602}{}{Got it. Anything else?}
-{603}{}{Do not give your trust freely. Honor means very little out in the wastes. Stay alert and always question the motives of others.}
+{603}{}{Non dare la tua fiducia liberamente. L'onore significa molto poco nelle Lande. Resta vigile e metti sempre in dubbio le motivazioni degli altri.}
 {604}{}{Sure thing. Is that all?}
-{605}{}{Never forget your roots. The world outside our village is full of shiny toys and luxuries that might make our life here in Arroyo appear simple and plain.
- But remember that the lifestyle of the Outsiders produces wicked men ruled by greed and corruption. Be wary not to become like He-Who-Must-Not-Be-Named.}
+{605}{}{Non dimenticare mai le tue radici. Il mondo fuori dal nostro villaggio e' pieno di giocattoli luccicanti e lussi che potrebbero far sembrare la nostra vita qui ad Arroyo semplice e banale.
+ Ma ricorda che lo stile di vita degli Estranei produce uomini malvagi dominati dall'avidita' e dalla corruzione. Stai attento a non diventare come Colui-Che-Non-Deve-Essere-Nominato.}
 {606}{}{I'll never forget my roots. Thanks for the advice, Mynoc.}
-{607}{}{He-Who-Must-Not-Be-Named? Uh... who?}
-{608}{}{Are you so drunk with the glory of being the Chosen One that you've forgotten about... [Mynoc quickly glances around to be sure no one is listening in, then leans forward and lowers his voice to a whisper.] ... Kaga?}
-{609}{}{Oh! Yeah, that guy. I'll make sure I don't end up like him. Thanks.}
-{610}{}{Oh, that's who I thought you meant. But, uh, why don't you go ahead and tell me what his deal is again. I really love that story.}
-{611}{}{[Mynoc mumbles something under his breath and shakes his head before beginning his tale.] As you should know, he was once the greatest warrior of our tribe. He led many expeditions into the outside world, and it was there where corruption began to poison his mind.}
-{612}{}{He became infatuated with the ways of the Outsiders, where power could bring anyone great respect and luxury. He began to view himself as superior to his fellow tribesmen who were content to live a more simple life.}
+{607}{}{Colui-Che-Non-Deve-Essere-Nominato? Ehm... chi?}
+{608}{}{Sei cosi' ubriaco della gloria di essere il Prescelto da aver dimenticato... [Mynoc si guarda velocemente intorno per assicurarsi che nessuno stia ascoltando, poi si sporge in avanti e abbassa la voce fino a un sussurro.] ... Kaga?}
+{609}{}{Oh! Si', quel tipo. Faro' in modo di non finire come lui. Grazie.}
+{610}{}{Oh, e' quello che pensavo intendessi. Ma, ehm, perche' non mi racconti di nuovo la sua storia. Adoro davvero quella storia.}
+{611}{}{[Mynoc borbotta qualcosa tra se' e se' e scuote la testa prima di iniziare il racconto.] Come dovresti sapere, era un tempo il piu' grande guerriero della nostra tribu'. Ha guidato molte spedizioni nel mondo esterno, ed e' li' che la corruzione ha iniziato ad avvelenare la sua mente.}
+{612}{}{Si infatuo' dei modi degli Estranei, dove il potere poteva portare a chiunque grande rispetto e lusso. Comincio' a considerarsi superiore ai suoi compagni di tribu' che erano contenti di vivere una vita piu' semplice.}
 {613}{}{What a jerk.}
 {614}{}{Continua.}
-{615}{}{When our tribe fell into these hard times, he deemed himself our people's savior and entered the Temple of Trials to prove himself to be the Chosen One.}
+{615}{}{Quando la nostra tribu' cadde in questi tempi difficili, si ritenne il salvatore del nostro popolo ed entro' nel Tempio delle Prove per dimostrare di essere il Prescelto.}
 {616}{}{Continua.}
 {617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
-{618}{}{He made his way through the Temple, quickly reaching the final test: a hand-to-hand battle with a fellow warrior.}
+{618}{}{Si fece strada attraverso il Tempio, raggiungendo rapidamente la prova finale: un combattimento corpo a corpo con un altro guerriero.}
 {619}{}{Continua.}
 {620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
 {621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
