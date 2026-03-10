@@ -134,28 +134,28 @@
 {617}{}{Nevermind, I don't want to hear this story anymore. Bye.}
 {618}{}{Si fece strada attraverso il Tempio, raggiungendo rapidamente la prova finale: un combattimento corpo a corpo con un altro guerriero.}
 {619}{}{Continua.}
-{620}{}{Wait, he blew up that door and everything? Do we have it rebuilt every time someone goes through the temple? Speaking of that, who built the temple in the first place?}
-{621}{}{I don't have time to answer all your silly questions. Do you want me to finish the tale, or not?}
+{620}{}{Aspetta, ha fatto saltare quella porta e tutto il resto? Lo facciamo ricostruire ogni volta che qualcuno attraversa il tempio? A proposito, chi ha costruito il tempio in primo luogo?}
+{621}{}{Non ho tempo di rispondere a tutte le tue domande stupide. Vuoi che finisca il racconto, o no?}
 {622}{}{Sorry. Please continue.}
 {623}{}{Actually, I think I'm ready to go. See you around.}
-{624}{}{During the final trial, He-Who-Must-Not-Be-Named unsheathed a hidden blade and used it to kill his opponent. When the Elder confronted him about his dishonorable use of a hidden weapon, he argued that it was not cheating, but rather proved him to be a cunning warrior.}
-{625}{}{The Elder did not agree. He-Who-Must-Not-Be-Named was forcibly exiled from our tribe and his name was never to be spoken amongst us again. As he was cast away into the wastes, he swore an oath of vengeance. Vengeance against our tribe, and especially against you.}
+{624}{}{Durante la prova finale, Colui-Che-Non-Deve-Essere-Nominato sfodero' una lama nascosta e la uso' per uccidere il suo avversario. Quando l'Anziano lo confronto' sul disonorevole uso di un'arma nascosta, sostenne che non era barare, ma piuttosto che dimostrava di essere un guerriero astuto.}
+{625}{}{L'Anziano non era d'accordo. Colui-Che-Non-Deve-Essere-Nominato fu esiliato a forza dalla nostra tribu' e il suo nome non doveva essere mai piu' pronunciato tra noi. Mentre veniva scacciato nelle Lande, giuro' un voto di vendetta. Vendetta contro la nostra tribu', e specialmente contro di te.}
 {626}{}{Me? What'd I do?}
 {627}{}{Thanks for the story, but I'd best be on my way now.}
-{628}{}{You are the Chosen One, a title he feels is rightfully his. His pride will not allow you to live.}
-{629}{}{I'm not going to worry about it. He's probably dead out in the wastes by now, anyway.}
-{630}{}{I'll be on my guard. Hopefully he's dead out in the wastes by now.}
-{631}{}{Listen, and understand. He-Who-Must-Not-Be-Named is out there. He can't be bargained with. He can't be reasoned with. He won't feel pity, or remorse, or fear. And he absolutely will not stop, ever, until you are dead.}
-{632}{}{You know, I think you might be overdoing it with the melodrama, just a tad. Anyway, thanks for the advice. I'll see you around, Mynoc.}
+{628}{}{Tu sei il Prescelto, un titolo che lui ritiene essere giustamente suo. Il suo orgoglio non gli permettera' di lasciarti vivere.}
+{629}{}{Non mi preoccupero' di questo. E' probabilmente morto nelle Lande ormai, comunque.}
+{630}{}{Staro' in guardia. Sperabilmente e' morto nelle Lande ormai.}
+{631}{}{Ascolta e capisci. Colui-Che-Non-Deve-Essere-Nominato e' la' fuori. Non si puo' trattare con lui. Non si puo' ragionare con lui. Non provera' pieta', ne' rimorso, ne' paura. E non si fermera' assolutamente mai, finche' non sarai morto.}
+{632}{}{Sai, penso che tu stia esagerando un po' con il melodramma. Comunque, grazie per il consiglio. Ci vediamo in giro, Mynoc.}
 {633}{}{I'll keep that in mind. Take care, Mynoc.}
 {640}{}{Could you tell me anything about this Kaga guy?}
-{641}{}{[His eyes go wide and he looks around nervously as if expecting to suddenly be struck by lightning.] Have you lost your senses out in the wastes?! You should know better than to speak the name of the outcast! He is to be referred to only as He-Who-Must-Not-Be-Named.
- Our village suffers enough without inviting the wrath of the Gods upon us. [He raises his eyes nervously to the sky.]}
-{642}{}{Sorry about that, Mynoc. But would you mind telling me what Ka... I mean, "He-Who's" deal is again? I really love that story.}
-{643}{}{You know, I'd forgotten how stupidly superstitious you people could be. I'll see you around.}
-{650}{}{I've faced him before, so I'm sure I can handle him if our paths cross again.}
-{651}{}{Actually, he's already dead. I left his corpse out there to rot in the wastes.}
-{660}{}{[Mynoc nods grimly.] He may have strayed from the path, but he was once a great and respected warrior. I hope his troubled soul has found peace in the next world.}
+{641}{}{[I suoi occhi si spalancano e si guarda intorno nervosamente come se si aspettasse di essere colpito all'improvviso da un fulmine.] Hai perso il senno nelle Lande?! Dovresti sapere che non si deve pronunciare il nome del reietto! Deve essere indicato solo come Colui-Che-Non-Deve-Essere-Nominato.
+ Il nostro villaggio soffre abbastanza senza attirare l'ira degli Dei su di noi. [Alza gli occhi nervosamente verso il cielo.]}
+{642}{}{Mi dispiace, Mynoc. Ma ti dispiacerebbe raccontarmi ancora la storia di Ka... voglio dire, di "Colui-Che"? Adoro davvero quella storia.}
+{643}{}{Sai, avevo dimenticato quanto stupidamente superstiziosa potesse essere la vostra gente. Ci vediamo in giro.}
+{650}{}{L'ho gia' affrontato, quindi sono sicuro di poterlo gestire se le nostre strade si incroceranno di nuovo.}
+{651}{}{In realta', e' gia' morto. Ho lasciato il suo cadavere la' fuori a marcire nelle Lande.}
+{660}{}{[Mynoc annuisce cupamente.] Potrebbe essersi allontanato dal cammino, ma era un tempo un grande e rispettato guerriero. Spero che la sua anima tormentata abbia trovato pace nell'altro mondo.}
 {661}{}{Indeed. I'll see you around, Mynoc.}
 {662}{}{Whatever. He seemed like an asshole to me. I'll see you around, Mynoc.}
 {1000}{}{Elder}
