@@ -2,7 +2,7 @@
 {101}{}{You see a tough, ruthless bounty hunter.}
 {110}{}{Vedi un duro e spietato cacciatore di taglie. Non sembra che parli molto. Ha aiutato con i nuovi script e le idee. E con l'uccidere persone.}
 {200}{}{You see Hivan Zolo.}
-{201}{}{A scruffy lookin', but handsome rogue.}
+{201}{}{Un farabutto dall'aspetto trasandato, ma affascinante.}
 {210}{}{Ragazzo, ho volato da un lato all'altro di questa galassia, e ho visto un sacco di roba strana, ma non ho mai visto *nulla* che mi faccia credere che ci sia una Forza onnipotente che controlla tutto.
  Perche' nessun campo di energia mistico controlla *il mio* destino. E' tutta una questione di trucchi semplici e sciocchezze. Religioni bizzarre e armi antiche non valgono un buon blaster al tuo fianco. Capisco quando uno e' bravo
  con una pistola, quindi prendi questo. Fidati: tornera' utile quando hai una taglia sulla testa. (Ti porge un blaster.)}
@@ -230,44 +230,44 @@
 {2061}{}{Cosi' tanti nuovi dettagli adesso. Cosi' bello.}
 {2100}{}{You see Mash.}
 {2101}{}{He nods at you.}
-{2110}{}{Greetings! Glad you've made it this far. I hope you are enjoying the expanded visible size of this world. Not enough
- of this world could be shown at any one time. I changed all this though. Empress Timeslip and I are masters of the
- Source. He and I have brought this old world into a new era.}
-{2111}{}{Wow, thanks for that. Everything is a lot better. Sometimes a bit too small, but I can easily adjust that.}
+{2110}{}{Saluti! Contento che tu sia arrivato fin qui. Spero che tu stia apprezzando la visibilita' espansa di questo mondo. Non abbastanza
+ di questo mondo poteva essere mostrato in un solo momento. Ho cambiato tutto cio' pero'. L'Imperatrice Timeslip ed io siamo maestri del
+ Sorgente. Lei ed io abbiamo portato questo vecchio mondo in una nuova era.}
+{2111}{}{Wow, grazie per questo. Tutto e' molto meglio. A volte un po' troppo piccolo, ma posso facilmente regolarlo.}
 {2112}{}{I don't have time for this. Bye.}
-{2120}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have taken advantage of this
- new ability. Outstanding!}
-{2121}{}{Oh, I love my new looks. Thanks for that!}
+{2120}{}{Sono contento che tu stia apprezzando il mio duro lavoro. Ho anche reso possibile cambiare aspetto. Non sei piu' bloccato
+ con una razza o un tipo di capelli specifici. Yosan12, x'il e altri hanno creato gli aspetti fisici stessi, ma io, con l'
+ aiuto dell'Imperatrice Timeslip, ho scavato a fondo nel Sorgente per rendere tutto possibile. Vedo che hai approfittato di questa
+ nuova abilita'. Eccellente!}
+{2121}{}{Oh, adoro il mio nuovo aspetto. Grazie per questo!}
 {2122}{}{Right. Goodbye.}
-{2130}{}{I'm glad you are enjoying my hard work. I also made it possible to change appearances. No longer are you stuck
- with a specific race or hair type. Yosan12, x'il, and others made the physical appearances themselves, but I, with the
- help of Empress Timeslip, dug deep into the Source to make it all possible. I see that you have not taken advantage of
- this feature. Just know that it is there and available. A great place to test it out is at the EPA. Oh, what fun!}
+{2130}{}{Sono contento che tu stia apprezzando il mio duro lavoro. Ho anche reso possibile cambiare aspetto. Non sei piu' bloccato
+ con una razza o un tipo di capelli specifici. Yosan12, x'il e altri hanno creato gli aspetti fisici stessi, ma io, con l'
+ aiuto dell'Imperatrice Timeslip, ho scavato a fondo nel Sorgente per rendere tutto possibile. Vedo che non hai approfittato di
+ questa funzione. Sappi solo che e' li' e disponibile. Un ottimo posto per provarla e' all'EPA. Oh, che divertimento!}
 {2131}{}{I'll keep that in mind. Thanks.}
 {2132}{}{Right. Goodbye.}
 {2140}{}{Most excellent. Well, you take care.}
 {2141}{}{Arrivederci.}
 {2142}{}{Ci si vede.}
-{2150}{}{The Source is tricky, but I can handle it.}
-{2151}{}{Enjoy the expanded visibility of this world!}
+{2150}{}{Il Sorgente e' complicato, ma riesco a gestirlo.}
+{2151}{}{Goditi la visibilita' espansa di questo mondo!}
 {2152}{}{Enjoy the new you!}
 {2200}{}{You see Mikael Grizzly.}
 {2201}{}{This animal is extremely furry.}
-{2210}{}{Hello there. I helped bring the submarine back into this world.}
-{2211}{}{You like how furry I am? I know I do.}
+{2210}{}{Salve. Ho aiutato a riportare il sottomarino in questo mondo.}
+{2211}{}{Ti piace quanto sono peloso? A me si'.}
 {2212}{}{Hope you enjoyed the sub.}
 {2300}{}{You see x'il.}
 {2301}{}{He looks at you with admiration.}
-{2310}{}{I helped a lot with critter appearances. Hope you have enjoyed it!}
-{2311}{}{Nice hair, man. I helped make that possible.}
+{2310}{}{Ho aiutato molto con gli aspetti delle creature. Spero che tu l'abbia apprezzato!}
+{2311}{}{Bei capelli, amico. Ho contribuito a renderlo possibile.}
 {2400}{}{You see a pile of rocks.}
 {2401}{}{There is a plaque on the rocks.}
-{2410}{}{There is a plaque on the pile of rocks. It reads: "Dedicated to Per Jorner. Master of the walkthroughs,
- King of the lizards, and Accumulator of all rocks.}
+{2410}{}{C'e' una targa sul mucchio di rocce. Recita: "Dedicato a Per Jorner. Maestro delle guide,
+ Re delle lucertole, e Accumulatore di tutte le rocce.}
 {2500}{}{You see a large mass of goo.}
-{2501}{}{This mass of goo seems to spell out something: "Dedicated to all those whose names have been forgotten, but
- yet helped make everything possible."}
+{2501}{}{Questa massa di melma sembra formare una scritta: "Dedicato a tutti coloro i cui nomi sono stati dimenticati, ma
+ che hanno comunque contribuito a rendere tutto possibile."}
 {2510}{}{}
 {5000}{}{Combat is not allowed here.}
