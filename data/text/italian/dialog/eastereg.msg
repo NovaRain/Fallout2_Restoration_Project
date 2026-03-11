@@ -1,6 +1,6 @@
 {100}{}{You see MIBoba Fe88.}
 {101}{}{You see a tough, ruthless bounty hunter.}
-{110}{}{You see a tough, ruthless bounty hunter. He doesn't look like he talks much. He helped with the new scripts and ideas. And with killing people.}
+{110}{}{Vedi un duro e spietato cacciatore di taglie. Non sembra che parli molto. Ha aiutato con i nuovi script e le idee. E con l'uccidere persone.}
 {200}{}{You see Hivan Zolo.}
 {201}{}{A scruffy lookin', but handsome rogue.}
 {210}{}{Kid, I've flown from one side of this galaxy to the other, and I've seen a lot of strange stuff, but I've never seen *anything* to make me believe that there's one all-powerful Force controlling everything.

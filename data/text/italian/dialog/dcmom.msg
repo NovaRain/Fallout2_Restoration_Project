@@ -135,15 +135,15 @@
  sia la loro scusa, un ladro e' un ladro. Ciao.}
 {820}{}{Buone notizie, mamma. L'edificio e' tutto tuo. Ho incontrato un piccolo ostacolo, ma quegli occupanti abusivi non ti daranno piu' fastidio.}
 {821}{}{Gli occupanti hanno detto che se ne andrebbero e che sono dispiaciuti per i problemi causati. Stanno attualmente pulendo il posto per cercare di rimediare. Pensavo che forse, se la cavano abbastanza bene, potresti offrire a qualcuno di loro un lavoro.}
-{822}{}{Oh, that's great news! Thank you so much! I just hope no one was hurt in the process. I'll get in touch with some friends and we'll get
- started right away. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh,
- I'm so excited! Thanks again. Here, this meal's on me.}
-{823}{}{Hmm... I suppose everyone deserves a second chance. I'll stop over there with some friends and we'll talk things over with 'em. Thank you so much
- for helping me with this. If you're still in town a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so
- excited! Thanks again. Here, this meal's on me.}
+{822}{}{Oh, che bella notizia! Grazie mille! Spero solo che nessuno si sia fatto male nel processo. Contattero' alcuni amici e inizieremo
+ subito. Se sei ancora in citta' tra qualche giorno, dovresti passare. Speriamo di avere tutto operativo entro allora. Oh,
+ sono cosi' emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}
+{823}{}{Hmm... suppongo che tutti meritino una seconda chance. Passero' la' con alcuni amici e ne parleremo con loro. Grazie mille
+ per avermi aiutato con questo. Se sei ancora in citta' tra qualche giorno, dovresti passare. Speriamo di avere tutto operativo entro allora. Oh, sono cosi'
+ emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}
 {824}{}{Thanks Mom. See you around.}
-{850}{}{You help establish an orphanage for the children of The Den.}
-{1821}{}{Good news, Mom. The building's all yours. It took a little convincing, but I got the squatters to agree to pack up and move on.
- I don't think they'll be bothering you again.}
-{1822}{}{Oh, that's great news! Thank you so much! I'll get in touch with some friends and we'll get started right away. If you're still in town
- a few days from now, you should stop by. Hopefully, we'll have things up and running by then. Oh, I'm so excited! Thanks again. Here, this meal's on me.}
+{850}{}{Aiuti a fondare un orfanotrofio per i bambini del Den.}
+{1821}{}{Buone notizie, mamma. L'edificio e' tutto tuo. Ci e' voluto un po' di convincimento, ma ho fatto accettare agli occupanti abusivi di fare i bagagli e andarsene.
+ Non credo che ti daranno piu' fastidio.}
+{1822}{}{Oh, che bella notizia! Grazie mille! Contattero' alcuni amici e inizieremo subito. Se sei ancora in citta' tra qualche giorno, dovresti passare.
+ Speriamo di avere tutto operativo entro allora. Oh, sono cosi' emozionata! Grazie ancora. Ecco, questo pasto e' offerto da me.}
