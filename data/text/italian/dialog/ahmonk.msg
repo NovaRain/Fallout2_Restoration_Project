@@ -121,38 +121,38 @@
 {801}{}{I'm happy to help. I'll report back on the progress.}
 {802}{}{Certo, sara' un piacere aiutare... per un compenso naturalmente.}
 {803}{}{Actually on second thought, let me ask you something else.}
-{804}{}{What!? Oh, fine. If that's the kind of person you are, then you shall receive payment for your service. Here's
- 25 coins to begin with.  Please let me know if something can be done. [The man sighs as he hands you the coins]}
-{805}{}{Hey, no need for the sighing. You think everything in life comes for free? Now, let me get to work.}
+{804}{}{Cosa!? Oh, va bene. Se sei fatto cosi', allora riceverai un compenso per il tuo servizio. Ecco
+ 25 monete per cominciare. Fammi sapere se si puo' fare qualcosa. [L'uomo sospira mentre ti porge le monete]}
+{805}{}{Ehi, non c'e' bisogno di sospirare. Pensi che tutto nella vita sia gratis? Ora lasciami lavorare.}
 {806}{}{Really? Please, do tell.}
-{807}{}{The motor gave out and fried all the connectors. I'm going to Vault City to get a new part.}
-{808}{}{Oh thank you. You are indeed a great help. Please report back once you install the new part.}
+{807}{}{Il motore ha ceduto e ha bruciato tutti i connettori. Vado a Vault City a prendere un pezzo nuovo.}
+{808}{}{Oh grazie. Sei davvero di grande aiuto. Per favore riferiscimi non appena installi il nuovo pezzo.}
 {809}{}{Lo farò. Torno subito.}
-{900}{}{You explain to the Abbot that while the information they hold could lead to mankind's annihilation, it could also lead to mankind's salvation.}
-{901}{}{You learn about the original founder of the Abbey.}
-{1000}{}{I killie scary monster down in cave.}
-{1010}{}{Really? That's great. That is very brave of you. You're a big boy.}
-{1011}{}{Really? That's great. That is very brave of you. You're a big girl.}
+{900}{}{Spieghi all'Abate che mentre le informazioni che custodiscono potrebbero portare all'annientamento dell'umanita', potrebbero anche portare alla sua salvezza.}
+{901}{}{Scopri del fondatore originale dell'Abbazia.}
+{1000}{}{Io ammazzato mostro brutto giu' in grotta.}
+{1010}{}{Davvero? Ottimo. Sei stato molto coraggioso. Sei un bravo ragazzo.}
+{1011}{}{Davvero? Ottimo. Sei stata molto coraggiosa. Sei una brava ragazza.}
 {1012}{}{(smile) I know.}
-{1020}{}{Did you happen to find a book lying there? A friend of mine had it, and he went missing.}
-{1021}{}{I find book. Here, it heavy and no pitchers inside.}
-{1022}{}{I no find book. Sorree. I go look now.}
+{1020}{}{Hai trovato per caso un libro la' dentro? Ce l'aveva un mio amico, ed e' scomparso.}
+{1021}{}{Io trovato libro. Ecco, e' pesante e dentro no figure.}
+{1022}{}{Io no trovato libro. Dispiacee. Io andare cercare adesso.}
 {1030}{}{I find book.}
 {1031}{}{That's great. Thanks. You're one special guy.}
 {1032}{}{That's great. Thanks. You're one special gal.}
-{1033}{}{YAY.}
-{1100}{}{I was down there earlier. I saw a few dead bodies, so I'm guessing one of them belonged to your missing monk. If
- it makes you feel any better, I killed the thing responsible for his death.}
-{1110}{}{Ah... so it's as I feared. Brother Thomas shall be dearly missed. You have my thanks for ridding us of whatever
- wasteland beasts lurked down there. However, I... I don't suppose you found a book while you were down there. It's a very
- important book that was last known to be in Brother Thomas's possession.}
-{1111}{}{No, but I suppose I could go back and check.}
+{1033}{}{EVVAI.}
+{1100}{}{Ero la' giu' prima. Ho visto alcuni cadaveri, quindi immagino che uno di loro fosse il vostro monaco scomparso. Se
+ puo' farti sentire meglio, ho ucciso la cosa responsabile della sua morte.}
+{1110}{}{Ah... quindi e' come temevo. Fratello Thomas ci manchera' molto. Ti ringrazio per averci liberato da qualunque
+ bestia delle Lande si nascondesse la' sotto. Tuttavia, io... non suppongo che tu abbia trovato un libro mentre eri la' giu'. E' un libro molto
+ importante che si sapeva essere in possesso di Fratello Thomas.}
+{1111}{}{No, ma suppongo di poter tornare a controllare.}
 {1112}{}{Do you mean this book?}
 {1113}{}{Before I go, let me ask you something else.}
 {1411}{}{Very interesting. I have to go now.}
 {3000}{}{Come posso aiutarti?}
-{4091}{}{So no one else has even bothered to go down there and check on him? What if he's simply trapped down there somehow, and he's slowly starving to death?}
-{4092}{}{I suppose that's possible, but you must understand. We are a peaceful people. The thought of going up against one of those wasteland monsters is terrifying to us. We're simply not equipped for such confrontations. }
+{4091}{}{Quindi nessun altro si e' preoccupato di scendere la' giu' a controllare? E se fosse semplicemente intrappolato la' in qualche modo, e stesse lentamente morendo di fame?}
+{4092}{}{Suppongo che sia possibile, ma devi capire. Siamo un popolo pacifico. Il solo pensiero di affrontare uno di quei mostri delle Lande ci terrorizza. Semplicemente non siamo attrezzati per tali scontri. }
 {4177}{}{I've killed the beast.}
-{4188}{}{Excellent! And how about the book; were you able to recover it?}
-{6020}{}{If you truly want to show your gratitude, how about some money for my trouble?}
+{4188}{}{Eccellente! E il libro; sei riuscito a recuperarlo?}
+{6020}{}{Se vuoi davvero mostrare la tua gratitudine, che ne dici di qualche soldo per il disturbo?}
