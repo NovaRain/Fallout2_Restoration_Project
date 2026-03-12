@@ -406,188 +406,188 @@
 {1405}{}{[Dex alza un sopracciglio verso di te e ti fa l'occhiolino.]}
 {1406}{}{Nessun problema.}
 {1500}{}{Perche'? Non ti fidi di me con le armi? [Ride.] Certo, se ti mette la mente in pace.}
-{1600}{}{Uh, sure. But just so we're on the same page here, you know I'm into chicks... right?}
-{1601}{}{All-right. [Dex strips off his armor and begins stripping off his clothes. He stops when he sees you glaring
- at him.] You're sending me mixed signals here, doll. Dex doesn't like to be toyed with. Just the armor it is.}
-{1700}{}{Well, I can do wondrous things with knives. It's like an art. There's something very special about the way a
- blade slices into flesh, you know what I mean?}
-{1701}{}{Uh... yeah, sure. Anything else you can use? Feel free to be less creepy about it this time.}
-{1702}{}{Well, my Uncle was one of them military hard-asses. He trained me with pistols and SMGs, and I even got to toy
- around with some energy weapon prototypes they were working on. He thought I'd follow in his footsteps and be a
- puppet for Uncle Sam, but I, uh... Let's just say I went down a different path.}
+{1600}{}{Eh, certo. Ma solo per essere chiari, sai che mi piacciono le ragazze... vero?}
+{1601}{}{Va bene. [Dex si toglie l'armatura e inizia a togliersi i vestiti. Si ferma quando ti vede fissarlo.]
+ Mi stai mandando segnali contrastanti, bambola. A Dex non piace essere preso in giro. Solo l'armatura allora.}
+{1700}{}{Be', posso fare cose meravigliose con i coltelli. E' come un'arte. C'e' qualcosa di molto speciale nel modo in cui
+ una lama affetta la carne, capisci cosa intendo?}
+{1701}{}{Ehm... si', certo. Cos'altro sai usare? Sentiti libero di essere meno inquietante questa volta.}
+{1702}{}{Be', mio zio era uno di quei militari duri. Mi ha addestrato con pistole e mitra, e ho anche potuto giocare
+ con alcuni prototipi di armi energetiche su cui stavano lavorando. Pensava che avrei seguito le sue orme e sarei diventato un
+ burattino dello Zio Sam, ma io, ehm... Diciamo solo che ho preso una strada diversa.}
 {1703}{}{That sounds alright. Anything else?}
-{1704}{}{I've been known to beat some ass with good 'ol fisticuffs. When I was a teen, I tried my hand at Karate for
- awhile, but they kept feeding me all this shit about being more disciplined, so I told 'em to fuck off. Anything else you need to know?}
+{1704}{}{Sono noto per prendere a pugni qualche culo con il buon vecchio pugilato. Da adolescente, ho provato il Karate per
+ un po', ma continuavano a riempirmi di tutta quella roba sull'essere piu' disciplinato, cosi' gli ho detto di andare a fanculo. Cos'altro hai bisogno di sapere?}
 {1705}{}{That should cover it. Thanks.}
 {1800}{}{Sono pronto all'azione.}
 {1801}{}{I've been better, but I can handle it.}
 {1802}{}{I'm not feeling very good.}
 {1803}{}{I think I hear the King calling. I can see the light...}
-{1900}{}{No problem. But you're going to feel a lot less cool without me around. Just saying...}
+{1900}{}{Nessun problema. Ma ti sentirai molto meno figo senza di me in giro. Lo dico solo...}
 {1901}{}{Sure. I'll catch ya later.}
-{1902}{}{Sure, I'll wait. But if you don't come back, then I'm going to start looking for you, and it won't be pleasant
- when I find you.}
-{1903}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
- better than them in every conceivable way.}
+{1902}{}{Certo, aspetto. Ma se non torni, iniziero' a cercarti, e non sara' piacevole
+ quando ti trovero'.}
+{1903}{}{Va bene, purche' tu non mi stia mollando per fare posto a qualche altro idiota. Perche' ti prometto che sono
+ migliore di loro in ogni modo immaginabile.}
 {1904}{}{Nessun problema.}
 {1905}{}{No problem, babe.}
-{1906}{}{Alright, as long as you aren't just ditching me to make room for some other jerk. Because I promise you I'm
- better than them in every conceivable way.}
-{1907}{}{Getting you too hot and bothered am I? I understand.}
+{1906}{}{Va bene, purche' tu non mi stia mollando per fare posto a qualche altro idiota. Perche' ti prometto che sono
+ migliore di loro in ogni modo immaginabile.}
+{1907}{}{Ti sto facendo venire troppo caldo, eh? Capisco.}
 {2000}{}{Alright, what about it?}
-{2001}{}{Look, I know I was on ice for a long time, but trust me, everything is in PERFECT working order. If you want,
- I'll prove it to you right here, right now. [Dex stops when he sees you glaring] Oh, I see, my *other* gear. What about it?}
-{2010}{}{It's a bit crowded. Let me know if things open up.}
-{2020}{}{No way in hell I'm traveling with you. You're ugly as fuck.}
+{2001}{}{Senti, so che sono stato in ghiaccio per molto tempo, ma fidati, tutto e' in PERFETTO stato di funzionamento. Se vuoi,
+ te lo dimostro qui, adesso. [Dex si ferma quando ti vede fissarlo] Oh, capisco, il mio *altro* equipaggiamento. Cosa vuoi sapere?}
+{2010}{}{E' un po' affollato. Fammi sapere se si libera qualcosa.}
+{2020}{}{Non mi sogno nemmeno di viaggiare con te. Sei brutto da far schifo.}
 {2030}{}{Let's roll.}
 {2031}{}{About time we got goin' again.}
 {3000}{}{So, what's your story?}
-{3001}{}{What, like my life story? Look, I know I'm pretty fascinating, but I don't want to stand around talking forever.
- My mouth will get all dry and there's not a whole lot of water to go around-it's just not a good situation to be in.
- But I suppose I could sum it up for you if you really want to know... Actually, I DO like to talk about myself so I'll
- leave up to you. You want the quick summary or the version with more detail?}
+{3001}{}{Cosa, tipo la storia della mia vita? Senti, so di essere piuttosto affascinante, ma non voglio stare qui a parlare per sempre.
+ La bocca mi si secchera' tutta e non c'e' molta acqua in giro - non e' proprio una bella situazione.
+ Ma suppongo di potertela riassumere se vuoi davvero sapere... In realta' MI piace parlare di me stesso quindi lascio
+ a te la scelta. Vuoi il riassunto rapido o la versione piu' dettagliata?}
 {3002}{}{Just give me the quick summary.}
 {3003}{}{Lets hear the detailed version.}
 {3004}{}{Never mind, I lost interest.}
-{3010}{}{Alright, basically, ever since I was a kid, I liked to kill things. I could talk about my childhood and my
- shitty parents and try to analyze why I like to do it, but I don't need an excuse. I do it simply because I can, and
- it's fun. By the time I was sixteen I spent my days as a popular high school heartthrob, and my nights as a ripper of
- Chicago's young working girls.}
+{3010}{}{Va bene, fondamentalmente, da quando ero bambino mi piaceva uccidere le cose. Potrei parlare della mia infanzia e dei miei
+ genitori di merda e cercare di analizzare perche' mi piace farlo, ma non ho bisogno di scuse. Lo faccio semplicemente perche' posso, e
+ e' divertente. A sedici anni passavo le giornate come un popolare idolo del liceo, e le notti come uno squartatore delle
+ giovani lavoratrici di Chicago.}
 {3011}{}{Uh huh. Go on.}
-{3012}{}{Then one day I caught my girlfriend making the beast with two backs with another guy. I butchered them, set
- the place on fire, then high tailed it out of Chicago. Spent the next ten years traveling the nation, seducing girls,
- then cutting 'em up. Then they finally caught me, and my trail turned me into a celebrity.}
+{3012}{}{Poi un giorno ho beccato la mia ragazza a fare la bestia a due schiene con un altro. Li ho fatti a pezzi, ho dato fuoco
+ al posto, poi me la sono filata da Chicago. Ho passato i dieci anni successivi a girare il paese, sedurre ragazze
+ e poi farle a pezzi. Poi alla fine mi hanno beccato, e il mio processo mi ha reso una celebrità.}
 {3013}{}{So, then what?}
-{3014}{}{So then one of my new fans, Alice, helps me escape. The two of us go on a three week cross country murder rampage
- before we finally go down in a shootout. Then, for some reason, The Man decides to stitch me back together and run all
- these tests on me. And that's how I wound up at the EPA where you found me.}
+{3014}{}{Poi una delle mie nuove fan, Alice, mi aiuta a scappare. Noi due ci lanciamo in tre settimane di massacri attraverso il paese
+ prima di cadere infine in una sparatoria. Poi, per qualche ragione, Il Sistema decide di ricucirmi e sottopormi a tutti
+ questi test. Ed e' cosi' che sono finito all'EPA dove mi hai trovato.}
 {3015}{}{Grazie per la storia.}
-{3020}{}{Let's see.... My Mom was a drug fiend and a whore, and my Dad was an ornery drunken bastard. Fortunately, my
- grandpa was alright for an old guy. Introduced me to The King's music. Unfortunately, he was claimed by the New Plague
- when I was seven. Then when I was ten, I watched from the closet as my Dad beat my Mom to death for forgetting to feed
- our dog, Captain Robeenie.}
+{3020}{}{Vediamo.... Mia madre era una drogata e una puttana, e mio padre era un bastardo ubriacone e scorbutico. Fortunatamente, mio
+ nonno era a posto per essere un vecchio. Mi ha introdotto alla musica del Re. Purtroppo, e' stato colpito dalla Nuova Peste
+ quando avevo sette anni. Poi quando ne avevo dieci, ho guardato dall'armadio mentre mio padre picchiava mia madre a morte per aver dimenticato di dare da mangiare
+ al nostro cane, Capitan Robeenie.}
 {3021}{}{This is off to a pleasant start. Go on.}
-{3022}{}{The bitch should've remembered to feed the Captain. Go on.}
-{3023}{}{So they put my Dad away and shipped me off to live with my Aunt and Uncle. You see, I was a little hell-raiser,
- even then, and my Uncle, being a military sort, thought he'd be able to straighten me out-turn me into a Red slaying
- soldier boy, just like the son he'd lost. He gave it his best shot, but I was a stubborn son-of-a-bitch.}
+{3022}{}{La str*** avrebbe dovuto ricordarsi di dar da mangiare al Capitano. Continua.}
+{3023}{}{Cosi' hanno messo via mio padre e mi hanno spedito a vivere con mia zia e mio zio. Vedi, ero un piccolo diavolo,
+ anche allora, e mio zio, essendo un tipo militare, pensava di riuscire a raddrizzarmi - trasformarmi in un
+ soldatino ammazza-Rossi, proprio come il figlio che aveva perso. Ci ha provato con tutte le sue forze, ma ero un bastardo testardo.}
 {3024}{}{Uh huh. Go on.}
-{3025}{}{So anyway, we did a lot of moving around and it wasn't until I was in high school that we finally settled down
- in Chicago. That's when I took to sneaking out at night and knifing hookers. I'd been killing things for as long as I
- could remember, but gutting neighborhood critters didn't compare to the real deal, you know?}
+{3025}{}{Comunque, ci siamo spostati molto e non e' stato fino al liceo che ci siamo finalmente stabiliti
+ a Chicago. E' allora che ho preso l'abitudine di sgattaiolare fuori di notte e accoltellare le puttane. Avevo ucciso cose per tutto il tempo che
+ potevo ricordare, ma sventrare le bestiole del quartiere non si paragonava alla cosa vera, capisci?}
 {3026}{}{Bene.}
-{3027}{}{So things were pretty sweet, for the most part. I mean, I fucking hated my Uncle and Aunt, but at school I was
- Mr. Popular. Every guy wanted to be my friend and every gal I looked at was willing to spread for me. Except for this
- one gal, Vicky. She actually took a bit of work. Amazing, I know, but eventually I got her to come around and become my girl.}
-{3028}{}{And all the while you were moonlighting as a serial killer?}
+{3027}{}{Quindi le cose andavano abbastanza bene, per lo piu'. Voglio dire, odiavo da morire mio zio e mia zia, ma a scuola ero
+ il Signor Popolare. Ogni ragazzo voleva essere mio amico e ogni ragazza che guardavo era disposta ad aprirsi per me. Tranne questa
+ ragazza, Vicky. Lei richiedeva davvero un po' di lavoro. Sorprendente, lo so, ma alla fine l'ho convinta a cedermi e a diventare la mia ragazza.}
+{3028}{}{E nel frattempo facevi il serial killer come secondo lavoro?}
 {3029}{}{I don't really care about your high school sweetheart. Forget the story.}
-{3030}{}{Yeah. [Dex grins.] Those were the days. I was actually happy, you know? After we graduated, Vicky and I got our
- own little place together, and everything was aces. But that bitch had to go and ruin everything by sneaking around behind my back.}
+{3030}{}{Si'. [Dex sorride.] Erano bei tempi. Ero davvero felice, sai? Dopo che ci siamo diplomati, Vicky ed io ci siamo presi
+ un nostro posticino insieme, e andava tutto alla grande. Ma quella str*** ha dovuto andare a rovinare tutto tradendomi alle spalle.}
 {3031}{}{How dare she.}
-{3032}{}{I caught her in the act, and I lost it. Things got real brutal. It was sloppy and there was no way I was going to
- be able to just cover it up. So I set the place on fire and hit the road. Did a lot of traveling, laid a lot of girls and
- left most of 'em dead. It wasn't a bad life, you know? It took 'em ten years, but the law finally caught up with me.}
+{3032}{}{L'ho beccata sul fatto, e ho perso la testa. Le cose si sono fatte davvero brutali. Era stato un lavoro sloppy e non avrei mai potuto
+ semplicemente coprirlo. Cosi' ho dato fuoco al posto e sono andato via. Ho viaggiato molto, ho fatto molte ragazze e
+ ne ho lasciate la maggior parte morte. Non era una brutta vita, sai? Ci hanno messo dieci anni, ma la legge mi ha finalmente raggiunto.}
 {3033}{}{Uh-oh. So then what?}
-{3034}{}{Then they put me on trial and it became a bit of media circus. The girls loved it because I'm a dreamboat,
- and everyone else loved it because it was a distraction from news about the New Plague and politics. So I thought I'd
- give 'em a real show.}
+{3034}{}{Poi mi hanno processato ed e' diventato un piccolo circo mediatico. Le ragazze adoravano perche' sono un gran bel tipo,
+ e tutti gli altri adoravano perche' era una distrazione dalle notizie sulla Nuova Peste e dalla politica. Cosi' ho pensato di
+ dargli un vero spettacolo.}
 {3035}{}{What'd you do?}
-{3036}{}{Well by then I'd made plenty of fans, but there was this one in particular, a real doll named Alice. She said
- she loved me and would do anything for me. So during my trail, she helped me make a break for it. It was a long shot,
- but we were lucky enough to pull it off. Then things got crazy... Are you sure you never heard about any of this?}
+{3036}{}{Be' a quel punto avevo fatto un sacco di fan, ma ce n'era una in particolare, una vera bambola di nome Alice. Diceva
+ che mi amava e avrebbe fatto qualsiasi cosa per me. Cosi' durante il mio processo, mi ha aiutato a farla franca. Era una scommessa azzardata,
+ ma siamo stati abbastanza fortunati da riuscirci. Poi le cose sono diventate folli... Sei sicuro di non aver mai sentito nulla di tutto questo?}
 {3037}{}{I'm sure, but go on.}
-{3038}{}{Never heard of it, and now I never want to. Just forget it, I'm bored.}
-{3039}{}{Well now that I was with Alice, it was kind of hard to revert back to my old ways of seducing women and slicing
- them open. Instead, we just starting thrill killing anyone that was convenient. It didn't matter how young or old, we
- were equal opportunity killers. But killing recklessly like that, we were easy to track. In three weeks they had us
- cornered. They gunned me down and Alice blew her own brains out.}
+{3038}{}{Non ne ho mai sentito parlare, e ora non voglio piu' sentirne. Lascia perdere, mi sto annoiando.}
+{3039}{}{Be' ora che ero con Alice, era un po' difficile tornare ai miei vecchi modi di sedurre le donne e sventrarle.
+ Invece, abbiamo iniziato a uccidere per il brivido chiunque fosse a portata di mano. Non importava quanto giovane o vecchio, eravamo
+ assassini senza discriminazioni. Ma uccidendo cosi' imprudentemente, eravamo facili da tracciare. In tre settimane ci avevano
+ in un angolo. Mi hanno abbattuto e Alice si e' fatta saltare le cervella.}
 {3040}{}{I see. Then what?}
-{3041}{}{So there I was, certain I was going to die, but then these G-Men stepped in and took me away. They got me back
- to a hundred percent, then started doing these tests on me, trying to figure out what makes me the way I am... Anyway,
- you can figure the rest, and my throats dry from talking. Damn, I was hoping to avoid that.}
+{3041}{}{Cosi' ero li', certo di stare per morire, ma poi questi agenti governativi sono intervenuti e mi hanno portato via. Mi hanno rimesso
+ al cento percento, poi hanno iniziato a farmi questi test, cercando di capire cosa mi rende cosi' com'e'... Comunque,
+ puoi immaginare il resto, e la gola mi si e' seccata dal parlare. Accidenti, speravo di evitarlo.}
 {3042}{}{Grazie per la storia.}
 {3100}{}{Any tips you might be able to give me?}
 {3101}{}{Tips? What kind of tips?}
 {3102}{}{Well, I'm sure you've got some skill.}
-{3103}{}{Oh, I've got all *kinds* of skills. But if you're looking for advice... [He looks you over, then nods.] Alright,
- what the hell. I'll give you some pointers that'll have the ladies crawling at your feet. Now, the first thing you gotta do is...}
-{3104}{}{You wanna see my skills? I'll show you my skills anytime, sweetheart. But if you're looking for advice...
- [He looks you over, then nods.] Alright, what the hell. I'll give you some pointers that'll have the fellas eating out of
- your hands. Now, the first thing you gotta do is...}
-{3105}{}{There you go. Now don't be telling other people these trade secrets.}
+{3103}{}{Oh, ho *tutti i tipi* di abilita'. Ma se stai cercando consigli... [Ti guarda, poi annuisce.] Va bene,
+ che diavolo. Ti daro' qualche dritta che fara' strisciare le signore ai tuoi piedi. Ora, la prima cosa che devi fare e'...}
+{3104}{}{Vuoi vedere le mie abilita'? Te le mostro in qualsiasi momento, tesoro. Ma se stai cercando consigli...
+ [Ti guarda, poi annuisce.] Va bene, che diavolo. Ti daro' qualche dritta che fara' mangiare i ragazzi dalla tua mano.
+ Ora, la prima cosa che devi fare e'...}
+{3105}{}{Ecco fatto. Ora non andare a raccontare ad altri questi segreti del mestiere.}
 {3106}{}{Grazie.}
 {4000}{}{Man do I love the post-nuclear future.}
 {4001}{}{Come on. Let's have some violence.}
-{4002}{}{Let's find some more young ladies to, uh, admire.}
-{4003}{}{Let us seek more carnal knowledge.}
-{4004}{}{You ever just sprawl a girl out on a bed and cut her open? I tell ya, absolute beauty.}
+{4002}{}{Troviamo altre giovani signore da, ehm, ammirare.}
+{4003}{}{Andiamo a cercare altra conoscenza carnale.}
+{4004}{}{Hai mai steso una ragazza su un letto e l'hai aperta? Te lo dico io, bellezza assoluta.}
 {4005}{}{I really need to cut something soon...}
-{4006}{}{You'd think a corpse would be terrible in bed, but you'd be surprised.}
-{4007}{}{[singing] I put an ax in my baby's head, I'm gonna end up doing time... she looked so good in red...[singing]}
-{4008}{}{[singing] 'caus I'm eviiillllll, my middle name is, miseerryyy...[singing]}
-{4009}{}{You dig my suit? This sweet baby was made in Grand Rapids, Michigan.}
-{4010}{}{So... where about the wasteland do you think they keep the hair gel?}
-{4011}{}{I know it sounds a bit gross, but don't knock deep fried ovaries 'til you've tried 'em.}
-{4012}{}{[Removes pocket comb and fixes hair.]}
+{4006}{}{Penseresti che un cadavere sia terribile a letto, ma ti sorprenderesti.}
+{4007}{}{[cantando] Ho messo un'ascia in testa alla mia baby, finiro' in prigione... stava cosi' bene in rosso...[cantando]}
+{4008}{}{[cantando] perche' sono il maaaleeeee, il mio secondo nome e', miseriaaa...[cantando]}
+{4009}{}{Ti piace il mio vestito? Questa dolce creatura e' stata fatta a Grand Rapids, Michigan.}
+{4010}{}{Allora... dove pensi che tengano il gel per capelli nelle Lande?}
+{4011}{}{So che suona un po' schifoso, ma non sputare sulle ovaie fritte finche' non le hai provate.}
+{4012}{}{[Tira fuori il pettine tascabile e si sistema i capelli.]}
 {4020}{}{Hey! I'm fuckin' bleeding over here.}
 {4021}{}{Oh man, I'm not doing too well.}
 {4022}{}{Get me to a fucking doctor.}
 {4023}{}{You gonna just stand there and watch me bleed to death or are you going to do something about this?}
 {4030}{}{I'm feeling a little weird over here...}
-{4031}{}{Hey, I'm feeling a bit radiated. If this isn't the kind that grants super powers, then I'm going to be pissed.}
+{4031}{}{Ehi, mi sento un po' irradiato. Se non e' il tipo che concede superpoteri, allora saro' una furia.}
 {4040}{}{You know, you're a bad influence.}
-{4041}{}{I try to stay away from this stuff. But if you insist...}
-{4042}{}{My body's a temple, but I guess this once won't hurt.}
+{4041}{}{Cerco di stare lontano da questa roba. Ma se insisti...}
+{4042}{}{Il mio corpo e' un tempio, ma immagino che per una volta non fara' male.}
 {4043}{}{If this does any permanent damage, I'm going to cut you.}
 {4045}{}{I feel much better now.}
 {4046}{}{Much better.}
 {4050}{}{Hey! Watch the hair.}
 {4051}{}{Hey, you don't rush perfection.}
-{4060}{}{It just isn't the same when their blood's still warm, ya know?}
+{4060}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
 {4061}{}{I hope you took notes.}
-{4062}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
-{4063}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+{4062}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
+{4063}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {4070}{}{I feel nauseated. I think I'm poisoned.}
 {4071}{}{I feel like I'm gonna puke my guts out.}
 {4080}{}{I can't move this limb. I need medical attention.}
 {4081}{}{I think I lost feeling in this limb. Is that bad?}
-{4090}{}{It just got really blurry. Where'd everyone go?}
+{4090}{}{E' diventato tutto molto sfocato. Dove sono andati tutti?}
 {4091}{}{I think blood is coming out of my eyes.}
-{4100}{}{So, facial tattoos, huh? I guess if I was as ugly as bone-nose, here, I'd want to cover that up too.}
-{4101}{}{Yo, face-tats. You the cannibalistic sort? Maybe we could exchange recipes or something.}
-{4102}{}{I get the feeling your pal Sulik here doesn't dig me too much. You ever think about selling the guy off for some cash?}
-{4110}{}{Seriously, what's with the dumpy bald dude? You keeping him out of pity or something?}
-{4111}{}{So Vic, I hear you've got a spunky daughter. You should introduce me to her.}
-{4120}{}{Miria, honey, we really need to spend some one-on-one time together.}
-{4121}{}{So I'm guessing we get to take turns with Miria, right?}
-{4122}{}{[Winks at Miria.]}
-{4123}{}{[Smiles at Miria.]}
-{4124}{}{Miria, you need a man who's in the same league as you. You know, one like me.}
-{4125}{}{[Brandishes knife at Miria. Grins.]}
-{4130}{}{I say we put a hole in Davin's head and roll him into a ditch.}
-{4131}{}{Let's say, hypothetically, that Davin somehow gets his throat slit in his sleep tonight. No one's gonna care, right?}
-{4140}{}{Hey Cassidy, you should really try some Psycho. I heard it can even re-grow hair.}
-{4141}{}{Why don't you hit that booze a little harder, Cassidy? It seems to have aged you so well.}
-{4142}{}{It's pathetic to see someone as old as Cassidy trying to hold on to life. If I were in his shoes,
- I'd kiss the barrel of a shotgun and just end it.}
-{4150}{}{Lets say we ditch the walking corpse.}
-{4151}{}{Alright, this whole joke about bringing Lenny along has gone on a little long now, don't you think?}
+{4100}{}{Allora, tatuaggi in faccia, eh? Immagino che se fossi brutto come naso-d'osso qui, vorrei coprirlo anch'io.}
+{4101}{}{Ehi, tatuaggi-in-faccia. Sei il tipo cannibale? Forse potremmo scambiarci delle ricette o qualcosa del genere.}
+{4102}{}{Ho la sensazione che il tuo amico Sulik qui non mi vada a genio piu' di tanto. Hai mai pensato di venderlo per qualche soldo?}
+{4110}{}{Seriamente, cosa c'e' con il tipo pelato e trasandato? Lo tieni per pieta' o qualcosa del genere?}
+{4111}{}{Allora Vic, ho sentito che hai una figlia in gamba. Dovresti presentarmela.}
+{4120}{}{Miria, tesoro, dobbiamo davvero passare un po' di tempo da soli insieme.}
+{4121}{}{Quindi immagino che ci diamo il turno con Miria, giusto?}
+{4122}{}{[Fa l'occhiolino a Miria.]}
+{4123}{}{[Sorride a Miria.]}
+{4124}{}{Miria, hai bisogno di un uomo che sia alla tua altezza. Sai, uno come me.}
+{4125}{}{[Brandisce il coltello verso Miria. Sorride.]}
+{4130}{}{Dico che facciamo un buco in testa a Davin e lo rotoliamo in un fosso.}
+{4131}{}{Diciamo, ipoteticamente, che a Davin in qualche modo viene tagliata la gola nel sonno stanotte. A nessuno importera', giusto?}
+{4140}{}{Ehi Cassidy, dovresti davvero provare un po' di Psycho. Ho sentito che puo' persino far ricrescere i capelli.}
+{4141}{}{Perche' non bevi un po' di piu', Cassidy? Sembra che ti abbia invecchiato cosi' bene.}
+{4142}{}{E' patetico vedere qualcuno vecchio come Cassidy che cerca di aggrapparsi alla vita. Se fossi nei suoi panni,
+ bacerei la canna di un fucile e la finirei li'.}
+{4150}{}{Diciamo che molliamo il cadavere ambulante.}
+{4151}{}{Va bene, questa barzelletta di portarsi dietro Lenny e' andata avanti un po' troppo ora, non credi?}
 {4152}{}{How the hell am I supposed to pick up the ladies with Lenny hanging around?}
-{4160}{}{So, uh, Marcus, when do you revert back to the mild mannered physicist?}
+{4160}{}{Allora, ehm, Marcus, quando torni ad essere il tranquillo fisico dai modi gentili?}
 {4161}{}{Hey Marcus, don't you have some kind of town you're supposed to be running?}
-{4170}{}{Hang in there Myron, I'm sure someday your balls will drop.}
-{4171}{}{The Dork-boy's kinda cramping my style.}
-{4172}{}{Myron's like one giant pimple, just waiting to be popped.}
-{4180}{}{At least Goris has the decency to cover himself.}
-{4181}{}{Good job blending in, Goris. You look just like a typical hunchbacked freak.}
+{4170}{}{Tieni duro Myron, sono sicuro che prima o poi ti cadranno le palle.}
+{4171}{}{Il nerdetto mi sta un po' rovinando lo stile.}
+{4172}{}{Myron e' come un brufolo gigante, che aspetta solo di essere schiacciato.}
+{4180}{}{Almeno Goris ha il buon senso di coprirsi.}
+{4181}{}{Ottimo lavoro mimetizzarti, Goris. Sembri proprio un tipico mostro gobbo.}
 {4200}{}{I'm curious to see what these tribal women are like.}
-{4210}{}{Whores... whores everywhere. I love this fucking place.}
+{4210}{}{Puttane... puttane ovunque. Adoro questo posto del cazzo.}
 {4220}{}{This place is just begging for some chaos.}
 {4230}{}{There's too many cops here. I say we bail.}
 {4240}{}{Great, more freaks. We better not stay here longer than we have to.}
-{4250}{}{We're wasting our time here. Zombie chicks aren't my thing. I generally don't like gals to look dead until AFTER I'm through with 'em.}
+{4250}{}{Stiamo perdendo tempo qui. Le ragazze zombie non fanno per me. Di solito non mi piace che le ragazze sembrino morte fino a DOPO che ho finito con loro.}
 {4260}{}{Perche' diavolo stiamo perdendo il nostro tempo qui? Sul serio?}
 {4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
-{5000}{}{[He snaps his head towards you and leaps to his feet. As he looks at you, his eyes suddenly get really wide and he starts gasping for air.]}
+{5000}{}{[Scatta la testa verso di te e balza in piedi. Mentre ti guarda, i suoi occhi si spalancano improvvisamente e inizia ad ansimare per l'aria.]}
 {5001}{}{[FINE]}
 {5002}{}{Oh, merda!}

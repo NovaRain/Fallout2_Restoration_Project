@@ -185,10 +185,10 @@
 {703}{}{Wow.}
 {704}{}{*Whew*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
-{706}{}{It just isn't the same when their blood's still warm, ya know?}
+{706}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
 {707}{}{I hope you took notes.}
-{708}{}{Girls have gotten pretty freaky since the end of the world... I dig that.}
-{709}{}{...and thats why the babes used to call me "Dex, the Duke of Sex".}
+{708}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
+{709}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}
 {711}{}{(L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle").}
 {720}{}{*fischia*}
