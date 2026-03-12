@@ -1,89 +1,89 @@
 {100}{}{You see a specimen from the Storage Tanks.}
 {101}{}{You see Kitsune.}
-{102}{}{Her eyes are different colors. One of them brown as malmbrick, the other bright green.}
+{102}{}{I suoi occhi sono di colori diversi. Uno di loro marrone come malmbrick, l'altro verde brillante.}
 {103}{}{You see a slender, dark-haired woman who looks difficult to predict.}
-{104}{}{She has a soft face and entrancing eyes.}
+{104}{}{Ha un viso delicato e occhi ammalianti.}
 {150}{}{It's not nice to stare.}
-{200}{}{Before you lies an open tank with icy cold water slowly being drained through a long, serpentine pipe. Inside, a
- woman, naked from head to toe, lies gasping and shivering. Looking around quickly, you snatch a bundle of loose clothing
- from a nearby locker and drape them over her for warmth.}
-{201}{}{Whoa. That had to be some trip. Are you alright?}
-{202}{}{Y-yes, the p-p-preservator r-restored my b-body t-t-temperature.}
-{203}{}{Not all of it, it looks like. }
-{204}{}{[You give it some time for her teeth to stop chattering. She recovers much quicker than you expect her to
- and looks up at you with sudden gravity.] Is... it over?}
+{200}{}{Davanti a te c'e' un serbatoio aperto con acqua gelida che viene lentamente drenata attraverso un lungo tubo serpentino. Dentro, una
+ donna, nuda dalla testa ai piedi, giace ansimante e tremante. Guardandoti rapidamente intorno, prendi un fascio di vestiti larghi
+ da un armadietto vicino e li drapi su di lei per scaldarla.}
+{201}{}{Wow. Dev'essere stato un bel viaggio. Stai bene?}
+{202}{}{S-si', il p-p-preservatore h-ha r-ripristinato la t-t-temperatura d-del m-mio c-corpo.}
+{203}{}{Non tutta, a quanto pare. }
+{204}{}{[Le dai un po' di tempo perche' i denti smettano di battere. Si riprende molto piu' in fretta di quanto ti aspettassi
+ e ti guarda con improvvisa seriosita'.] E'... finita?}
 {205}{}{Is what over? }
 {206}{}{You mean the War?}
 {207}{}{The War. All those nukes.}
 {208}{}{The War, yes.}
-{209}{}{That war ended long ago. Finished about as soon as it started.}
-{210}{}{[She brushes wet strands of hair from her eyes. You notice one eye is brown while the other is emerald green.] Who won?}
+{209}{}{Quella guerra e' finita molto tempo fa. E' finita quasi appena e' iniziata.}
+{210}{}{[Si sposta ciocche di capelli bagnati dagli occhi. Noti che un occhio e' marrone mentre l'altro e' verde smeraldo.] Chi ha vinto?}
 {211}{}{No one.}
-{212}{}{[She looks at you blankly. She's very easy on the eyes, especially for someone who was just thawed out of a block of ice.]}
-{213}{}{When 90% of the world is scorched to a crispy brown, I'd say it's hard to declare a clear winner.
- I mean, there wasn't much left worth winning.}
-{214}{}{What... what date is it? What year? Is it still 2077?}
-{215}{}{Hell, no. [You show her the date on your Pip-Boy's calendar.]}
-{216}{}{[She stares at the flickering screen, frozen in time like she never left the tank.]}
+{212}{}{[Ti guarda con aria assente. E' molto piacevole alla vista, specialmente per qualcuno che e' stato appena scongelato da un blocco di ghiaccio.]}
+{213}{}{Quando il 90% del mondo e' carbonizzato fino a diventare marrone croccante, direi che e' difficile dichiarare un chiaro vincitore.
+ Voglio dire, non rimaneva molto che valesse la pena di vincere.}
+{214}{}{Che... che data e'? Che anno? E' ancora il 2077?}
+{215}{}{Cavolo, no. [Le mostri la data sul calendario del tuo Pip-Boy.]}
+{216}{}{[Fissa lo schermo tremolante, congelata nel tempo come se non avesse mai lasciato il serbatoio.]}
 {217}{}{Are you alright?}
-{218}{}{My God. I don't believe it. I was in that thing for over a century?!}
-{219}{}{Seems like it. Hey, listen, don't look at me like that. I had nothing to do with putting you in there. Hell,
- my grandpa wasn't even alive back then. I just stumbled upon the location of this place and decided to check it out.}
-{220}{}{Well, will you help me up, or would you like it better if I continued sitting naked at your feet?}
-{221}{}{I was just about to. [You help her to her feet.]}
+{218}{}{Dio mio. Non ci credo. Ero in quella cosa per oltre un secolo?!}
+{219}{}{Sembra di si'. Ehi, senti, non guardarmi cosi'. Non c'entro niente con il fatto di averti messa la' dentro. Accidenti,
+ mio nonno non era nemmeno vivo a quei tempi. Mi sono imbattuto per caso in questo posto e ho deciso di darci un'occhiata.}
+{220}{}{Be', mi aiuti ad alzarmi, o preferiresti che continuassi a stare nuda ai tuoi piedi?}
+{221}{}{Stavo per farlo. [La aiuti ad alzarsi in piedi.]}
 {222}{}{Why did you wake me?}
 {223}{}{No particular reason.}
-{224}{}{I have this terrible habit of touching everything I encounter. One thing led to another.}
+{224}{}{Ho questa terribile abitudine di toccare tutto quello che incontro. Una cosa ha portato all'altra.}
 {225}{}{You say you don't even work in this place?}
 {226}{}{That's what I said.}
-{227}{}{Then if you hadn't come along, I would've been stuck in that thing even longer. Maybe forever.
- (She pulls one of the shirts you wrapped her in over her head.) What's it like now, the world out there?
- You said 90% of it was destroyed?}
-{228}{}{My world is a wasteland where every day is a struggle for survival. Most people have taken shelter in the ruined remains of the old ones.
- Others, like my tribe, attempt to forge a simple existence in the harsh wilderness. Truth told, it could be centuries before it even comes close to recovering.}
-{229}{}{It can't possibly be as bad as it sounds. [She doesn't sound like she's convinced of one word she just said.]}
-{230}{}{It's nothing like America in 2077, that's for sure.}
-{231}{}{[She pulls a pair of pants on.] So, what now?}
-{232}{}{We never did properly introduce ourselves. My name's }
+{227}{}{Allora se non fossi arrivato, sarei rimasta bloccata in quella cosa ancora piu' a lungo. Forse per sempre.
+ (Si infila una delle magliette in cui l'avevi avvolta.) Com'e' adesso, il mondo la' fuori?
+ Hai detto che il 90% e' stato distrutto?}
+{228}{}{Il mio mondo e' una landa desolata dove ogni giorno e' una lotta per la sopravvivenza. La maggior parte delle persone ha trovato rifugio nei resti in rovina di quelli vecchi.
+ Altri, come la mia tribu', cercano di costruirsi una semplice esistenza nella dura natura selvaggia. A dire il vero, potrebbero volerci secoli prima che si avvicini anche solo a riprendersi.}
+{229}{}{Non puo' essere cosi' brutto come sembra. [Non sembra convinta di una sola parola di quello che ha appena detto.]}
+{230}{}{Non e' per niente come l'America del 2077, questo e' sicuro.}
+{231}{}{[Si infila un paio di pantaloni.] Allora, e adesso?}
+{232}{}{Non ci siamo mai presentati come si deve. Il mio nome e' }
 {233}{}{. What's yours?}
 {234}{}{You can call me Kitsune.}
 {235}{}{Kitsune, what were you doing cryoed away in that tank?}
-{236}{}{I don't know for sure. They knew the War was about to happen, so they put me in a preservator like the others.}
+{236}{}{Non lo so con certezza. Sapevano che la Guerra stava per succedere, cosi' mi hanno messa in un preservatore come gli altri.}
 {237}{}{Do you have any clue what this place is?}
-{238}{}{From what I know, it's a branch of the United States Environmental Protection Agency. I was in Arizona when the
- War happened. I was taken here immediately.}
-{239}{}{You must have been pretty important for them to want to preserve you. Were you a Chosen One, like me?}
-{240}{}{Uh, not exactly. I was a homemaker, married to a councilman. Before that I wrote for several different news publications. It wasn't what you'd call a terribly exciting life.}
+{238}{}{Per quello che so, e' una filiale dell'Agenzia per la Protezione Ambientale degli Stati Uniti. Ero in Arizona quando e'
+ scoppiata la Guerra. Sono stata portata qui immediatamente.}
+{239}{}{Dovevi essere piuttosto importante perche' volessero preservarti. Eri una Prescelta, come me?}
+{240}{}{Ehm, non esattamente. Ero una casalinga, sposata con un consigliere. Prima di allora scrivevo per diverse pubblicazioni giornalistiche. Non era quello che si definirebbe una vita terribilmente eccitante.}
 {241}{}{What happened to him, your husband?}
-{242}{}{I don't know. Probably one of the billions of casualties. I doubt any of my family made it through the war. My God, even if they did, it's been so long... everyone I ever knew is dead. [She bites her lip and her eyes start to shimmer with tears, but she quickly wipes them away and sighs, bringing herself under control.]}
-{245}{}{Well, since you're giving me a choice... (smirk)}
+{242}{}{Non lo so. Probabilmente una delle miliardi di vittime. Dubito che qualcuno della mia famiglia sia sopravvissuto alla guerra. Dio mio, anche se cosi' fosse, e' passato cosi' tanto tempo... tutti quelli che ho mai conosciuto sono morti. [Si morde il labbro e i suoi occhi iniziano a luccicare di lacrime, ma le asciuga rapidamente e sospira, riprendendo il controllo di se'.]}
+{245}{}{Be', visto che mi stai dando una scelta... (sorride maliziosamente)}
 {246}{}{[She glares at you wordlessly.]}
-{247}{}{Oh, I mean, of course I'll help you up. [You help her to her feet.]}
+{247}{}{Oh, voglio dire, certo che ti aiuto ad alzarti. [La aiuti ad alzarsi in piedi.]}
 {250}{}{What are you going to do now?}
-{251}{}{I don't know. What do you do when you've been hibernating for over a century? Even bears don't sleep that long.
- The world out there isn't the world I knew. I don't know if I could stand to see what it's turned into.}
-{252}{}{I know it's a wasteland out there, but you've still got a whole life to live. You're wasting it down here.
- Come with me and maybe we can make something of it.}
-{253}{}{It doesn't look like you've got much of a choice. You can either sit down here and rot, or you could come with me. It's up to you.}
-{260}{}{You know, you're right. I could go back to being frozen and sleep it off for another hundred years, but that
- would be the cheap way out. I need to see for myself what the world's become, and play a part in putting it back together.}
-{261}{}{Come on then. Let's go grab a brahmin steak first thing.}
+{251}{}{Non lo so. Cosa fai quando hai ibernato per oltre un secolo? Nemmeno gli orsi dormono cosi' a lungo.
+ Il mondo la' fuori non e' il mondo che conoscevo. Non so se potrei sopportare di vedere cosa e' diventato.}
+{252}{}{So che la' fuori e' una landa desolata, ma hai ancora tutta una vita da vivere. La stai sprecando qui sotto.
+ Vieni con me e forse possiamo fare qualcosa di buono.}
+{253}{}{Non sembra che tu abbia molta scelta. Puoi sederti qui a marcire, oppure puoi venire con me. Dipende da te.}
+{260}{}{Sai, hai ragione. Potrei tornare ad essere congelata e dormirci su per altri cento anni, ma sarebbe la via facile.
+ Ho bisogno di vedere con i miei occhi cosa e' diventato il mondo, e avere un ruolo nel rimetterlo insieme.}
+{261}{}{Dai allora. Andiamo a prendere prima di tutto una bistecca di brahmin.}
 {262}{}{Don't make me regret this.}
-{270}{}{Forget it. It's been this way for over a hundred years. What makes you think we're going to fix it now?}
+{270}{}{Lascia perdere. E' cosi' da oltre cento anni. Cosa ti fa pensare che lo sistemeremo adesso?}
 {271}{}{I'll come back. Maybe you'll change your mind.}
-{272}{}{Maybe. But don't count on that happening. I should just go back to sleep for another century or so.}
-{280}{}{What if these machines stopped functioning though? You'd be dead and you'd never know
- whether the world that blew itself up ever put itself back together.}
-{281}{}{Then I'll watch what happens to it from wherever I am.}
-{282}{}{How do you know for sure you're gonna be taken someplace special after you sleep the big sleep? I come from a
- tribe that believes in the afterlife and prophecies, but from a pragmatic standpoint we're all just a bunch of organic
- machines that think and talk and feel because of flesh and chemical components. What if there's nothing after you die -- we
- shut down like computers -- and this is all you've got?}
-{283}{}{I'd rather take my chances in cryogenic suspension than wander that wasteland.}
+{272}{}{Forse. Ma non contarci. Dovrei semplicemente tornare a dormire per un altro secolo o giu' di li'.}
+{280}{}{E se queste macchine smettessero di funzionare pero'? Saresti morta e non sapresti mai
+ se il mondo che si e' fatto saltare in aria si e' mai rimesso insieme.}
+{281}{}{Allora lo guardero' da dove mi trovero'.}
+{282}{}{Come fai a sapere con certezza che sarai portata in un posto speciale dopo il sonno eterno? Vengo da una
+ tribu' che crede nell'aldila' e nelle profezie, ma da un punto di vista pragmatico siamo tutti solo un mucchio di macchine organiche
+ che pensano, parlano e sentono grazie a carne e componenti chimici. E se non ci fosse nulla dopo la morte -- ci spegniamo come computer --
+ e questo e' tutto quello che hai?}
+{283}{}{Preferirei rischiare nella sospensione criogenica piuttosto che vagare per quella landa desolata.}
 {284}{}{Oh yeah? You don't seem all that sure anymore.}
-{285}{}{[Kitsune ponders your words for a good long while. Finally, she lines her eyes with yours.] I can't pretend you don't have a point. Maybe... maybe I will take my chances with you.}
-{286}{}{Let's get out of here, then. It's time we left this dump behind.}
-{287}{}{Actually, I think I'm going to strike out on my own. I've always been the independent type, so it shouldn't be any skin off my back. A lot has changed since I've been away and I'd like to see it for myself. Thanks for unthawing me. You take care of yourself.}
+{285}{}{[Kitsune riflette sulle tue parole per un bel po'. Alla fine, incontra il tuo sguardo.] Non posso fingere che tu non abbia ragione. Forse... forse rischio con te.}
+{286}{}{Usciamo da qui, allora. E' ora di lasciarci questo buco alle spalle.}
+{287}{}{In realta', penso che me la cavero' da sola. Sono sempre stata il tipo indipendente, quindi non dovrebbe pesarmi. E' cambiato molto da quando sono via e vorrei vederlo con i miei occhi. Grazie per avermi scongelata. Prenditi cura di te.}
 {288}{}{[Fatto]}
 {300}{}{Si'?}
 {301}{}{I'm all ears.}
@@ -91,11 +91,11 @@
 {303}{}{What is it? You look like you have something to say.}
 {304}{}{Cosa ti affligge?}
 {305}{}{Is there anything you need from me?}
-{310}{}{Kitsune, I'm pretty sure you wouldn't have been frozen in a cryo tank for no good reason.
- I'm interested in knowing what it was exactly you did before you were put on ice.}
+{310}{}{Kitsune, sono abbastanza sicuro che non saresti stata congelata in un serbatoio criogenico senza un buon motivo.
+ Mi interessa sapere cosa facevi esattamente prima di essere messa in ghiaccio.}
 {311}{}{Why do you care? It's in the past.}
 {312}{}{We're on the road together. I want to know more about you.}
-{313}{}{[Sighs.] Well, I suppose there's no need for secrecy anymore. It's just hard to break a life-long habit. You see, I was pretty much born a spy.}
+{313}{}{[Sospira.] Be', suppongo che non ci sia piu' bisogno di segreti. E' solo difficile rompere un'abitudine di tutta una vita. Vedi, sono praticamente nata spia.}
 {314}{}{My father was Chinese, but he and his family were no friends of the Chinese government. He was born in Beijing but got the most important aspect of his education here, in the States. When he returned home and got a job as a public servant, he'd already been recruited by the Americans as an intelligence agent.}
 {315}{}{I'm not overly familiar with the politics of your time, but I think I follow what you're saying: Your dad was Chinese, but he was secretly a spy for the Americans. So did the Chinese ever suspect him?}
 {316}{}{My father worked at the Ministry of Agriculture for thirty-eight years.}
