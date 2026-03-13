@@ -169,43 +169,40 @@
 {719}{}{What a loon! Goodbye.}
 {720}{}{In realta' e' un'ottima idea. Geniale! Ehi, pensi che potrei vedere questa camera criogenica?}
 {721}{}{I see. Tell me about something else.}
-{722}{}{Well of course. It's right over there. I had it moved up here some time ago. Keeping the chamber in the sublevels of this facility was just not a wise idea.}
+{722}{}{Ma certo. E' proprio li'. L'ho fatta spostare qui sopra qualche tempo fa. Tenere la camera nei livelli inferiori della struttura non era una buona idea.}
 {723}{}{Interesting. So, how does it work?}
-{724}{}{Well, of course the scientific principles of cryogenics is quite advanced. However, the functions are governed by the computer here, has a fairly easy interface. [He takes a few minutes showing you how the system works.]}
+{724}{}{Beh, ovviamente i principi scientifici della criogenia sono piuttosto avanzati. Tuttavia, le funzioni sono controllate dal computer qui, che ha un'interfaccia abbastanza semplice. [Ti mostra per alcuni minuti come funziona il sistema.]}
 {725}{}{Thanks for the information, Doctor. I guess I would still like to know about a few other things.}
 {726}{}{Thanks for the information, Doctor. Who knows? Information like that just might prove useful someday. Goodbye.}
 {727}{}{Well, enough chit-chat. I should be going. Goodbye, Doctor.}
-{728}{}{No, it just wouldn't do to have them stay here interfering with my plans... not at all... [The Doctor gazes past you seemingly lost in his thoughts.]}
-{729}{}{You know, you are one twisted person. I think I am going to have to show you how I 'experiment' on people. Time to die!}
-{730}{}{So, are you happy with this situation? I mean, being the only one here?}
+{728}{}{No, non sarebbe affatto opportuno lasciarli qui a interferire con i miei piani... proprio no... [Il Dottore guarda oltre di te, perso nei suoi pensieri.]}
+{729}{}{Sai, sei proprio una persona contorta. Credo che dovro' mostrarti come 'sperimento' sulle persone. E' ora di morire!}
+{730}{}{Quindi, sei felice di questa situazione? Voglio dire, di essere l'unico qui?}
 {731}{}{What else would you like to know about?}
-{800}{}{Actually, wait one second. You look like an adventurous type. I may have a use for someone of your skills.}
+{800}{}{In realta', aspetta un secondo. Sembri un tipo avventuroso. Potrei avere bisogno di qualcuno con le tue capacita'.}
 {801}{}{Certo. Cosa ti serve?}
 {802}{}{No thanks. Bye.}
-{803}{}{Well, I was out collecting samples at one of my work sites and I seem to have left one of my tools there. Normally
- I would just go and get it myself, but I'm extremely busy at the moment and for the life of me I cannot remember the exact
- spot I left it at. In any case, head northwest from this building and you will find the area where I left my tool. Should
- be a piece cake.}
+{803}{}{Beh, ero fuori a raccogliere campioni in uno dei miei siti di lavoro e sembra che abbia lasciato li' uno dei miei strumenti. 
+Normalmente andrei a prenderlo da solo, ma al momento sono estremamente impegnato e, per quanto mi sforzi, non riesco a ricordare il punto esatto in cui l'ho lasciato. 
+In ogni caso, vai a nord-ovest da questo edificio e troverai l'area dove ho lasciato il mio strumento. Dovrebbe essere una passeggiata.}
 {804}{}{I'll get right on it.}
 {805}{}{Not interested. Bye.}
-{806}{}{Well, wait. Are you sure you won't help me with a little something?}
-{810}{}{Excellent! Now, I must get back to work. [To himself.] It's all going according to plan.}
+{806}{}{Beh, aspetta. Sei sicuro di non voler aiutarmi con una piccola cosa?}
+{810}{}{Eccellente! Ora devo tornare al lavoro. [Tra se'.] Sta andando tutto secondo i piani.}
 {811}{}{[FATTO]}
-{820}{}{That's too bad. Well, I must be getting back to work. [To himself.] Almost had him. Now, where am I going to find another test subject...}
+{820}{}{Che peccato. Beh, devo tornare al lavoro. [Tra se'.] Quasi l'avevo convinto. Ora, dove trovero' un altro soggetto di prova...}
 {821}{}{[FATTO]}
-{830}{}{[The man looks up startled.] What the-?!}
+{830}{}{[L'uomo alza lo sguardo, sorpreso.] Ma che—?!}
 {831}{}{I'm still looking for your part.}
-{832}{}{Here's your tool. Piece of cake indeed.}
-{833}{}{Were you trying to kill me out there? That was a maze full of mutated monsters. This wasn't an ordinary part
- retrieval job, now was it?}
-{840}{}{What?! Give me that! [He snatched the tool from your hand.] How did you- Oh, nevermind. Back to the drawing board then...}
+{832}{}{Ecco il tuo strumento. Una passeggiata, davvero.}
+{833}{}{Cercavi di uccidermi la fuori? Era un labirinto pieno di mostri mutati. Questo non era un normale recupero pezzi, vero?}
+{840}{}{Cosa?! Dammi quello! [Ti strappa lo strumento di mano.] Come hai— Oh, lascia perdere. Torniamo al tavolo da disegno allora...}
 {841}{}{[You ignore the man's reaction.] Alright, well if you need anything else, let me know. Bye.}
-{850}{}{That's none of your business. [He snatches the tool from your hand.] Now, get out of here. I've got things to do. [He looks
- away muttering to himself.]}
+{850}{}{Non sono affari tuoi. [Ti strappa lo strumento di mano.] Ora vattene. Ho delle cose da fare. [Distoglie lo sguardo, borbottando tra se'.]}
 {851}{}{Vabbe'. Ci vediamo.}
-{852}{}{I don't think so. You tried to kill me and now I will return the favor. Prepare to die!}
+{852}{}{Non credo proprio. Hai cercato di uccidermi e ora ricambiero' il favore. Preparati a morire!}
 {860}{}{Uh, yes, of course. Well, get to it then.}
 {861}{}{[FATTO]}
-{900}{}{*Grumbles*}
-{901}{}{*To himself* I was sure he wouldn't return.}
+{900}{}{*Borbottii*}
+{901}{}{*Tra se'* Ero sicuro che non sarebbe tornato.}
 {1000}{}{You return the Doctor's forgotten tool.}
