@@ -96,39 +96,39 @@
 {311}{}{Why do you care? It's in the past.}
 {312}{}{We're on the road together. I want to know more about you.}
 {313}{}{[Sospira.] Be', suppongo che non ci sia piu' bisogno di segreti. E' solo difficile rompere un'abitudine di tutta una vita. Vedi, sono praticamente nata spia.}
-{314}{}{My father was Chinese, but he and his family were no friends of the Chinese government. He was born in Beijing but got the most important aspect of his education here, in the States. When he returned home and got a job as a public servant, he'd already been recruited by the Americans as an intelligence agent.}
-{315}{}{I'm not overly familiar with the politics of your time, but I think I follow what you're saying: Your dad was Chinese, but he was secretly a spy for the Americans. So did the Chinese ever suspect him?}
-{316}{}{My father worked at the Ministry of Agriculture for thirty-eight years.}
-{317}{}{Uh, alright, I guess that's a "no". So when did you enter the picture?}
-{318}{}{Well, one day, an aide to the official my father was working for caught him making copies of secret documents.}
+{314}{}{Mio padre era cinese, ma lui e la sua famiglia non erano amici del governo cinese. Era nato a Pechino ma aveva ricevuto l'aspetto piu' importante della sua istruzione qui, negli Stati Uniti. Quando e' tornato a casa e ha trovato lavoro come funzionario pubblico, era gia' stato reclutato dagli americani come agente dei servizi segreti.}
+{315}{}{Non conosco molto bene la politica del tuo tempo, ma credo di capire quello che stai dicendo: tuo padre era cinese, ma era segretamente una spia per gli americani. I cinesi lo hanno mai sospettato?}
+{316}{}{Mio padre ha lavorato al Ministero dell'Agricoltura per trentotto anni.}
+{317}{}{Ehm, bene, suppongo che sia un "no". Allora quando sei entrata in scena tu?}
+{318}{}{Be', un giorno, un assistente del funzionario per cui lavorava mio padre lo ha beccato a fare copie di documenti segreti.}
 {319}{}{That couldn't have been good...}
-{320}{}{Actually, it didn't turn out so bad. You see, she thought along the same lines as my father, and within a couple of months, they were married.}
-{321}{}{Some guys have all the luck, huh?}
-{322}{}{They had me a year later. I was raised in China under the facade of a patriot. In school I'd write about how China was strongest when unified, and how we had to continue to strive toward social equality. 
- When I was older I wrote for nationalist newspapers and participated in debates supporting the ruling party.}
-{323}{}{Wow, most of that went way over my head. But if I understand correctly, you're saying you and your parents deceived the Chinese into thinking you were loyal.}
-{324}{}{Your parents took great pains to make sure your family's true loyalties stayed secret.}
-{325}{}{All warfare is based on deception. My parents loved their country. They just hated the people who ran it and thought it would be better off as a democracy. The way they saw it, they weren't betraying China - they were working against a government they didn't believe was good for it.}
+{320}{}{In realta', non e' andata cosi' male. Vedi, lei la pensava come mio padre, e nel giro di un paio di mesi si sono sposati.}
+{321}{}{Alcuni tipi hanno tutta la fortuna, eh?}
+{322}{}{Mi hanno avuta un anno dopo. Sono cresciuta in Cina sotto la facciata di una patriota. A scuola scrivevo di come la Cina fosse piu' forte quando unita, e di come dovessimo continuare a lottare verso l'uguaglianza sociale.
+ Quando ero piu' grande scrivevo per giornali nazionalisti e partecipavo a dibattiti a sostegno del partito al potere.}
+{323}{}{Wow, la maggior parte di questo e' andata ben oltre la mia comprensione. Ma se capisco bene, stai dicendo che tu e i tuoi genitori avete ingannato i cinesi facendogli credere che foste leali.}
+{324}{}{I tuoi genitori si sono dati molto da fare per assicurarsi che le vere lealta' della vostra famiglia restassero segrete.}
+{325}{}{Ogni guerra e' basata sull'inganno. I miei genitori amavano il loro paese. Odiavano solo le persone che lo governavano e pensavano che sarebbe stato meglio come democrazia. Dal loro punto di vista, non stavano tradendo la Cina - stavano lavorando contro un governo che non credevano fosse buono per essa.}
 {326}{}{Continua.}
-{327}{}{I married an official who worked for the Chinese Ministry of National Defense. I chose him because he was the most willing to talk about his work when we were together. So I played the role of the dutiful wife, while secretly reporting relevant information back to my American superiors. But then things got complicated.}
+{327}{}{Ho sposato un funzionario che lavorava per il Ministero della Difesa Nazionale cinese. L'ho scelto perche' era il piu' disposto a parlare del suo lavoro quando eravamo insieme. Cosi' ho recitato il ruolo della moglie devota, riferendo segretamente informazioni rilevanti ai miei superiori americani. Ma poi le cose si sono complicate.}
 {328}{}{How so?}
-{329}{}{My father was contacted by Dr. Raynard Muldrake, an old colleague he had worked with during his time in the States. Dr. Muldrake urgently requested a private meeting, but my father was in poor health at the time and was in no condition to travel to America. Dr. Muldrake agreed to meet me in his place.}
+{329}{}{Mio padre e' stato contattato dal Dottor Raynard Muldrake, un vecchio collega con cui aveva lavorato durante il suo periodo negli Stati Uniti. Il Dottor Muldrake ha richiesto urgentemente un incontro privato, ma mio padre era in cattive condizioni di salute all'epoca e non era in grado di viaggiare in America. Il Dottor Muldrake ha accettato di incontrare me al suo posto.}
 {330}{}{So what happened?}
-{331}{}{It turned out Muldrake was part of a top secret project at a West Tek research facility in Southern California. The project had started off innocently enough, as an attempt to find a way to make people immune to the New Plague, but it quickly evolved into something more sinister. Something called Forced Evolutionary Virus, or FEV.}
+{331}{}{E' risultato che Muldrake faceva parte di un progetto top secret in una struttura di ricerca della West Tek nella California meridionale. Il progetto era iniziato in modo abbastanza innocente, come tentativo di trovare un modo per rendere le persone immuni alla Nuova Peste, ma si e' rapidamente evoluto in qualcosa di piu' sinistro. Qualcosa chiamato Virus dell'Evoluzione Forzata, o FEV.}
 {332}{}{Continua.}
-{333}{}{It had the potential to greatly enhance a person's strength and intellect, but the FEV was dangerously unstable. Despite this, the military hoped to use it to create an army of super soldiers that could crush the Chinese.}
-{334}{}{Dr. Muldrake was against the change in the project's direction, but kept his mouth shut out of fear for his life. But when he learned that the military was testing the virus on unsuspecting, small American towns, he knew he had to take action. The world needed to know the truth.}
+{333}{}{Aveva il potenziale per migliorare notevolmente la forza e l'intelletto di una persona, ma il FEV era pericolosamente instabile. Nonostante cio', l'esercito sperava di usarlo per creare un esercito di super soldati che potesse schiacciare i cinesi.}
+{334}{}{Il Dottor Muldrake era contrario al cambiamento di direzione del progetto, ma ha tenuto la bocca chiusa per paura per la sua vita. Ma quando ha scoperto che l'esercito stava testando il virus su piccole citta' americane ignare, ha capito che doveva agire. Il mondo aveva bisogno di conoscere la verita'.}
 {335}{}{So that's when he contacted your father...}
-{336}{}{Right. When I met him, he gave me a holodisk containing classified documentation of the FEV project. That put me in a rather difficult position: I could release the information contained in the holodisk and betray the country I'd sworn my loyalty to, or I could destroy the disk and bury the ugly truth from the people.}
+{336}{}{Giusto. Quando l'ho incontrato, mi ha dato un holodisc contenente documentazione classificata del progetto FEV. Questo mi ha messo in una posizione piuttosto difficile: potevo rendere pubblica le informazioni contenute nell'holodisc e tradire il paese a cui avevo giurato lealta', oppure potevo distruggere il disco e seppellire la brutta verita' alla gente.}
 {337}{}{Holy shit. Don't tell me...}
-{338}{}{I sent copies of the holodisk to just about every major news outlet in the world. It pretty much destroyed whatever sympathy the American government still had. I might have revealed the truth to the world, but I'm afraid I also set in motion its destruction... Things escalated quickly, and eight months later, the bombs were dropped.}
+{338}{}{Ho inviato copie dell'holodisc a quasi tutte le principali testate giornalistiche del mondo. Ha praticamente distrutto qualunque simpatia il governo americano avesse ancora. Potrei aver rivelato la verita' al mondo, ma temo di aver anche messo in moto la sua distruzione... Le cose sono escalate rapidamente, e otto mesi dopo, le bombe sono state sganciate.}
 {339}{}{How did you end up in that tank where I found you?}
-{340}{}{The American government was hunting for the person responsible for leaking the information. They finally caught up with me just before the end. They were already preparing to freeze me when the sirens first sounded. Probably to preserve me in case I had any more secrets I hadn't told them.}
+{340}{}{Il governo americano stava dando la caccia alla persona responsabile della fuga di notizie. Mi hanno finalmente raggiunta appena prima della fine. Stavano gia' preparandosi a congelarmi quando le sirene hanno suonato per la prima volta. Probabilmente per preservarmi nel caso avessi altri segreti che non avevo detto loro.}
 {341}{}{Did you?}
-{342}{}{It doesn't matter now. Everyone's dead...}
+{342}{}{Non ha importanza adesso. Sono tutti morti...}
 {345}{}{Do you have any idea what the hell you brought about?}
-{346}{}{What I *may* have brought about. The world would've blown itself up sooner or later, anyhow. It was only a matter of time.}
-{347}{}{Maybe you should refrain from sharing this little tidbit of information with anyone else.}
+{346}{}{Quello che *potrei* aver provocato. Il mondo si sarebbe fatto saltare in aria prima o poi, comunque. Era solo questione di tempo.}
+{347}{}{Forse dovresti astenerti dal condividere questo piccolo dettaglio con chiunque altro.}
 {348}{}{I get your drift.}
 {350}{}{I know what you must be thinking, but you can't blame yourself for something like that.}
 {351}{}{It's always easier not to accept responsibility.}
