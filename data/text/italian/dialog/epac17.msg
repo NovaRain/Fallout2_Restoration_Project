@@ -68,47 +68,47 @@
 {300}{}{Droghe speciali? Beh, ho coltivato una nuova coltura di marijuana. E' una droga prebellica che ho trovato in congelamento profondo. Ho solo letame proveniente dalle creature mutate che vedi qui, quindi era piu' pericoloso di quanto pensassi. Le prime prove non sono state molto riuscite, comunque...}
 {301}{}{Can I get some of this drug?}
 {302}{}{Why weren't they successful? What happened?}
-{310}{}{Mr. Chemmie! is located in the northeast section of the bottom floor of the EPA. Or maybe the northwest... Actually, it's on the top floor. Oh, I can't remember anymore. It's a huge chunk of machinery. You can't miss it.}
-{311}{}{Right. Thanks. You mentioned you'd created some special drugs. Like what?}
-{320}{}{Easily. I'm a scientist. That's what I do. Experiments are my life. Though different, it really is just another type of experiment.}
-{321}{}{You're messing with things that you shouldn't be altering! What if things go wrong? What if some of the people you're working on die!?}
-{330}{}{Disposed of! Oh, no. I don't think so. I'm doing the job I was originally hired to do. Investigate and experiment. As time goes on though, you start to run out of things to investigate, so you have to be more liberal in your ideas. I think it was once called 'thinking outside the box'.}
+{310}{}{Mr. Chemmie! si trova nella sezione nord-est del piano inferiore dell'EPA. O forse nord-ovest... In realta' e' al piano superiore. Oh, non ricordo piu'. E' un enorme pezzo di macchinario. Non puoi sbagliarti.}
+{311}{}{Giusto. Grazie. Hai detto di aver creato alcune droghe speciali. Come quali?}
+{320}{}{Facile. Sono uno scienziato. E' quello che faccio. Gli esperimenti sono la mia vita. Anche se diverso, e' comunque solo un altro tipo di esperimento.}
+{321}{}{Stai giocando con cose che non dovresti alterare! E se qualcosa andasse storto? E se alcune delle persone su cui lavori morissero!?}
+{330}{}{Eliminato! Oh, no. Non credo proprio. Sto facendo il lavoro per cui sono stato assunto: indagare e sperimentare. Col passare del tempo, pero', inizi a esaurire le cose da indagare, quindi devi essere piu' libero nelle tue idee. Credo che una volta lo chiamassero 'pensare fuori dagli schemi'.}
 {331}{}{I've had enough of this! If no one else will stop you, then I will.}
 {332}{}{You're sick and I'm leaving. Goodbye.}
-{340}{}{Yeah, why not? Help yourself. There's plenty in the storage sheds on the surface level. I think I may have programmed Mr. Chemmie! to make it as well. I don't keep any around here anymore as it takes up a lot of space.}
-{341}{}{Thanks! You were saying a moment ago that you weren't successful in early trials? Why is that?}
-{350}{}{Well, some of the test subjects had severe reactions to the virus, but those are not even worth mentioning. A few errors here and there are expected in our line of work. Now, if you'll excuse me, I have things to do.}
+{340}{}{Si', perche' no? Serviti pure. Ce n'e' in abbondanza nei magazzini al livello della superficie. Credo di aver programmato anche Mr. Chemmie! per produrla. Non ne tengo piu' qui perche' occupa troppo spazio.}
+{341}{}{Grazie! Dicevi un attimo fa che le prime prove non erano state un successo? Perche'?}
+{350}{}{Beh, alcuni soggetti di prova hanno avuto reazioni gravi al virus, ma non vale nemmeno la pena menzionarle. Qualche errore qua e la' e' previsto nel nostro lavoro. Ora, se vuoi scusarmi, ho delle cose da fare.}
 {351}{}{Yeah, I suppose I do as well. Goodbye.}
-{360}{}{Then they die. What do you expect me to do? This is how one makes progress.}
-{361}{}{Monstrous! Unbelievable! You die - now!}
+{360}{}{Allora muoiono. Cosa ti aspetti che faccia? E' cosi' che si fa progresso.}
+{361}{}{Mostruoso! Incredibile! Tu muori, adesso!}
 {362}{}{I can't stand this anymore. Goodbye. I won't be back soon.}
-{370}{}{Jet? Yeah, that's the drug that most of Redding's been high on, if I'm not mistaken. It's an exceptionally complex compound and my machines couldn't reproduce it even on maximum power. Why? What do you know of it?}
+{370}{}{Jet? Si', e' la droga di cui la maggior parte di Redding e' fatta, se non sbaglio. E' un composto eccezionalmente complesso e le mie macchine non riuscivano a riprodurlo nemmeno alla massima potenza. Perche'? Che cosa ne sai?}
 {371}{}{Well, I have here with me it's creator.}
-{380}{}{[*Eyes sparkle*] Really!? Who? Can I see him? Maybe speak to him?}
-{381}{}{Of course. His name is Myron. He's right here.}
-{390}{}{Thank you for bringing that Myron kid to me. He's very knowledgeable! Not quite as intellectually adept as me, understand, but well nonetheless. If he ever wants to settle down he can come here as my apprentice.}
-{391}{}{I'm not sure he'd like being anybody's apprentice. We'd better be going.}
-{400}{}{One moment, before you go. Please, take this as a token for bringing Myron here. I have no real use for it.}
+{380}{}{[*Gli brillano gli occhi*] Davvero!? Chi? Posso vederlo? Magari parlargli?}
+{381}{}{Certo. Si chiama Myron. E' proprio qui.}
+{390}{}{Grazie per avermi portato quel ragazzo, Myron. E' molto competente! Non proprio brillante quanto me, capisci, ma comunque valido. Se un giorno volesse stabilirsi, puo' venire qui come mio apprendista.}
+{391}{}{Non sono sicuro che gli piacerebbe essere l'apprendista di qualcuno. E' meglio che andiamo.}
+{400}{}{Un momento, prima che tu vada. Per favore, prendi questo come ringraziamento per aver portato Myron qui. Non mi serve davvero.}
 {401}{}{Hey, thanks. Um, what is it?}
-{410}{}{It's a Solar Scorcher. It was an experiment of mine. It feeds off the energy from the sun and thus no ammunition is required. It actually works and will be of great use to you, I'm sure, in the deep wastes. This requires a further question actually...}
+{410}{}{E' un Solar Scorcher. Era un mio esperimento. Si alimenta con l'energia del sole e quindi non richiede munizioni. Funziona davvero e ti sara' molto utile, ne sono certo, nelle Lande piu' profonde. Questo in realta' richiede un'altra domanda...}
 {411}{}{Di cosa si tratta?}
-{420}{}{You seem an adventurous type. I'm restricted to the grounds of the EPA to watch over many of the experiments, but I need some equipment that I've run out of. Could you collect a few things for me?}
+{420}{}{Sembri un tipo avventuroso. Io sono confinato nei terreni dell'EPA per sorvegliare molti esperimenti, ma ho bisogno di alcune attrezzature che ho esaurito. Potresti raccogliere alcune cose per me?}
 {421}{}{Yeah, I suppose so. What do you need?}
 {422}{}{No, I'm too busy at the moment saving my village. Maybe some other time.}
-{430}{}{Well, one of the only animals I haven't looked into in detail is the Golden Gecko. I need some research material before I can go any further. Could you collect, say, 10 golden gecko pelts and bring them back here to me? I'm sure I could find something here to give you.}
+{430}{}{Beh, uno dei pochi animali che non ho ancora studiato in dettaglio e' il Geco Dorato. Ho bisogno di materiale di ricerca prima di poter andare oltre. Potresti raccogliere, diciamo, 10 pelli di geco dorato e riportarmele qui? Sono sicuro che potrei trovare qualcosa da darti in cambio.}
 {431}{}{No problem. I'll be back as soon as I have them.}
 {432}{}{I already have 10 pelts with me.}
-{440}{}{[Looks up at you.] What?}
-{441}{}{Uh, hello again. I didn't catch who you are the last time we spoke.}
+{440}{}{[Alza lo sguardo verso di te.] Cosa?}
+{441}{}{Uh, ciao di nuovo. Non ho capito chi fossi l'ultima volta che abbiamo parlato.}
 {450}{}{You again? What do you want now?}
-{451}{}{What do you do here? This place is like a ghost town.}
-{460}{}{If you do not wish to help me, then please leave me alone. Or, have you decided to lend your abilities?}
+{451}{}{Cosa fai qui? Questo posto sembra una citta' fantasma.}
+{460}{}{Se non vuoi aiutarmi, allora per favore lasciami in pace. Oppure hai deciso di offrire le tue capacita'?}
 {461}{}{Yes. What do you want me to do?}
 {462}{}{No, but as soon as I'm free I'll be back to help you.}
 {470}{}{Hello there. Have you calmed down at all yet?}
-{471}{}{No, I'm here to kill you. The world needs less people like you.}
+{471}{}{No, sono qui per ucciderti. Il mondo ha bisogno di meno persone come te.}
 {472}{}{Yeah, I suppose so. I need to ask you some questions.}
-{480}{}{What do you want? I have experiments to watch over, you know!}
+{480}{}{Cosa vuoi? Ho esperimenti da sorvegliare, lo sai!}
 {481}{}{Tell me about the drugs you're making.}
 {482}{}{Tell me about those people again.}
 {483}{}{I'm looking for work. Do you have any?}
@@ -116,58 +116,58 @@
 {490}{}{Have you collected the pelts as I requested?}
 {491}{}{Si', eccola.}
 {492}{}{No, not as yet.}
-{500}{}{Wonderful! Excellent! Let me see... ahh yes, these will do nicely! Now then, do you want another job?}
+{500}{}{Meraviglioso! Eccellente! Vediamo... ah si', questi andranno benissimo! Allora, vuoi un altro incarico?}
 {501}{}{Yes, if you have anything}
 {502}{}{Not just yet thanks. Bye.}
-{510}{}{Well, although the warehouse is where I do almost all of my work, I still need to enter the main complex from time to time. However, the lights have been permanently fixed on low setting. Sort this out for me so I can enter the EPA building itself.}
+{510}{}{Beh, anche se il magazzino e' dove svolgo quasi tutto il mio lavoro, devo comunque entrare nel complesso principale di tanto in tanto. Tuttavia, le luci sono fissate permanentemente su un'impostazione bassa. Sistemalo per me cosi' posso entrare nell'edificio dell'EPA.}
 {511}{}{Nessun problema.}
 {512}{}{I'll get back to you when I have time to do it.}
-{513}{}{I've already done this! There were some loose wires on the main circuit board and I mana-}
-{520}{}{Now that you've killed all of my warriors, you have more than proven yourself worthy. Would you consider working for me?}
+{513}{}{L'ho gia' fatto! C'erano alcuni fili allentati sulla scheda principale e io stavo per—}
+{520}{}{Ora che hai ucciso tutti i miei guerrieri, hai piu' che dimostrato il tuo valore. Considereresti di lavorare per me?}
 {521}{}{What!? Working for you!? What would you want me to do?}
 {522}{}{No thanks. Bye.}
 {530}{}{Have you sorted out the power problem yet?}
-{531}{}{Yes, yes, yes, I don't need to know the specifics. Thanks. Now, I still have one more task if you wish to undertake it.}
+{531}{}{Si', si', si', non ho bisogno dei dettagli. Grazie. Ora, ho ancora un altro compito se desideri affrontarlo.}
 {532}{}{Di cosa si tratta?}
 {533}{}{No, ci sto ancora lavorano.}
-{540}{}{I am experimenting with a new serum at the moment to improve the agility and awareness of people to help them survive in this harsh world. You'd allow me to try it on you, wouldn't you?}
-{541}{}{Well... I suppose so, what harm could it do?}
-{550}{}{More than you'd ever believe if it goes wrong... Now hold still and let's get down to it!}
+{540}{}{Sto sperimentando un nuovo siero per migliorare l'agilita' e la consapevolezza delle persone, cosi' da aiutarle a sopravvivere in questo mondo duro. Mi permetteresti di provarlo su di te, vero?}
+{541}{}{Beh... suppongo di si', che male potrebbe fare?}
+{550}{}{Piu' di quanto potresti mai immaginare, se qualcosa andasse storto... Ora stai fermo e mettiamoci al lavoro!}
 {551}{}{Whoa! Wait a minute...}
-{560}{}{Ahh, there you are! Back in the land of the living, I see! How do you feel?}
+{560}{}{Ahh, eccoti! Di nuovo nel mondo dei vivi, vedo! Come ti senti?}
 {561}{}{Uh, fine why?}
-{570}{}{You just blacked out for a couple of hours, but you should be fine now. Indications show you are much more alert and responsive.}
+{570}{}{Sei solo svenuto per un paio d'ore, ma ora dovresti stare bene. Gli indicatori mostrano che sei molto piu' vigile e reattivo.}
 {571}{}{Wow! Thanks, Doctor.}
 {580}{}{No problem. If you ever need anything, let me know.}
 {581}{}{Lo faro'. Arrivederci.}
 {590}{}{Have you decided to help me yet?}
-{591}{}{Yes, I will help you. I'll return when the power is restored.}
+{591}{}{Si', ti aiutero'. Tornero' quando l'energia sara' ripristinata.}
 {592}{}{No, mi dispiace.}
-{600}{}{I'm sorry, but there's nothing more I can do for you now. I have no more jobs left to be done. Thanks for your help.}
+{600}{}{Mi dispiace, ma non posso fare altro per te ora. Non ho altri incarichi da assegnare. Grazie per il tuo aiuto.}
 {601}{}{Bye then.}
-{602}{}{Yes, there were some loose wires and I had to find some junk to-}
+{602}{}{Si', c'erano alcuni fili allentati e ho dovuto trovare un po' di rottami per—}
 {603}{}{NO! What are you doing?}
-{700}{}{Wait a second! You were part of the *original* team?! But, that's got to make you almost 200 years old!}
-{701}{}{Well, I suppose that's true, in a way. I was actually born 202 years ago. However, there is no way that I could have lived that long through regular means.}
+{700}{}{Un momento! Facevi parte del team *originale*?! Ma allora devi avere quasi 200 anni!}
+{701}{}{Beh, suppongo sia vero, in un certo senso. In realta' sono nato 202 anni fa. Tuttavia, non avrei mai potuto vivere cosi' a lungo con mezzi normali.}
 {702}{}{Go on. I'm listening.}
-{703}{}{When the war started, the other scientists and I used the cryogenic storage chambers. We handed over more control of the facility to the holograms and robots, then put ourselves in the chambers to wait out the worst of the destruction.}
-{704}{}{But, the great war was over many, many years ago.}
-{705}{}{True. We initially came out of hibernation about 90 years ago, and discovered that this place had deteriorated greatly. Most of the other scientists here continued some of their original research, as they didn't really know what else to do.}
+{703}{}{Quando la guerra e' iniziata, io e gli altri scienziati abbiamo usato le camere criogeniche. Abbiamo ceduto piu' controllo della struttura agli ologrammi e ai robot, poi ci siamo messi nelle camere per superare il peggio della distruzione.}
+{704}{}{Ma la Grande Guerra e' finita moltissimi anni fa.}
+{705}{}{Vero. Siamo usciti dall'ibernazione circa 90 anni fa e abbiamo scoperto che questo posto era molto deteriorato. La maggior parte degli altri scienziati ha continuato alcune delle loro ricerche originali, perche' non sapevano davvero cos'altro fare.}
 {706}{}{[AVANTI]}
-{707}{}{I couldn't believe their scientific short-sightedness... their utter lack of imagination! We had an incredible opportunity to do some amazing things. We had the chance to remake things how we saw fit. Sadly, my comrades paid for their lack of vision...}
+{707}{}{Non potevo credere alla loro miopia scientifica... alla totale mancanza di immaginazione! Avevamo un'incredibile opportunita' di fare cose straordinarie. Avevamo la possibilita' di rifare tutto come ritenevamo opportuno. Purtroppo, i miei compagni hanno pagato la loro mancanza di visione...}
 {708}{}{You killed them!?}
 {709}{}{Understandable.}
 {710}{}{Please continue.}
-{711}{}{No, I didn't kill them. But I couldn't have them stay here interfering with my plans. I merely manipulated events here so that they chose to leave.}
-{712}{}{Okay, that answers part of the story. But there is still something missing...}
-{713}{}{Ah, yes. Sorry about that. I sometimes go off on tangents or my mind just wanders. Great minds, you know? Anyway, I continue to use the tank. I have modified it somewhat, though.}
+{711}{}{No, non li ho uccisi. Ma non potevo permettere che restassero qui a interferire con i miei piani. Ho semplicemente manipolato gli eventi in modo che scegliessero di andarsene.}
+{712}{}{Okay, questo risponde a una parte della storia. Ma manca ancora qualcosa...}
+{713}{}{Ah, si'. Scusa. A volte divago o la mia mente vaga. Le grandi menti, sai com'e'. Comunque, continuo a usare la vasca. Anche se l'ho modificata un po'.}
 {714}{}{What modifications have you done?}
 {715}{}{I think I've heard enough of this. Goodbye.}
-{716}{}{Well, the first time we used the cryogenic chambers, it was as if I just went to sleep and woke up. But, I realized that was a waste of time. I reset the chamber settings so that I could use it for years at a time, but keep my mind conscious! I use those extended periods to ponder current projects and think up new experiments. By doing so, I can see the long-term effects of my research.}
-{717}{}{Did you ever consider that maybe using the chamber like this might be damaging to you somehow?}
-{718}{}{Nonsense! If anything I am getting better. I can see things so clearly, now, thanks to my periods of lucid hibernation.}
+{716}{}{Beh, la prima volta che abbiamo usato le camere criogeniche, era come se fossi andato a dormire e mi fossi svegliato. Ma ho capito che era uno spreco di tempo. Ho reimpostato le camere in modo da poterle usare per anni alla volta, mantenendo pero' la mente cosciente! Uso quei lunghi periodi per riflettere sui progetti attuali e ideare nuovi esperimenti. Cosi' posso vedere gli effetti a lungo termine delle mie ricerche.}
+{717}{}{Hai mai considerato che usare la camera in questo modo potrebbe danneggiarti in qualche modo?}
+{718}{}{Sciocchezze! Semmai sto migliorando. Ora vedo tutto cosi' chiaramente, grazie ai miei periodi di ibernazione lucida.}
 {719}{}{What a loon! Goodbye.}
-{720}{}{That's actually a great idea. Genius! Hey, do you think that I could see this cryogenic chamber?}
+{720}{}{In realta' e' un'ottima idea. Geniale! Ehi, pensi che potrei vedere questa camera criogenica?}
 {721}{}{I see. Tell me about something else.}
 {722}{}{Well of course. It's right over there. I had it moved up here some time ago. Keeping the chamber in the sublevels of this facility was just not a wise idea.}
 {723}{}{Interesting. So, how does it work?}
