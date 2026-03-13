@@ -1,71 +1,71 @@
 {100}{}{That's it... I think.}
-{101}{}{No, but it can't... I, well... hmmm...}
-{102}{}{The blue wire to the red housing...}
+{101}{}{No, ma non puo'... io, beh... hmmm...}
+{102}{}{Il filo blu all'alloggiamento rosso...}
 {103}{}{Those mutations are progressing nicely.}
 {104}{}{It won't be long now.}
 {105}{}{Just a few more drops of HCl...}
 {106}{}{You see a man in a white lab coat.}
 {107}{}{You see The Doctor.}
-{108}{}{The leading - and only - Doctor left in the EPA.}
+{108}{}{Il principale — e unico — dottore rimasto nell'EPA.}
 {109}{}{It would be unwise to attack me.}
 {120}{}{Si'?}
 {121}{}{Hi, my name is }
 {122}{}{. Who are you?}
 {123}{}{Sorry to bother you. Goodbye.}
 {130}{}{I'm known as the Doctor.}
-{131}{}{Oh, right. So what do you do? Why are you here all on your own? The rest of the place looks deserted.}
+{131}{}{Ah, giusto. Quindi cosa fai? Perche' sei qui tutto solo? Il resto del posto sembra deserto.}
 {132}{}{OK, thanks.}
-{140}{}{I see you are adequately skilled in the ways of science. Maybe you could understand what I do here after all. What do you wish to know?}
+{140}{}{Vedo che hai abilita' adeguate nelle vie della scienza. Forse potresti capire cosa faccio qui, dopotutto. Cosa desideri sapere?}
 {141}{}{Why are you here?}
 {142}{}{Di che cosa ti occupi?}
-{150}{}{I'm sorry, but I don't believe you have the skills required to understand what I'm doing here. Come back when you're mentally tougher.}
-{151}{}{Whoa, just a minute. I'll have a go at anything you give me!}
+{150}{}{Mi dispiace, ma non credo tu abbia le competenze necessarie per capire cosa sto facendo qui. Torna quando sarai mentalmente piu' forte.}
+{151}{}{Ehi, un momento. Provero' qualsiasi cosa tu mi dia!}
 {152}{}{Well, all right then. Goodbye.}
-{160}{}{I was part of the original team of scientists that worked here in the EPA before the war. Unfortunately, none of them were skilled enough in the scientific disciplines or possessed sufficient resolve and had to leave. Now, I'm the only one left.}
-{161}{}{So, are you happy with that? I mean, being the only one here?}
-{170}{}{Anything I want to really. At the moment, I'm carrying out more genetic research on creatures that I've created in order to observe the effects of FEV on their immune systems. Years ago, I created many new drugs and adapted several others, but I don't do that anymore.}
+{160}{}{Facevo parte del team originale di scienziati che lavorava qui nell'EPA prima della guerra. Sfortunatamente, nessuno di loro era abbastanza competente nelle discipline scientifiche o possedeva sufficiente determinazione, e hanno dovuto andarsene. Ora, sono l'unico rimasto.}
+{161}{}{Quindi, sei felice di questo? Voglio dire, di essere l'unico qui?}
+{170}{}{Qualsiasi cosa io voglia, davvero. Al momento sto conducendo ulteriori ricerche genetiche su creature che ho creato per osservare gli effetti dell'FEV sui loro sistemi immunitari. Anni fa ho creato molti nuovi farmaci e ne ho adattati diversi altri, ma non lo faccio piu'.}
 {171}{}{What's that about creatures you've created?}
 {172}{}{What types of drugs have you made?}
-{180}{}{No, you cannot. You just aren't skilled enough in the ways of science and biological enhancements. Now, if you'll excuse me, you're wasting my time.}
-{181}{}{I most certainly am not. Try me.}
-{190}{}{<smiles> Well, maybe so. OK, if you wish, I'll give you a chance. What would you like to know then?}
+{180}{}{No, non puoi. Non sei abbastanza competente nelle vie della scienza e dei potenziamenti biologici. Ora, se vuoi scusarmi, mi stai facendo perdere tempo.}
+{181}{}{Assolutamente no. Mettimi alla prova.}
+{190}{}{<sorride> Beh, forse e' cosi'. Va bene, se vuoi, ti daro' una possibilita'. Cosa vorresti sapere allora?}
 {191}{}{Why are you here?}
 {192}{}{Di che cosa ti occupi?}
-{200}{}{Why of course! Nobody to watch over me. No rules whatsoever. I do whatever I want, whenever I want. Also, with only me being left here, I have access to all the equipment I would ever need. Anything else?}
+{200}{}{Ma certo! Nessuno che mi controlla. Nessuna regola di alcun tipo. Faccio quello che voglio, quando voglio. Inoltre, essendo rimasto solo io qui, ho accesso a tutta l'attrezzatura di cui potrei mai avere bisogno. Altro?}
 {201}{}{Who are the people over there in those cages?}
-{202}{}{What's all the funny colored liquid I've seen around the EPA?}
+{202}{}{Che cos'e' tutto quel liquido dai colori strani che ho visto in giro per l'EPA?}
 {203}{}{Where do you get all of the equipment from?}
-{210}{}{Those in the first cells over by that wall are some villagers that wandered in here by mistake and I captured them for use later on. The other stronger-looking ones are my own warriors for... emergencies.}
+{210}{}{Quelli nelle prime celle vicino a quel muro sono alcuni abitanti del villaggio entrati qui per sbaglio, e li ho catturati per usarli piu' avanti. Gli altri, quelli che sembrano piu' forti, sono i miei guerrieri per... emergenze.}
 {211}{}{...for use later? What do you mean?}
 {212}{}{Thanks. Can I ask another question?}
 {213}{}{Right. Thanks. I must be going now.}
-{220}{}{Chemicals and tanks of FEV mostly. It was all contained in great barrels for safe storage here at the EPA. Unfortunately, there was a minor accident and a huge chemical leak forced everyone except those daft holograms to leave. Some of the chemicals have leaked into the lower levels. I'm now using it as experimentation material. So far, it's provided some promising results!}
-{221}{}{What types of results? Do you mean you've created these creatures?}
+{220}{}{Sostanze chimiche e serbatoi di FEV, principalmente. Era tutto contenuto in grandi barili per essere conservato in sicurezza qui all'EPA. Sfortunatamente, c'e' stato un piccolo incidente e una grande perdita chimica ha costretto tutti ad andarsene, tranne quei tonti degli ologrammi. Alcune sostanze sono filtrate nei livelli inferiori. Ora le sto usando come materiale di sperimentazione. Finora hanno dato risultati promettenti!}
+{221}{}{Che tipo di risultati? Vuoi dire che hai creato tu queste creature?}
 {222}{}{So where do you get all your equipment from?}
-{230}{}{Here mostly. The EPA was originally designed and furnished with all kinds of machinery and, since all the other scientists left, none of it was ever used. I'm just running out of a few things now after so many years...}
+{230}{}{Per lo piu' qui. L'EPA era stata progettata e fornita con ogni tipo di macchinario e, da quando gli altri scienziati se ne sono andati, non e' stato usato piu' nulla. Ora, dopo tanti anni, sto solo esaurendo alcune cose...}
 {231}{}{Never mind. I must be going now.}
-{240}{}{Drugs? Dozens! Over the years I've created mentats, buffout, stimpaks, medical kits of varying strengths, psychos and many others that you wouldn't understand. I don't do that anymore, though. I created the Mr. Chemmie! robot to do that for me. It's in the main complex. If you have the intelligence and scientific skills you say you have, then feel free to use it to make any drugs you want.}
+{240}{}{Droghe? Decine! Negli anni ho creato mentats, buffout, stimpak, kit medici di varie potenze, psycho e molte altre cose che non capiresti. Non lo faccio piu', comunque. Ho creato il robot Mr. Chemmie! per farlo al posto mio. Si trova nel complesso principale. Se hai davvero l'intelligenza e le capacita' scientifiche che dici, sentiti libero di usarlo per creare tutte le droghe che vuoi.}
 {241}{}{What special drugs have you created?}
 {242}{}{Where can I find Mr. Chemmie!?}
 {243}{}{Thanks. Say, have you ever heard of Jet?}
-{250}{}{Yes, I've created many creatures whilst I've been at the EPA. If you're an exploring type, then you may have come across some of them in the wastes. Centaurs?  Floaters? The "Aliens"? They roam freely now in the wastes. I've just retained a few here and in the main base for future reference.}
-{251}{}{Just a minute. Are you telling me that all those creatures out there, those things that are plaguing the wasteland and killing innocents were created by you?!}
+{250}{}{Si', ho creato molte creature mentre ero all'EPA. Se sei un tipo che esplora, potresti averne incontrate alcune nelle Lande. Centauri? Flotter? Gli \"Alieni\"? Ora vagano liberamente nelle Lande. Ne ho tenute solo alcune qui e nella base principale per riferimento futuro.}
+{251}{}{Un momento. Mi stai dicendo che tutte quelle creature la fuori, quelle cose che infestano le Lande e uccidono innocenti, le hai create tu?!}
 {252}{}{Whoa, note to self: Do not anger the Doctor. Goodbye.}
-{260}{}{'What do I mean?' The Forced Evolution Virus, of course! I'm only just beginning to experiment as to the effects on humans. We've all heard the story of the Master. I was thinking of doing something similar myself. An army of my own would certainly be very useful!}
-{261}{}{Don't you think that's a bit immoral? How can you even consider such a hideous thing?}
-{262}{}{Just getting around to humans? What else have you worked on then?}
+{260}{}{'Cosa intendo?' Il Virus dell'Evoluzione Forzata, naturalmente! Sto solo iniziando a sperimentarne gli effetti sugli esseri umani. Abbiamo tutti sentito la storia del Master. Stavo pensando di fare qualcosa di simile anch'io. Un mio esercito sarebbe certamente molto utile!}
+{261}{}{Non pensi che sia un po' immorale? Come puoi anche solo considerare una cosa cosi' orribile?}
+{262}{}{Solo ora stai passando agli esseri umani? Su cos'altro hai lavorato allora?}
 {263}{}{Well, good luck with that. I must get going now.}
-{270}{}{Yes, I suppose you can. You amuse me greatly. What else can I answer for you? }
+{270}{}{Si', suppongo di si'. Mi diverti molto. Cos'altro posso risponderti? }
 {271}{}{Tell me again about these people.}
 {272}{}{What's all the funny-colored liquid around the EPA?}
 {273}{}{Where do you get all the equipment and supplies for your experiments?}
-{280}{}{No, no, no. Before you leave, I must ask you something. Could you do a little favor for me? I don't leave the safety of the warehouse for fear of things being stolen. I need some raw materials. Could you help me?}
+{280}{}{No, no, no. Prima che tu vada, devo chiederti una cosa. Potresti farmi un piccolo favore? Non lascio la sicurezza del magazzino per paura che mi rubino qualcosa. Ho bisogno di alcune materie prime. Potresti aiutarmi?}
 {281}{}{Yeah, I suppose so. What do you need?}
 {282}{}{No, I'm too busy at the moment. Maybe some other time.}
-{290}{}{Yeah, I wondered what the virus would do on regular domesticated animals saved in storage from before the war. The unfortunate thing was it affected their reproductive cycles and they bred very quickly. I released them into the wastes soon after I realized that.}
-{291}{}{You're a monster! No wonder nobody in the area knows about you! You ought to be disposed of.}
+{290}{}{Si', mi chiedevo cosa avrebbe fatto il virus sugli animali domestici conservati prima della guerra. Sfortunatamente, ha influenzato i loro cicli riproduttivi e si sono riprodotti molto rapidamente. Li ho liberati nelle Lande poco dopo averlo capito.}
+{291}{}{Sei un mostro! Non c'e' da stupirsi che nessuno nella zona sappia di te! Dovresti essere eliminato.}
 {292}{}{Well, I don't agree with what you are doing, but there's nothing I can do about it. Goodbye.}
-{300}{}{Special drugs? Well, I've been cultivating a new crop of marijuana. It's a pre-war drug that I found in deep freeze. I only have manure though from the mutated creatures you see here, so it was more dangerous than I first thought. The first trials weren't very successful, anyway...}
+{300}{}{Droghe speciali? Beh, ho coltivato una nuova coltura di marijuana. E' una droga prebellica che ho trovato in congelamento profondo. Ho solo letame proveniente dalle creature mutate che vedi qui, quindi era piu' pericoloso di quanto pensassi. Le prime prove non sono state molto riuscite, comunque...}
 {301}{}{Can I get some of this drug?}
 {302}{}{Why weren't they successful? What happened?}
 {310}{}{Mr. Chemmie! is located in the northeast section of the bottom floor of the EPA. Or maybe the northwest... Actually, it's on the top floor. Oh, I can't remember anymore. It's a huge chunk of machinery. You can't miss it.}

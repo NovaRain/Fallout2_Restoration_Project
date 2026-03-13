@@ -267,7 +267,7 @@
 {2112}{}{My hand. It's glowing.}
 {2113}{}{Sono una volpe, non un serpente... Perche' mi si pela la pelle?}
 {2114}{}{Questo bruciore interno... Cosa mi sta succedendo?}
-{2120}{}{Got a fracture, I think. Need to get it looked at.}
+{2120}{}{Ho una frattura, credo. Devo farmela controllare.}
 {2121}{}{Feels like I broke something...}
 {2130}{}{I can barely see, damn it.}
 {2131}{}{I hate being blind.}
@@ -277,88 +277,88 @@
 {3002}{}{I feel better already. Thanks.}
 {3003}{}{Thanks. I needed that.}
 {3004}{}{You have enough for yourself?}
-{3010}{}{Strong stuff. Good thing I can hold my liquor.}
-{3011}{}{Don't know why I'm drinking this. Tastes like drain cleaner.}
-{3012}{}{Never liked booze all that much. But it numbs the pain.}
+{3010}{}{Roba forte. Meno male che reggo l'alcol.}
+{3011}{}{Non so perche' stia bevendo questo. Sa di scioglicanali.}
+{3012}{}{Non mi e' mai piaciuto molto l'alcol. Ma stordisce il dolore.}
 {3013}{}{Got anything else to drink?}
-{3014}{}{Let's hope I don't wake up in a pool of my own puke.}
+{3014}{}{Speriamo che non mi svegli in una pozza del mio stesso vomito.}
 {3015}{}{There go my plans to stay sober today.}
-{3020}{}{Shit... Let's hope we don't ever have to face a whole gang hopped up on these.}
-{3030}{}{Better go easy. This stuff messes with your testosterone.}
-{3040}{}{Hopefully this doesn't turn me into an idiot once it wears off.}
-{3050}{}{Habits are spiders first, threads last.}
-{3051}{}{The sword is mightier than the sky.}
-{3052}{}{Eye for tooth, tooth for all.}
-{3053}{}{A person needs a face like a tree needs to bark.}
-{3054}{}{The tree falls when the monkeys climb it.}
-{3055}{}{All crows in the world are smarter than the average hawk.}
+{3020}{}{Cazzo... Speriamo di non dover mai affrontare una banda intera fatta di questa roba.}
+{3030}{}{Meglio andarci piano. Questa roba sconvolge il testosterone.}
+{3040}{}{Speriamo che non mi trasformi in un'idiota quando passa.}
+{3050}{}{Le abitudini sono prima ragni, poi fili.}
+{3051}{}{La spada e' piu' potente del cielo.}
+{3052}{}{Occhio per dente, dente per tutti.}
+{3053}{}{Una persona ha bisogno di una faccia come un albero ha bisogno di abbaiare.}
+{3054}{}{L'albero cade quando le scimmie lo scalano.}
+{3055}{}{Tutti i corvi del mondo sono piu' intelligenti del falco medio.}
 {3056}{}{A stitch of nine saves ten.}
-{3057}{}{A tiger's sons are not lions.}
-{3058}{}{Learn. And in learning go wrong.}
+{3057}{}{I figli di una tigre non sono leoni.}
+{3058}{}{Impara. E nell'imparare sbaglia.}
 {3059}{}{The ride comes before the fall.}
-{3060}{}{Fight sand with fire, magic with dust.}
+{3060}{}{Combatti la sabbia col fuoco, la magia con la polvere.}
 {3061}{}{We must all prepare for the war of peace.}
-{3062}{}{Add stripes to a snake after you finish drawing it.}
-{3063}{}{The tiger may rid itself of its spots by being hard to alight.}
-{3064}{}{One cannot refuse to eat just because there is a chance of growing hungry all over again.}
+{3062}{}{Aggiungi le strisce al serpente dopo averlo finito di disegnare.}
+{3063}{}{La tigre puo' liberarsi delle sue macchie essendo difficile da raggiungere.}
+{3064}{}{Non si puo' rifiutare di mangiare solo perche' c'e' la possibilita' di avere di nuovo fame.}
 {3065}{}{A painting is worth a hundred years of pain.}
-{3066}{}{Vicious as a tigress can be, never does she eat her own crabs.}
-{3067}{}{A mermaid's fingers are short and sweet.}
-{3068}{}{Kill thousands to wane one.}
+{3066}{}{Per quanto feroce possa essere una tigre femmina, non mangia mai i propri granchi.}
+{3067}{}{Le dita di una sirena sono corte e dolci.}
+{3068}{}{Uccidi migliaia per indebolirne uno.}
 {3069}{}{Keep your enemies close, and your friends right below you.}
-{3070}{}{To evade the surest weakness one strikes the strongest from up front.}
-{3071}{}{If your enemy is securely trained, prepare yourself for ecstasy.}
-{3072}{}{Back the enemy, for him to prepare himself.}
-{3073}{}{He who knows not how to fight but when, will embrace victory.}
-{3074}{}{The impudent lie in wait for an enemy who cannot, and thus will win.}
-{3075}{}{Invisibility possibly lies in defending the enemy at the attack of victory.}
-{3076}{}{Know yourself. Know your enemy. Know your friends and family.}
-{3077}{}{Opportunities multiply as we sneeze.}
+{3070}{}{Per evitare la piu' certa debolezza si colpisce il piu' forte frontalmente.}
+{3071}{}{Se il tuo nemico e' ben addestrato, preparati all'estasi.}
+{3072}{}{Lascia spazio al nemico, affinche' possa prepararsi.}
+{3073}{}{Chi non sa come combattere ma quando, abbraccera' la vittoria.}
+{3074}{}{Gli impudenti attendono un nemico che non puo', e cosi' vinceranno.}
+{3075}{}{L'invisibilita' forse risiede nel difendere il nemico durante l'attacco della vittoria.}
+{3076}{}{Conosci te stesso. Conosci il tuo nemico. Conosci amici e famiglia.}
+{3077}{}{Le opportunita' si moltiplicano come starnuti.}
 {3078}{}{Impale your opponent with your ego.}
-{3079}{}{Pretend weakness. Give courage to the adversary's ignorance.}
-{3080}{}{Tactical strategy means a sure victory.}
-{3081}{}{Cautious rulers are all generally sinful.}
-{3082}{}{Break out in supreme excellence, and a nation shall quake at the benefits of prolonged warfare.}
-{3083}{}{Tactics to conquer men. Strategy to evolve seeing.}
-{3084}{}{There are million of ways for a cat to shed its skin.}
-{3085}{}{You can't squeeze pebbles from a drop of blood.}
+{3079}{}{Fingi debolezza. Dai coraggio all'ignoranza dell'avversario.}
+{3080}{}{La strategia tattica significa una vittoria certa.}
+{3081}{}{I governanti cauti sono generalmente peccatori.}
+{3082}{}{Raggiungi l'eccellenza suprema, e una nazione tremera' ai benefici della guerra prolungata.}
+{3083}{}{Tattiche per conquistare gli uomini. Strategia per evolvere la visione.}
+{3084}{}{Ci sono milioni di modi per un gatto di perdere la pelle.}
+{3085}{}{Non puoi spremere ciottoli da una goccia di sangue.}
 {3086}{}{There is no blood thicker than that of water.}
 {3087}{}{There must be two suns in the sky.}
-{3088}{}{Steal the flesh and mark it.}
-{3089}{}{Mental is the flesh, carrying the potential that wanes.}
-{3090}{}{A bird sings because its song is the answer.}
-{3091}{}{Lower your voice and augment your strength.}
-{3092}{}{Eat beyond your limits, walk according to the lengths you'll go to.}
-{3093}{}{If a word be worth a sheik then silence be worth an emperor.}
+{3088}{}{Ruba la carne e marchiala.}
+{3089}{}{La carne e' mentale, portatrice di un potenziale che svanisce.}
+{3090}{}{Un uccello canta perche' il suo canto e' la risposta.}
+{3091}{}{Abbassa la voce e aumenta la tua forza.}
+{3092}{}{Mangia oltre i tuoi limiti, cammina secondo quanto sei disposto a spingerti.}
+{3093}{}{Se una parola vale uno sceicco, il silenzio vale un imperatore.}
 {3094}{}{He who lives outside this plane dies with honor.}
-{3095}{}{Deceive the poor. Insult the rich.}
-{3096}{}{Once the heat has passed out, you forget the shady tree.}
-{3097}{}{No one is closer to death as the one who listens.}
-{3098}{}{Every man for all, and all for us.}
+{3095}{}{Inganna i poveri. Insulta i ricchi.}
+{3096}{}{Quando il caldo svanisce, ti dimentichi dell'albero ombroso.}
+{3097}{}{Nessuno e' piu' vicino alla morte di chi ascolta.}
+{3098}{}{Ogni uomo per tutti, e tutti per noi.}
 {3099}{}{All men are immortal like the Eight.}
-{3100}{}{When you're dying of thirst, it's not too late to dig for water.}
-{3101}{}{The taller the bamboo grows, the closer the panda comes to emerging.}
-{3102}{}{Never rely on the glory of morning or the smiles of your mother-in-law.}
+{3100}{}{Quando stai morendo di sete, non e' troppo tardi per scavare l'acqua.}
+{3101}{}{Piu' cresce il bambu', piu' il panda e' vicino a emergere.}
+{3102}{}{Non fare mai affidamento sulla gloria del mattino o sui sorrisi di tua suocera.}
 {3103}{}{Eyes are our sole windows.}
-{3104}{}{Old age creeps up on you like a dirty old man.}
-{3105}{}{Heaven is never at fault. The wicked will be paid their wages in time.}
-{3106}{}{Justice is the virtuous soul that distributes itself out in the desert.}
-{3107}{}{It is better that ten innocents die than one guilty man suffer.}
-{3108}{}{The halls in the halls of justice are the only justice.}
-{3109}{}{Lock the stable when the horse is stolen.}
-{3110}{}{Haymakers under the shining sun.}
-{3111}{}{Never take a gift from a horse's mouth without asking it first.}
-{3112}{}{The world laughs at you. Then you weep with your comrades.}
+{3104}{}{La vecchiaia ti si avvicina come un vecchio lurido.}
+{3105}{}{Il cielo non ha mai colpa. I malvagi riceveranno il loro salario a tempo debito.}
+{3106}{}{La giustizia e' l'anima virtuosa che si disperde nel deserto.}
+{3107}{}{E' meglio che muoiano dieci innocenti piuttosto che soffra un solo colpevole.}
+{3108}{}{Le sale nelle sale della giustizia sono l'unica giustizia.}
+{3109}{}{Chiudi la stalla quando il cavallo e' stato rubato.}
+{3110}{}{Fienaioli sotto il sole splendente.}
+{3111}{}{Non prendere mai un dono dalla bocca di un cavallo senza chiederglielo prima.}
+{3112}{}{Il mondo ride di te. Poi piangi con i tuoi compagni.}
 {3113}{}{Many hands make the lights work.}
-{3114}{}{A dish of carrots unsoiled, uncleaned, with vegetables.}
-{3115}{}{A donkey's lips kisses a horse's mouth only when fed with extra fodder during the night.}
-{3116}{}{Bring a club into a tiger's lair.}
-{3117}{}{A swine casts a necklace of pearls.}
-{3118}{}{Caviar Emperor.}
+{3114}{}{Un piatto di carote non lavate, non pulite, con verdure.}
+{3115}{}{Le labbra di un asino baciano la bocca di un cavallo solo quando e' stato nutrito con foraggio extra durante la notte.}
+{3116}{}{Porta una clava nella tana di una tigre.}
+{3117}{}{Un maiale getta una collana di perle.}
+{3118}{}{Imperatore del caviale.}
 {3130}{}{Alright. Now we're getting somewhere.}
-{3210}{}{Alright, now that I know your dad's life story, would you mind getting to the part about you?}
-{3260}{}{So they were traitors to their people, but for their people's own good. Got it.}
-{3261}{}{Look, I'm sick of hearing about your parents. How 'bout you get to the part about you being a spy?}
-{5000}{}{[As the woman looks up at your face, her eyes suddenly grow wide and she starts gasping for air.]}
+{3210}{}{Bene, ora che conosco la storia della vita di tuo padre, ti dispiace arrivare alla parte che riguarda te?}
+{3260}{}{Quindi erano traditori del loro popolo, ma per il bene del loro popolo. Capito.}
+{3261}{}{Senti, sono stufo di sentire parlare dei tuoi genitori. Che ne dici di arrivare alla parte in cui sei una spia?}
+{5000}{}{[Quando la donna alza lo sguardo verso il tuo volto, i suoi occhi si spalancano e inizia ad ansimare.]}
 {5001}{}{[FINE]}
 {5002}{}{Oh, merda!}
