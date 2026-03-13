@@ -17,34 +17,34 @@
 {403}{}{Alright. [Step into the device.]}
 {410}{}{Per favore, effettua la tua scelta. Essendo un prototipo iniziale, posso offrirti solo opzioni limitate. Mi dispiace.}
 {411}{}{Alter Gender.}
-{412}{}{Alter Race. (Currently only White to African American or vice versa).}
-{413}{}{Alter Hairstyle (Regular Hair).}
-{414}{}{Alter Hairstyle (Long Hair).}
-{415}{}{Alter Hairstyle (Bald).}
-{416}{}{Alter Hairstyle (Blond Hair).}
-{417}{}{Alter Hairstyle (Red Hair).}
+{412}{}{Modifica Razza. (Attualmente solo da Caucasico a Afroamericano o viceversa).}
+{413}{}{Modifica Acconciatura (Capelli Normali).}
+{414}{}{Modifica Acconciatura (Capelli Lunghi).}
+{415}{}{Modifica Acconciatura (Calvo).}
+{416}{}{Modifica Acconciatura (Capelli Biondi).}
+{417}{}{Modifica Acconciatura (Capelli Rossi).}
 {418}{}{On second thought, I don't really have time for this right now. Bye.}
-{500}{}{This procedure will take four weeks for you to recover and has a 50% chance of death. Do you wish to begin now?}
+{500}{}{Questa procedura richiedera' quattro settimane di recupero e ha una probabilita' di morte del 50%. Vuoi iniziare ora?}
 {501}{}{Cominciamo.}
-{502}{}{Yes. Finally, I can be the person I've always been on the inside.}
+{502}{}{Si. Finalmente posso essere la persona che sono sempre stato dentro.}
 {503}{}{Eh, maybe later. Bye.}
 {504}{}{Let me choose another procedure.}
 {505}{}{Hell no! I'm outta here!}
-{510}{}{Excellent choice. This procedure will take two weeks for you to recover and has a 25% chance of death. Do you wish to begin now?}
+{510}{}{Ottima scelta. Questa procedura richiedera' due settimane di recupero e ha una probabilita' di morte del 25%. Vuoi iniziare ora?}
 {511}{}{Cominciamo.}
-{512}{}{Yes. Finally, I can be the person I've always been on the inside.}
+{512}{}{Si. Finalmente posso essere la persona che sono sempre stato dentro.}
 {513}{}{Eh, maybe later. Bye.}
 {514}{}{Let me choose another procedure.}
 {515}{}{Hell no! I'm outta here!}
-{520}{}{Excellent choice. This procedure will take one day for you to recover and has a 1% chance of death. Do you wish to begin now?}
+{520}{}{Ottima scelta. Questa procedura richiedera' un giorno di recupero e ha una probabilita' di morte dell'1%. Vuoi iniziare ora?}
 {521}{}{Cominciamo.}
-{522}{}{Yes. Finally, I can be the person I've always been on the inside.}
+{522}{}{Si. Finalmente posso essere la persona che sono sempre stato dentro.}
 {523}{}{Eh, maybe later. Bye.}
 {524}{}{Let me choose another procedure.}
 {525}{}{Hell no! I'm outta here!}
-{600}{}{Congratulations! The experiment was a success. Thank you, and enjoy the new you.}
+{600}{}{Congratulazioni! L'esperimento e' stato un successo. Grazie, e goditi il tuo nuovo te stesso.}
 {601}{}{[Exit.]}
-{650}{}{I'm sorry, this particular procedure is not currently available for females.}
-{700}{}{I'm sorry, but something went terribly wrong with the procedure. We apologize for this inconvenience, but thank
- you for volunteering for the sake of science.}
+{650}{}{Mi dispiace, questa procedura non e' attualmente disponibile per soggetti femminili.}
+{700}{}{Mi dispiace, ma qualcosa e' andato terribilmente storto durante la procedura. Ci scusiamo per l'inconveniente, ma grazie
+ per esserti offerto volontario per il bene della scienza.}
 {701}{}{Oh, merda...}

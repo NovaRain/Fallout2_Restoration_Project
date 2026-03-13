@@ -19,8 +19,8 @@
 {305}{}{Non voglio disturbare, ma qual e' il problema qui?}
 {306}{}{La pompa dell'acqua principale dell'Abbazia e' rotta. Il dannato aggeggio stava tirando le cuoia negli ultimi giorni
  e ora ha finalmente ceduto.}
-{307}{}{I'm a bit of a techie, mind if I take a look?}
-{308}{}{Well, I'm not that great with machines, but perhaps I can see if something can be done.}
+{307}{}{Sono abbastanza esperto di tecnologia, ti dispiace se do un'occhiata?}
+{308}{}{Be', non sono molto bravo con le macchine, ma forse riesco a vedere se si puo' fare qualcosa.}
 {309}{}{Certo, nessuno te lo impedisce.}
 {310}{}{Uh, scusa. Arrivederci.}
 {311}{}{Vedro' di fare il possibile.}

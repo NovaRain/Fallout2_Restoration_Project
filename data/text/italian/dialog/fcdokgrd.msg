@@ -37,9 +37,9 @@
 {281}{}{Yes, I'm ready to go.}
 {282}{}{No, non ancora.}
 {290}{}{Can't you see I'm busy here?}
-{300}{}{Me ride metal fishy-fish?}
+{300}{}{Io andare su pesce?pesce di metallo?}
 {310}{}{[He looks at you as if you're dumbest creature he could possibly imagine. Slowly, he shakes his head.] You no ride
  metal fishy-fish. You go. You go, or I shoot. Understand?}
 {311}{}{Okie, bu-bye!}
-{312}{}{You meanie-man. Me smash meanie-man!}
+{312}{}{Tu uomo?cattivo. Io spacco uomo?cattivo!}
 {500}{}{You talk your way into gaining access to the motor boat.}

@@ -16,7 +16,7 @@
 {400}{}{Questa e' la nostra tipografia. Qui copiamo i nostri libri.}
 {401}{}{Beh, grazie per le informazioni.}
 {500}{}{Guadagni %d punti esperienza per aver consegnato il pezzo.}
-{600}{}{I be BIG helper today. I have macheen part from pretty name woman.}
+{600}{}{Io essere GRANDE aiutante oggi. Io avere pezza macchina da donna bel nome.}
 {610}{}{Deve essere il pezzo di ricambio che ho richiesto a Elaine. Grazie per averlo portato. Ecco, prendi questo
  manuale di sopravvivenza per il disturbo... ehm, se sai leggerlo, s'intende.}
-{611}{}{I read ten words. I likie pitcher books more. They fun to look. Tankee!}
+{611}{}{Io leggere dieci parole. Io piacere piu' libri con figure. Bello guardare. Grazzie!}
