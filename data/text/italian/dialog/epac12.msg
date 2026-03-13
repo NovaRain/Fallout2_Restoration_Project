@@ -130,34 +130,31 @@
 {346}{}{Quello che *potrei* aver provocato. Il mondo si sarebbe fatto saltare in aria prima o poi, comunque. Era solo questione di tempo.}
 {347}{}{Forse dovresti astenerti dal condividere questo piccolo dettaglio con chiunque altro.}
 {348}{}{I get your drift.}
-{350}{}{I know what you must be thinking, but you can't blame yourself for something like that.}
-{351}{}{It's always easier not to accept responsibility.}
-{352}{}{You couldn't have known. Besides, there were other conflicts between the "powers". They would've blown each other
- up sooner or later. It was only a matter of time.}
+{350}{}{So cosa stai pensando, ma non puoi darti la colpa per una cosa del genere.}
+{351}{}{E' sempre piu' facile non accettare la responsabilita'.}
+{352}{}{Non potevi saperlo. Inoltre, c'erano altri conflitti tra le "potenze". Si sarebbero fatti saltare in aria prima o poi. Era solo questione di tempo.}
 {353}{}{Humans are the worst things.}
 {354}{}{I don't consider myself that bad.}
-{355}{}{Nature's been trying to wipe us out for millennia. All these new diseases, natural disasters. We were some kind
- of evolutionary mistake. Maybe we came about too early or weren't suppose to come about at all. We've done more damage
- to this planet than any thing living or dead.}
-{356}{}{But we can atone for it. That's the special thing about us.}
-{357}{}{You've got an awfully nice way of putting it. Thanks for hearing me out. I almost feel like I can move on.}
-{360}{}{Say, since you were a spy, I'm sure you're pretty skilled at stealth and all that. Anything you can teach me?}
-{361}{}{Yes, I've had a quite a bit of practice with sneaking, lockpicking, and stealing. Here, let me show you a few things
- they don't teach you in the books.}
-{362}{}{You've got it now. Remember, practice makes perfect.}
+{355}{}{La natura cerca di eliminarci da millenni. Tutte queste nuove malattie, disastri naturali. Eravamo una specie di errore evolutivo. Forse siamo apparsi troppo presto o non avremmo dovuto apparire affatto. Abbiamo fatto piu' danni a questo pianeta di qualsiasi altra cosa viva o morta.}
+{356}{}{Ma possiamo espiarlo. Questa e' la cosa speciale di noi.}
+{357}{}{Hai un modo davvero bello di dirlo. Grazie per avermi ascoltata. Mi sento quasi come se potessi andare avanti.}
+{360}{}{Senti, visto che eri una spia, sono sicuro che sei piuttosto abile nella furtività e cose del genere. C'è qualcosa che puoi insegnarmi?}
+{361}{}{Si', ho avuto parecchia pratica con lo sgattaiolare, lo scassinare e il rubare. Ecco, lasciami mostrare alcune cose
+ che non ti insegnano sui libri.}
+{362}{}{Ora hai capito. Ricorda, la pratica rende perfetti.}
 {363}{}{Hey, thanks. I think it's about time we headed out.}
 {370}{}{About your eyes...}
 {371}{}{What about them?}
-{372}{}{They're different colors.}
-{373}{}{What's the term for it... heterochromia? Is that what you have?}
-{374}{}{Mine isn't a natural condition. The one on the left didn't belong to me. I lost the old one in an accident.
- And I've never learned to appreciate that until now.}
+{372}{}{Sono di colori diversi.}
+{373}{}{Qual e' il termine... eterocromi? E' quello che hai?}
+{374}{}{La mia non e' una condizione naturale. Quello di sinistra non era mio. Ho perso quello vecchio in un incidente.
+ E non ho mai imparato ad apprezzarlo fino ad ora.}
 {375}{}{Che cosa vuoi dire?}
-{376}{}{Ever since the transplant I always felt like I was seeing the past in one eye and the present in the other.
- More so than ever now. And that helps me carry on.}
+{376}{}{Da quando ho fatto il trapianto ho sempre avuto la sensazione di vedere il passato in un occhio e il presente nell'altro.
+ Piu' che mai adesso. E questo mi aiuta ad andare avanti.}
 {377}{}{We all have our ways of coping.}
 {410}{}{Che cosa vuoi sapere?}
-{411}{}{I have a black belt in sanshou. I can stab a man to death if the situation calls for it. Pistols, rifles and the like I'm decent with.}
+{411}{}{Ho la cintura nera in sanshou. Posso accoltellare un uomo a morte se la situazione lo richiede. Con pistole, fucili e simili me la cavo discretamente.}
 {420}{}{Dobbiamo discutere della distanza tra noi due.}
 {421}{}{What's wrong with it?}
 {422}{}{Stammi vicino.}
@@ -165,60 +162,60 @@
 {424}{}{Non allontanarti troppo.}
 {425}{}{You need your space, got it.}
 {426}{}{Let's spread out.}
-{427}{}{Okay. We're harder targets apart.}
+{427}{}{Va bene. Siamo bersagli piu' difficili separati.}
 {430}{}{Don't take too long or I'm leaving without you.}
 {431}{}{I'll play solitaire or something until you come back.}
 {432}{}{I'm sure I'll find something to do while you're away.}
 {440}{}{Whenever you need me.}
-{441}{}{Glad you're back. I held auditions but I couldn't find a good replacement for you.}
+{441}{}{Contenta che tu sia tornato. Ho fatto dei provini ma non ho trovato un buon sostituto per te.}
 {442}{}{Miss my company?}
-{443}{}{Feeling guilty about taking off without me?}
+{443}{}{Ti senti in colpa per essere andato via senza di me?}
 {444}{}{I was beginning to think you weren't planning on coming back.}
-{445}{}{About time. In Ancient China, tardiness would get you hanged, drawn and quartered.}
+{445}{}{Era ora. Nell'antica Cina, il ritardo ti avrebbe fatto impiccare, sventrare e squartare.}
 {446}{}{Hey. I was just thinking about you.}
-{450}{}{You sure took your time doing whatever it is you were doing without me.}
+{450}{}{Ti sei preso tutto il tempo del mondo a fare qualunque cosa facessi senza di me.}
 {451}{}{Good to be on the road again.}
 {452}{}{Dove?}
 {453}{}{So, where are we headed?}
 {454}{}{Lead the way, skipper.}
-{460}{}{You've got enough people already. You don't need an entourage.}
-{461}{}{Maybe when you've freed up some space. I don't run well with crowds.}
+{460}{}{Hai gia' abbastanza gente. Non hai bisogno di un seguito.}
+{461}{}{Forse quando hai liberato un po' di spazio. Non vado d'accordo con le folle.}
 {462}{}{You ready to take me with you?}
 {463}{}{Andiamo.}
 {464}{}{No, non ancora.}
-{470}{}{Jesus, you look like the Grim Reaper. You ought to get yourself checked out.}
+{470}{}{Gesu', sembri la Morte con la falce. Dovresti farti controllare.}
 {480}{}{No problem. I'm lighter on my feet without it.}
 {490}{}{Never been better. Let's keep going.}
 {491}{}{I've been worse. Just a couple of scratches.}
-{492}{}{I'm not that bad off. Just some flesh wounds.}
-{493}{}{I'm not doing so great. More blood than I care to have coming out of me.}
+{492}{}{Non sto cosi' male. Solo qualche ferita superficiale.}
+{493}{}{Non sto benissimo. Piu' sangue di quanto vorrei che mi uscisse addosso.}
 {494}{}{I need a medic or I'm not going to be able to help you with a damn thing.}
-{495}{}{Can't go on any longer... leave me behind or get me to a doctor. Fast.}
-{500}{}{If you insist. I can still take a man's head off with my hands.}
+{495}{}{Non ce la faccio piu'... lasciami indietro o portami da un dottore. In fretta.}
+{500}{}{Se insisti. Riesco ancora a staccare la testa a un uomo con le mani.}
 {1000}{}{I can't believe I spent over a hundred years in this place.}
-{1010}{}{Not my kind of place to be born in, no offense.}
-{1020}{}{This looks like some 15th Century emperor's burial tomb.}
-{1030}{}{This place smells like cattle dung all over.}
-{1040}{}{I don't think it'd be wise to head into this place without the proper footwear.}
-{1050}{}{I've seen worse places, believe me. Not that I'm too fond of this one.}
+{1010}{}{Non e' il tipo di posto in cui vorrei essere nata, niente di personale.}
+{1020}{}{Questo sembra la tomba di qualche imperatore del XV secolo.}
+{1030}{}{Questo posto puzza di sterco di bestiame dappertutto.}
+{1040}{}{Non credo che sarebbe saggio avventurarsi in questo posto senza le calzature adeguate.}
+{1050}{}{Ho visto posti peggiori, credimi. Non e' che questo mi piaccia troppo.}
 {1060}{}{Rustic. I like it.}
 {1070}{}{This place looks straight out of a snuff flick.}
 {1080}{}{I can taste the radiation in the air.}
 {1090}{}{What is this supposed to be, a labor camp?}
-{1100}{}{The ones inside have it so much better than the ones outside. The world hasn't changed all that much.}
+{1100}{}{Quelli dentro stanno molto meglio di quelli fuori. Il mondo non e' cambiato poi cosi' tanto.}
 {1110}{}{Just what kind of mining town do you call this?}
-{1120}{}{Not my kind of place to be born in, no offense.}
-{1130}{}{Good place to hide out if the law's on your tail.}
+{1120}{}{Non e' il tipo di posto in cui vorrei essere nata, niente di personale.}
+{1130}{}{Buon posto per nascondersi se la legge e' alle tue calcagna.}
 {1140}{}{I wonder if there're any more bunkers like this around.}
 {1150}{}{Biggest Little City in the World. I'll bet.}
 {1160}{}{They can't keep just cattle here...}
 {1170}{}{Death all over...}
 {1171}{}{I wouldn't want to be buried here.}
-{1180}{}{We just jump ahead of nature and keep evolving, don't we? }
+{1180}{}{Superiamo solo la natura e continuiamo ad evolverci, vero? }
 {1190}{}{I haven't seen buildings this tall since the 101 got leveled.}
 {1200}{}{They sure locked this place down tight.}
 {1210}{}{I've heard about these places...}
-{1220}{}{Feels nice to walk into a town that looks like it has it together.}
+{1220}{}{E' bello entrare in una citta' che sembra avere le cose in ordine.}
 {1230}{}{I've heard about these places...}
 {1240}{}{The only holy place in these unholy wastes.}
 {1250}{}{It's hot out here.}
@@ -226,50 +223,50 @@
 {1252}{}{I'm parched.}
 {1253}{}{I'd like it better if this were a beach.}
 {1254}{}{Sulik, you know anything about rain dances?}
-{1260}{}{This is as far from civilization as it gets.}
-{1270}{}{I doubt that water would be drinkable even if you filtered all the salt out.}
-{1271}{}{Any fish we find in these waters are bound to be mutants of some sort.}
+{1260}{}{Questo e' lontano dalla civilta' quanto si puo' essere.}
+{1270}{}{Dubito che quell'acqua sarebbe potabile anche se filtrassi tutto il sale.}
+{1271}{}{Qualsiasi pesce troviamo in queste acque e' destinato ad essere un mutante di qualche tipo.}
 {1272}{}{It's cool out here.}
-{1273}{}{Hundreds bucks to anyone who dares to go skinny-dipping in those waters.}
+{1273}{}{Cento dollari a chiunque osi fare il bagno nudo in quelle acque.}
 {1280}{}{I can't see a damn thing in here.}
-{1281}{}{This place smells bad and if I could see it better it'd probably look even worse.}
-{1282}{}{Careful. There's probably something ugly and smelly holed up here.}
+{1281}{}{Questo posto puzza e se potessi vederlo meglio probabilmente sembrerebbe anche peggio.}
+{1282}{}{Attento. Probabilmente c'e' qualcosa di brutto e puzzolente rintanato qui.}
 {1283}{}{Are those bats I hear?}
 {1284}{}{What are we going to do, spelunk?}
 {1285}{}{Better to light a candle than to curse the darkness.}
-{1290}{}{War... a whole lot of good that did us.}
+{1290}{}{La guerra... ci ha fatto un gran bene.}
 {1291}{}{Dust to dust...}
-{1292}{}{I used to live someplace just like this...}
+{1292}{}{Vivevo in un posto proprio come questo...}
 {2001}{}{My eyes bug you that much?}
-{2002}{}{I could use a soak in a hot spring. Wonder if there're any of those left anymore.}
-{2003}{}{I'd kill to find someone to play mahjong with.}
-{2004}{}{Everyone eats and drinks. Yet only few appreciate the taste.}
-{2005}{}{This world is hell now. All thirteen levels.}
-{2006}{}{I believe in both God and the Devil. But I keep them at a distance.}
-{2007}{}{Are we living a dream, or are we someone else's dream?}
+{2002}{}{Mi farebbe bene immergermi in una sorgente calda. Mi chiedo se ne esistano ancora.}
+{2003}{}{Farei di tutto per trovare qualcuno con cui giocare a mahjong.}
+{2004}{}{Tutti mangiano e bevono. Eppure solo pochi apprezzano il sapore.}
+{2005}{}{Questo mondo e' l'inferno adesso. Tutti e tredici i livelli.}
+{2006}{}{Credo sia in Dio che nel Diavolo. Ma li tengo a distanza.}
+{2007}{}{Stiamo vivendo un sogno, o siamo il sogno di qualcun altro?}
 {2008}{}{I hate what we've done to ourselves.}
-{2009}{}{I wonder how long it's going to take us to recover from the War.}
-{2010}{}{If heaven made us, then the earth'll find some use for us.}
-{2011}{}{You thirsty? I sure am.}
+{2009}{}{Mi chiedo quanto ci vorra' per riprenderci dalla Guerra.}
+{2010}{}{Se il cielo ci ha creato, allora la terra trovera' qualche uso per noi.}
+{2011}{}{Hai sete? Io di sicuro si'.}
 {2012}{}{*yawn*}
-{2013}{}{Man proposes and God disposes.}
-{2020}{}{Hey, Sulik. What are the spirits saying?}
-{2030}{}{You interested in slimming down, Vic? Ask me any time for taebo lessons.}
-{2040}{}{Your wife talks too damn much about herself.}
-{2041}{}{Tell your hillbilly wife to stop coming onto me.}
-{2050}{}{My chest and your eyes have no business, Myron.}
-{2051}{}{How about shutting up for two minutes, Myron? Would that kill you?}
-{2052}{}{No, Myron. I wouldn't sleep with you if you built me a time machine.}
-{2053}{}{Listen, Myron. You don't keep your hands to yourself, I'll make you a eunuch.}
+{2013}{}{L'uomo propone e Dio dispone.}
+{2020}{}{Ehi, Sulik. Cosa dicono gli spiriti?}
+{2030}{}{Ti interessa dimagrire, Vic? Chiedimi in qualsiasi momento lezioni di taebo.}
+{2040}{}{Tua moglie parla troppo dannatamente di se stessa.}
+{2041}{}{Di' a tua moglie campagnola di smetterla di provarci con me.}
+{2050}{}{Il mio petto e i tuoi occhi non hanno niente a che fare insieme, Myron.}
+{2051}{}{Che ne dici di stare zitto per due minuti, Myron? Ti ucciderebbe?}
+{2052}{}{No, Myron. Non andrei a letto con te nemmeno se mi costruissi una macchina del tempo.}
+{2053}{}{Ascolta, Myron. Se non tieni le mani a posto, ti faccio diventare un eunuco.}
 {2060}{}{Hey, Marcus. Wanna arm-wrestle?}
-{2070}{}{We've got enough dogs following us around. We don't need another one.}
+{2070}{}{Abbiamo gia' abbastanza cani che ci seguono in giro. Non ne abbiamo bisogno di un altro.}
 {2100}{}{Ugh, I feel like hell.}
 {2101}{}{I think I've been poisoned...}
 {2110}{}{Something doesn't feel right in me...}
 {2111}{}{I feel strange...}
 {2112}{}{My hand. It's glowing.}
-{2113}{}{I'm a fox, not a snake... Why's my skin peeling?}
-{2114}{}{This burning inside... What's happening to me?}
+{2113}{}{Sono una volpe, non un serpente... Perche' mi si pela la pelle?}
+{2114}{}{Questo bruciore interno... Cosa mi sta succedendo?}
 {2120}{}{Got a fracture, I think. Need to get it looked at.}
 {2121}{}{Feels like I broke something...}
 {2130}{}{I can barely see, damn it.}
