@@ -148,17 +148,17 @@
 {1903}{}{Find Sulik's missing sister.}
 {1904}{}{Find out what happened to the hunting party.}
 {1905}{}{Collect firewood for the tribe's fishermen.}
-{1906}{}{Reunite Sulik and his sister, Kurisu.}
-{1907}{}{Accompany Krom to meet with the trader.}
-{1908}{}{Bring some herbs (5 Xander Roots, 3 Broc Flowers) to the Shaman.}
-{2000}{}{Fix Hologram 00000.}
+{1906}{}{Riunisci Sulik e sua sorella, Kurisu.}
+{1907}{}{Accompagna Krom all'incontro con il mercante.}
+{1908}{}{Porta alcune erbe (5 Radici di Xander, 3 Fiori di Broc) allo Sciamano.}
+{2000}{}{Sistema l’Ologramma 00000.}
 {2001}{}{Fix the Voice Computer.}
 {2002}{}{Clear out the plant problem.}
-{2003}{}{Fix EPA lighting problem.}
+{2003}{}{Risolvi il problema dell’illuminazione dell’EPA.}
 {2004}{}{Collect Gecko Pelts for the Doctor.}
-{2005}{}{Fix the hologram that speaks with static.}
-{2006}{}{Find the tool the Doctor left behind.}
-{2007}{}{Test the Solar Scorcher for the Director of Science.}
+{2005}{}{Sistema l’ologramma che parla con interferenze.}
+{2006}{}{Trova l’attrezzo lasciato dal Dottore.}
+{2007}{}{Testa il Solar Scorcher per il Direttore della Scienza.}
 {2100}{}{}
 {2200}{}{}
 {2300}{}{}
