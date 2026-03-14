@@ -127,36 +127,35 @@
 {351}{}{You're obviously blind. Whatever. It's your loss.}
 {360}{}{What are you proposing? Ahh... well, I have been cooped up in this shop for a long time. I will reveal all I know
  in exchange for a sample of your lady friend's charms.}
-{361}{}{Miria, honey... I guess you'll have to, erm, pump this guy for information.}
-{362}{}{I was joking, old man. Like I'd let you make time with my wife... I'm leaving.}
-{370}{}{[You wait outside and hear faint moans from inside the Flying Dragon 8. An hour passes, and then another. You
- bang on the door, shouting, "Hurry up in there!" Finally, the moans become a primal scream.]}
+{361}{}{Miria, tesoro... credo che dovrai, ehm, spremere questo tizio per ottenere informazioni.}
+{362}{}{Scherzavo, vecchio. Come se ti lasciassi passare del tempo con mia moglie... Me ne vado.}
+{370}{}{[Aspetti fuori e senti gemiti soffocati provenire dall'interno del Flying Dragon 8. Passa un'ora, poi un'altra.
+ Bussi alla porta gridando: "Sbrigatevi la' dentro!" Alla fine, i gemiti diventano un urlo primordiale.]}
 {371}{}{[Bang on the door] Hey, what are you two doing in there!?}
-{380}{}{A smiling Lao Chou emerges from his bedroom, still pulling on his pants. A few moments later Miria stumbles out behind him, looking dazed and confused but deeply satisfied] Your wife is a great deal more experienced than she looks.}
-{381}{}{I, erm, know. Now pull your damn pants up and tell me what's so special about the tanker.}
-{390}{}{There's nothing special about the tanker. It's just a big rusty tanker like you said. Our submarine, on the other hand...}
+{380}{}{Un Lao Chou sorridente esce dalla sua stanza, ancora intento a tirarsi su i pantaloni. Pochi istanti dopo Miria barcolla fuori dietro di lui, stordita e confusa ma profondamente soddisfatta.] Tua moglie e' molto piu' esperta di quanto sembri.}
+{381}{}{Lo... ehm... so. Ora tirati su quei dannati pantaloni e dimmi cosa c'e' di cosi' speciale nella petroliera.}
+{390}{}{Non c'e' nulla di speciale nella petroliera. E' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
 {391}{}{Submarine?}
-{400}{}{The Shi-Huang-Ti. My great grandfather, Ye Li, was its captain. He unleashed her nuclear fires like a horrible dragon upon California's coast.}
+{400}{}{Lo Shi?Huang?Ti. Mio bisnonno, Ye Li, ne era il capitano. Scateno' i suoi fuochi nucleari come un terribile drago sulla costa della California.}
 {401}{}{No shit.}
-{410}{}{Ironically, a malfunctioning missile from our own ancestral nation went off course and exploded over the ocean near the submarine's location. The blast knocked out the Shi-Huang-Ti's systems, leaving Captain Ye Li and his crew stranded at sea.}
+{410}{}{Ironia della sorte, un missile difettoso della nostra stessa nazione ancestrale usci' dalla rotta ed esplose sull'oceano vicino al sottomarino. L'esplosione mise fuori uso i sistemi dello Shi?Huang?Ti, lasciando il capitano Ye Li e il suo equipaggio alla deriva.}
 {411}{}{That's karma for you.}
-{420}{}{But there was salvation. After weeks of drifting, the sub finally came to rest out in the shallow waters of the
- San Francisco bay. This city became our new home. We eventually restored the Shi-Huang-Ti; its targeting systems, its
- weapons. It has enough firepower to blow any potential invaders out of the water. So even if you got that old tanker
- running, it wouldn't get far, as the submarine will destroy any non-Chinese vessel that sails through the bay.}
+{420}{}{Ma ci fu salvezza. Dopo settimane alla deriva, il sottomarino si fermo' nelle acque basse della baia di San Francisco.
+ Questa citta' divenne la nostra nuova casa. Alla fine restaurammo lo Shi?Huang?Ti: i suoi sistemi di puntamento, le sue armi.
+ Ha abbastanza potenza di fuoco da spazzare via qualsiasi invasore. Quindi, anche se riuscissi a far partire quella vecchia petroliera,
+ non andrebbe lontano: il sottomarino distruggera' qualsiasi nave non cinese che attraversi la baia.}
 {421}{}{That sounds like a problem alright. So how would I get to the submarine?}
-{430}{}{You swim. Or take the motorboat at the docks. It is guarded, though, by one of our best soldiers, and he will
- not let an outsider like you past him.}
-{431}{}{You have any idea how I can get past him then, without shooting him in the face?}
-{440}{}{He's under strict orders to guard it 24/7. He will not let anyone without the right password through.}
+{430}{}{Puoi nuotare. Oppure prendere il motoscafo al molo. Ma e' sorvegliato da uno dei nostri migliori soldati, e non lascera' passare un estraneo come te.}
+{431}{}{Hai idea di come potrei passare, allora, senza sparargli in faccia?}
+{440}{}{E' sotto ordini severi di sorvegliarlo 24 ore su 24. Non lascera' passare nessuno senza la password corretta.}
 {441}{}{I don't suppose you know it?}
-{450}{}{That depends. I don't suppose you have $10000 to ensure the continued prosperity of my shop?}
+{450}{}{Dipende. Non e' che per caso hai 10000$ per garantire la continua prosperita' del mio negozio?}
 {451}{}{Here's your $10000.}
-{452}{}{That's outrageous for a simple password. I'll only go as high as $5000.}
+{452}{}{E' assurdo per una semplice password. Arrivo al massimo a 5000$.}
 {453}{}{No.}
-{460}{}{Ah, much appreciated. The password is XY8QIV2SHI. Others may be watching me after this, so don't forget the password. If ever we discuss it again, I'll need even more money for bribes.}
+{460}{}{Ah, molto apprezzato. La password e' XY8QIV2SHI. Potrebbero tenermi d'occhio dopo questo, quindi non dimenticarla. Se dovessimo parlarne di nuovo, avro' bisogno di ancora piu' soldi per le tangenti.}
 {461}{}{Grazie. Arrivederci.}
-{470}{}{You are a crafty one, I'll give you that. Fine. I accept your offer. The password is XY8QIV2SHI. Don't forget it, or you'll have buy it from me again.}
+{470}{}{Sei furbo, questo te lo concedo. Va bene. Accetto la tua offerta. La password e' XY8QIV2SHI. Non dimenticarla, o dovrai ricomprarla da me.}
 {471}{}{Grazie. Arrivederci.}
 {480}{}{Don't insult me with your meager offers. $10000. Take it or leave it.}
 {481}{}{Fine. Here's your $10000.}

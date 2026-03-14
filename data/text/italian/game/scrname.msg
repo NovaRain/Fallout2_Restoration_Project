@@ -1549,7 +1549,7 @@
 {1649}{}{Old Caravan Guard}
 {1650}{}{Dr. Sheng}
 {1651}{}{Plant Creature}
-{1652}{}{Dr. Sheng's hideout}
+{1652}{}{Nascondiglio del dottor Sheng}
 {1653}{}{Porta}
 {1654}{}{Porta}
 {1655}{}{spatial}
