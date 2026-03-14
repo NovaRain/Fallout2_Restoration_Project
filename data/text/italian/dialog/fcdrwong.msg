@@ -122,7 +122,7 @@
 {421}{}{All right. I'll do it.}
 {422}{}{Not interested. Dr. Sheng's your problem--you guys can deal with him.}
 {423}{}{D'accordo. Lo faro'. Ma prima di andare, il dottor Sheng voleva che ti consegnassi questo campione vegetale. Ha detto che dovrebbe aiutarvi a raggiungere l'obiettivo di creare vita vegetale resistente alle radiazioni.}
-{430}{}{Fair enough. We will handle the problem ourselves, but it will have to wait, as we don't have the resources to expend at the moment. Hopefully it won't be too late once we are able to act. In the meantime, if you should change your mind, please let me know.}
+{430}{}{D'accordo. Ci occuperemo noi del problema, ma per ora dovremo aspettare, dato che al momento non disponiamo delle risorse necessarie. Speriamo che non sia troppo tardi quando potremo intervenire. Nel frattempo, se dovessi cambiare idea, fammelo sapere.}
 {431}{}{Don't count on it. Bye.}
 {432}{}{I'll think about it. Bye.}
 {433}{}{We'll see. Let me ask you something else.}
@@ -130,7 +130,7 @@
 {441}{}{Nope, I actually wanted to ask you about something else.}
 {442}{}{Alright, I'll take him out for you.}
 {443}{}{I'll do it, but for a price. You were talking about compensation before?}
-{450}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, you may claim your reward. Are you interested in weapons, supplies, or cash?}
+{450}{}{I nostri esploratori hanno riferito che il dottor Sheng e i suoi esperimenti sono stati distrutti. Che spreco di una mente brillante... Ad ogni modo, puoi reclamare la tua ricompensa. Ti interessano armi, rifornimenti o denaro?}
 {451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
 {452}{}{I'll take weapons.}
 {453}{}{I could always use more supplies.}
