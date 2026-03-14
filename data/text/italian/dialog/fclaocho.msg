@@ -116,17 +116,17 @@
 {291}{}{[CONTINUA]}
 {300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
 {301}{}{hhh... What happened?}
-{310}{}{You fainted as I moved us into the triple-lotus position, and I had to finish pleasuring myself with the grinning-panda kata.
- But a deal's a deal. It's not the tanker that's special -- it's just a big rusty tanker like you said. Our submarine, on the other hand...}
+{310}{}{Sei svenuto mentre ci muovevamo nella posizione del triplo?loto, e ho dovuto finire da solo con la kata del panda?sorridente.
+ Ma un accordo e' un accordo. Non e' la petroliera a essere speciale — e' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}
 {311}{}{Submarine?}
 {330}{}{I... don't think so.}
-{331}{}{Don't try and fight it now. You want me and you know it.}
+{331}{}{Non provare a resistere ora. Mi desideri e lo sai.}
 {340}{}{No, actually. You are not my type.}
 {341}{}{Oh, I see. You're not into women.}
-{350}{}{I am. I just do not find you very attractive. Perhaps if I were drunk.}
+{350}{}{Lo so. E' solo che non ti trovo molto attraente. Forse se fossi ubriaco.}
 {351}{}{You're obviously blind. Whatever. It's your loss.}
-{360}{}{What are you proposing? Ahh... well, I have been cooped up in this shop for a long time. I will reveal all I know
- in exchange for a sample of your lady friend's charms.}
+{360}{}{Cosa stai proponendo? Ahh... beh, sono rimasto chiuso in questo negozio per molto tempo. Rivelero' tutto cio' che so
+ in cambio di un assaggio delle grazie della tua amica.}
 {361}{}{Miria, tesoro... credo che dovrai, ehm, spremere questo tizio per ottenere informazioni.}
 {362}{}{Scherzavo, vecchio. Come se ti lasciassi passare del tempo con mia moglie... Me ne vado.}
 {370}{}{[Aspetti fuori e senti gemiti soffocati provenire dall'interno del Flying Dragon 8. Passa un'ora, poi un'altra.
