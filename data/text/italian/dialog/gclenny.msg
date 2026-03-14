@@ -237,14 +237,14 @@
 {6050}{}{P'potrebbero essere p'proprio la c'cosa g'giusta, adesso che lo m'menzioni. In f'fatti, p'penso che lo s'sarebbero. D'dovrebbe s'stare attento a un p'paio di c'cose, pero'.}
 {6051}{}{Ad esempio?}
 {6052}{}{I knew there'd be a catch.}
-{6060}{}{Nothin' that'd be likely to c'come up t'too often. They've been known to c'cause dizziness. And y'you shouldn't t'take 'em with g'grapefruit juice, though I d'don't think that's gonna be m'much of a p'problem, these days. Unless that's what those l'lumpy g'green things are supposed to be. Hmmm... (Lenny puts a hand to his chin and stares off into space).}
+{6060}{}{N'niente che s'succeda t'troppo s'spesso. S'sono note per c'causare v'vertigini. E n'non d'dovresti p'prenderle con il s'succo di p'pompelmo, anche s'se n'non p'penso che s'sara' un g'gran p'problema, o'oggigiorno. A m'meno che non s'siano q'quelle c'cose v'verdi e g'grumose. Hmmm... (Lenny si porta una mano al mento e fissa il vuoto).}
 {6061}{}{Lenny?}
-{6070}{}{S'sorry. Oh! One more b'big one. Unless you're l'lookin' to meet a l'less-than-d'dignified end, you *do not* want to g'go mixin' those things with N'new Reno p'pep pills.}
-{6071}{}{Pep... pills?}
+{6070}{}{S'scusa. Oh! Un'altra c'cosa im'importante. A m'meno che tu n'non v'voglia f'fare una f'fine p'poco d'dignitosa, *n'non* v'vuoi m'mescolare q'quelle c'cose con le p'pilloline d'dinamizzanti di N'new Reno.}
+{6071}{}{P'pilloline... d'dinamizzanti?}
 {6072}{}{Bad reaction, then?}
-{6080}{}{Ayup. Y'know, for when your l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6081}{}{Ayup. Y'know, for when a man's l'little t'trooper won't st'stand at attention? T'technical n'name for 'em was "PDE-5 inhibitors" but t'times bein' what they are, and N'new Reno bein' what IT is... Anywho, where was I?}
-{6082}{}{Oh, yeah. You g'get those two into your s'system together, and KER-BLAM! Your heart'll explode like a b'blood s'sausage. I remember d'doin' p'post-mortems on m'more than one poor g'geezer who was t'too b'busy sowing his oats to r'read a w'warning label.}
+{6080}{}{Eh s'si'. S'sai, p'per q'quando il t'tuo p'piccolo s'soldato n'non v'vuole m'mettersi s'sull'attenti? Il n'nome t'tecnico era "i'inibitori PDE-5" ma v'visti i t'tempi, e N'new Reno e'essendo q'quello c'che E'E'... C'comunque, d'dove ero r'rimasto?}
+{6081}{}{Eh s'si'. S'sai, p'per q'quando il p'piccolo s'soldato di un u'uomo n'non v'vuole m'mettersi s'sull'attenti? Il n'nome t'tecnico era "i'inibitori PDE-5" ma v'visti i t'tempi, e N'new Reno e'essendo q'quello c'che E'E'... C'comunque, d'dove ero r'rimasto?}
+{6082}{}{Ah, s'si'. P'prendi q'quelle d'due nel t'tuo s'sistema ins'sieme, e KER-BLAM! Il t'tuo c'cuore esp'plodera' c'come un s'sanguinaccio. R'ricordo di a'aver f'fatto p'post-mortem s'su p'piu' di un p'povero v'vecchio c'che era t'troppo o'occupato a s'seminare per l'leggere un'e'etichetta d'di av'vertimento.}
 {6083}{}{Blood Sausage?}
 {6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
 {6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}

@@ -1,8 +1,8 @@
 {100}{}{You see a tired Hubologist guard.}
 {101}{}{He looks pretty bored.}
-{200}{}{(Looks at you with bored eyes) Hey. What brings you all the way down here?}
-{201}{}{I'm here to let you off duty early. I'm on the next guard shift.}
-{202}{}{Ashton sent me to get you. He said he needed to check with you about the recent set of donations.}
+{200}{}{(Ti guarda con aria annoiata) Ehi. Cosa ti porta fin qua giu'?}
+{201}{}{Sono qui per darti il cambio in anticipo. Sono io nel prossimo turno di guardia.}
+{202}{}{Ashton mi ha mandato a chiamarti. Ha detto che doveva parlarti riguardo l'ultimo gruppo di donazioni.}
 {210}{}{Oh, man -- Hey, wait a minute! I've never seen you around before. What are you doing here?}
 {211}{}{I'm a new recruit. I was recently transferred here.}
 {212}{}{Yeah, I was assigned to kill you.}

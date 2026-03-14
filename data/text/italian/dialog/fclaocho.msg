@@ -80,41 +80,35 @@
 {179}{}{Oh, certo... ahem... Posso chiederle qualcos'altro?}
 {180}{}{Oh, certo... Arrivederci.}
 {200}{}{What else can you tell me about the tanker?}
-{210}{}{Even if you could get the NavCom working and the tanker fueled up, you'll still need considerable good fortune
- if you really want the ship to sail again.}
+{210}{}{Anche se riuscissi a far funzionare il NavCom e a rifornire la petroliera, avrai comunque bisogno di una considerevole fortuna se vuoi davvero che la nave torni a navigare.}
 {211}{}{What do you mean by 'considerable good fortune?'}
-{220}{}{I mean, the hunk of junk is older than most ghouls. It would be a miracle if it didn't sink on you. That is all
- I meant.}
-{221}{}{I have a feeling that there's something you're not telling me about the tanker.}
-{230}{}{Perhaps there is. (smiles) Perhaps the wasteland has made you paranoid.}
-{231}{}{Listen, I need to find my tribe. Those bastards who took them are dangerous and need to be stopped.}
-{232}{}{Come on. What's so special about the tanker? We're just two people talking.}
+{220}{}{Voglio dire, quel rottame e' piu' vecchio della maggior parte dei ghoul. Sarebbe un miracolo se non ti affondasse sotto i piedi. E' tutto quello che intendevo.}
+{221}{}{Ho la sensazione che ci sia qualcosa che non mi stai dicendo sulla petroliera.}
+{230}{}{Forse si'. (sorride) Forse la terra desolata ti ha reso paranoico.}
+{231}{}{Senti, ho bisogno di trovare la mia tribu'. Quei bastardi che li hanno presi sono pericolosi e devono essere fermati.}
+{232}{}{Dai. Cosa c'e' di cosi' speciale nella petroliera? Siamo solo due persone che parlano.}
 {233}{}{You sure? I'll make it worth your while.}
 {234}{}{I don't have time for these mind games. Goodbye.}
-{240}{}{Bah. They are nothing. However, it's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
+{240}{}{Bah. Non sono niente. Comunque, non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {241}{}{Submarine?}
-{250}{}{Let's talk, then. But there's nothing special about the tanker. I give you my word.}
+{250}{}{Parliamo, allora. Ma non c'e' niente di speciale nella petroliera. Te lo giuro.}
 {251}{}{What if I paid you to tell me?}
-{260}{}{Hmm... Business has been slow lately. I could use more customers. Or a donation from a very generous one. Say, $2000?}
+{260}{}{Hmm... Gli affari sono stati lenti ultimamente. Potrei usare piu' clienti. O una donazione da uno molto generoso. Diciamo, 2000 dollari?}
 {261}{}{Here you go. But your information better be worth it.}
 {262}{}{$1500 and that's my final offer.}
 {263}{}{I don't think so. That's too much.}
-{270}{}{(Lao Chou pockets the $2000.) It's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
+{270}{}{(Lao Chou intasca i 2000 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {271}{}{Submarine?}
 {280}{}{We have nothing further to discuss, then.}
-{281}{}{You sure? My lovely wife Miria will certainly make it worth your while.}
+{281}{}{Sei sicuro? La mia adorabile moglie Miria lo fara' valere la pena di certo.}
 {282}{}{Arrivederci.}
 {285}{}{You drive a hard bargain. Fine, $1500.}
 {286}{}{Here you go. But your information better be worth it.}
-{287}{}{(Lao Chou pockets the $1500.) It's not the tanker that's special. It's just a big rusty tanker like you said.
- Our submarine, on the other hand...}
+{287}{}{(Lao Chou intasca i 1500 dollari.) Non e' la petroliera ad essere speciale. E' solo una grande petroliera arrugginita come hai detto tu. Il nostro sottomarino, d'altra parte...}
 {288}{}{Submarine?}
-{290}{}{Well if you put it that way, I have been cooped up in this dusty shop for a long time. It has been a quite a while since
- I enjoyed the company of a charming woman like yourself.}
+{290}{}{Be', se la metti cosi', sono stato rinchiuso in questo negozio polveroso per molto tempo. E' passato un bel po' da quando ho goduto della compagnia di una donna affascinante come te.}
 {291}{}{[CONTINUA]}
-{300}{}{[Hours past with no end in sight. You begin to suspect that Lao Chou may not be completely human. You black out, eventually.]}
+{300}{}{[Passano ore senza che si intraveda una fine. Cominci a sospettare che Lao Chou non sia completamente umano. Alla fine, perdi i sensi.]}
 {301}{}{hhh... What happened?}
 {310}{}{Sei svenuto mentre ci muovevamo nella posizione del triplo?loto, e ho dovuto finire da solo con la kata del panda?sorridente.
  Ma un accordo e' un accordo. Non e' la petroliera a essere speciale — e' solo una grande petroliera arrugginita, come hai detto tu. Il nostro sottomarino, invece...}

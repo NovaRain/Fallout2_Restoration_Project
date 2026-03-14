@@ -129,36 +129,36 @@
 {440}{}{I don't suppose you have changed your mind? Will you help us eliminate Dr. Sheng and his creations?}
 {441}{}{Nope, I actually wanted to ask you about something else.}
 {442}{}{Alright, I'll take him out for you.}
-{443}{}{I'll do it, but for a price. You were talking about compensation before?}
+{443}{}{Lo faro', ma per un prezzo. Stavi parlando di compenso prima?}
 {450}{}{I nostri esploratori hanno riferito che il dottor Sheng e i suoi esperimenti sono stati distrutti. Che spreco di una mente brillante... Ad ogni modo, puoi reclamare la tua ricompensa. Ti interessano armi, rifornimenti o denaro?}
-{451}{}{Our scouts have reported that Dr. Sheng and his experiments have been destroyed. Such a waste of a brilliant mind... Anyway, we never asked you to get so involved, but we are grateful. For your troubles, you may claim a reward. Are you interested in weapons, supplies, or cash?}
+{451}{}{Le nostre spie hanno riferito che il Dottor Sheng e i suoi esperimenti sono stati distrutti. Che spreco di una mente brillante... Comunque, non ti abbiamo mai chiesto di coinvolgerti cosi' tanto, ma siamo grati. Per i tuoi problemi, puoi reclamare una ricompensa. Sei interessato ad armi, rifornimenti o denaro?}
 {452}{}{I'll take weapons.}
 {453}{}{I could always use more supplies.}
 {454}{}{Just give me money.}
-{455}{}{Keep your reward. I only did it because it was the right thing to do.}
-{460}{}{Here you go. [He hands you various high powered weapons]}
+{455}{}{Tieniti la ricompensa. L'ho fatto solo perche' era la cosa giusta da fare.}
+{460}{}{Eccoti. [Ti porge varie armi ad alto potenziale]}
 {461}{}{[FATTO]}
-{470}{}{Here you go. [He hands you various supplies]}
+{470}{}{Eccoti. [Ti porge vari rifornimenti]}
 {471}{}{[FATTO]}
-{480}{}{Here you go. [He hands you $5,000]}
+{480}{}{Eccoti. [Ti porge 5.000 dollari]}
 {481}{}{[FATTO]}
-{490}{}{The Shi appreciates your assistance. Now, I have much work to do. Good day.}
+{490}{}{Gli Shi apprezzano il tuo aiuto. Ora, ho molto lavoro da fare. Buona giornata.}
 {491}{}{[FATTO]}
-{500}{}{Before I go, Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
-{501}{}{Dr. Sheng wanted me to deliver this plant sample to you. He said it should help you achieve the goal of creating radiation-resistant plant life.}
-{502}{}{Dr. Sheng wanted me to give you this plant sample as a gift, but I thought I should warn you that it's infused with his sentience serum. I don't know what it's supposed to do, but I'm pretty sure it won't be good for the Shi.}
-{510}{}{Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. Now if there is nothing else, I should be getting back to work.}
-{511}{}{Interesting. [He takes the sample and stores it away.] My team and I will examine it later. I can't say I trust any gift from Dr. Sheng, but I suppose there is an off chance that it'll prove useful. We shall see. But I thought you were going to eliminate Dr. Sheng, not be his courier? In any case, I should be getting back to work.}
+{500}{}{Prima di andare, il Dottor Sheng voleva che ti consegnassi questo campione di pianta. Ha detto che dovrebbe aiutarti a raggiungere l'obiettivo di creare flora resistente alle radiazioni.}
+{501}{}{Il Dottor Sheng voleva che ti consegnassi questo campione di pianta. Ha detto che dovrebbe aiutarti a raggiungere l'obiettivo di creare flora resistente alle radiazioni.}
+{502}{}{Il Dottor Sheng voleva che ti dessi questo campione di pianta come regalo, ma ho pensato di doverti avvertire che e' infuso con il suo siero della coscienza. Non so cosa dovrebbe fare, ma sono abbastanza sicuro che non sara' una buona cosa per gli Shi.}
+{510}{}{Interessante. [Prende il campione e lo ripone.] Il mio team ed io lo esamineremo piu' tardi. Non posso dire di fidarmi di nessun regalo del Dottor Sheng, ma suppongo che ci sia una remota possibilita' che si riveli utile. Lo vedremo. Ora se non c'e' altro, dovrei tornare al lavoro.}
+{511}{}{Interessante. [Prende il campione e lo ripone.] Il mio team ed io lo esamineremo piu' tardi. Non posso dire di fidarmi di nessun regalo del Dottor Sheng, ma suppongo che ci sia una remota possibilita' che si riveli utile. Lo vedremo. Ma pensavo che dovessi eliminare il Dottor Sheng, non fare il suo corriere? In ogni caso, dovrei tornare al lavoro.}
 {512}{}{Actually, I would like to ask you something else.}
 {513}{}{Arrivederci.}
-{514}{}{Actually, I went through quite a bit of trouble to get that sample for you. I think it's worth a reward.}
-{520}{}{Do you, now? The Shi did not solicit this plant sample from you, but if you feel your deeds have earned some compensation, I suppose we could spare this. [He hands you a super stimpak.] Now I really should be getting back to work.}
+{514}{}{In realta', ho fatto parecchia fatica per procurarti quel campione. Credo che valga una ricompensa.}
+{520}{}{Davvero? Gli Shi non ti hanno richiesto questo campione di pianta, ma se ritieni che le tue azioni abbiano guadagnato un compenso, suppongo che potremmo cedere questo. [Ti porge un Super Stimpak.] Ora devo davvero tornare al lavoro.}
 {521}{}{Actually, I would like to ask you something else.}
 {522}{}{Grazie. Ciao.}
-{523}{}{Really? You call this a reward? I'm gonna knock you around until something more valuable falls out.}
-{530}{}{[Takes the seed.] Thank you, I will dispose of this immediately. [He sighs.] I knew Dr. Sheng had lost it, but I didn't think he'd go so far as to try and destroy his own people. He must be dealt with immediately.}
+{523}{}{Davvero? Chiami questa una ricompensa? Ti faccio a pezzi finche' non cade fuori qualcosa di piu' prezioso.}
+{530}{}{[Prende il seme.] Grazie, lo elimino immediatamente. [Sospira.] Sapevo che il Dottor Sheng aveva perso la testa, ma non pensavo si sarebbe spinto fino a cercare di distruggere il suo stesso popolo. Deve essere eliminato immediatamente.}
 {531}{}{I agree. He's quite the madman.}
-{540}{}{*clutches heart* Wahh.}
+{540}{}{*si porta la mano al cuore* Wahh.}
 {541}{}{Urgh.}
 {542}{}{Dr. Wong!}
 {600}{}{You eliminate Dr. Sheng for the Shi.}

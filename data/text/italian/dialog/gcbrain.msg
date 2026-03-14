@@ -14,7 +14,7 @@
 {142}{}{Uhm... te lo sarai sicuramente scordato.}
 {143}{}{E' solo il mio dopobarba. "Eau de Fogn"... ti piace?}
 {144}{}{Ho ucciso uno dei tuoi schiavi e gliel'ho strappato mentre il suo corpo era ancora caldo.}
-{145}{}{I got it from a village near Vault City. The people there said your followers left these with them.}
+{145}{}{L'ho preso da un villaggio vicino a Vault City. La gente del posto ha detto che i tuoi seguaci hanno lasciato queste cose con loro.}
 {150}{}{Sei pronto per diventare uno di noi?}
 {151}{}{Io sono nato pronto. Dove devo firmare?}
 {152}{}{A diventare un ratto gigante?}
@@ -28,9 +28,9 @@
 {180}{}{Non m'interessa dove tu l'abbia preso. La vera domanda e' se hai intenzione di unirti a noi e indossarlo con sincerita'. }
 {181}{}{Unirmi a voi? Cosa vuoi dire?}
 {182}{}{Preferirei pulire la tua gabbietta piuttosto che unirmi a voi.}
-{183}{}{That depends. Vault City's patrols keep getting attacked by molerats. I assume you're behind this?}
-{184}{}{Why of course I am. All part of my grand scheme to take over the world. I wouldn't expect your deficient human brain to understand. But alas, what concern is it of yours?}
-{185}{}{I just want your molerats to stop attacking Vault City's patrols.}
+{183}{}{Dipende. Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
+{184}{}{Ma certo che si'. Tutto parte del mio grande piano per conquistare il mondo. Non mi aspetterei che il tuo cervello umano deficiente capisca. Ma ahime', che cosa te ne importa?}
+{185}{}{Voglio solo che i tuoi talpe-ratto smettano di attaccare le pattuglie di Vault City.}
 {186}{}{Davvero? Interessante... Va bene, propongo un accordo, umano. Accettero' la tua richiesta, *se* completi un certo compito per me.}
 {187}{}{Cosa vuoi che faccia?}
 {188}{}{Senti, avevamo un accordo -- io riparo il reattore, e tu ritiri le tue creature. Ho fatto la mia parte del patto, ora tocca a te.}
