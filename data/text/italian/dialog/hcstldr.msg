@@ -20,7 +20,7 @@
 {250}{}{La struttura in cui ci troviamo e' un vecchio bunker, probabilmente costruito per uso privato piuttosto che militare. Ci sono due livelli sotto di noi.
  Subito sotto c'e' l'area abitativa — abbiamo dei letti, bagni, attrezzi da esercizio, equipaggiamento di sicurezza. Sotto quello c'e' quello che chiamo il "vault".}
 {251}{}{A vault?}
-{252}{}{It's not *really* a vault, I just call it that. It's more of a storage room full of goods. That's where we keep all the donations. It's guarded all day, everyday.}
+{252}{}{Non e' *davvero* un vault, lo chiamo cosi'. E' piu' una stanza di stoccaggio piena di roba. E' li' che teniamo tutte le donazioni. E' sorvegliato tutto il giorno, ogni giorno.}
 {260}{}{Interesting. Well, I'm going to have a look around. See you later.}
 {270}{}{So, how large is this place?}
 {300}{}{Hello again. Help you with something?}
