@@ -1,85 +1,85 @@
 {100}{}{You see a card dealer.}
-{101}{}{You see Three-Card Monte.}
-{150}{}{You see a spindly-looking old man with a sunburned face. He's so thin he looks like he's made out of twigs.}
-{151}{}{You see Three-Card Monte. He scopes out the street, spots you, and nods.}
-{152}{}{You see Three-Card Monte. He scopes out the street, spots you, and nods.}
+{101}{}{Vedi Tre-Carde Monte.}
+{150}{}{Vedi un vecchio dall'aspetto ossuto con il viso arrossato dal sole. E' cosi' magro che sembra fatto di ramoscelli.}
+{151}{}{Vedi Tre-Carde Monte. Scruta la strada, ti nota e annuisce.}
+{152}{}{Vedi Tre-Carde Monte. Scruta la strada, ti nota e annuisce.}
 {200}{}{Don't see how I lost...}
-{201}{}{Just keep walking... Monte's not in business today.}
-{202}{}{Did I palm the wrong card?}
-{203}{}{How did that stupid tribal keep picking the right card?}
-{205}{}{Heeeey! Hero! You all right, you all right.}
+{201}{}{Continua a camminare... Monte oggi non e' in affari.}
+{202}{}{Ho nascosto la carta sbagliata?}
+{203}{}{Come ha fatto quel tribale stupido a scegliere sempre la carta giusta?}
+{205}{}{Eeeeh! Eroe! Tutto bene, tutto bene.}
 {206}{}{::Ti fa il gesto del pollice alzato::}
 {207}{}{::Smiles, nods::}
 {208}{}{You done good, hero. You done good.}
-{215}{}{Where the hell are my cards? I JUST had them.}
-{216}{}{Goddamn car key gnomes, now they're going after my playing cards.}
-{220}{}{Yo, pal, don't bother with the casinos. Come play with Monte.}
-{221}{}{Looking to take a chance, pal? Best odds in New Reno! C'mon...}
-{222}{}{You, pal. You look like a lucky guy, c'mon over.}
-{223}{}{Anybody looking to play? Free mon-ay, free mon-ay.}
-{224}{}{C'mon over and play. Just the other day, I guy won 50 chips off me, easy.}
-{225}{}{Easy, just guess the Queen, red Queen, and you win. That easy.}
+{215}{}{Dove diavolo sono le mie carte? Le avevo proprio un attimo fa.}
+{216}{}{Maledetti gnomi delle chiavi dell'auto, ora se la prendono anche con le mie carte da gioco.}
+{220}{}{Ehi, amico, lascia perdere i casinò. Vieni a giocare con Monte.}
+{221}{}{Cerchi un po' di fortuna, amico? Le migliori probabilita' di New Reno! Dai...}
+{222}{}{Tu, amico. Sembri uno fortunato, vieni qui.}
+{223}{}{Qualcuno vuole giocare? Soldi facili, soldi facili.}
+{224}{}{Vieni a giocare. L'altro giorno uno mi ha portato via 50 fiches, facile.}
+{225}{}{Semplice, basta indovinare la Regina, la Regina rossa, e vinci. Tutto qui.}
 {226}{}{You allergic to easy money? Then get over here.}
-{227}{}{Everybody's winning today... you want to be the next one?}
-{228}{}{Casinos'll rip you off, rob you blind... Monte treats you right, gives you a fair chance.}
-{229}{}{Looking to take a chance, lady? Best odds in New Reno! C'mon...}
-{230}{}{You allergic to easy money, lady? Then get over here.}
-{231}{}{You, lady. You look like a lucky gal, c'mon over.}
-{232}{}{Yo, lady, don't bother with the casinos. Come play with Monte.}
-{233}{}{Monte ain't open for games today, friend; my damn cards have gone missing.}
-{234}{}{(The old man smiles, and the skin around his eyes crinkles.) Looking to play, friend?}
-{235}{}{(The old man smiles, and the skin around his eyes crinkles.) Looking to play, lady?}
-{236}{}{(The old man smiles, and the skin around his eyes crinkles.) Looking to play, hero?}
-{237}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, friend?}
-{238}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, lady?}
-{239}{}{(Monte smiles, and the skin around his eyes crinkles.) Looking to play, hero?}
-{240}{}{Three-Card Monte's the name, and the game's the same as the name. Slap down 20 chips, and we'll get down to it.}
-{241}{}{You cheater. You no play fair}
-{242}{}{Okay here chips me not sure how many 20 is so herez a bunch}
-{243}{}{Uh, me flattered but me not want to get down to it now... byyyyye}
+{227}{}{Oggi vincono tutti... vuoi essere il prossimo?}
+{228}{}{I casinò ti spennano, ti derubano... Monte ti tratta bene, ti da' una vera possibilita'.}
+{229}{}{Cerchi un po' di fortuna, signora? Le migliori probabilita' di New Reno! Dai...}
+{230}{}{Allergica ai soldi facili, signora? Allora vieni qui.}
+{231}{}{Tu, signora. Sembri una fortunata, vieni qui.}
+{232}{}{Ehi, signora, lascia perdere i casinò. Vieni a giocare con Monte.}
+{233}{}{Monte oggi non e' aperto per giocare, amico; le mie dannate carte sono sparite.}
+{234}{}{(Il vecchio sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, amico?}
+{235}{}{(Il vecchio sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, signora?}
+{236}{}{(Il vecchio sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, eroe?}
+{237}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, amico?}
+{238}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, signora?}
+{239}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, eroe?}
+{240}{}{Tre-Carde Monte e' il nome, e il gioco e' lo stesso del nome. Metti giu' 20 fiches e iniziamo.}
+{241}{}{Tu imbroglione. Tu non giochi giusto.}
+{242}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
+{243}{}{Uh, io lusingato ma io non voglio iniziare ora... ciaaaao.}
 {244}{}{-Allontanati-}
 {245}{}{Let's play.}
 {246}{}{Uh, get down to what?}
 {247}{}{I'm familiar with the game. Let's play.}
-{248}{}{Three-Card Monte, huh? You put three cards face down, shuffle them around, and I pick a card. If it's the right card - which it won't be, since you palmed it while shuffling - then I win. No thanks, pal.}
-{249}{}{Three-Card Monte, huh? You put three cards face down, shuffle them around, and I pick a card. If it's the right card - which it won't be, since you palmed it while shuffling - then I win. No thanks, pal.}
+{248}{}{Tre-Carde Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta — cosa che non sara', visto che la nascondi mentre mescoli — allora vinco. No grazie, amico.}
+{249}{}{Tre-Carde Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta — cosa che non sara', visto che la nascondi mentre mescoli — allora vinco. No grazie, amico.}
 {250}{}{Non oggi, grazie.}
-{251}{}{Get down to what? The game, of course!}
-{252}{}{See... (shows you three cards) ...one of these is a queen. I lay them face down, shuffle them, then you pick which one the queen is. If you're right, you win.}
+{251}{}{Iniziare cosa? Il gioco, ovviamente!}
+{252}{}{Vedi... (ti mostra tre carte) ...una di queste e' una regina. Le metto a faccia in giu', le mescolo, e poi scegli quale e' la regina. Se indovini, vinci.}
 {253}{}{That simple, pal.}
 {254}{}{That simple, lady.}
 {255}{}{I'm not playing with a cheater like you.}
 {256}{}{Could you explain the rules again?}
 {257}{}{Sounds simple enough. Let's play. Here's 20 chips.}
 {258}{}{Non oggi, grazie.}
-{260}{}{(You hand over the cash. Monte nods, shows you the cards, then slaps them down on the ground and shuffles them for a few seconds.)}
-{261}{}{So... which one's the queen, pal?}
-{262}{}{So... which one's the queen, lady?}
+{260}{}{(Consegni i soldi. Monte annuisce, ti mostra le carte, poi le sbatte a terra e le mescola per qualche secondo.)}
+{261}{}{Allora... qual e' la regina, amico?}
+{262}{}{Allora... qual e' la regina, signora?}
 {263}{}{(You think it's the one on the left.)}
 {264}{}{(You think it's the one in the middle.)}
 {265}{}{(You think it's the one on the right.)}
 {266}{}{(You don't know. The cards moved too fast.)}
-{267}{}{Lucy leftie}
+{267}{}{Lucy la mancina}
 {268}{}{Middle of th'road}
 {269}{}{Rightie tightie}
 {270}{}{The one on the left.}
 {271}{}{The one on the right.}
 {272}{}{The one in the middle.}
-{280}{}{(Monte turns over the card. It is the }
+{280}{}{(Monte gira la carta. E' la...}
 {281}{}{Sorry, pal, not this time, but you were CLOSE.}
 {282}{}{Sorry, lady, not this time, but you were CLOSE.}
 {283}{}{You sure do got the eye for it, though. Wanna try again?}
-{284}{}{You cheater. You no play fair}
-{285}{}{Okay here chips me not sure how many 20 is so herez a bunch}
+{284}{}{Tu imbroglione. Tu non giochi giusto.}
+{285}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
 {286}{}{Nuh-uh Me no LIKE game BYYYYE}
 {287}{}{I'm not playing with a cheater like you.}
 {288}{}{Sure. Here's 20 chips.}
 {289}{}{No, grazie.}
 {300}{}{(You hand over the cash. Monte nods, shows you the cards, then lays them on the ground. As he does, he palms a card, so quickly you almost miss it. He then proceeds to shuffle for a few seconds.)}
-{301}{}{So... which one's the queen, pal?}
-{302}{}{So... which one's the queen, lady?}
+{301}{}{Allora... qual e' la regina, amico?}
+{302}{}{Allora... qual e' la regina, signora?}
 {303}{}{You put it in sleevie weevie you no play fair}
-{304}{}{Lucy leftie}
+{304}{}{Lucy la mancina}
 {305}{}{Middle of th'road}
 {306}{}{Rightie tightie}
 {307}{}{You goddamn CHEATER. I saw you palm that card. Give me back my cash before I kill you here in the street.}
@@ -103,8 +103,8 @@
 {334}{}{All right, all right. I'm sorry. Here's 20 chips. Let's play again.}
 {335}{}{Screw you. Keep the money, I'm outta here.}
 {340}{}{(You hand over the cash. Monte nods, then slaps the cards down and shuffles them for a few seconds.)}
-{341}{}{So... which one's the queen, pal?}
-{342}{}{So... which one's the queen, lady?}
+{341}{}{Allora... qual e' la regina, amico?}
+{342}{}{Allora... qual e' la regina, signora?}
 {343}{}{(Monte's using his normal deck! You need to steal his other deck to complete the switch.)}
 {344}{}{You put it in sleevie weevie you no play fair}
 {345}{}{Uh... Lucy leftie}
@@ -115,10 +115,10 @@
 {350}{}{Uh, the one on the left.}
 {351}{}{Uh, the one on the right.}
 {352}{}{Uh, the one in the middle.}
-{360}{}{(You hand over the cash. Monte nods, shows you the cards, then slaps them down on the ground and shuffles them for a few seconds.)}
+{360}{}{(Consegni i soldi. Monte annuisce, ti mostra le carte, poi le sbatte a terra e le mescola per qualche secondo.)}
 {361}{}{(You hand over the cash. Monte looks uncomfortable.) Uh... all right... (Monte puts the cards on the ground and shuffles them.)}
-{362}{}{So... which one's the queen, pal?}
-{363}{}{So... which one's the queen, lady?}
+{362}{}{Allora... qual e' la regina, amico?}
+{363}{}{Allora... qual e' la regina, signora?}
 {364}{}{(Monte's using the marked deck. Any pick is the right one.)}
 {365}{}{Leftie! Leftie!}
 {366}{}{Rightie! Rightie!}

@@ -129,15 +129,15 @@
 {424}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per consegnare quei buoni a nulla. Da qui me ne occupo io. Quei teppisti non daranno piu' problemi. Grazie per il tuo aiuto.}
 {425}{}{Allora e' deciso. Con le parti di insetto e il doppio marchio, abbiamo abbastanza per attribuire loro il crimine. Peccato siano morti, o gli avrei insegnato un paio di cose. Immagino abbiano avuto cio' che meritavano. Grazie per il tuo aiuto.}
 {426}{}{Happy to help, ma'am. Let me ask you about something.}
-{427}{}{Those Duntons make me sick. I'm glad you'll take care of them. Goodbye now.}
+{427}{}{Quei Dunton mi fanno schifo. Sono felice che te ne occuperai tu. Addio, ora.}
 {428}{}{The Duntons got what they deserve. Goodbye.}
-{429}{}{You did? Well, go on then, what did you find?}
-{430}{}{I checked the brands on the brahmin over at the Duntons. If you look closely, you can see they simply slapped their brand over top of a previous one--which I assume was yours.}
+{429}{}{Davvero? Be', avanti allora, cosa hai trovato?}
+{430}{}{Ho controllato i marchi sui brahmin dei Dunton. Se guardi da vicino, puoi vedere che hanno semplicemente messo il loro marchio sopra uno precedente — che presumo fosse il tuo.}
 {500}{}{About your missing brahmin...}
 {510}{}{Non e' che hai visto un Trapper di nome Smiley nei dintorni del paese? (Parlando anche a se stessa) Se ne e' andato da troppo tempo. Non avrei mai dovuto permettergli di partire per la sua folle ricerca.}
 {520}{}{Ti sei dimostrato davvero utile per noi. Grazie.}
 {530}{}{Mi stavo domandando cos'altro succede da queste parti.}
-{540}{}{I found more proof in the Dunton case.}
+{540}{}{Ho trovato altre prove nel caso dei Dunton.}
 {600}{}{Sei meraviglioso.}
 {610}{}{Sei meraviglioso. Hai riportato mio figlio Torr e il mio Smiley da me. Non potro' mai ringraziarti abbastanza.}
 {620}{}{Hai ritrovato Torr, mio figlio. Grazie mille.}
@@ -177,9 +177,9 @@
 {957}{}{Lasciami in pace.}
 {958}{}{Selvaggio menagramo, fuori dal mio locale.}
 {959}{}{Ne ho abbastanza di te. Fuori.}
-{1000}{}{You solve the mystery behind the missing brahmin.}
-{1010}{}{Actually, some monetary compensation would be nice in this situation.}
-{1011}{}{What? Oh, of course. You've helped us out greatly, so we do owe you at least something. Here's $150.}
+{1000}{}{Hai risolto il mistero dei brahmin scomparsi.}
+{1010}{}{In realta', un po' di compenso in denaro sarebbe gradito in questa situazione.}
+{1011}{}{Cosa? Oh, certo. Ci hai aiutato molto, quindi ti dobbiamo almeno qualcosa. Ecco 150$.}
 {1012}{}{Thanks for the money. See you around.}
 {2000}{}{Smilie?}
 {2001}{}{Eh?}
