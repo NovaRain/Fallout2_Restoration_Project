@@ -333,6 +333,6 @@
 {2064}{}{Ho anche una bottiglia del famoso distillato dell'Abbazia che volevi.}
 {2065}{}{Hehe, il buon vecchio Sam. Bello saperlo. Suppongo che prima o poi dovrei provare ad andarci di nuovo.}
 {3000}{}{Informi sia Padre Tully che Fratello Samuel di dove si trova l'altro.}
-{3001}{}{You deliver a bottle of the Abbey's famous brew to Father Tully.}
+{3001}{}{Consegni una bottiglia del famoso distillato dell'Abbazia a Padre Tully.}
 {3022}{}{Actually, he's dead.}
-{20091}{}{Hah! That's classic. I pulled the same prank on my nephew Feargus once, and when he woke up and realized he'd pissed himself, he started bawling -- it was great. Anyway, so did they end up kicking you out?}
+{20091}{}{Hah! E' un classico. Ho fatto lo stesso scherzo a mio nipote Feargus una volta, e quando si e' svegliato e ha capito che se l'era fatta addosso, ha cominciato a frignare -- e' stato grandioso. Comunque, ti hanno poi cacciato?}

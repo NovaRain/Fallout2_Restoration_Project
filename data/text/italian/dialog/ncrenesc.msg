@@ -325,17 +325,17 @@
 {5257}{}{ essere cosi' grande. Me va ora }
 {5259}{}{ no urlare PERCHE' SE TU CONTINUARE URLARE ME METTE FINE URLARE }
 {5260}{}{...*sniff*... vado a cercare il mio fratellone perche' ti picchi, vecchio! Poi ci mangeremo un gelato e...*sniff*... una TORTA e ci sara' una grossa festa con i clown e...}
-{6000}{}{I was looking for some pointers on heart health. Think you could fill me in on a thing or two?}
-{6010}{}{I know this must come as something of a shock to you, but a white smock does not automatically confer a cardiology degree. I am a pharmacist. I produce chems. Then you buy them. Then, you leave. Quietly.}
+{6000}{}{Stavo cercando qualche consiglio sulla salute del cuore. Pensi di potermi spiegare un paio di cose?}
+{6010}{}{So che questo deve venirti come uno shock, ma un camice bianco non conferisce automaticamente una laurea in cardiologia. Sono un farmacista. Produco chem. Poi tu li compri. Poi, te ne vai. In silenzio.}
 {6011}{}{Fair enough. Moving on, then...}
-{6012}{}{C'mon, could you humor me? Just this once? Pretty pleeease?}
-{6020}{}{Fine. My prescription is cigarettes and red meat, in large quantities. Was that all? If I have to put up with much more vacuous prattle today, I'm liable to have a stroke myself.}
-{6021}{}{Yeah, you are pretty high strung, aren't you? I'll bet Hakunin could help you with that. He's the medicine man back home, in Arroyo. Say, have I ever told you about Arroyo?}
-{6022}{}{And wouldn't that be a tragedy. Next question...}
+{6012}{}{Dai, potresti accontentarmi? Solo questa volta? Tiiii pregoooo?}
+{6020}{}{Bene. La mia ricetta e' sigarette e carne rossa, in grandi quantita'. E' tutto? Se devo sopportare ancora questa ciarla vuota oggi, rischio di avere un ictus io stesso.}
+{6021}{}{Si', sei proprio teso, vero? Scommetto che Hakunin potrebbe aiutarti con quello. E' lo sciamano a casa mia, ad Arroyo. Senti, ti ho mai parlato di Arroyo?}
+{6022}{}{E non sarebbe una tragedia. Prossima domanda...}
 {6023}{}{Okay then, just one more quick thing...}
 {6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
 {6030}{}{I need you to fix me up with a special order.}
-{6031}{}{So, about that special order we were discussing...}
+{6031}{}{Quindi, riguardo a quell'ordine speciale di cui stavamo parlando...}
 {6040}{}{Yes? And? Were you expecting me to read your mind, or would you like me to surprise you?}
 {6041}{}{Not on your life, asshole. What I need are some... um... pills. For, um... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
 {6042}{}{Not on your life, asshole. What I need are some... um... pills. For, um... a man's... (trail off, glance pointedly in the direction of your belt buckle, look Renesco in the eye, and clear your throat).}
