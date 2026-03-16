@@ -66,8 +66,8 @@
 {271}{}{The one on the right.}
 {272}{}{The one in the middle.}
 {280}{}{(Monte gira la carta. E' la...}
-{281}{}{Sorry, pal, not this time, but you were CLOSE.}
-{282}{}{Sorry, lady, not this time, but you were CLOSE.}
+{281}{}{Spiacente, amico, non stavolta, ma ci sei andato VICINO.}
+{282}{}{Spiacente, signora, non stavolta, ma ci sei andata VICINO.}
 {283}{}{You sure do got the eye for it, though. Wanna try again?}
 {284}{}{Tu imbroglione. Tu non giochi giusto.}
 {285}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
