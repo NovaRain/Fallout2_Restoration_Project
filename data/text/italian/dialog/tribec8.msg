@@ -11,7 +11,7 @@
 {205}{}{You will always be welcome here.}
 {206}{}{The spirits accept you as one of us.}
 {207}{}{Grazie per averci aiutato.}
-{208}{}{I thought all outworlders were evil. It is not so...}
+{208}{}{Credevo che tutti i forestieri fossero malvagi. Non e' cosi'...}
 {209}{}{Non farlo.}
 {300}{}{Excuse me, but could you do me a small favor? I'm a little busy here and I don't know if I can leave this pot unattended.}
 {301}{}{Certo. Cosa ti serve?}

@@ -2,9 +2,9 @@
 {101}{}{You see Kurisu, Sulik's sister.}
 {102}{}{You see a young, full figured tribal woman with several piercings and tattoos.}
 {150}{}{[FINE]}
-{200}{}{Sulik! [She catches herself and begins to whisper.] Do the spirits be teasing, or is that really you, brother?}
-{201}{}{Me? No, I'm the Chosen One. You must be thinking of old bone nose here.}
-{202}{}{[Sulik rushes to the gate door and clasps the outstretched hands of his sister. You turn away to give some privacy to their emotional reunion. Moments later, a twig snaps outside the building. Sulik lets go of his sister and reaches for his weapon as he glances at the door. No more sounds come from outside.]}
+{200}{}{Sulik! [Si blocca e inizia a sussurrare.] Gli spiriti stanno scherzando, o sei davvero tu, fratello?}
+{201}{}{Io? No, sono il Prescelto. Devi stare pensando al vecchio naso d'ossa qui.}
+{202}{}{[Sulik corre verso il portone e afferra le mani tese di sua sorella. Ti giri per dare un po' di privacy alla loro riunione emozionata. Pochi istanti dopo, un ramoscello si spezza fuori dall'edificio. Sulik lascia la sorella e afferra la sua arma mentre guarda verso la porta. Non arriva piu' alcun suono da fuori.]}
 {203}{}{[AVANTI]}
 {204}{}{[Sulik's sister turns to you.] Bonespirits say you be leading Sulik. Name's Kurisu, but now not the time for proper greetin'. Please, you needin' to get us out of cage and away from de wicked men ruled by spirits of lust. [She sneers and spits in the dirt.] Filthy dogs will not be laying hands on us again. [Upon hearing this, Sulik's eyes widen as his face contorts with rage. He reaches for his weapon.]}
 {205}{}{Hold on there, Sulik, we're outnumbered here. Let me see if I can lockpick this door and we can sneak our way

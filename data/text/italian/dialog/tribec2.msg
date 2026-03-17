@@ -50,4 +50,4 @@
 {411}{}{La mia magia ora essere terribile forte!}
 {1000}{}{You fix the Tribe's well.}
 {2000}{}{Sorry if I was a jerk to you, hero.}
-{2001}{}{Sorry, I lost your sub-machine gun. That gecko be a fierce one.}
+{2001}{}{Scusa, ho perso la tua mitraglietta. Quel gecko essere feroce davvero.}
