@@ -108,24 +108,24 @@
 {221}{}{Alright, I'll do it alone. I'll report back when I have finished.}
 {222}{}{Alright, I'll do it alone. I need time to prepare though. I'll be back.}
 {223}{}{I'll have to decline then. Goodbye.}
-{224}{}{You're right. I'll get a small group together and send them with you. Are you ready to go now?}
+{224}{}{Hai ragione. Mettera' insieme un piccolo gruppo e lo mandero' con te. Sei pronto ad andare adesso?}
 {225}{}{I need time to prepare. I'll be back.}
 {226}{}{I'm ready. Let's go.}
-{227}{}{Money? Well, I suppose it is the least we could do. Here, $1000 for your trouble. Thank you again.}
+{227}{}{Soldi? Be', suppongo che sia il minimo che potremmo fare. Ecco, 1000 dollari per il tuo disturbo. Grazie ancora.}
 {228}{}{My pleasure. Goodbye.}
 {229}{}{Are you ready to attack the slaver camp?}
 {230}{}{Ho bisogno di altro tempo.}
 {231}{}{I am ready to go. Let's do it.}
-{232}{}{Your fellow Rangers will meet up with you along the way. Best of luck to you.}
+{232}{}{I tuoi compagni Ranger ti raggiungeranno lungo la strada. In bocca al lupo.}
 {233}{}{[FINE]}
-{234}{}{I've heard the news. Thank you so much for your help. This will surely deal quite a blow to the slavers. We are truly in your debt.}
-{235}{}{Please, don't delay too long. This attack is critical in our fight against slavery.}
-{236}{}{You aid the Rangers in their continual struggle against slavery.}
+{234}{}{Ho sentito la notizia. Grazie mille per il tuo aiuto. Questo dara' sicuramente un bel colpo agli schiavisti. Siamo davvero in debito con te.}
+{235}{}{Per favore, non tardare troppo. Questo attacco e' critico nella nostra lotta contro la schiavitu'.}
+{236}{}{Aiuti i Ranger nella loro continua lotta contro la schiavitu'.}
 {240}{}{Grazie. Arrivederci.}
-{250}{}{Actually, one more thing. You look like someone to be trusted. Someone who doesn't take a liking to Slavers.}
-{251}{}{Well, I did just wipe out an entire camp of them. What do you have in mind?}
+{250}{}{In realta', un'ultima cosa. Sembri una persona di cui ci si puo' fidare. Qualcuno a cui gli Schiavisti non piacciono affatto.}
+{251}{}{Be', ho appena spazzato via un loro intero campo. Cosa avevi in mente?}
 {252}{}{I think I've done enough for humanity today. See you around.}
-{260}{}{What are you doing here? This is a private -- Hey, wait a minute, I think I've heard of you. Aren't you the one that took out one of Metzger's slave camps?}
+{260}{}{Cosa ci fai qui? Questo e' un posto priv— Ehi, un momento, credo di aver sentito parlare di te. Non sei quello che ha distrutto uno dei campi di schiavi di Metzger?}
 {261}{}{Yep. That was me.}
 {262}{}{I sure as hell did. You got a problem with that? }
 {263}{}{Maybe... why?}
@@ -135,10 +135,10 @@
 {272}{}{Because that was a fine thing you did and I just want to shake your hand.}
 {273}{}{Se sei cosi' soddisfatto del mio lavoro, che ne dici di una piccola ricompensa in contanti?}
 {274}{}{You're welcome. Now why don't you tell me who you are?}
-{280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
+{280}{}{Non abbiamo molti fondi da parte, ma ci hai reso un grande servizio, quindi credo possiamo separarci da qualcosa. Ecco 1000$.}
 {281}{}{Grazie. Ciao.}
 {282}{}{Thanks. Now why don't you tell me who you are?}
-{290}{}{I'm Elsie. That's Gond. We're members of an anti-slavery group called the New California Rangers. We could use someone like you. If you're interested in joining us, I've got a task for you.}
+{290}{}{Io sono Elsie. Lui e' Gond. Siamo membri di un gruppo anti-schiavitu' chiamato New California Rangers. Ci servirebbe qualcuno come te. Se ti interessa unirti a noi, ho un incarico per te.}
 {291}{}{Let's hear it.}
 {292}{}{Not interested. Bye.}
 {300}{}{Help you with something, Ranger?}
