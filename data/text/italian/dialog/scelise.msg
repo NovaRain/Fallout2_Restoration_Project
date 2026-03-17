@@ -81,30 +81,30 @@
 {180}{}{Nulla.}
 {181}{}{Quello non ti appartiene. Adesso vattene, oppure diventero' violenta.}
 {182}{}{Non so cosa tu abbia fatto a Gond, ma la pagherai!}
-{200}{}{Congratulations, you're now a Ranger. It is your sworn duty to fight slavery wherever it may appear. Take care, my friend.}
+{200}{}{Congratulazioni, ora sei un Ranger. E' tuo dovere giurato combattere la schiavitu' ovunque essa si manifesti. Prenditi cura di te, amico mio.}
 {201}{}{Before I go, I have some information that may interest you.}
 {202}{}{Alright, let's hear it.}
-{203}{}{I happen to have the coordinates for one of Metzger's largest slaver camps. It's way northwest of here, a couple days journey from the Den.}
-{204}{}{Are you serious? Our northern Rangers have been trying to track down Metzger's slaver camps forever. This is excellent news, now we just need
- to destroy that horrible place. Do you know how well guarded it is?}
-{205}{}{The only things guarding that place now are corpses. I already wiped out the whole camp.}
+{203}{}{Caso vuole che abbia le coordinate di uno dei piu' grandi campi di schiavisti di Metzger. E' molto a nordovest di qui, un paio di giorni di viaggio dal Den.}
+{204}{}{Dici sul serio? I nostri Ranger del nord hanno cercato di rintracciare i campi di schiavisti di Metzger da una vita. E' una notizia eccellente, ora dobbiamo solo
+ distruggere quel posto orribile. Sai quanto e' ben sorvegliato?}
+{205}{}{Le uniche cose che sorvegliano quel posto adesso sono i cadaveri. Ho gia' eliminato tutto il campo.}
 {206}{}{It looked like it had about a dozen guards.}
 {207}{}{I couldn't tell you--I haven't been there yet.}
-{208}{}{You have? That's amazing! I'll have to spread the word out to the other Rangers. Now's the time for us to rise up and strike while they're
- busy licking their wounds. I can't thank you enough. We are truly in your debt.}
-{209}{}{Your thanks is all I need. Take care.}
-{210}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
-{211}{}{We must attack them at once. Wanna take down these scumbags for us?}
+{208}{}{Davvero? E' incredibile! Dovro' diffondere la notizia agli altri Ranger. E' il momento per noi di alzarci e colpire mentre sono
+ occupati a leccarsi le ferite. Non posso ringraziarti abbastanza. Siamo davvero in debito con te.}
+{209}{}{Il tuo ringraziamento e' tutto cio' di cui ho bisogno. Prenditi cura di te.}
+{210}{}{Se sei cosi' soddisfatto del mio lavoro, che ne dici di una piccola ricompensa in contanti?}
+{211}{}{Dobbiamo attaccarli subito. Vuoi eliminare questi farabutti per noi?}
 {212}{}{I think I've done enough for the day. Goodbye.}
-{213}{}{As a Ranger it is my sworn duty. Of course I'll help.}
+{213}{}{Come Ranger e' mio dovere giurato. Certo che aiutero'.}
 {214}{}{Excellent! Please report back when you have wiped out the camp.}
 {215}{}{Give me some time. I will return when I am ready.}
 {216}{}{Of course. See you soon.}
 {217}{}{I'm a spontaneous individual. I don't need to prepare. Let's get this show on the road.}
-{218}{}{Actually, I changed my mind. I'm sure you and the other Rangers can do just fine without me. Good luck.}
-{219}{}{Actually, I think it would be better if some Rangers came with me. It would guarantee greater success on both my end
- and the general fight against slavery.}
-{220}{}{No, I am sorry. I don't have the resources to pull some men together. This is something you will have to do on your own.}
+{218}{}{In realta', ho cambiato idea. Sono sicuro che tu e gli altri Ranger ve la cavate benissimo senza di me. Buona fortuna.}
+{219}{}{In realta', credo che sarebbe meglio se alcuni Ranger venissero con me. Garantirebbe maggior successo sia per la mia parte
+ che nella lotta generale contro la schiavitu'.}
+{220}{}{No, mi dispiace. Non ho le risorse per radunare degli uomini. E' qualcosa che dovrai fare da solo.}
 {221}{}{Alright, I'll do it alone. I'll report back when I have finished.}
 {222}{}{Alright, I'll do it alone. I need time to prepare though. I'll be back.}
 {223}{}{I'll have to decline then. Goodbye.}
@@ -133,7 +133,7 @@
 {270}{}{That was a fine thing you did and I just want to shake your hand.}
 {271}{}{Not at all. In fact, I'd like to shake your hand.}
 {272}{}{Because that was a fine thing you did and I just want to shake your hand.}
-{273}{}{If you're so pleased with my handiwork, how 'bout a little cash reward?}
+{273}{}{Se sei cosi' soddisfatto del mio lavoro, che ne dici di una piccola ricompensa in contanti?}
 {274}{}{You're welcome. Now why don't you tell me who you are?}
 {280}{}{We don't have a lot of funds to spare, but you *did* do us a great service so I suppose we could part with some. Here's $1000.}
 {281}{}{Grazie. Ciao.}

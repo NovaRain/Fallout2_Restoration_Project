@@ -1044,7 +1044,7 @@
 {54000}{}{Operations Manual}
 {54001}{}{The operations manual to the KV-75; a portable, tactical cryptographic device. Also used by non-tactical users for high-level communications in the local wideband telephone networks and wideband satellite terminals.}
 {54100}{}{Chinese Army: Special Ops Manual}
-{54101}{}{You can't understand a thing from the text, but the illustrations are quite informative.}
+{54101}{}{Non riesci a capire nulla dal testo, ma le illustrazioni sono piuttosto informative.}
 {54200}{}{Bottiglie di Birra...}
 {54201}{}{A fresh bottle of Abbey's finest wine.}
 {54300}{}{Diario}
