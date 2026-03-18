@@ -12,13 +12,13 @@
 {209}{}{Oh, si', io non vedere quei tipi da un po'. Sperare che stiano bene. Capo guerriero dire ok per entrare? Va bene per me.}
 {210}{}{Thanks. I'll let you know if I need anything.}
 {300}{}{Ehi, perche' tu correre? Tu trovare qualcosa?}
-{301}{}{Yes, I found the missing hunters. One of them is dead but the other is badly hurt. I need your help
- to carry him out and bring him to the Shaman. I'll go wait with the Shaman while you rescue the hunter.}
-{302}{}{Tribe member need help? Me need help them. In cave? Me coming!}
+{301}{}{Si', ho trovato i cacciatori scomparsi. Uno di loro e' morto ma l'altro e' gravemente ferito. Ho bisogno del tuo aiuto
+ per portarlo fuori e portarlo dallo Sciamano. Io andare ad aspettare con lo Sciamano mentre tu salvare il cacciatore.}
+{302}{}{Membro tribu' avere bisogno di aiuto? Io dover aiutare loro. Nella grotta? Io venire!}
 {303}{}{[FATTO]}
-{400}{}{Thanks for helpin Serin. He good warrior. You friend of tribe.}
+{400}{}{Grazie per aiutare Serin. Lui essere buon guerriero. Tu essere amico della tribu'.}
 {401}{}{Thanks. Well, I must be going now.}
 {402}{}{Hello friend. Wut you need?}
 {403}{}{Nothing. Just passing through. Take care.}
 {500}{}{You hero! I hug!}
-{501}{}{Teach me be hero, like yoo!}
+{501}{}{Insegnare a me essere eroe, come te!}
