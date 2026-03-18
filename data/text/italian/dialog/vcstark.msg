@@ -289,15 +289,15 @@
 {388}{}{Hai esplorato Gecko per Vault City.}
 {389}{}{Hai esplorato NCR per Vault City.}
 {390}{}{Ad esempio... signora?}
-{391}{}{Yeah, there is something... I have been looking through your reconnaissance report and I found a small village nearby swarming with uhh..."mole rats", that's what the outsiders call them, right? I want you to go there and exterminate all those beasts.}
-{392}{}{Just gun down a few rats? Ok, I'm on it.}
+{391}{}{Si', c'e' qualcosa... Ho dato un'occhiata al tuo rapporto di ricognizione e ho trovato un piccolo villaggio qui vicino infestato da ehm... "talpe giganti", e' cosi' che le chiamano gli stranieri, giusto? Voglio che tu vada li' ed elimini tutte quelle bestie.}
+{392}{}{Solo abbattere qualche ratto? Ok, ci penso io.}
 {393}{}{Perche'?}
 {394}{}{What about the NCR expedition?}
 {395}{}{I'll think about it. Can I ask you a few questions?}
 {396}{}{No, not my kind of job. Goodbye.}
-{397}{}{Excellent. Here, let me show you the exact location of the village. [Stark marks the village on your Pip-Boy map.] Pay's $750, just come back and collect once you finish the task. One more thing -- if you don't deal with it in a month, I'll send a squad there to eliminate the monsters... and any other threat.}
+{397}{}{Eccellente. Vieni, lascia che ti mostri l'esatta posizione del villaggio. [Stark segna il villaggio sulla mappa del tuo Pip-Boy.] La paga e' di 750$, torna a riscuotere quando avrai finito il lavoro. Un'ultima cosa -- se non te ne occupi entro un mese, mandero' una squadra a eliminare i mostri... e qualsiasi altra minaccia.}
 {398}{}{Addio.}
-{399}{}{What for? [He hesitates for a moment, then frowns.] I don't need to explain my motives to you. I give orders, and you take them -- That's how it is. If you don't want the job, I'll send a squad to do it instead... but things sometimes get a little "messy" when I set my boys loose.}
+{399}{}{Per cosa? [Esita un momento, poi aggrotta la fronte.] Non devo spiegarti le mie motivazioni. Io do ordini, e tu li esegui -- e' cosi' che funziona. Se non vuoi il lavoro, mandero' una squadra a farlo al posto tuo... ma a volte le cose diventano un po' "disordinate" quando lascio liberi i miei ragazzi.}
 {400}{}{Got it. I'll take the job.}
 {401}{}{It's clear. What's with that village, anyway?}
 {402}{}{About that village...}
