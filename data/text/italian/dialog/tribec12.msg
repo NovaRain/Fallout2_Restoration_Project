@@ -38,5 +38,5 @@
 {310}{}{[Fa un lungo tiro dalla pipa, poi chiude gli occhi. Dopo un momento, annuisce.] Si'. Vedo che lo spirito del Grande Orso ha guidato la tua missione, infondendo nuova vita a vecchie ossa. Anche altri. Forse ti sono apparsi in una visione. Venuti da molto, molto lontano... dove i mutanti non sono ammessi.}
 {311}{}{Di che cosa diavolo stai parlando?}
 {312}{}{Si' si', ho avuto l'incontro speciale di Star Wars. Non dirmi che questo e' il grande segreto finale.}
-{320}{}{The final secret... the greatest secret in the entire game... is, [As he does a dramatic pause, he takes another hit off his pipe. Suddenly, the pipe slips from his hands and falls into his robes, instantly igniting him in flames.]}
+{320}{}{Il segreto finale... il segreto piu' grande dell'intero gioco... e', [Mentre fa una pausa drammatica, fa un altro tiro dalla pipa. Improvvisamente, la pipa gli scivola dalle mani e cade nella sua veste, incendiandolo istantaneamente.]}
 {321}{}{Fuck!}
