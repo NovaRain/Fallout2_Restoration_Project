@@ -1395,19 +1395,19 @@
 {1495}{}{EPA PRINCIPALE}
 {1496}{}{EPA Secret Level}
 {1497}{}{Mr. handy Robot}
-{1498}{}{Hologram 00000}
+{1498}{}{Ologramma 00000}
 {1499}{}{The Brave Little Toaster}
-{1500}{}{Hologram 10001}
-{1501}{}{Hologram 12001}
-{1502}{}{Hologram 10031}
-{1503}{}{Hologram 40011}
+{1500}{}{Ologramma 10001}
+{1501}{}{Ologramma 12001}
+{1502}{}{Ologramma 10031}
+{1503}{}{Ologramma 40011}
 {1504}{}{EPA plant}
 {1505}{}{Mr. Chemmie!}
 {1506}{}{Dex}
 {1507}{}{Cat Jules}
 {1508}{}{Kitsune}
 {1509}{}{un Guerriero}
-{1510}{}{Bug Spray}
+{1510}{}{Spray Antiparassitario}
 {1511}{}{Doctor's Prisoner}
 {1512}{}{una Formica Gigante}
 {1513}{}{The Doctor}
@@ -1424,7 +1424,7 @@
 {1524}{}{Porta di Sicurezza}
 {1525}{}{Porta dell'Ascensore}
 {1526}{}{Porta}
-{1527}{}{Random Chemicals}
+{1527}{}{Sostanze chimiche casuali}
 {1528}{}{Fertile ground}
 {1529}{}{Fertile ground}
 {1530}{}{Hibernation Computer}
@@ -1458,7 +1458,7 @@
 {1558}{}{computer terminal}
 {1559}{}{fertile ground}
 {1560}{}{relazione}
-{1561}{}{A hologram}
+{1561}{}{Un ologramma}
 {1562}{}{relazione}
 {1563}{}{}
 {1564}{}{hologram computer}

@@ -890,8 +890,8 @@
 {46600}{}{Slot Machine}
 {46601}{}{E' una macchina per il gioco d'azzardo.}
 {46700}{}{Entrata}
-{46800}{}{Shaft}
-{46900}{}{Shaft}
+{46800}{}{Condotto}
+{46900}{}{Condotto}
 {47000}{}{Porta dell'Ascensore}
 {47100}{}{Finestra}
 {47101}{}{Al posto del vetro, questa finestra usa carta cerata.}
@@ -1463,8 +1463,8 @@
 {76301}{}{Non riesci a leggere nulla sul monitor a causa della quantita' di gelatina spalmata sugli schermi.}
 {76400}{}{Monitor}
 {76401}{}{Non riesci a leggere nulla sul monitor a causa della quantita' di gelatina spalmata sugli schermi.}
-{76500}{}{UNUSED ART}
-{76600}{}{UNUSED ART}
+{76500}{}{ARTE NON UTILIZZATA}
+{76600}{}{ARTE NON UTILIZZATA}
 {76700}{}{Pavimento}
 {76800}{}{Bomba}
 {76801}{}{Questa e' una bomba atomica. Anche il solo guardarla sembra pericoloso.}
@@ -2773,10 +2773,10 @@
 {184900}{}{Console del Computer}
 {185000}{}{Oblo'}
 {185100}{}{Carbone}
-{185200}{}{An old motorcycle}
-{185201}{}{An old pre-war motorcycle. It doesn't run anymore.}
+{185200}{}{Una vecchia motocicletta}
+{185201}{}{Una vecchia motocicletta prebellica. Non funziona piu'.}
 {185300}{}{A water tank}
-{185301}{}{A metal tower which holds drinkable water.}
+{185301}{}{Una torre metallica che contiene acqua potabile.}
 {185400}{}{Mom's Orphanage Sign}
 {185500}{}{Ventilatore}
 {185600}{}{A healthy looking tree}
@@ -2790,103 +2790,103 @@
 {186300}{}{Fertile ground}
 {186400}{}{Fertile ground}
 {186500}{}{Fertile ground}
-{186600}{}{USED ART}
+{186600}{}{ARTE UTILIZZATA}
 {186601}{}{}
-{186700}{}{USED ART}
-{186701}{}{A throne for a leader or commander.}
+{186700}{}{ARTE UTILIZZATA}
+{186701}{}{Un trono per un leader o comandante.}
 {186800}{}{Air vent}
 {186801}{}{A circular air vent to an underground facility.}
 {186900}{}{Corda}
-{186901}{}{A rope leading to an overhead air vent.}
+{186901}{}{Una corda che conduce a una presa d'aria superiore.}
 {187000}{}{Air Processing Vent}
 {187001}{}{A vent used to filter air underground.}
 {187100}{}{Presa d'Aria}
 {187101}{}{A vent used to purify air.}
 {187200}{}{Brahmin sign}
-{187201}{}{A sign giving instructions.}
+{187201}{}{Un cartello con istruzioni.}
 {187300}{}{Brahmin sign}
 {187301}{}{A sign giving a warning.}
 {187400}{}{Crafting Machine}
-{187401}{}{A machine with which you can make your own drugs.}
+{187401}{}{Una macchina con cui puoi produrre le tue droghe.}
 {187500}{}{Chemicals}
-{187501}{}{Foul smelling gelatinous chemicals.}
+{187501}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
 {187600}{}{Chemicals}
-{187601}{}{Foul smelling gelatinous chemicals.}
+{187601}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
 {187700}{}{Chemicals	}
-{187701}{}{Foul smelling gelatinous chemicals.}
+{187701}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
 {187800}{}{Chemicals	}
-{187801}{}{Foul smelling gelatinous chemicals.}
+{187801}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
 {187900}{}{Corda}
-{187901}{}{Rope to signify a non-walking area.}
+{187901}{}{Corda che indica un'area in cui non si deve camminare.}
 {188000}{}{Corda}
-{188001}{}{Rope preventing access to certain areas.}
-{188100}{}{Gallery Picture}
-{188101}{}{A picture depicting The Mona Lisa.}
-{188200}{}{Gallery Picture}
-{188201}{}{A picture depicting the first moon walk.}
+{188001}{}{Corda che impedisce l'accesso a determinate aree.}
+{188100}{}{Immagine da galleria}
+{188101}{}{Un'immagine raffigurante la Gioconda.}
+{188200}{}{Immagine da galleria}
+{188201}{}{Un'immagine che raffigura il primo allunaggio.}
 {188300}{}{Crafting Machine}
-{188301}{}{A machine with which you can make your own drugs.}
+{188301}{}{Una macchina con cui puoi produrre le tue droghe.}
 {188400}{}{Fertile ground}
 {188401}{}{Ground ready for planting.}
 {188500}{}{Fertile ground}
 {188501}{}{Ground ready for planting.}
-{188600}{}{Parking sign}
-{188601}{}{A sign designating areas to park.}
+{188600}{}{Cartello di parcheggio}
+{188601}{}{Un cartello che indica le aree di parcheggio.}
 {188700}{}{Ascensore}
-{188701}{}{An elevator to travel to another floor.}
+{188701}{}{Un ascensore per spostarsi a un altro piano.}
 {188800}{}{Hibernation computer}
-{188801}{}{Computer controlling the hibernation vats.}
+{188801}{}{Computer che controlla le vasche di ibernazione.}
 {188900}{}{A group of barrels}
-{188901}{}{Barrels storing various chemicals.}
+{188901}{}{Barili che contengono varie sostanze chimiche.}
 {189000}{}{A burning barrel}
-{189001}{}{Apparently the sign says its flammable.}
+{189001}{}{A quanto pare il cartello dice che è infiammabile.}
 {189100}{}{A barrel}
-{189101}{}{A barrel filled with some sort of liquid.}
+{189101}{}{Un barile pieno di una sorta di liquido.}
 {189200}{}{A barrel}
-{189201}{}{A barrel containing a thick noxious red liquid.}
+{189201}{}{Un barile contenente un denso liquido rosso nauseabondo.}
 {189300}{}{A barrel}
-{189301}{}{A barrel with a biohazard warning label.}
+{189301}{}{Un barile con un'etichetta di pericolo biologico.}
 {189400}{}{Pianta}
 {189401}{}{This plant appears to have some type of berry hanging from it.}
 {189500}{}{A Tree}
 {189600}{}{A toaster}
-{189601}{}{A silver toaster sitting on a desk.}
-{189700}{}{A hologram projector}
-{189701}{}{Your basic HD 2000 hologram projector.}
-{189800}{}{A hologram projector}
-{189801}{}{Your basic HD 2000 hologram projector.}
-{189900}{}{A hologram projector}
-{189901}{}{Your basic HD 2000 hologram projector.}
+{189601}{}{Un tostapane argentato appoggiato su una scrivania.}
+{189700}{}{Un proiettore olografico}
+{189701}{}{Il tuo proiettore olografico HD 2000 di base.}
+{189800}{}{Un proiettore olografico}
+{189801}{}{Il tuo proiettore olografico HD 2000 di base.}
+{189900}{}{Un proiettore olografico}
+{189901}{}{Il tuo proiettore olografico HD 2000 di base.}
 {190000}{}{Ombra}
 {190001}{}{}
 {190100}{}{Vertibird}
-{190200}{}{A Cryogenic Freezer}
-{190201}{}{A freezer which can store a live human being. This one is open.}
-{190300}{}{A Cryogenic Freezer}
-{190301}{}{A freezer which can store a live human being. This one is closed.}
+{190200}{}{Un congelatore criogenico}
+{190201}{}{Un congelatore in grado di contenere un essere umano vivo. Questo è aperto.}
+{190300}{}{Un congelatore criogenico}
+{190301}{}{Un congelatore in grado di contenere un essere umano vivo. Questo è chiuso.}
 {190400}{}{A desk}
 {190401}{}{A large, sturdy looking desk.}
-{190500}{}{Hibernation Chamber}
-{190501}{}{A hibernation chamber. A body of a white female is suspended inside.}
-{190600}{}{Hibernation Chamber}
-{190601}{}{A hibernation chamber. A body of a white male is suspended inside.}
-{190700}{}{Hibernation Chamber}
-{190701}{}{An open hibernation chamber. A body of a white female lies naked inside.}
-{190800}{}{Hibernation Chamber}
-{190801}{}{An open hibernation chamber. A body of a white male lies naked inside.}
-{190900}{}{Hibernation Chamber}
-{190901}{}{An open hibernation chamber. A body of a black male lies naked inside.}
-{191000}{}{Hibernation Chamber}
-{191001}{}{A hibernation chamber. A body of a black male is suspended inside.}
-{191100}{}{Hibernation Chamber}
-{191101}{}{An open hibernation chamber. It is empty.}
-{191200}{}{A WattzMan 2000 electric chair}
+{190500}{}{Camera di ibernazione}
+{190501}{}{Una camera di ibernazione. All'interno è sospeso il corpo di una donna caucasica.}
+{190600}{}{Camera di ibernazione}
+{190601}{}{Una camera di ibernazione. All'interno è sospeso il corpo di un uomo caucasico.}
+{190700}{}{Camera di ibernazione}
+{190701}{}{Una camera di ibernazione aperta. All'interno giace nudo il corpo di una donna caucasica.}
+{190800}{}{Camera di ibernazione}
+{190801}{}{Una camera di ibernazione aperta. All'interno giace nudo il corpo di un uomo caucasico.}
+{190900}{}{Camera di ibernazione}
+{190901}{}{Una camera di ibernazione aperta. All'interno giace nudo il corpo di un uomo afroamericano.}
+{191000}{}{Camera di ibernazione}
+{191001}{}{Una camera di ibernazione. All'interno è sospeso il corpo di un uomo afroamericano.}
+{191100}{}{Camera di ibernazione}
+{191101}{}{Una camera di ibernazione aperta. È vuota.}
+{191200}{}{Una sedia elettrica WattzMan 2000}
 {191300}{}{Imperial Shuttle}
 {191301}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
 {191400}{}{Imperial Shuttle}
 {191401}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
 {191500}{}{Millennium Falcon}
-{191501}{}{It looks like a bucket of bolts. You spot a pair of fuzzy dice hanging from the rear-view mirror.}
+{191501}{}{Sembra un mucchio di ferraglia. Noti un paio di dadi pelosi appesi allo specchietto retrovisore.}
 {191600}{}{Burning brazier}
 {191601}{}{This brazier is full of burning coals.}
 {191700}{}{Bone}
