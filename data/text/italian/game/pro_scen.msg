@@ -2887,14 +2887,14 @@
 {191401}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
 {191500}{}{Millennium Falcon}
 {191501}{}{Sembra un mucchio di ferraglia. Noti un paio di dadi pelosi appesi allo specchietto retrovisore.}
-{191600}{}{Burning brazier}
+{191600}{}{Braciere ardente}
 {191601}{}{This brazier is full of burning coals.}
 {191700}{}{Bone}
 {191701}{}{}
 {191800}{}{Bone}
 {191900}{}{Bone}
 {192000}{}{Ossa}
-{192001}{}{Scattered remains.}
+{192001}{}{Resti sparsi.}
 {192100}{}{Ossa}
 {192101}{}{Are these human!}
 {192200}{}{Ossa}
@@ -2904,12 +2904,12 @@
 {192500}{}{Ossa}
 {192501}{}{Scattered human bones.}
 {192600}{}{Ossa}
-{192601}{}{Scattered human remains.}
+{192601}{}{Resti umani sparsi.}
 {192700}{}{Ossa}
 {192701}{}{Are these human!}
 {192800}{}{Ossa}
-{192900}{}{Concrete barrier}
-{193000}{}{Concrete barrier}
+{192900}{}{Barriera di cemento}
+{193000}{}{Barriera di cemento}
 {193100}{}{Porta di Sicurezza}
 {193101}{}{This door looks very secure.}
 {193200}{}{Porta di Sicurezza}
@@ -2922,7 +2922,7 @@
 {193600}{}{Pozzo dell'Ascensore}
 {193601}{}{The shaft has a broken elevator and rope.}
 {193700}{}{Pozzo dell'Ascensore}
-{193701}{}{The shaft is missing the elevator. Dangerous!}
+{193701}{}{Nel condotto manca l'ascensore. Pericoloso!}
 {193800}{}{Rusting Pipes}
 {193801}{}{A set of old rusting pipes.}
 {193900}{}{Generatore Elettrico}
@@ -2949,22 +2949,22 @@
 {195000}{}{spare}
 {195100}{}{Ombra}
 {195200}{}{Ombra}
-{195300}{}{Large Sticky Mechanical Pump}
+{195300}{}{Grande Pompa Meccanica Appiccicosa}
 {195301}{}{You see a large mechanical pump covered in strange noxious biological goo.}
 {195400}{}{Floor Grating}
 {195401}{}{A rusting floor grating.}
-{195500}{}{Large Mechanical Pump}
+{195500}{}{Grande Pompa Meccanica}
 {195501}{}{A large mechanical pump rising up through a floor grating.}
-{195600}{}{Large Sticky Mechanical Pump}
+{195600}{}{Grande Pompa Meccanica Appiccicosa}
 {195601}{}{You see a large mechanical pump covered in strange noxious biological goo.}
 {195700}{}{Destroyed Sticky Mechanical Pump}
 {195701}{}{You see a large mechanical pump covered in strange noxious biological goo. Its pumping days are over.}
 {195800}{}{Destroyed Sticky Mechanical Pump}
 {195801}{}{You see a large mechanical pump covered in strange noxious biological goo. Its pumping days are over.}
 {195900}{}{Floor Cavity}
-{196000}{}{Large Mechanical Pump}
+{196000}{}{Grande Pompa Meccanica}
 {196001}{}{A large mechanical pump rising up through a floor grating.}
-{196100}{}{Large Mechanical Pump}
+{196100}{}{Grande Pompa Meccanica}
 {196101}{}{A large mechanical pump rising up through a floor grating.}
 {196200}{}{Pila di Pneumatici}
 {196201}{}{Una pila di vecchissimi pneumatici. Si sono vulcanizzati e induriti, probabilmente a causa del calore.}
