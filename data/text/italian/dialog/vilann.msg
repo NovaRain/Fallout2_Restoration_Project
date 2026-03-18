@@ -31,17 +31,16 @@
 {403}{}{Thanks again for everything!}
 {404}{}{Thanks so much!}
 {405}{}{Finalmente siamo al sicuro.}
-{406}{}{Thanks for everything! Be sure to stop by again once we expand the place. I'll finally have a working kitchen to cook in.}
+{406}{}{Grazie di tutto! Assicurati di ripassare quando avremo ampliato il posto. Avro' finalmente una cucina funzionante in cui cucinare.}
 {410}{}{Ciao.}
-{411}{}{You seem to be quite busy here. Need some help with anything?}
+{411}{}{Sembri piuttosto impegnato qui. Hai bisogno di aiuto con qualcosa?}
 {412}{}{Lasciamo perdere. Ci vediamo.}
 {420}{}{How did it go?}
-{421}{}{How did what go? Oh, the merchant. Actually, I lost interest with him and wandered off.}
-{430}{}{What!? You realize this was our last chance to make arragements with him. We look like fools now standing him up.
- You've doomed us.}
+{421}{}{Come e' andata cosa? Oh, il mercante. In realta', ho perso interesse e me ne sono andato in giro.}
+{430}{}{Cosa!? Ti rendi conto che questa era la nostra ultima occasione per prendere accordi con lui? Ora sembriamo degli idioti per avergli dato buca. Ci hai condannati.}
 {431}{}{Sorry, mistakes happen. Bye.}
 {432}{}{Not my problem. Bye.}
 {433}{}{Non dovete preoccuparvi di nessun dannato mercante. Perche' ho intenzione di uccidere tutti voi.}
-{500}{}{You convinced the merchant to add the village to his trade route.}
-{510}{}{You killed the merchant, thus ensuring that the village won't be able to trade.}
-{511}{}{You fail to convince the merchant to add the village to his trade route.}
+{500}{}{Hai convinto il mercante ad aggiungere il villaggio alla sua rotta commerciale.}
+{510}{}{Hai ucciso il mercante, assicurando cosi' che il villaggio non possa commerciare.}
+{511}{}{Non riesci a convincere il mercante ad aggiungere il villaggio alla sua rotta commerciale.}
