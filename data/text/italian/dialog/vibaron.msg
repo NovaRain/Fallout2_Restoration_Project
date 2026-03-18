@@ -69,18 +69,18 @@
 {381}{}{Baby, I take it any way you want to give it.}
 {382}{}{You'll just have to find out, won't you?}
 {383}{}{Ugh! Assolutamente no! Ora sbrighiamoci a finire questa cosa prima che vomiti.}
-{390}{}{[The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
-{391}{}{[Shudder.] Once was enough. Bye.}
+{390}{}{[Il mercante ti sorride mentre si riallaccia la cintura.] Cazzo, sai davvero come concludere un buon affare. Se mai avrai bisogno di convincere un mercante a fare qualcos'altro, assicurati di cercarmi. Ora dovrei proprio andare. E' stato un piacere fare affari con te.}
+{391}{}{[Rabbrividisci.] Una volta e' piu' che sufficiente. Addio.}
 {392}{}{Anytime. Bye.}
 {393}{}{Addio.}
-{400}{}{[He looks Miria up and down, then grins.] I think you've got yourself a deal. [He shakes your hand, then puts his arm around Miria and walks her to someplace more private.]}
-{401}{}{[Tap your foot while you wait.]}
+{400}{}{[Guarda Miria dall'alto in basso, poi sorride.] Credo che abbiamo un accordo. [Ti stringe la mano, poi mette un braccio attorno a Miria e la accompagna in un posto piu' appartato.]}
+{401}{}{[Batti il piede mentre aspetti.]}
 {402}{}{[Fischietta mentre lavora]}
 {403}{}{[Check your weapons while you wait.]}
-{404}{}{[Stand there silently and make awkward eye contact with the caravan guards while you listen to the sounds of your wife being defiled by the merchant master.]}
-{410}{}{[An hour later, you see Robert Baron and Miria, now sweaty and disheveled from their sexual romp, walking back towards you. You notice Miria is walking with a slight limp. The merchant grins at you as he refastens his belt.] Holy shit, you sure know how to drive a good bargain. If you ever need to talk a merchant into doing something else, you make sure and look me up. Now, I should really be going. It was a pleasure doing business with you.}
+{404}{}{[Rimani li' in silenzio e incroci sguardi imbarazzanti con le guardie della carovana mentre ascolti i suoni di tua moglie che viene profanata dal mercante.]}
+{410}{}{[Un'ora dopo, vedi Robert Baron e Miria, ora sudati e spettinati dopo il loro amplesso, tornare verso di te. Noti che Miria cammina con una lieve zoppia. Il mercante ti sorride mentre si riallaccia la cintura.] Cazzo, sai davvero come concludere un buon affare. Se mai avrai bisogno di convincere un mercante a fare qualcos'altro, assicurati di cercarmi. Ora dovrei proprio andare. E' stato un piacere fare affari con te.}
 {411}{}{Vabbe'. Ci vediamo.}
 {412}{}{Anytime. Bye.}
 {413}{}{Addio.}
-{500}{}{You convince the merchant to add the village to his trade route.}
-{510}{}{You kill the merchant, thus ensuring that the village won't be able to trade.}
+{500}{}{Hai convinto il mercante ad aggiungere il villaggio alla sua rotta commerciale.}
+{510}{}{Uccidi il mercante, assicurandoti cosi' che il villaggio non possa commerciare.}
