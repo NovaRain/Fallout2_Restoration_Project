@@ -23,11 +23,11 @@
 {172}{}{Oh, poverino... ecco 5$.}
 {173}{}{Ho la sana abitudine di non dare soldi agli accattoni, io.}
 {174}{}{No.}
-{175}{}{Sorry, I don't have any money on me.}
+{175}{}{Mi spiace, non ho soldi con me.}
 {200}{}{Ehi, amico; hai qualche spicciolo?}
 {201}{}{Ha qualche spicciolo, gentile signore?}
 {202}{}{Ehi, potresti darmi qualche dollaro?}
-{203}{}{Do you think you can help me out with coupla bucks?}
+{203}{}{Pensi di potermi dare un paio di dollari?}
 {204}{}{Credi di potermi prestare qualche spicciolo?}
 {205}{}{Ha qualche spicciolo, gentile signora?}
 {206}{}{Ehi, miss; hai qualche spicciolo?}
@@ -41,14 +41,14 @@
 {231}{}{Uhhh...}
 {232}{}{[risatina]}
 {233}{}{Ehi...}
-{234}{}{Niiicceee...}
-{235}{}{Oh yeah...}
-{300}{}{I can't believe someone fucking killed Tubby...}
+{234}{}{Bene...}
+{235}{}{Oh, si'...}
+{300}{}{Non posso credere che qualcuno abbia ammazzato Tubby...}
 {301}{}{Cosa cazzo e' successo a Tubby?}
-{302}{}{Ah, why did Tubby have to die.}
+{302}{}{Ah... perche' Tubby doveva morire.}
 {303}{}{Ahhh...}
 {304}{}{Comunque non mi piaceva quello stronzo.}
-{305}{}{Flick's dead... Crap.}
+{305}{}{Flick e' morto... Merda.}
 {306}{}{Cos'e' successo a Flick?}
 {307}{}{I miss Flick...}
 {310}{}{Hey Tubby, I..uhhh..need some help here.}
