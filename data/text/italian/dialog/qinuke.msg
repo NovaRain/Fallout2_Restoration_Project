@@ -1,4 +1,4 @@
-{100}{}{You see a functional computer.}
+{100}{}{Vedi un computer funzionante.}
 {101}{}{This computer appears to control the nuclear bombing sitting nearby.}
 {200}{}{Benvenuto in PoseidoNet. Questo terminale controlla le operazioni della Bomba a Fusione MK-17. Stato attuale della bomba: Disattivata.}
 {201}{}{Activate bomb.}

@@ -3,7 +3,7 @@
 {102}{}{She appears to be busily cooking.}
 {200}{}{Oh, salve, sono Ann, la moglie di Connar. Devi essere tu quello che ci ha aiutati. Non posso dirti quanto apprezziamo tutto cio' che hai fatto. E' difficile credere che finalmente possiamo vivere in pace senza la paura che gli scagnozzi di Vault City vengano a portarci via dalle nostre case.}
 {201}{}{Felice di essere stato d'aiuto. Sembri piuttosto impegnata qui. Hai bisogno di aiuto con qualcosa?}
-{202}{}{No problem. See you around.}
+{202}{}{Nessun problema. Ci vediamo.}
 {300}{}{In realta', *potrei* aver bisogno di aiuto. Ora che stiamo diventando piu' organizzati, stiamo iniziando a vedere i nostri numeri crescere. Il problema e' che non sono sicura che avremo abbastanza cibo per tutti. Mio marito ha provato a convincere le carovane a fermarsi qui, ma non pensano che valiamo il loro tempo. Non e' che potresti farli ricredere?}
 {301}{}{Sorry lady, but I think I've done enough here. I need to move on now. Bye.}
 {302}{}{Non potete mai occuparvi dei vostri fottuti problemi? Addio.}

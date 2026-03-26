@@ -1,10 +1,10 @@
 {100}{}{Vedi un ragazzino.}
-{101}{}{You see Little Bobby.}
+{101}{}{Vedi il piccolo Bobby.}
 {102}{}{Indossa vestiti sporchi e ha lividi sul collo e sul viso.}
-{103}{}{He is wearing new clothing and has a smile on his face.}
+{103}{}{Indossa dei vestiti nuovi e ha un sorriso in faccia.}
 {104}{}{Ciao signore! Mi chiamo Bobby e vivo qui con mio papa'.}
 {105}{}{Ciao signora! Mi chiamo Bobby e vivo qui con mio papa'.}
-{106}{}{I see. Well tha-}
+{106}{}{Capisco. Beh, gra-}
 {107}{}{Sei qui perche' mio papa' ti deve dei soldi? Non so se e' qui o no. Ma se sapessi dov'e',
  te lo direi, perche' magari lo picchieresti cosi' forte da non farlo tornare mai piu' a casa.}
 {108}{}{E' terribile, Bobby. Tuo padre non ha il diritto di trattarti cosi' -- nessun genitore ce l'ha.}
@@ -13,7 +13,7 @@
  Vorrei che mio papa' fosse piu' come te. A volte penso di scappare. Alcuni miei amici non hanno una casa, e dicono
  che non e' poi cosi' male. Finche' portano abbastanza cose a Mr. Flick, possono mangiare una volta al giorno. Ma Mr. Flick non sembra molto
  gentile nemmeno lui -- anzi, sembra proprio come mio papa'.}
-{111}{}{You're a meanie! Go away. I don't like you.}
+{111}{}{Sei cattivo! Vai via. Non mi piaci.}
 {112}{}{Ci deve essere qualcosa che si puo' fare. Ti viene in mente qualche adulto in questa citta' disposto a
  occuparsi di te -- o di questi bambini senzatetto?}
 {113}{}{[Bobby scrolla le spalle.] Forse Mom? Non intendo *mia* mamma -- la mia e' morta -- ma c'e' una signora che tutti chiamano Mom. Non so perche'.

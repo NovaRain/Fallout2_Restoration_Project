@@ -1,4 +1,4 @@
-{100}{}{You see a functional computer.}
+{100}{}{Vedi un computer funzionante.}
 {101}{}{You see the EPA's botany terminal.}
 {200}{}{Benvenuto nel terminale di botanica dell'EPA. Seleziona una delle seguenti opzioni.}
 {201}{}{Access information database.}

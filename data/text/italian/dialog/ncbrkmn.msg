@@ -27,7 +27,7 @@
  lettera, puoi guarire qualcuno dall'autismo o dall'epilessia.}
 {306}{}{Mi sembra una bella fesseria, ma ehi, sto parlando, quindi qualcosa di vero ci deve essere. Comunque, apprezzo davvero
  quello che hai fatto. Tieni, prendi questi Stimpak. Li ho trovati mentre cercavo cibo dietro questi edifici.}
-{307}{}{Thanks. See you around.}
+{307}{}{Grazie. Ci vediamo.}
 {350}{}{Uff!}
 {351}{}{Woof! Woooof!}
 {352}{}{*Si gratta*}

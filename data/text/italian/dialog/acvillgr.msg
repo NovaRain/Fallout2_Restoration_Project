@@ -39,9 +39,9 @@
 {301}{}{Prescelto, la nostra gente sta morendo. Devi affrettare la tua ricerca per il sacro GECK. Cosa posso fare per aiutarti in questa santissima missione?}
 {302}{}{Il tempo a nostra disposizione sta finendo, Prescelto. Per favore, porta presto a termine la tua sacra missione. Non possiamo permetterci di aspettare ancora. Se c'e' qualcosa che posso fare per aiutarti a salvarci, fammelo sapere.}
 {303}{}{Prescelto, il nostro villaggio e' quasi morto... sei la nostra unica speranza. Per la nostra salvezza, c'e' niente che possa dire per aiutarti?}
-{400}{}{Is there anything you could tell me about Kaga?}
+{400}{}{C'e' qualcosa che potresti dirmi a proposito di Kaga?}
 {401}{}{[Il villager ti fissa con gli occhi spalancati, poi si allontana lentamente da te guardandosi intorno nervosamente.]}
-{402}{}{Alright, I guess not.}
+{402}{}{Beh, immagino di no.}
 {1000}{}{Elder}
 {1001}{}{Founder}
 {1002}{}{Vault Dweller}
