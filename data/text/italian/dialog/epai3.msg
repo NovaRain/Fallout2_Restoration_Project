@@ -1,4 +1,4 @@
-{100}{}{You see a functional computer.}
+{100}{}{Vedi un computer funzionante.}
 {101}{}{You see the EPA's Top Secret Research and Development Terminal.}
 {102}{}{Benvenuto nel Terminale Top Secret di Ricerca e Sviluppo dell'EPA. Errore nell'inizializzazione della procedura di accesso rapido. Per favore,
  cerca qualcosa di specifico.}

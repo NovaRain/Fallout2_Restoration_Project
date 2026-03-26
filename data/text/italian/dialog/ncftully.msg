@@ -292,7 +292,7 @@
 {2012}{}{Viaggero' molto, quindi se capita di passare dall'Abbazia, magari andro' a trovare questo tuo amico Samuel. Cazzo, magari
  ti porto anche un po' di quel distillato.}
 {2013}{}{Oh, potresti, per favore? Mi renderebbe piu' felice di una puttana di Reno senza malattie. Grazie amico.}
-{2014}{}{No problem. I have some other questions though.}
+{2014}{}{Nessun problema. Avrei delle altre domande pero'.}
 {2015}{}{Sure. See you around.}
 {2016}{}{Viaggero' molto, quindi se capita di passare dall'Abbazia, magari ti porto un po' di quel distillato.}
 {2017}{}{Interesting. See you around.}

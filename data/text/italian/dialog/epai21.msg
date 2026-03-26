@@ -15,7 +15,7 @@
 {112}{}{Il Sotto-livello Viola contiene il nucleo di memoria per l'archiviazione dei dati dell'EPA e altre cose che non sono molto interessanti per i visitatori. Scusa! Tuttavia, e' collegato direttamente al Sotto-livello Giallo, che contiene cose piu' interessanti, come il farmacista del futuro, Mr. Chemmie!}
 {113}{}{Il Sotto-livello Verde e' un livello entusiasmante che contiene un arboreto, ricerche sulle armi biologiche, nuove creature affascinanti e, il preferito di ogni bambino, il nostro esclusivo zoo tattile.}
 {114}{}{Il Sotto-livello Blu non esiste. Se qualcuno ti ha detto il contrario, e' un bugiardo e con ogni probabilita' un simpatizzante comunista. Segnalalo al nostro reparto di sicurezza al Sotto-livello Rosso cosi' potra' essere trattato di conseguenza. Grazie per aver fatto la tua parte da orgoglioso americano!}
-{115}{}{Return to main menu.}
+{115}{}{Torna al menu principale.}
 {116}{}{Thank you for using the location finder.}
 {117}{}{[FATTO]}
 {118}{}{Vedi un computer.}

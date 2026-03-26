@@ -54,14 +54,14 @@ Uno di loro ti guarda due volte.] Che diavolo ci fai qui dietro? Non eri autoriz
 {421}{}{Il mio nome non importa, perche' non sono qui per parlare. [Salta fuori e inizia a combattere.]}
 {422}{}{Io? Oh, sono, uh, *coff*mumble*coff*. Non badare a me. Anzi, forse dovrei andare. [Esci e prova ad allontanarti con noncuranza.]}
 {423}{}{Il mio nome e' }
-{424}{}{. Where am I?}
+{424}{}{. Dove sono?}
 {425}{}{No, qual e' il *tuo* nome, soldato? Sono stato messo qui per testarti e devo dire che hai FALLITO. Se fossi un assassino suicida della Landa, tu e tutta la tua squadra sareste morti adesso! Inaccettabile! Datti una regolata, soldato!}
-{426}{}{Uh . . . my name }
+{426}{}{Uh . . . il mio nome }
 {427}{}{. Io fare giro divertente su uccellino di metallo! Andare ancora! Voglio andare ancora!}
 {428}{}{Tu non serve sapere mio nome. Io non ti piace. Io uccido. [Salta fuori e inizia a combattere.]}
 {430}{}{Che sei, ubriaco? Sei a Navarro, ovviamente. Se hai problemi di memoria, soldato, forse dovresti farti controllare. Magari un po' di quella radiazione la' fuori ti ha colpito.}
 {440}{}{Non dirmi stronzate. Sei una delle nuove reclute, vero? Heh. Quella tua linguaccia ti mettera' nei guai, e non vedo l'ora di vederlo. Ora torna al tuo posto, soldato.}
-{450}{}{Sir! Yes sir!}
-{451}{}{Ma'am! Yes ma'am!}
+{450}{}{Signorsi', signore!}
+{451}{}{Si', signora!}
 {460}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averlo rincoglionito. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, togliamo questo idiota dalla sua miseria prima che ci contamini.}
 {461}{}{[Il soldato guarda uno dei suoi compagni.] Mio Dio, il contatto con tutti quei mutanti e la radiazione deve averla rincoglionita. Vedi? *Ecco* perche' non mi offro mai volontario per quelle missioni nella Landa. Comunque, togliamo questa idiota dalla sua miseria prima che ci contamini.}

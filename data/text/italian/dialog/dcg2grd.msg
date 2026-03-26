@@ -55,10 +55,10 @@
 {350}{}{L'hai detto!}
 {351}{}{Sono carne morta!}
 {352}{}{Spacchiamo tutto!}
-{400}{}{We kicked serious ass! We'll be over at the church if you need us.}
+{400}{}{Abbiamo fatto fuori un sacco di gente! Saremo in chiesa se hai bisogno di noi.}
 {500}{}{Merda, non posso credere che abbiamo perso Lara. Qui abbiamo sistemato il gruppo rimasto, ma Tyler e la sua banda sono ancora vivi.
  Se li attacchiamo ora, durante la loro festa nella zona residenziale, li coglieremo sicuramente di sorpresa. Finiremmo il lavoro. Ci stai ancora?}
-{501}{}{Let me heal first. I'll tell you when I am ready.}
+{501}{}{Lasciami curare prima. Ti faro' sapere quando sono pronto.}
 {502}{}{Andiamo.}
-{510}{}{You ready to take Tyler and his crew out?}
+{510}{}{Sei pronto a fare fuori Tyler e la sua banda?}
 {520}{}{Ehi, non allontanarti troppo. Dobbiamo finire tutto stanotte.}
