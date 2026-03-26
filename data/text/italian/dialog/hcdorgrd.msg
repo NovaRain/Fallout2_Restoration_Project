@@ -32,7 +32,7 @@
 {271}{}{I have come to make a donation.}
 {280}{}{Oh, non sapevo stessi seguendo ordini cosi' divini. In tal caso, sei libero di entrare. Ecco, lascia che ti apra questa porta.}
 {281}{}{[Aggrugisce la fronte.] Huh, non mi hanno mai detto nulla di ispezioni...}
-{282}{}{Thanks. See you around.}
+{282}{}{Grazie. Ci vediamo.}
 {283}{}{Ascolta, AHS?9 mi ha detto personalmente di controllare le cose. Mi ha chiesto di recuperare un artefatto specifico donato di recente. E' fondamentale per raggiungere il Padre Stellare.}
 {284}{}{Mi sto stufando delle tue bugie. Credo sia ora di strappare un'altra erbaccia dal mondo.}
 {290}{}{Ma questo non e' il posto dove si fanno le donazioni. Puoi farlo in una qualsiasi delle nostre chiese.}

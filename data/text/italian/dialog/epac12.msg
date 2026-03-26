@@ -59,7 +59,7 @@
 {245}{}{Be', visto che mi stai dando una scelta... (sorride maliziosamente)}
 {246}{}{[She glares at you wordlessly.]}
 {247}{}{Oh, voglio dire, certo che ti aiuto ad alzarti. [La aiuti ad alzarsi in piedi.]}
-{250}{}{What are you going to do now?}
+{250}{}{E adesso cosa farai?}
 {251}{}{Non lo so. Cosa fai quando hai ibernato per oltre un secolo? Nemmeno gli orsi dormono cosi' a lungo.
  Il mondo la' fuori non e' il mondo che conoscevo. Non so se potrei sopportare di vedere cosa e' diventato.}
 {252}{}{So che la' fuori e' una landa desolata, ma hai ancora tutta una vita da vivere. La stai sprecando qui sotto.

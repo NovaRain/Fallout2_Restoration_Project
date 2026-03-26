@@ -224,21 +224,21 @@
 {752}{}{Uh, okay.}
 {800}{}{Hai ucciso il leader della Gilda degli Schiavisti.}
 {900}{}{Quello che vedi e' quello che ottieni. Se non ti piace la mia merce, togliti dal cazzo dai piedi e smettila di farmi perdere tempo.}
-{901}{}{Uh, sorry. Let me ask you something else then.}
-{902}{}{Right. I think I'll go then.}
+{901}{}{Uh, scusa. Lascia che ti chieda qualcos’altro, allora.}
+{902}{}{Giusto. Allora vado.}
 {903}{}{In realta', penso che faro' fuori *te* e tutta la tua maledetta operazione malata.}
 {910}{}{E' tutto quello che ho in magazzino qui, rompisc***, ma ho sempre nuova merce in arrivo dal mio altro campo schiavi.
  Forse se torni piu' tardi, avro' qualcosa che stuzzica la tua fantasia -- ma sono per lo piu' tribali ignoranti che sembrano tutti
  uguali, quindi se non e' quello che cerchi, potresti essere proprio sfigato.}
 {911}{}{Senti, potrebbe essere una richiesta insolita, ma vorrei davvero avere la precedenza su qualsiasi nuova merce che hai. C'e' un modo
  per andare a controllare le scorte nel tuo altro campo? Naturalmente, sarei disposto a pagare un prezzo maggiorato.}
-{912}{}{Alright, I'll keep checking back then.}
+{912}{}{Va bene. Ripasserò più tardi.}
 {913}{}{Bene, ma la prossima volta fammi un favore e non farmi perdere tempo a meno che tu non abbia affari concreti da discutere.}
 {914}{}{Prezzo maggiorato, eh? Ora parli la mia lingua. Di solito gestiamo le vendite qui, ma suppongo si possa fare un'eccezione,
  purche' tu sia serio. Ti dico come arrivare la', ma tienilo per te, cazzo. Te lo giuro, se risulta che sei una
  spia di quei maledetti Ranger, ti daro' la caccia e ti scortichero' vivo. [Ascolti le sue indicazioni e annoti la posizione del Campo degli Schiavisti nel tuo Pip-Boy.]}
-{915}{}{Got it. Let me ask you something else.}
-{916}{}{Thanks. I'll be on my way now. Bye.}
+{915}{}{Capito. Lascia che ti chieda qualcos’altro.}
+{916}{}{Grazie. Ora vado. Ciao.}
 {1360}{}{ per lei. Che ne dici?}
 {1361}{}{?}
 {1363}{}{.}
