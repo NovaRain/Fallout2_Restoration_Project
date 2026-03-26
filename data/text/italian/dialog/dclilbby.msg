@@ -28,23 +28,23 @@
  amici! Sono cosi' felice! Grazie ancora signore, sei il migliore!}
 {118}{}{[Un enorme sorriso illumina il volto del ragazzo.] Davvero? Fantastico! [Ti abbraccia.] Non vedo l'ora di vivere li' con tutti i miei
  amici! Sono cosi' felice! Grazie ancora signora, sei la migliore!}
-{119}{}{You're welcome kid. See you around.}
-{120}{}{Hi again! Did you talk to the Mom lady?}
-{121}{}{Don't worry Bobby, I'm working on it.}
+{119}{}{Di niente, ragazzo. Ci vediamo.}
+{120}{}{Ciao di nuovo! Hai parlato con la signora Mom?}
+{121}{}{Non preoccuparti, Bobby, ci sto lavorando.}
 {122}{}{Aiuti Bobby a trovare una vita migliore.}
 {123}{}{Ciao di nuovo! Grazie di tutto. Adoro questo nuovo posto. Mom e' davvero una grande donna!}
 {124}{}{Adoro questo nuovo posto. Mom e' davvero una grande donna!}
-{125}{}{I'm so excited! Time to pack my stuff.}
-{126}{}{I wonder if dad will notice I am gone.}
-{127}{}{This is going to be so much better.}
-{200}{}{I don't like you. Go away!}
+{125}{}{Sono così emozionato! È ora di preparare le mie cose.}
+{126}{}{Mi chiedo se papà si accorgerà che sono sparito.}
+{127}{}{Andrà molto meglio così.}
+{200}{}{Non mi piaci. Vai via!}
 {210}{}{Sembra che tuo padre non ti piaccia molto. Posso chiederti perche'?}
 {211}{}{Moccioso, chi ti credi di essere per parlare cosi' di tuo padre?}
 {220}{}{Perche' il mio papa' non e' molto gentile. Mi lascia sempre da solo a casa, e quando *c'e'* e' sempre ubriaco oppure
  dice che sta volando con il Jet, che e' una bugia perche' non lo vedo mai volare da nessuna parte. A volte porta
  a casa una fidanzata -- ne ha tante -- e mi fa uscire per un po', anche se e' notte fonda
  e fa freddo o piove.}
-{221}{}{That's-}
+{221}{}{E'-}
 {230}{}{Oh! E a volte mi dice di prendere di nascosto delle cose alla gente. Dice che e' un gioco e che poi le restituisce,
  ma non gli credo. Ma se non lo faccio, allora si arrabbia davvero e i suoi occhi diventano spaventosi, e mi fa male.
  Vedi? [Alza la manica, mostrando un brutto livido sul braccio.]}
