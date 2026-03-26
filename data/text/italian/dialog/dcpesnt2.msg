@@ -8,4 +8,4 @@
 {203}{}{Stanno bene. Grazie a te, sono fuori dalle strade e ora hanno un posto dove vivere. Grazie ancora per tutto!}
 {204}{}{Mi fa piacere. Stammi bene.}
 {205}{}{Ciao di nuovo! Serve qualcosa?}
-{206}{}{Nope, just looking around.}
+{206}{}{No, sto solo dando un'occhiata.}
