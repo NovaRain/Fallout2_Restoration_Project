@@ -108,7 +108,7 @@
 {370}{}{[Ride piano.] Ti offro l'ospitalita' della nostra tribu' e l'opportunita' di impressionarmi. Non prometto altro.}
 {371}{}{Alright. Let's do this.}
 {372}{}{Alright, but give me a moment to get ready.}
-{373}{}{Not interested. Bye.}
+{373}{}{Non mi interessa. Ciao.}
 {375}{}{Are you ready to go?}
 {376}{}{Non ancora.}
 {377}{}{Alright. Let's do this.}

@@ -186,7 +186,7 @@
 Normalmente andrei a prenderlo da solo, ma al momento sono estremamente impegnato e, per quanto mi sforzi, non riesco a ricordare il punto esatto in cui l'ho lasciato. 
 In ogni caso, vai a nord-ovest da questo edificio e troverai l'area dove ho lasciato il mio strumento. Dovrebbe essere una passeggiata.}
 {804}{}{I'll get right on it.}
-{805}{}{Not interested. Bye.}
+{805}{}{Non mi interessa. Ciao.}
 {806}{}{Beh, aspetta. Sei sicuro di non voler aiutarmi con una piccola cosa?}
 {810}{}{Eccellente! Ora devo tornare al lavoro. [Tra se'.] Sta andando tutto secondo i piani.}
 {811}{}{[FATTO]}

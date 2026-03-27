@@ -140,5 +140,5 @@
 {282}{}{Thanks. Now why don't you tell me who you are?}
 {290}{}{Io sono Elsie. Lui e' Gond. Siamo membri di un gruppo anti-schiavitu' chiamato New California Rangers. Ci servirebbe qualcuno come te. Se ti interessa unirti a noi, ho un incarico per te.}
 {291}{}{Let's hear it.}
-{292}{}{Not interested. Bye.}
+{292}{}{Non mi interessa. Ciao.}
 {300}{}{Help you with something, Ranger?}

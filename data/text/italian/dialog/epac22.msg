@@ -5,7 +5,7 @@
 {202}{}{Certo. Addio.}
 {203}{}{Il mio... zZzzzt..sensore... ZzzzzzZzt...*disturbi*..riparato?}
 {204}{}{Mi dispiace, ma non riesco a capirti. C'e' troppo disturbo. Vedro' se riesco a sistemarlo in qualche modo.}
-{205}{}{I don't have time for this. Bye.}
+{205}{}{Non ho tempo per questo. Ciao.}
 {300}{}{Ah, grazie mille per avermi riparato! Temevo l'idea che qualche visitatore potesse arrivare e farmi domande a cui non avrei potuto rispondere correttamente a causa di tutto il disturbo. Certo, sei il primo visitatore che vedo dalla guerra, ma comunque, *se* ne avessi incontrato un altro, sarebbe stato piuttosto imbarazzante.}
 {301}{}{Nessun problema. Quindi, che posto e' esattamente questo?}
 {302}{}{[Sorride, apparentemente felice di avere domande a cui rispondere.] Ti trovi nell'Environmental Protection Agency, piu' comunemente chiamata EPA. Siamo una struttura di ricerca governativa specializzata nel testare sostanze chimiche per garantire che siano sicure per l'ambiente terrestre. Ma questo e' solo l'inizio. Qui succedevano un sacco di cose interessanti, almeno finche' la struttura non e' stata evacuata a causa della guerra. Da allora le cose non sono piu' state le stesse.}
