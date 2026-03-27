@@ -39,7 +39,7 @@
 {312}{}{Nevermind. I'm not interested.}
 {320}{}{Il complesso sembra ancora piuttosto cupo. Sistemarai le luci, vero? Ricordate visitatori, tutte le liberatorie devono essere firmate prima della fine del tour.}
 {321}{}{Don't worry. I'm working on it.}
-{322}{}{I'll get around to it.}
+{322}{}{Me ne occuperò.}
 {330}{}{Avremmo piu' visitatori se i terreni fossero puliti.}
 {331}{}{How am I supposed to conduct tours without proper lighting?}
 {332}{}{Quelle piante stanno uccidendo tutti i potenziali turisti.}

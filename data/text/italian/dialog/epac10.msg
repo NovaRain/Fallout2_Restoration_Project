@@ -117,7 +117,7 @@
 {431}{}{[Continua]}
 {440}{}{[Dopo un intensa sessione d'amore sul pavimento della camera, crollate entrambi per la stanchezza. Dex
  tiene un piccolo oggetto vicino alla tua bocca.] Urla per lei, piccola. [Proprio quando capisci che e' un orecchio umano mozzato, senti una lama trapassarti il petto. Urli mentre la lama viene estratta e affondata di nuovo...]}
-{441}{}{[End.]}
+{441}{}{[Fine]}
 {450}{}{Ehi, ehi, ehi. Un momento, tesoro. Hai appena detto centocinquant'anni? [Scuote la testa incredulo.] E' fottutamente incredibile. [Controlla il suo riflesso.] Pero' devi ammetterlo, per la mia eta' sono dannatamente in forma. [Ti sorride, mostrando una dentatura perfetta - frutto dell'odontoiatria pre guerra che ti sembra strana in tutta la sua simmetria bianco perla.]}
 {451}{}{Certo, magari qualche ragazza potrebbe trovarti attraente, ma faccio fatica a ignorare il fatto che sei uno psicopatico assassino a sangue freddo.}
 {452}{}{Si', sei molto attraente, ma sinceramente sono un po' nervosa a parlarti dopo quello che ho letto su di te, che sei uno psicopatico assassino.}

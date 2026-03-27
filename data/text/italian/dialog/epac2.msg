@@ -45,21 +45,21 @@
 {301}{}{E' comprensibile.}
 {302}{}{L'apocalisse non e' una scusa per poltrire.}
 {310}{}{Si', se solo avessi un assistente in carne e ossa, potrei finalmente fare qualche progresso nella mia ricerca...}
-{311}{}{What kind of help do you need?}
+{311}{}{Di che tipo di aiuto hai bisogno?}
 {320}{}{Beh, dipende. Non credo che ti sentiresti a tuo agio a maneggiare una grossa arma sperimentale, vero?}
-{321}{}{Hell yeah I would!}
+{321}{}{Certo che lo farei!}
 {322}{}{Bene.}
-{323}{}{I think I'll pass.}
+{323}{}{Credo che passero'.}
 {330}{}{Oh, capisco. Che peccato. Va bene, nessun rancore. Aspettero' semplicemente che un'altra persona in carne e ossa
  entri per caso in questa struttura. Succedera' di nuovo entro un secolo o due. Addio.}
 {340}{}{Salve di nuovo. Non e' che hai ripensato alla mia offerta di aiutarmi a testare un'arma sperimentale?}
 {341}{}{No. Mi spiace.}
-{342}{}{Alright. Sure.}
+{342}{}{D'accordo. Va bene.}
 {350}{}{Eccellente! Sei il candidato perfetto. Vedi, nel tentativo di aiutare l'esercito a diventare piu' "ecologico",
  ho sviluppato una nuova arma che non richiede munizioni, perche' funziona completamente a *luce*. La chiamo
  *Solar Scorcher*. Tuttavia, non e' ancora stata testata alla luce diretta del sole, ed e' qui che entri in gioco tu.}
-{351}{}{So you just want me to go outside and shoot this thing? That's it?}
-{352}{}{Yeah, yeah, just give me the gun already.}
+{351}{}{Quindi vuoi che esca e spari a quella cosa? Tutto qui?}
+{352}{}{Si', si', dammi quella pistola e basta.}
 {360}{}{Essenzialmente, si'. Ovviamente devo sapere come se la cava in una situazione di combattimento, quindi apprezzerei se
  riuscissi a trovare qualche forma di vita minacciosa la fuori, che poi potresti eliminare in modo spettacolare con il mio Solar Scorcher.}
 {361}{}{Uscire e uccidere qualcosa, capito. Allora, dove si trova questo Solar Scorcher?}
@@ -68,12 +68,12 @@
  potresti eliminare in modo spettacolare con il mio Solar Scorcher.}
 {371}{}{Uscire e uccidere qualcosa, capito. Allora, dove si trova questo Solar Scorcher?}
 {380}{}{Oh, si', e' in quell'armadietto sul muro laggiu', vicino al mio proiettore. Il codice e' 03141879.}
-{381}{}{Alright, I'll try it out and let you know how it goes.}
+{381}{}{D'accordo, lo provero' e ti faro' sapere com'e' andata.}
 {390}{}{Ah, bentornato. Hai avuto modo di testare il Solar Scorcher?}
-{391}{}{Sure did. It scorched the hell out of things.}
+{391}{}{Eccome. Ha carbonizzato tutto.}
 {392}{}{Si', l'ho fatto, ma quel pezzo di merda si e' rotto. Ho dovuto buttarlo.}
 {393}{}{No, non ancora.}
-{394}{}{I'll get around to it.}
+{394}{}{Me ne occuperò.}
 {400}{}{Eccellente! Sono felice di sapere che funziona come previsto. Grazie per avermi aiutato. Perche' non tieni
  pure il Solar Scorcher? Preferisco che venga usato piuttosto che resti qui a prendere polvere.}
 {401}{}{Grazie!}
@@ -83,6 +83,6 @@
 {411}{}{Vabbe'.}
 {412}{}{Nessun problema.}
 {420}{}{Felice di rivederti. Tuttavia, se non ti dispiace, ho una miriade di progetti che richiedono la mia attenzione.}
-{421}{}{[End.]}
+{421}{}{[Fine]}
 {500}{}{Hai riparato l'Ologramma 00000.}
 {510}{}{Hai testato il Solar Scorcher per il Direttore della Scienza.}

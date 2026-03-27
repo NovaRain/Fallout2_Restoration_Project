@@ -12,7 +12,7 @@
  Ora ti serve qualcosa o sei qui solo per farmi incazzare?}
 {203}{}{Metzger ti ha mandato? [Si agita a disagio.] Non dirmi che vuole gia' altri schiavi — per l'amor del cielo, abbiamo spedito un carico la settimana scorsa.}
 {300}{}{Actually yes, I do need something.}
-{301}{}{So, why are you here?}
+{301}{}{Allora, perche' sei qui?}
 {302}{}{I don't think I need anything else.}
 {303}{}{Allora levati di torno. Sei un intruso e qui non ti vuole nessuno.}
 {304}{}{Me ne stavo andando.}
