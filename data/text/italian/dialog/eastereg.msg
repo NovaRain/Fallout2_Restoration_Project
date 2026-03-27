@@ -1,12 +1,12 @@
-{100}{}{You see MIBoba Fe88.}
-{101}{}{You see a tough, ruthless bounty hunter.}
+{100}{}{Vedi MIBoba Fe88.}
+{101}{}{Vedi un cacciatore di taglie duro e spietato.}
 {110}{}{Vedi un duro e spietato cacciatore di taglie. Non sembra che parli molto. Ha aiutato con i nuovi script e le idee. E con l'uccidere persone.}
-{200}{}{You see Hivan Zolo.}
+{200}{}{Vedi Hivan Zolo.}
 {201}{}{Un farabutto dall'aspetto trasandato, ma affascinante.}
 {210}{}{Ragazzo, ho volato da un lato all'altro di questa galassia, e ho visto un sacco di roba strana, ma non ho mai visto *nulla* che mi faccia credere che ci sia una Forza onnipotente che controlla tutto.
  Perche' nessun campo di energia mistico controlla *il mio* destino. E' tutta una questione di trucchi semplici e sciocchezze. Religioni bizzarre e armi antiche non valgono un buon blaster al tuo fianco. Capisco quando uno e' bravo
  con una pistola, quindi prendi questo. Fidati: tornera' utile quando hai una taglia sulla testa. (Ti porge un blaster.)}
-{211}{}{My real name is Ivan Zaharath.}
+{211}{}{Il mio vero nome e' Ivan Zaharath.}
 {212}{}{Ho tradotto l'RP in Polski a beneficio della grande e potente Repubblica di Polonia... voglio dire Alleanza Ribelle.}
 {213}{}{Ridi pure, pallone di pelo.}
 {214}{}{Religioni bizzarre e armi antiche non valgono un buon blaster al tuo fianco, ragazzo.}
@@ -270,4 +270,4 @@
 {2501}{}{Questa massa di melma sembra formare una scritta: "Dedicato a tutti coloro i cui nomi sono stati dimenticati, ma
  che hanno comunque contribuito a rendere tutto possibile."}
 {2510}{}{}
-{5000}{}{Combat is not allowed here.}
+{5000}{}{Qui il combattimento non e' consentito.}
