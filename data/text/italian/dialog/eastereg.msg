@@ -11,8 +11,8 @@
 {213}{}{Ridi pure, pallone di pelo.}
 {214}{}{Religioni bizzarre e armi antiche non valgono un buon blaster al tuo fianco, ragazzo.}
 {215}{}{Chi stai chiamando 'dall'aspetto trasandato'!?}
-{300}{}{You see Contie-bacca.}
-{301}{}{He looks like a walking carpet.}
+{300}{}{Vedi Contie-bacca.}
+{301}{}{Sembra un tappeto ambulante.}
 {310}{}{Roow rooo arrrrr rooow.}
 {311}{}{Rrrrrrrrrrrrr .... squeak!}
 {312}{}{Nowrrrrragh.}
@@ -22,35 +22,35 @@
 {316}{}{Dice di averli creati usando la modellazione 3D. E' piuttosto intelligente, sai. Per essere un umano.}
 {317}{}{Dice che non sta parlando in ceco, anche se suona un po' come il linguaggio dei bambini.}
 {318}{}{Dice che non e' una balestra, e' un blaster. E no, non puoi averlo.}
-{319}{}{He says you should thank him for bringing the sub back into the game.}
-{400}{}{You see Darek Vader.}
+{319}{}{Dice che dovresti ringraziarlo per aver riportato il sottomarino nel gioco.}
+{400}{}{Vedi Darek Vader.}
 {401}{}{Questo tipo sembra duro come la roccia e appare piu' macchina che uomo.}
 {410}{}{Sono Darek. Ho aiutato a rispondere a un milione di domande da novellino per Obi-Wan-Killap.}
 {411}{}{Unisciti a me! Insieme possiamo governare la galassia!}
 {412}{}{Sapevi che il grande Obi-Wan-Killap ha chiesto aiuto a ME?}
 {413}{}{Non dirlo a Obi-Wan-Killap, ma penso che stia perdendo il senno.}
 {414}{}{Ho aiutato a schiacciare diversi bug fastidiosi. Puoi ringraziarmi dopo.}
-{500}{}{You see Jotisz the Hutt.}
+{500}{}{Vedi Jotisz l'Hutt.}
 {501}{}{Questo tipo e' grande, grasso e verde.}
 {510}{}{Sono Jotisz lo Hutt. Potrei sembrare una grossa lumaca verde e grassa, ma ho effettivamente aiutato a creare quei bei nuovi abiti corazzati che indossa il tuo amico Sulik.
  Sono stati creati da Yosan12 e da me. Lo so! E con queste manine tozze!}
 {511}{}{Sono Jotisz lo Hutt. Potrei sembrare una grossa lumaca verde e grassa, ma ho effettivamente aiutato a creare quei bei nuovi abiti corazzati del tuo amico... ehi dov'e'
  Sulik? Dovresti andare a prenderlo e vedere come appare. I suoi abiti sono stati creati da Yosan12 e da me. Lo so! E con queste manine tozze!}
 {512}{}{*fischietta* Sono una grossa lumaca verde e grassa...}
-{513}{}{In case you didn't notice, I'm suspiciously easy to strangle.}
-{514}{}{Now, where did I put Leia...?}
-{600}{}{You see R2Qwerty.}
+{513}{}{Nel caso non l'avessi notato, sono stranamente facile da strangolare.}
+{514}{}{Ora... dove ho messo Leia...?}
+{600}{}{Vedi R2Qwerty.}
 {601}{}{Un robotino vivace. Lampeggia e bippa.}
 {610}{}{Beep beep!}
 {611}{}{Rrrrrr bip Rrrrwow!}
 {612}{}{*lampeggia e si agita eccitato*}
 {613}{}{Balestre! Tattiche! Balestre!}
-{700}{}{You see Chris3ParksO.}
+{700}{}{Vedi Chris3ParksO.}
 {701}{}{Un robot umanoide dorato e lucente. Sembra sorpreso.}
 {710}{}{Salve, sono Chris3ParksO, relazioni umano-cyborg. Sono esperto in oltre 3 milioni di linguaggi di programmazione.}
 {711}{}{Ho aiutato a gettare le basi per la Tribu' Umbra e l'EPA.}
 {712}{}{Questo e' R2QWERTY: il mio fedele assistente. Ha creato nuove creature e grafica.}
-{800}{}{You see Yosan12.}
+{800}{}{Vedi Yosan12.}
 {801}{}{Un ometto verde. Sembra VECCHIO.}
 {810}{}{Yosan12 sono io. Creato la mod dell'armatura degli NPC ho. Sollevato l'Xwing dalla palude ho fatto anche io. Parlare in modo molto strano anche faccio io.
  Difficile da capire, hmmm? Hagh Hah ha! Inoltre, create le nuove animazioni di Cecchino, Wakizashi e spada laser ho. }
@@ -58,19 +58,19 @@
 {812}{}{Quando andato sono io, un piccolo fantasma luminoso e sfocato diventero'.}
 {813}{}{Un tempo, un burattino con saggezza e carattere ero io. Ora, un personaggio CGI vuoto per i bambini sono diventato.}
 {814}{}{Stupido JarJar Binks e'.}
-{900}{}{You see Obi-Wan-Killap.}
+{900}{}{Vedi Obi-Wan-Killap.}
 {901}{}{Sembra un vecchio bonario con qualcosa di vagamente orso in lui.}
-{910}{}{Greetings }
+{910}{}{Saluti }
 {911}{}{. Vedo che te la sei cavata abbastanza bene. Sono Obi-Wan-Killap: faccio funzionare Fallout come avrebbe dovuto fin dall'inizio.}
 {912}{}{Wow. Be', grazie per questo, Sig. Killap. Come l'ha fatto?}
-{913}{}{What the Hell is Fallout?}
+{913}{}{Che diavolo e' Fallout?}
 {914}{}{Ok. E chi sono, di grazia, queste altre persone?}
 {920}{}{Sono un Maestro della Programmazione, esperto nella via del Sorgente. E' un campo energetico creato da tutte le cose digitali. Ci circonda e ci penetra.
  Tiene insieme la galassia. Tu, io - l'albero - la roccia. Esseri pixelati siamo....non questa rozza materia *ti punge*.
  Ho imparato a usare questo potere attraverso anni di fissare uno schermo di computer.}
 {921}{}{Wow. Il nostro sciamano diceva sempre che c'era piu' in questo mondo di quello che posso vedere, sentire, toccare, gustare e percepire. Puoi insegnarmi a usare il potere del Sorgente?}
 {922}{}{Penso di aver sentito abbastanza gergo religioso da tenermi rifornito per un altro inverno nucleare. Francamente, preferisco una pistola al plasma al mio fianco.}
-{923}{}{Oh great, another kookie religious nutbag. I'm outta here.}
+{923}{}{Oh, fantastico... un altro fanatico fuori di testa. Me ne vado.}
 {930}{}{Fallout e' il mondo in cui ti trovi. L'ho creato io, o almeno, l'ho fatto funzionare come avrebbe dovuto. Vedi, non
  molto tempo fa, questo mondo era nel caos. I viaggiatori che venivano qui venivano spesso uccisi dall'enorme numero di bug che vagavano
  per le Lande corrompendo i salvataggi indiscriminatamente. Gli dei di questo mondo erano stati negligenti. Ma poi sono arrivato io, e,
@@ -80,9 +80,9 @@
  Clicco velocemente per arrivare alla parte divertente.}
 {932}{}{Ottimo lavoro, Sig. Killap. Apprezzo davvero tutto il tempo e il duro lavoro che hai speso per ripulire le Lande. Se quello che dici e' vero, allora dovresti sapere che anch'io sono un eroe. In effetti, ho schiacciato parecchi bug anch'io.}
 {935}{}{E siamo grati che tu abbia distrutto l'Enclave. Tu sei il vero eroe qui.}
-{936}{}{Whatever gets you through the day.}
-{937}{}{So, how exactly did you clean up this world?}
-{938}{}{Who, pray tell, are these other people?}
+{936}{}{Qualunque cosa ti faccia andare avanti.}
+{937}{}{Allora, come hai fatto esattamente a ripulire questo mondo?}
+{938}{}{Chi sono, di grazia, queste altre persone?}
 {940}{}{Questi sono i miei compagni. Mi hanno aiutato a migliorare questo mondo: MIBoba Fe88, Hivan Zolo, Contie-bacca, Darek Vader, Jotisz lo Hutt,
  R2Qwerty, Chris3ParksO, Yosan12, Imperatrice Timeslip, Luke Skynet, Mon-Morticia, Kanhef, HawkEyE, Adam Dravean, Sig. Wolna, encinodude,
  Minigun Jim, Bofast, Pixote, Mash, Mikael Grizzly, x'il, Per, e le Masse. Hanno tutti aiutato nel grande progetto per ripristinare
@@ -90,20 +90,20 @@
 {941}{}{Hmm. Quei nomi suonano in qualche modo familiari... Be', penso che vada a parlare con loro.}
 {950}{}{Certo che posso. Devi imparare a usare i tuoi sentimenti: lascia andare la tua mente cosciente. Spegni il monitor. Chiudi gli occhi, e SENTI il Sorgente scorrere attraverso il mouse... (Segui le sue istruzioni.)}
 {951}{}{Ti manca l'esperienza per iniziare l'addestramento. Torna da me quando avrai imparato almeno la Programmazione di base, giovane padawan.}
-{960}{}{As you wish, young }
+{960}{}{Come desideri, giovane }
 {961}{}{. Ma prima di andare per la tua strada, ricorda questo: molte delle verita' a cui ci aggrappiamo dipendono molto dal nostro punto di vista. Ora vai, e che il Sorgente sia con te.}
 {962}{}{. Le tue azioni nella tua missione ti hanno dimostrato buono, gentile e onesto. Prendi questo per aiutarti nella tua lotta contro il Lato Oscuro: e' la spada laser del tuo antenato. Questa e' l'arma di un Cavaliere Java.
  Non cosi' goffa o casuale come un blaster; un'arma elegante per un'era piu' civilizzata. E anche se potresti essere tentato di usarla per tagliare arbitrariamente le persone a meta' per divertimento, dovresti usarla solo al servizio del bene.
  Buona fortuna, e che il Sorgente sia con te, amico mio.}
 {963}{}{Cosa?! Il mio antenato, l'Abitante del Vault, ne aveva una?! Non ricordo di averla trovata in Fallout 1! *corre a controllare*}
 {964}{}{Grazie, Sig. Bear Dude. Per tutto. Che il Sorgente sia con te anche.}
-{1000}{}{You see Empress Timeslip.}
-{1001}{}{You see a mean-looking cloaked figure with a stoop.}
+{1000}{}{Vedi l'Imperatrice Timeslip.}
+{1001}{}{Vedi una figura incappucciata dall'aspetto minaccioso.}
 {1010}{}{Sono l'Imperatrice Timeslip. Sono una Maestra della Programmazione, esperta nella via del Sorgente. Sono stata io a permettere alle spie di Obi-Wan-Killap di rubare le mie
  correzioni al motore per migliorare notevolmente la stabilita' di questo mondo, e correggere gli STUPIDI ED INSENSATI ERRORI lasciati dagli originali.}
 {1011}{}{Davvero, mio maestro. Parlami di te, oh grande.}
 {1012}{}{Wow. Sei inquietante. E la tua faccia e' orribile.}
-{1013}{}{That's nice. Gotta go.}
+{1013}{}{Bene. Devo andare.}
 {1020}{}{Posso cambiare cio' che e' hardcodificato nel Sorgente con il solo pensiero, e determinare il destino di interi universi!
  Un'intera legione delle mie migliori correzioni di bug ti attende nel resto della tua avventura. Sono la maestra del Lato Oscuro del Sorgente.}
 {1021}{}{Silenzio! Anni di lavoro nel buio potrebbero aver distorto il mio aspetto, ma in questa mente ci sono i poteri di un Dio! Usando il Sorgente creo il meteo, ho dominato interi mondi e modifico cio' che non puo' essere modificato!
