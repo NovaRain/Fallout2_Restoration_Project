@@ -54,7 +54,7 @@
 {306}{}{Monkey? Must be the cat DNA talking. That's all I need to know for now.}
 {310}{}{Since you were in the army, you think you might be able to teach me anything?}
 {311}{}{Potrei insegnarti qualcosa sulle armi energetiche e altre armi pesanti. Ora devi ricordare...}
-{312}{}{[Continue.]}
+{312}{}{[Continua]}
 {313}{}{Ecco fatto. Questo dovrebbe aiutarti a far sciogliere quei mutanti che ti si mettono in mezzo.}
 {314}{}{Grazie.}
 {390}{}{You ready to take me with you?}

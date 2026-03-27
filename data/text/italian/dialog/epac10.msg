@@ -114,7 +114,7 @@
 {425}{}{Si', eccome se mi dispiace, fottuto schifoso. Ti ho scongelato solo per abbatterti come il cane malato che sei.}
 {426}{}{Lascia perdere i nomi. Che ne dici di toglierti di nuovo quei vestiti e mostrarmi di che pasta sono fatti gli uomini del pre guerra.}
 {430}{}{[Sorride e inizia a spogliarsi.] Sei il mio tipo, ragazza. Preparati a fare esperienza di Dex, il Duca del Sesso.}
-{431}{}{[Continue.]}
+{431}{}{[Continua]}
 {440}{}{[Dopo un intensa sessione d'amore sul pavimento della camera, crollate entrambi per la stanchezza. Dex
  tiene un piccolo oggetto vicino alla tua bocca.] Urla per lei, piccola. [Proprio quando capisci che e' un orecchio umano mozzato, senti una lama trapassarti il petto. Urli mentre la lama viene estratta e affondata di nuovo...]}
 {441}{}{[End.]}

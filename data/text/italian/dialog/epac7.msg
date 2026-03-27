@@ -1,4 +1,4 @@
-{100}{}{You see a Hologram.}
+{100}{}{Vedi un ologramma.}
 {101}{}{You see the Director of Public Relations.}
 {102}{}{Ologramma 40011. E' responsabile dei tour e dei comunicati stampa dell'EPA.}
 {200}{}{[Questo attraente ologramma femminile ti accoglie con un sorriso amichevole.] Salve visitatore, e benvenuto all'EPA. Come posso aiutarti? Il pranzo verra' servito in mensa a meta' giornata per tutti i dipendenti.}

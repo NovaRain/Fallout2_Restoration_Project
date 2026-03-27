@@ -259,14 +259,14 @@
 {2211}{}{Ti piace quanto sono peloso? A me si'.}
 {2212}{}{Spero ti sia piaciuto il sottomarino.}
 {2300}{}{Vedi x'il.}
-{2301}{}{He looks at you with admiration.}
+{2301}{}{Ti guarda con ammirazione.}
 {2310}{}{Ho aiutato molto con gli aspetti delle creature. Spero che tu l'abbia apprezzato!}
 {2311}{}{Bei capelli, amico. Ho contribuito a renderlo possibile.}
-{2400}{}{You see a pile of rocks.}
-{2401}{}{There is a plaque on the rocks.}
+{2400}{}{Vedi un mucchio di rocce.}
+{2401}{}{C'e' una targa sulle rocce.}
 {2410}{}{C'e' una targa sul mucchio di rocce. Recita: "Dedicato a Per Jorner. Maestro delle guide,
  Re delle lucertole, e Accumulatore di tutte le rocce.}
-{2500}{}{You see a large mass of goo.}
+{2500}{}{Vedi una grande massa gelatinosa.}
 {2501}{}{Questa massa di melma sembra formare una scritta: "Dedicato a tutti coloro i cui nomi sono stati dimenticati, ma
  che hanno comunque contribuito a rendere tutto possibile."}
 {2510}{}{}

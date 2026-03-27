@@ -1,4 +1,4 @@
-{100}{}{You see a Hologram.}
+{100}{}{Vedi un ologramma.}
 {101}{}{You see the The Director of Security.}
 {102}{}{Ologramma 10001. Supervisiona la sicurezza dell'EPA.}
 {200}{}{Alt! Non provare ad avvicinarti. Identificati, intruso.}

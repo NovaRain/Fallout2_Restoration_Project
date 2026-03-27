@@ -1,4 +1,4 @@
-{100}{}{You see a Hologram.}
+{100}{}{Vedi un ologramma.}
 {101}{}{You see the Director of Operations.}
 {102}{}{Ologramma 12001. Dirige le operazioni all'interno dell'EPA.}
 {200}{}{[Questo ologramma dall'aria viscida ti guarda con un sorriso nervoso.] Salve, benvenuto all'EPA. Avrai notato che stiamo avendo qualche piccolo problema, ma ci penseremo quando sara' il momento.}
