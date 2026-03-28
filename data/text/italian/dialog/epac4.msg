@@ -40,14 +40,14 @@
 {331}{}{Non voglio piu' avere a che fare con te.}
 {332}{}{FALLO DA SOLO!!}
 {333}{}{Adesso sono impegnato.}
-{334}{}{Come back later.}
-{335}{}{Can't you see I'm in conference?}
-{336}{}{We must destroy this place immediately!}
-{337}{}{That's absurd!}
+{334}{}{Torna piu' tardi.}
+{335}{}{Non vedi che sono in riunione?}
+{336}{}{Dobbiamo distruggere questo posto immediatamente!}
+{337}{}{E' assurdo!}
 {338}{}{Mai!}
-{339}{}{Only with destruction of the old can the new be reborn.}
-{340}{}{All in favor?}
-{341}{}{The robots must be reactivated!}
+{339}{}{Solo distruggendo il vecchio puo' rinascere il nuovo.}
+{340}{}{Tutti d'accordo?}
+{341}{}{I robot devono essere riattivati!}
 {342}{}{Warmduscher! Tutti quanti!}
 {343}{}{Le nostre difese armate hanno disperatamente bisogno di munizioni!}
 {344}{}{Se fossi io al comando, qui le cose si farebbero davvero!}
@@ -56,7 +56,7 @@
 {401}{}{Vedo che ho a che fare con un dannato Klugscheisser! Pensi che non possa pestare un Warmduscher come te? Beh, forse non posso, ma e' per questo che ci sono quei dannati robot! Ora sto perdendo la pazienza molto in fretta. Faresti meglio a spiegarti. Come faccio a sapere che non sei una spia cinese?}
 {410}{}{Sei tu quello che ha rimesso online il computer di controllo dei robot?}
 {411}{}{Proprio cosi'.}
-{412}{}{Uh... maybe.}
-{413}{}{Nope. Wasn't me.}
+{412}{}{Uh... forse.}
+{413}{}{No. Non sono stato io.}
 {420}{}{Quatsch! Sei l'unico essere in carne e ossa qui intorno, quindi so bene che sei stato tu.}
-{421}{}{Alright, fine, it was me.}
+{421}{}{D'accordo, va bene, sono stato io.}
