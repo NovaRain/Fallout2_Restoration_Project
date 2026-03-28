@@ -180,7 +180,7 @@
 {454}{}{Lead the way, skipper.}
 {460}{}{Hai gia' abbastanza gente. Non hai bisogno di un seguito.}
 {461}{}{Forse quando hai liberato un po' di spazio. Non vado d'accordo con le folle.}
-{462}{}{You ready to take me with you?}
+{462}{}{Sei pronto a portarmi con te?}
 {463}{}{Andiamo.}
 {464}{}{No, non ancora.}
 {470}{}{Gesu', sembri la Morte con la falce. Dovresti farti controllare.}

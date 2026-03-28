@@ -57,7 +57,7 @@
 {312}{}{[Continua]}
 {313}{}{Ecco fatto. Questo dovrebbe aiutarti a far sciogliere quei mutanti che ti si mettono in mezzo.}
 {314}{}{Grazie.}
-{390}{}{You ready to take me with you?}
+{390}{}{Sei pronto a portarmi con te?}
 {391}{}{Andiamo.}
 {392}{}{No, non ancora.}
 {400}{}{Ti serve qualcosa?}

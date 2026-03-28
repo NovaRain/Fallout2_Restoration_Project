@@ -4,7 +4,7 @@
 {103}{}{[FATTO]}
 {104}{}{Camere di Ibernazione. Tre individui sono stati sigillati in queste camere prima della guerra, ciascuno per motivi
  classificati. I soggetti restano sigillati e ignari dell'ambiente circostante. Sono disponibili registri per ogni soggetto.}
-{105}{}{Return to Main Menu.}
+{105}{}{Torna al Menu Principale}
 {106}{}{ATTENZIONE: Periodi prolungati in un ambiente di congelamento profondo alterano i processi chimici del corpo.
  Senza la corretta applicazione di sostanze chimiche al corpo del soggetto all'uscita dalle camere, potrebbero soffrire di ERS
  (Sindrome da Rigetto Ambientale). Per garantire la sicurezza del soggetto, si raccomanda vivamente di inserire un contenitore ERSI
@@ -15,7 +15,7 @@
 {110}{}{Retrieving test subject.}
 {111}{}{Retrieving test subject.}
 {112}{}{Thank you for using the Hibernation Control Computer.}
-{113}{}{You see a large computer.}
+{113}{}{Vedi un grande computer.}
 {114}{}{You see The Hibernation Control Computer.}
 {115}{}{Vedi un computer usato per regolare tutto cio' che riguarda le Vasche di Ibernazione.}
 {116}{}{Inserisci il contenitore ERSI nel distributore.}

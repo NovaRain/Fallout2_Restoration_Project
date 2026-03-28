@@ -1,16 +1,16 @@
-{100}{}{You see Dex.}
+{100}{}{Vedi Dex.}
 {101}{}{Vedi un uomo affascinante, impeccabilmente curato. Sotto una massa impressionante di capelli lucidi di brillantina, i suoi occhi
  brillano di intensita'... o forse di follia.}
 {200}{}{[Mentre ti avvicini alla camera criogenica, vedi un uomo nudo e attraente disteso sul pavimento. Porta
  le ginocchia al petto e le abbraccia. Rimane li' per alcuni istanti, fissando il vuoto mentre il suo corpo trema
  e i denti battono. Gradualmente, sembra calmarsi.]}
-{201}{}{Uh, hello?}
+{201}{}{Uh, ciao?}
 {210}{}{[Scatta con la testa verso di te e balza in piedi. Ti osserva intensamente, poi guarda attorno come un
  animale in trappola. Quando i suoi occhi tornano su di te, si addolciscono, e si rilassa mentre i ricordi gli tornano
  alla mente. Cambia rapidamente atteggiamento, mostrando una calma sicura nonostante sia nudo.] Non ti riconosco, amico.
  Non ti dispiace se mi vesto, vero?}
-{211}{}{I guess there's no harm-}
-{212}{}{Well, I-}
+{211}{}{Immagino non ci sia nulla di male...}
+{212}{}{Beh, io—}
 {220}{}{Certo che non ti dispiace. Grazie, amico. [Ti passa accanto e apre un armadietto vicino. Si veste con calma
  con un abito elegante, poi infila in tasca il contenuto dell'armadietto. Con un pettinino, inizia a sistemare e modellare
  i suoi capelli scuri e lucidi con la precisione rapida di un professionista.] Allora, dov'e' il dottore? }
@@ -24,7 +24,7 @@
  Ti lascio vivere solo finche' mi dici qualcosa di utile. Quindi inizia a parlare. Piu' mi dici, piu' a lungo vivi.}
 {230}{}{[La sua calma svanisce e gli occhi si infiammano di rabbia.] Pensi di poter intimidire ME? Hai la piu' vaga
  FOTTUTA idea di chi stai parlando? Vieni qui e ti faccio vedere di cosa sono capace!}
-{231}{}{[Done.]}
+{231}{}{[Fatto.]}
 {240}{}{[Dex ti sorride, mostrando una dentatura perfetta—frutto della odontoiatria prebellica, che ti appare strana
  nella sua simmetria bianco perlacea.] Il dottore, amico mio? [Alza un sopracciglio.] Non sai chi sono, vero?}
 {241}{}{Uh, non proprio. Ho vagato un po' per questa strana struttura, armeggiando qua e la', e per caso ti ho scongelato.
@@ -38,7 +38,7 @@
 {261}{}{Il Grande Silenzio e' come la mia gente chiama la fine del tuo mondo. Quando i grandi fuochi caddero dal cielo e bruciarono la terra. Scoprirai che il mondo non e' piu' nulla come quello che conoscevi.}
 {270}{}{Ma va'? Quindi hanno davvero sganciato le bombe, eh? Immagino che il progetto dei vault non fosse solo un enorme spreco
  dei soldi dei contribuenti, dopotutto.}
-{271}{}{Wait. You know of the holy vaults?}
+{271}{}{Aspetta. Conosci i sacri Vault?}
 {280}{}{Conoscerli? Diavolo, vivevo proprio accanto al vault di Chicago. Ho persino visto quando hanno finito di costruirlo.
  Poi ovviamente hanno iniziato con quelle maledette esercitazioni... [Si ferma e ti guarda divertito.] Te la stai bevendo tutta,
  vero?}
@@ -52,7 +52,7 @@
 {291}{}{Hmm, la tua conoscenza degli Antichi potrebbe essermi utile... Ma, beh, sinceramente, ho letto di te
  in quel computer laggiu', e non sono sicuro che tu sia il tipo di persona con cui vorrei viaggiare.}
 {292}{}{Non ho davvero il tempo di "farti da guida". Sono sicuro che te la caverai benissimo da solo, "amico".}
-{293}{}{I say you've got a deal... partner.}
+{293}{}{Direi che abbiamo un accordo... socio.}
 {294}{}{Non credo di avere molta voglia di andare in giro per la zona contaminata con un assassino psicotico. Quindi te la
  caverai da solo, "amico". Non preoccuparti, sono sicuro che andra' tutto bene. [Sogghigna.]}
 {300}{}{Ehi, fermati un attimo. Fammi indovinare, hai letto che ero una specie di assassino folle, giusto? Beh amico, ho due
@@ -62,7 +62,7 @@
 {310}{}{Ehi, so che non sembra avere molto senso, ma hai guardato questo posto? Qui non c'e' molto che abbia senso.
  Chissa' cosa passa nelle menti bacate di questi scienziati.}
 {311}{}{Hmm... su questo hai ragione. Non dico che ti creda... ma suppongo di poterti almeno ascoltare.}
-{312}{}{Yeah, no kidding. Go on...}
+{312}{}{Sì, davvero. Continua...}
 {320}{}{Ok, vedi, fa tutto parte dei loro "esperimenti". Quei fottuti dottori stavano facendo dei test sulla
  "natura del male umano" o qualche altra stronzata. Mi iniettavano i ricordi di un maniaco per vedere come
  avrebbero influenzato la personalita' di una persona normale. Almeno, questo e' quello che sono riuscito a capire.}
@@ -73,7 +73,7 @@
  un sacco di soldi per cavie sane. Avevo bisogno di soldi e... beh, si e' rivelato il peggior errore della mia vita.
  Non posso nemmeno iniziare a raccontarti gli orrori che mi hanno fatto. [Gli occhi gli brillano di lacrime mentre ricorda.
  Sospira profondamente e se le asciuga.] Comunque, grazie a te, amico, sono finalmente libero da quell'incubo.}
-{331}{}{Huh. Well, I'm glad I could help... I think.}
+{331}{}{Uh. Beh, sono contento di aver potuto aiutare... credo.}
 {332}{}{In realta', stronzo, il tuo incubo e' appena iniziato, perche' non credo a una sola parola di quello che hai detto.}
 {340}{}{Allora che ne dici, amico? Facciamo squadra? Non solo sembrerai piu' figo stando con me, ma so cavarmela in uno scontro.
  Diavolo, potrei anche andare da solo, ma non ho idea di che razza di follie ci siano la' fuori adesso.
@@ -96,13 +96,13 @@
 {400}{}{[Mentre ti avvicini alla camera criogenica, vedi un uomo nudo e attraente disteso sul pavimento. Porta le
  ginocchia al petto e le stringe con le braccia. Rimane li' per diversi istanti, fissando il vuoto mentre il suo corpo trema
  e i denti battono. Gradualmente, sembra calmarsi.]}
-{401}{}{Uh, hello?}
+{401}{}{Uh, ciao?}
 {410}{}{[Scatta con la testa verso di te e balza in piedi. Ti osserva con attenzione, poi si guarda intorno come un
  animale in trappola. Quando i suoi occhi tornano su di te, si addolciscono, e si rilassa mentre i ricordi tornano a fiume.
  Cambia rapidamente atteggiamento, ostentando una fredda sicurezza, nonostante la nudita'.] Ehi bambola, so di essere uno spettacolo
  niente male, ma qui dentro fa un po freddo. Ti dispiace se mi vesto?}
-{411}{}{I guess there's no harm-}
-{412}{}{Well, I-}
+{411}{}{Immagino non ci sia nulla di male...}
+{412}{}{Beh, io—}
 {420}{}{Certo che non ti dispiace. Grazie, tesoro. [Ti passa accanto, dandoti una leggera pacca sul sedere, e apre un armadietto vicino.
  Si veste con noncuranza con un completo tagliato su misura, poi infila in tasca il contenuto dell armadietto. Con un pettinino da tasca,
  inizia a sistemare e modellare i suoi capelli scuri impomatati con la rapidita' precisa di un vero professionista.] Non credo di averti
@@ -128,7 +128,7 @@
 {460}{}{Ok, da dove tiri fuori questa stronzata che sarei uno "psicopatico assassino"?}
 {461}{}{Non provare a prendermi per il culo. Ho letto di te su quel computer.}
 {462}{}{Quel computer laggiu' aveva una specie di biografia su di te, e c'erano dentro cose piuttosto terribili.}
-{463}{}{I can sense it. You give off this vibe.}
+{463}{}{Lo percepisco. Emanì questa sensazione.}
 {464}{}{Non provare a prendermi per il culo. Conosco quelli come te.}
 {470}{}{Ah, ora ha senso. Senti, non preoccuparti per quello, non e' come pensi. Ti spiego tutto tra un
  secondo. Ma prima di tutto, ti dispiace dirmi che diavolo e' successo da quando mi hanno messo sul ghiaccio? Voglio dire, questo
@@ -137,7 +137,7 @@
 {475}{}{Grande Silenzio? Gli Antichi? Perche' non risparmi queste stronzate criptiche e mi dici semplicemente cosa e' successo?}
 {476}{}{Il Grande Silenzio e' come il mio popolo chiama la fine del tuo mondo. Quando i grandi fuochi piovvero dal cielo e bruciarono la terra. Scoprirai che il mondo non e' affatto come quello che conoscevi.}
 {480}{}{Non mi dire, quindi hanno davvero sganciato le bombe, eh? Immagino che il progetto Vault non fosse solo un enorme spreco dei soldi dei contribuenti, dopotutto.}
-{481}{}{Wait. You know of the holy vaults?}
+{481}{}{Aspetta. Conosci i sacri Vault?}
 {490}{}{Conoscerle? Diavolo, vivevo proprio accanto al Vault di Chicago. Ho perfino visto finire di costruire quell'affare.
  Poi ovviamente hanno iniziato con quelle dannate esercitazioni... [Si ferma e ti guarda divertito.] Ti stai proprio bevendo
  tutto questo, vero, tesoro?}
@@ -147,7 +147,7 @@
 {493}{}{Vedi, il mio popolo mi aveva scelto per cercare un Vault. Ho rischiato la vita in diverse occasioni per
  trovare questo Sacro Vault e alla fine ci sono riuscita. Sono curiosa di sapere cos'altro sai di questi luoghi.}
 {500}{}{Ti dico una cosa, tesoro. Tu hai bisogno di aiuto per trovare questi Vault, e io ho bisogno di qualcuno che mi insegni come muovermi, per cosi' dire, in questo tuo mondo folle. Allora che ne dici... partner?}
-{501}{}{I say you've got a deal... partner.}
+{501}{}{Direi che abbiamo un accordo... socio.}
 {502}{}{Be', la tua conoscenza degli Antichi potrebbe rivelarsi molto utile per me... ma, sai, c'e' tutta quella faccenda dello psicopatico assassino...}
 {503}{}{Non credo di avere tanta voglia di andarmene in giro per le Terre Desolate con uno psicopatico assassino. Quindi sei per conto tuo,
  "tesoro". Non preoccuparti, sono sicura che te la caverai benissimo. [risatina.]}
@@ -160,7 +160,7 @@
 {515}{}{L'unica stronzata qui dentro e' quella che ti esce dalla bocca e credo sia ora di farti tacere per sempre.}
 {520}{}{Ehi, lo so che non sembra avere molto senso, ma ti sei guardata intorno? Qui dentro non c'e' molto di sensato. Chi puo' sapere cosa passa per le menti fottute di questi scienziati.}
 {521}{}{Hmm... su questo hai ragione. Non sto dicendo che ti credo... ma suppongo di poterti almeno ascoltare.}
-{522}{}{Yeah, no kidding. Go on...}
+{522}{}{Sì, davvero. Continua...}
 {530}{}{Va bene, vedi, fa tutto parte dei loro "esperimenti". Quei fottuti medici pazzi stavano facendo una specie di test
  sulla "natura del male umano" o qualche stronzata del genere. Mi iniettavano i ricordi di un maniaco, per vedere come
  avrebbe influenzato la personalita' di una persona normale. Almeno, e' la spiegazione migliore che sono riuscito a darmi.}
@@ -171,8 +171,8 @@
  un sacco di soldi per soggetti sani su cui fare test. Avevo bisogno di soldi e, be', si e' rivelato il peggior errore della mia vita.
  Non posso nemmeno iniziare a descriverti gli orrori a cui mi hanno sottoposto. [I suoi occhi si velano di lacrime mentre ripensa. Sospira
  profondamente e si asciuga le lacrime.] Comunque, grazie a te, }
-{541}{}{, I'm finally free of that nightmare.}
-{542}{}{Huh. Well, I'm glad I could help... I think.}
+{541}{}{Sono finalmente libero da quell'incubo.}
+{542}{}{Uh. Beh, sono contento di aver potuto aiutare... credo.}
 {543}{}{In realta', stronzo, il tuo incubo e' appena iniziato, perche' non credo a una sola parola di quello che hai detto.}
 {550}{}{Allora che ne dici, tesoro? Facciamo squadra? Non solo porto in dote il mio aspetto irresistibile, ma so
  cavarmela in uno scontro. Diavolo, potrei anche andare da solo, ma non ho la minima idea di che razza di follia
@@ -182,7 +182,7 @@
 {552}{}{Certo, suppongo che possiamo fare squadra. Benvenuto nel gruppo, Dex.}
 {553}{}{Era una dannata bella storia, e non sei nemmeno un cattivo attore, il che ti rende ancora piu' pericoloso. Credo che faro'
  un favore alle Terre Desolate e ti elimino prima che tu possa fare altro danno.}
-{554}{}{I say you've got a deal... partner. }
+{554}{}{Direi che abbiamo un accordo... socio.}
 {555}{}{Be', la tua conoscenza degli Antichi potrebbe rivelarsi molto utile... suppongo che abbiamo un accordo.}
 {556}{}{Non ho davvero tempo di "insegnarti come muoverti". Sono sicura che te la caverai benissimo da sola, "tesoro".}
 {560}{}{[Il sorriso di Dex vacilla e i suoi occhi si fanno assenti. Dopo un momento, inizia a parlare senza incrociare il tuo sguardo.]
@@ -200,12 +200,12 @@
 {600}{}{[Mentre ti avvicini alla camera criogenica, vedi un uomo nudo e attraente disteso sul pavimento. Porta le ginocchia
  al petto e le stringe con le braccia. Rimane li' per diversi istanti, fissando il vuoto mentre il suo corpo trema e i
  denti battono. Gradualmente, sembra calmarsi.]}
-{601}{}{Uh, hey...}
+{601}{}{Uh, ehi...}
 {610}{}{[Scatta con la testa verso di te e balza in piedi. Ti osserva con attenzione, poi si guarda intorno come un animale in trappola.
  Quando i suoi occhi tornano su di te, si addolciscono, e si rilassa mentre i ricordi tornano a fiume. Cambia rapidamente
  atteggiamento, ostentando una fredda sicurezza, nonostante la nudita'.] Non ti riconosco, amico. Non ti dispiace se mi vesto, vero?}
-{611}{}{I guess there's no harm-}
-{612}{}{Well, I-}
+{611}{}{Immagino non ci sia nulla di male...}
+{612}{}{Beh, io—}
 {620}{}{Certo che non ti dispiace. Grazie, amico. [Ti passa accanto e apre un armadietto vicino. Si veste con calma
  con un abito elegante, poi infila in tasca il contenuto dell'armadietto. Con un pettinino, inizia a sistemare e modellare
  i suoi capelli scuri e lucidi con la rapidita' di un vero professionista.] Allora, dov'e' il dottore? }
@@ -220,11 +220,11 @@
 {633}{}{Non ne ho idea, ma emani vibrazioni malvagie e approvo.}
 {640}{}{[La sua calma svanisce e gli occhi si infiammano di rabbia.] Pensi di poter intimidire ME? Hai la piu' vaga
  FOTTUTA idea di chi stai parlando? Vieni qui e ti faccio vedere di cosa sono capace!}
-{641}{}{[Done.]}
+{641}{}{[Fatto.]}
 {650}{}{[Dex ti sorride, mostrando una dentatura perfetta — frutto della odontoiatria prebellica, che ti appare strana
  nella sua simmetria bianco perlacea.] Sapevo che c'era qualcosa che mi piaceva di te. Hai buon gusto. Non e' che per caso
  sei anche un fan di The King?}
-{651}{}{Uh.... [Blank stare.]}
+{651}{}{Uh... [Sguardo vuoto.]}
 {652}{}{Oh si', adoro quel... ehm, come lo hai chiamato, The King? Si', un grande fan.}
 {660}{}{Lascia perdere, amico. [Dex si guarda di nuovo attorno e fischia.] Questo posto e' davvero andato a puttane.
  Quanto hai detto che e' passato?}
@@ -233,7 +233,7 @@
 {666}{}{Il Grande Silenzio e' come la mia gente chiama la fine del tuo mondo. Quando i grandi fuochi caddero dal cielo e bruciarono la terra. Scoprirai che il mondo non e' piu' nulla come quello che conoscevi.}
 {670}{}{Ma va'? Quindi hanno davvero sganciato le bombe, eh? Immagino che il progetto dei vault non fosse solo un enorme spreco
  dei soldi dei contribuenti, dopotutto.}
-{671}{}{Wait. You know of the vaults?}
+{671}{}{Aspetta. Conosci i Vault?}
 {680}{}{Conoscerli? Diavolo, ho ucciso la mia prima prostituta non lontano da dove stavano costruendo il Vault di Chicago.
  Bei tempi quelli... [Si ferma e ti guarda divertito.] Te la stai bevendo tutta, vero?}
 {681}{}{DIMMI DI PIU' DEI VAULT!}
@@ -250,19 +250,19 @@
  perche' mi metterei nei guai. Saro' sincero,}
 {701}{}{, non me ne frega un cazzo di nessuno o di niente, tranne che di me stesso. Se il mondo e' messo cosi' male come dici,
  allora restare con te e' la mia migliore possibilita'. E' semplice.}
-{702}{}{Fair enough. Let's go.}
+{702}{}{Va bene. Andiamo.}
 {703}{}{Ti sto solo prendendo per il culo, Dex. Non ho mai avuto davvero intenzione di portarti con me. Pensavo solo di
  divertirmi un po' con te prima di sfondarti il cranio.}
 {800}{}{[Mentre ti avvicini alla camera criogenica, vedi un uomo nudo e attraente disteso sul pavimento. Porta le ginocchia
  al petto e le stringe con le braccia. Rimane li' per diversi istanti, fissando il vuoto mentre il suo corpo trema e i
  denti battono. Gradualmente, sembra calmarsi.]}
-{801}{}{Uh, hey...}
+{801}{}{Uh, ehi...}
 {810}{}{[Scatta con la testa verso di te e balza in piedi. Ti osserva intensamente, poi guarda attorno come un animale
  in trappola. Quando i suoi occhi tornano su di te, si addolciscono e si rilassa mentre i ricordi gli tornano alla mente.
  Cambia rapidamente atteggiamento, mostrando una calma sicura nonostante sia nudo.] Ehi bambola, so di essere uno spettacolo,
  ma qui fa un po' freddo. Ti dispiace se mi vesto?}
-{811}{}{I guess there's no harm-}
-{812}{}{Well, I-}
+{811}{}{Immagino non ci sia nulla di male...}
+{812}{}{Beh, io—}
 {820}{}{Certo che non ti dispiace. Grazie, bella. [Ti passa accanto, dandoti una pacca sul sedere, e apre un armadietto vicino.
  Si veste con calma con un abito elegante, poi infila in tasca il contenuto dell'armadietto. Con un pettinino, inizia a
  sistemare e modellare i suoi capelli scuri e lucidi con la rapidita' di un vero professionista.] Non credo di averti gia'
@@ -299,7 +299,7 @@
 {856}{}{Il Grande Silenzio e' quello che il mio popolo chiama la fine del tuo mondo. Quando i grandi fuochi piovvero dal cielo e bruciarono la terra.
  Scoprirai che il mondo non e' per niente come quello che conoscevi.}
 {860}{}{Non mi dire, quindi hanno davvero sganciato le bombe, eh? Immagino che il progetto Vault non fosse solo un enorme spreco dei soldi dei contribuenti, dopotutto.}
-{861}{}{Wait. You know of the vaults?}
+{861}{}{Aspetta. Conosci i Vault?}
 {870}{}{Se li conosco? Cavolo, ho ammazzato la mia prima puttana non lontano da dove stavano costruendo il Vault di Chicago. Erano bei tempi...
  [Si ferma e ti guarda divertito.] Stai bevendo tutto questo, vero?}
 {871}{}{DIMMI DI PIU' DEI VAULT!}
@@ -312,95 +312,95 @@
 {881}{}{Diavolo, non serve nemmeno provarci. Sarei felice di averti con me solo per vedere di persona cosa sai fare.}
 {882}{}{Non so, Dex. Diciamo che ti lascio venire con me e arriviamo alla relativa sicurezza di un insediamento.
  Una volta la', come faccio a sapere che non cercherai di tagliarmi la gola alla prima occasione?}
-{883}{}{I say you've got a deal... partner.}
+{883}{}{Direi che abbiamo un accordo... socio.}
 {884}{}{Be', la tua conoscenza degli Antichi potrebbe rivelarsi molto utile... suppongo che abbiamo un accordo.}
 {885}{}{Non ho davvero tempo di "insegnarti come muoverti". Sono sicura che te la caverai benissimo da sola, "tesoro".}
 {890}{}{Posso dire che nemmeno tu sei un santo, quindi potrei farti la stessa domanda. Ma per rispondere alla tua domanda, non ti ucciderei
  perche' mi danneggerebbe. Saro' onesto, }
 {891}{}{, non me ne frega un cazzo di nessuno o di niente, tranne che di me stesso. Se il mondo e' messo cosi' male come dici,
  allora restare con te e' la mia migliore possibilita'. E' semplice.}
-{892}{}{Fair enough. Lets go.}
+{892}{}{Va bene. Andiamo.}
 {893}{}{Sto solo prendendo per il culo, Dex. Non ho mai avuto intenzione di portarti con me. Pensavo solo di divertirmi un po'
  con te prima di sfondati il cranio.}
 {900}{}{Ci arriviamo tra un secondo. Ma prima di tutto, che ne dici di aggiornarmi su cosa diavolo e' successo da quando mi hanno messo in ghiaccio.
  Voglio dire, questo posto e' andato a rotoli, e sembri uscita da qualche racconto di avventura fantascientifica.}
-{1000}{}{What's the word?}
+{1000}{}{Quali sono le novità?}
 {1001}{}{[Dex alza un sopracciglio verso di te.] Qualcosa che non va?}
-{1002}{}{Speak to me.}
+{1002}{}{Parla con me.}
 {1003}{}{[Dex sorride.] Cosa c'e', amico?}
-{1004}{}{You need something?}
-{1005}{}{What can Dex do for ya?}
-{1010}{}{What's the word?}
+{1004}{}{Ti serve qualcosa?}
+{1005}{}{Cosa può fare Dex per te?}
+{1010}{}{Quali sono le novità?}
 {1011}{}{[Dex alza un sopracciglio verso di te.] Qualcosa che non va, tesoro?}
-{1012}{}{Speak to me baby.}
+{1012}{}{Parla con me, baby.}
 {1013}{}{[Dex sorride.] Cosa c'e', bambola?}
-{1014}{}{You need something? Anything? [Dex grins.]}
-{1015}{}{What can Dex do for ya baby?}
+{1014}{}{Ti serve qualcosa? Qualsiasi cosa? [Dex sorride.]}
+{1015}{}{Cosa può fare Dex per te, baby?}
 {1100}{}{Sei pronto ad andare?}
-{1101}{}{We takin' off, or what?}
+{1101}{}{Allora, si parte o no?}
 {1102}{}{Sei pronto? Ho una voglia matta di muovermi.}
 {1103}{}{Quindi, hai capito che stai meglio con me, eh?}
-{1104}{}{We going now? I'm not in the habit of waiting around for others.}
+{1104}{}{Andiamo? Non sono abituato ad aspettare gli altri.}
 {1105}{}{Dai. Sono stato congelato per oltre centocinquanta anni. Non vedo l'ora di muovermi.}
-{1106}{}{I'm getting impatient over here.}
-{1110}{}{You ready to take me with you?}
+{1106}{}{Sto iniziando a perdere la pazienza.}
+{1110}{}{Sei pronto a portarmi con te?}
 {1111}{}{Andiamo.}
 {1112}{}{No, non ancora.}
-{1200}{}{So, what can you tell me about the Vaults?}
-{1201}{}{So, now do you remember anything you can tell me about the Vaults?}
+{1200}{}{Cosa puoi dirmi sui Vault?}
+{1201}{}{E ora, ricordi qualcosa che puoi dirmi sui Vault?}
 {1202}{}{C'e' qualcosa di utile che puoi dirmi sul tempo prima del Grande Silenzio?}
 {1210}{}{Be', vediamo... Eh. Sai cosa? La mia mente e' ancora un po' annebbiata su alcune cose. Dovrai chiedermelo piu' tardi.}
-{1211}{}{Hmm. Alright.}
+{1211}{}{Hmm. Va bene.}
 {1220}{}{I vault... i vault... No, non ancora.}
-{1221}{}{Hmm. Alright.}
+{1221}{}{Hmm. Va bene.}
 {1230}{}{Si', in realta' ricordo... Aspetta, lascia perdere, ho dimenticato.}
-{1231}{}{Hmm. Alright.}
+{1231}{}{Hmm. Va bene.}
 {1240}{}{Be', vivevo vicino al Vault di Chicago. Ti aiuta?}
-{1241}{}{Do you know if it had a G.E.C.K.?}
-{1242}{}{I'm sure it did. I'm pretty sure they all did.}
-{1243}{}{Alright, now we're on to something. Can you tell me where this Vault is located?}
+{1241}{}{Sai se aveva un G.E.C.K.?}
+{1242}{}{Sono sicuro di sì. Sono abbastanza certo che li avessero tutti.}
+{1243}{}{Bene, ora ci siamo. Puoi dirmi dove si trova questo Vault?}
 {1244}{}{Nessun problema. E' a circa 2.000 miglia in quella direzione. [Dex indica verso est.]}
-{1245}{}{Oh. Well then. Never mind.}
+{1245}{}{Oh. Beh allora… lascia perdere.}
 {1250}{}{C'era un uomo, piu' grande di qualsiasi altro, che chiamavamo "Il Re". Era un bell'uomo con uno stile impeccabile,
  capelli straordinari e una voce d'oro. Con un semplice movimento del bacino poteva ingravidare ogni donna a vista.
  Era venerato come un Dio dalla gente del mondo. Era mio padre.}
-{1251}{}{Interesting...}
+{1251}{}{Interessante...}
 {1260}{}{C'erano degli immortali che vivevano segretamente tra noi. Dovevano combattersi a morte con le spade finche'
  ne rimaneva uno solo per reclamare "Il Premio".}
 {1261}{}{Aspetta. Se erano immortali, come potevano uccidersi a vicenda?}
 {1262}{}{Potevano essere uccisi solo mediante decapitazione. Quando un immortale decapitava un altro, veniva rilasciato un risveglio
  che trasferiva i poteri dell'immortale ucciso al vincitore.}
-{1263}{}{What exactly do you mean by "powers"?}
+{1263}{}{Cosa intendi esattamente con “poteri”?}
 {1264}{}{Ehm, poteri di combattimento? Poteri meccanici? Non lo so, era un po' vago.}
-{1265}{}{Interesting...}
+{1265}{}{Interessante...}
 {1270}{}{C'erano queste lucertole giganti, alcune piu' grandi degli edifici, su cui la gente ci girava in giro. Le chiamavamo
  dinosauri, ed erano conosciuti come il migliore amico dell'uomo.}
-{1271}{}{Wow, did you have one?}
+{1271}{}{Wow, ne avevi uno?}
 {1272}{}{Certo. Ho cavalcato un T-rex, la piu' figa di tutte le lucertole giganti. Solo che la mia era ancora piu' figa perche' aveva le ali. Praticamente, era un drago.}
-{1273}{}{Interesting...}
+{1273}{}{Interessante...}
 {1280}{}{Nell'anno 2011, ebbe luogo il Risveglio, e creature magiche a lungo dormienti, come Orchi, Elfi, Troll e
  Nani tornarono nel mondo, insieme alla magia. La magia e la tecnologia si scontrarono poi in un oscuro mondo di guerra aziendale,
  combattuta nelle ombre delle sconfinate metropoli.}
-{1281}{}{Wow, what happened to the magical creatures?}
+{1281}{}{Wow, che fine hanno fatto le creature magiche?}
 {1282}{}{Immagino che siano stati eliminati quando caddero le bombe. Tranne che sembra che ci siano ancora alcuni Nani, Troll
  e Zombi in giro.}
-{1283}{}{Interesting...}
+{1283}{}{Interessante...}
 {1290}{}{C'era questa gigantesca lucertola verde chiamata Godzilla. Godzilla si alternava tra il terrorizzare il Giappone
  e salvarne le chiappe dagli invasori spaziali giganti. C'era un'altra lucertola gigantesca e violenta chiamata Tarrasque. Credo fossero cugini o qualcosa del genere.}
-{1291}{}{Wow, what happened to them?}
+{1291}{}{Wow, che fine hanno fatto?}
 {1292}{}{Godzilla e' stato eliminato da Ferris Bueller. Quanto al Tarrasque, avevamo un robot gigante che lo combatteva. Il robot,
  pilotato dal sottoscritto, ha colpito il Tarrasque cosi' forte che si e' spezzato in migliaia di piccoli Tarrasque che
  si sono dispersi per tutta la California.}
-{1293}{}{Interesting...}
+{1293}{}{Interessante...}
 {1300}{}{La terra era piena di donne attraenti, e detenevo il record mondiale per il numero di partner sessuali che ho avuto.}
 {1301}{}{Capisco. Sai, Dex, alcune di queste cose che mi stai raccontando sono un po'... esagerate. Ho questa strana sensazione
  che non sia tutto vero.}
 {1302}{}{Ehi, eri VIVO tu a quei tempi? No, non lo eri. Allora chi e' l'esperto del pre-guerra qui? Fidati, e' tutto vero.
  Ma ehi, se non mi credi, ho finito di raccontarti storie per ora.}
 {1303}{}{Eh. Peccato, perche' sono state cosi' utili finora.}
-{1400}{}{Just tell me where you want me.}
-{1401}{}{Just tell me where you want me, babe.}
-{1402}{}{No problem. I wouldn't want to make you nervous. [Dex grins.]}
+{1400}{}{Dimmi solo dove mi vuoi.}
+{1401}{}{Dimmi solo dove mi vuoi, bellezza.}
+{1402}{}{Nessun problema. Non voglio metterti a disagio. [Dex sorride.]}
 {1403}{}{Certo. Se pensi di dovermi tenere d'occhio, per me va bene.}
 {1404}{}{Certo. Capisco che e' difficile concentrarsi quando sono troppo vicino. [Dex sorride.]}
 {1405}{}{[Dex alza un sopracciglio verso di te e ti fa l'occhiolino.]}
@@ -415,12 +415,12 @@
 {1702}{}{Be', mio zio era uno di quei militari duri. Mi ha addestrato con pistole e mitra, e ho anche potuto giocare
  con alcuni prototipi di armi energetiche su cui stavano lavorando. Pensava che avrei seguito le sue orme e sarei diventato un
  burattino dello Zio Sam, ma io, ehm... Diciamo solo che ho preso una strada diversa.}
-{1703}{}{That sounds alright. Anything else?}
+{1703}{}{Sembra a posto. Altro?}
 {1704}{}{Sono noto per prendere a pugni qualche culo con il buon vecchio pugilato. Da adolescente, ho provato il Karate per
  un po', ma continuavano a riempirmi di tutta quella roba sull'essere piu' disciplinato, cosi' gli ho detto di andare a fanculo. Cos'altro hai bisogno di sapere?}
-{1705}{}{That should cover it. Thanks.}
+{1705}{}{Direi che è tutto. Grazie.}
 {1800}{}{Sono pronto all'azione.}
-{1801}{}{I've been better, but I can handle it.}
+{1801}{}{Ho passato giorni migliori, ma posso farcela.}
 {1802}{}{I'm not feeling very good.}
 {1803}{}{I think I hear the King calling. I can see the light...}
 {1900}{}{Nessun problema. Ma ti sentirai molto meno figo senza di me in giro. Lo dico solo...}
