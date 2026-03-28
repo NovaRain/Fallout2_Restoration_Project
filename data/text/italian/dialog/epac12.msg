@@ -1,9 +1,9 @@
-{100}{}{You see a specimen from the Storage Tanks.}
-{101}{}{You see Kitsune.}
+{100}{}{Vedi un esemplare proveniente dai Serbatoi di Stoccaggio.}
+{101}{}{Vedi Kitsune.}
 {102}{}{I suoi occhi sono di colori diversi. Uno di loro marrone come malmbrick, l'altro verde brillante.}
-{103}{}{You see a slender, dark-haired woman who looks difficult to predict.}
+{103}{}{Vedi una donna snella dai capelli scuri dall'aspetto imprevedibile.}
 {104}{}{Ha un viso delicato e occhi ammalianti.}
-{150}{}{It's not nice to stare.}
+{150}{}{Non e' carino fissare la gente.}
 {200}{}{Davanti a te c'e' un serbatoio aperto con acqua gelida che viene lentamente drenata attraverso un lungo tubo serpentino. Dentro, una
  donna, nuda dalla testa ai piedi, giace ansimante e tremante. Guardandoti rapidamente intorno, prendi un fascio di vestiti larghi
  da un armadietto vicino e li drapi su di lei per scaldarla.}
@@ -12,30 +12,30 @@
 {203}{}{Non tutta, a quanto pare. }
 {204}{}{[Le dai un po' di tempo perche' i denti smettano di battere. Si riprende molto piu' in fretta di quanto ti aspettassi
  e ti guarda con improvvisa seriosita'.] E'... finita?}
-{205}{}{Is what over? }
-{206}{}{You mean the War?}
-{207}{}{The War. All those nukes.}
-{208}{}{The War, yes.}
+{205}{}{Cosa e' finita? }
+{206}{}{Intendi la Guerra?}
+{207}{}{La Guerra. Tutte quelle bombe nucleari.}
+{208}{}{La Guerra, si'.}
 {209}{}{Quella guerra e' finita molto tempo fa. E' finita quasi appena e' iniziata.}
 {210}{}{[Si sposta ciocche di capelli bagnati dagli occhi. Noti che un occhio e' marrone mentre l'altro e' verde smeraldo.] Chi ha vinto?}
-{211}{}{No one.}
+{211}{}{Nessuno.}
 {212}{}{[Ti guarda con aria assente. E' molto piacevole alla vista, specialmente per qualcuno che e' stato appena scongelato da un blocco di ghiaccio.]}
 {213}{}{Quando il 90% del mondo e' carbonizzato fino a diventare marrone croccante, direi che e' difficile dichiarare un chiaro vincitore.
  Voglio dire, non rimaneva molto che valesse la pena di vincere.}
 {214}{}{Che... che data e'? Che anno? E' ancora il 2077?}
 {215}{}{Cavolo, no. [Le mostri la data sul calendario del tuo Pip-Boy.]}
 {216}{}{[Fissa lo schermo tremolante, congelata nel tempo come se non avesse mai lasciato il serbatoio.]}
-{217}{}{Are you alright?}
+{217}{}{Stai bene?}
 {218}{}{Dio mio. Non ci credo. Ero in quella cosa per oltre un secolo?!}
 {219}{}{Sembra di si'. Ehi, senti, non guardarmi cosi'. Non c'entro niente con il fatto di averti messa la' dentro. Accidenti,
  mio nonno non era nemmeno vivo a quei tempi. Mi sono imbattuto per caso in questo posto e ho deciso di darci un'occhiata.}
 {220}{}{Be', mi aiuti ad alzarmi, o preferiresti che continuassi a stare nuda ai tuoi piedi?}
 {221}{}{Stavo per farlo. [La aiuti ad alzarsi in piedi.]}
-{222}{}{Why did you wake me?}
-{223}{}{No particular reason.}
+{222}{}{Perche' mi hai svegliato?}
+{223}{}{Nessun motivo particolare.}
 {224}{}{Ho questa terribile abitudine di toccare tutto quello che incontro. Una cosa ha portato all'altra.}
-{225}{}{You say you don't even work in this place?}
-{226}{}{That's what I said.}
+{225}{}{Dici che non lavori nemmeno in questo posto?}
+{226}{}{E' quello che ho detto.}
 {227}{}{Allora se non fossi arrivato, sarei rimasta bloccata in quella cosa ancora piu' a lungo. Forse per sempre.
  (Si infila una delle magliette in cui l'avevi avvolta.) Com'e' adesso, il mondo la' fuori?
  Hai detto che il 90% e' stato distrutto?}
@@ -156,9 +156,9 @@
 {410}{}{Che cosa vuoi sapere?}
 {411}{}{Ho la cintura nera in sanshou. Posso accoltellare un uomo a morte se la situazione lo richiede. Con pistole, fucili e simili me la cavo discretamente.}
 {420}{}{Dobbiamo discutere della distanza tra noi due.}
-{421}{}{What's wrong with it?}
+{421}{}{Cosa c'e' che non va?}
 {422}{}{Stammi vicino.}
-{423}{}{Alright. I have your back.}
+{423}{}{D'accordo. Ti copro le spalle.}
 {424}{}{Non allontanarti troppo.}
 {425}{}{You need your space, got it.}
 {426}{}{Let's spread out.}

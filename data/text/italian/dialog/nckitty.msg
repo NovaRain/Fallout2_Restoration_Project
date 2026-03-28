@@ -186,7 +186,7 @@
 {704}{}{*Whew*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
 {706}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
-{707}{}{I hope you took notes.}
+{707}{}{Spero che tu abbia preso appunti.}
 {708}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
 {709}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}

@@ -507,8 +507,8 @@
  puoi immaginare il resto, e la gola mi si e' seccata dal parlare. Accidenti, speravo di evitarlo.}
 {3042}{}{Grazie per la storia.}
 {3100}{}{Hai qualche consiglio da darmi?}
-{3101}{}{Tips? What kind of tips?}
-{3102}{}{Well, I'm sure you've got some skill.}
+{3101}{}{Consigli? Che tipo di consigli?}
+{3102}{}{Beh, sono sicuro che te la cavi bene.}
 {3103}{}{Oh, ho *tutti i tipi* di abilita'. Ma se stai cercando consigli... [Ti guarda, poi annuisce.] Va bene,
  che diavolo. Ti daro' qualche dritta che fara' strisciare le signore ai tuoi piedi. Ora, la prima cosa che devi fare e'...}
 {3104}{}{Vuoi vedere le mie abilita'? Te le mostro in qualsiasi momento, tesoro. Ma se stai cercando consigli...
@@ -516,12 +516,12 @@
  Ora, la prima cosa che devi fare e'...}
 {3105}{}{Ecco fatto. Ora non andare a raccontare ad altri questi segreti del mestiere.}
 {3106}{}{Grazie.}
-{4000}{}{Man do I love the post-nuclear future.}
-{4001}{}{Come on. Let's have some violence.}
+{4000}{}{Mamma mia, quanto adoro il futuro post?nucleare.}
+{4001}{}{Dai, diamoci dentro con un po' di violenza.}
 {4002}{}{Troviamo altre giovani signore da, ehm, ammirare.}
 {4003}{}{Andiamo a cercare altra conoscenza carnale.}
 {4004}{}{Hai mai steso una ragazza su un letto e l'hai aperta? Te lo dico io, bellezza assoluta.}
-{4005}{}{I really need to cut something soon...}
+{4005}{}{Ho davvero bisogno di tagliare qualcosa, presto...}
 {4006}{}{Penseresti che un cadavere sia terribile a letto, ma ti sorprenderesti.}
 {4007}{}{[cantando] Ho messo un'ascia in testa alla mia baby, finiro' in prigione... stava cosi' bene in rosso...[cantando]}
 {4008}{}{[cantando] perche' sono il maaaleeeee, il mio secondo nome e', miseriaaa...[cantando]}
@@ -529,30 +529,30 @@
 {4010}{}{Allora... dove pensi che tengano il gel per capelli nelle Lande?}
 {4011}{}{So che suona un po' schifoso, ma non sputare sulle ovaie fritte finche' non le hai provate.}
 {4012}{}{[Tira fuori il pettine tascabile e si sistema i capelli.]}
-{4020}{}{Hey! I'm fuckin' bleeding over here.}
-{4021}{}{Oh man, I'm not doing too well.}
-{4022}{}{Get me to a fucking doctor.}
-{4023}{}{You gonna just stand there and watch me bleed to death or are you going to do something about this?}
-{4030}{}{I'm feeling a little weird over here...}
+{4020}{}{Ehi! Sto sanguinando come un dannato!}
+{4021}{}{Oh cavolo, non sto affatto bene.}
+{4022}{}{Portatemi da un dannato dottore!}
+{4023}{}{Stai lì a guardarmi morire dissanguato o hai intenzione di fare qualcosa?}
+{4030}{}{Mi sento un po' strano...}
 {4031}{}{Ehi, mi sento un po' irradiato. Se non e' il tipo che concede superpoteri, allora saro' una furia.}
-{4040}{}{You know, you're a bad influence.}
+{4040}{}{Sai, sei davvero una cattiva influenza.}
 {4041}{}{Cerco di stare lontano da questa roba. Ma se insisti...}
 {4042}{}{Il mio corpo e' un tempio, ma immagino che per una volta non fara' male.}
-{4043}{}{If this does any permanent damage, I'm going to cut you.}
-{4045}{}{I feel much better now.}
-{4046}{}{Much better.}
-{4050}{}{Hey! Watch the hair.}
-{4051}{}{Hey, you don't rush perfection.}
+{4043}{}{Se questo mi lascia danni permanenti, ti faccio a pezzi.}
+{4045}{}{Ora mi sento molto meglio.}
+{4046}{}{Molto meglio.}
+{4050}{}{Ehi! Attento ai capelli.}
+{4051}{}{Ehi, la perfezione non si affretta.}
 {4060}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
-{4061}{}{I hope you took notes.}
+{4061}{}{Spero che tu abbia preso appunti.}
 {4062}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
 {4063}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
-{4070}{}{I feel nauseated. I think I'm poisoned.}
-{4071}{}{I feel like I'm gonna puke my guts out.}
-{4080}{}{I can't move this limb. I need medical attention.}
-{4081}{}{I think I lost feeling in this limb. Is that bad?}
+{4070}{}{Mi sento nauseato. Credo di essere avvelenato.}
+{4071}{}{Ho voglia di vomitare le budella.}
+{4080}{}{Non riesco a muovere questo arto. Ho bisogno di cure mediche.}
+{4081}{}{Credo di aver perso la sensibilita' in questo arto. E' grave?}
 {4090}{}{E' diventato tutto molto sfocato. Dove sono andati tutti?}
-{4091}{}{I think blood is coming out of my eyes.}
+{4091}{}{Credo che mi stia uscendo sangue dagli occhi.}
 {4100}{}{Allora, tatuaggi in faccia, eh? Immagino che se fossi brutto come naso-d'osso qui, vorrei coprirlo anch'io.}
 {4101}{}{Ehi, tatuaggi-in-faccia. Sei il tipo cannibale? Forse potremmo scambiarci delle ricette o qualcosa del genere.}
 {4102}{}{Ho la sensazione che il tuo amico Sulik qui non mi vada a genio piu' di tanto. Hai mai pensato di venderlo per qualche soldo?}
@@ -572,22 +572,22 @@
  bacerei la canna di un fucile e la finirei li'.}
 {4150}{}{Diciamo che molliamo il cadavere ambulante.}
 {4151}{}{Va bene, questa barzelletta di portarsi dietro Lenny e' andata avanti un po' troppo ora, non credi?}
-{4152}{}{How the hell am I supposed to pick up the ladies with Lenny hanging around?}
+{4152}{}{Come diavolo dovrei rimorchiare le ragazze con Lenny sempre tra i piedi?}
 {4160}{}{Allora, ehm, Marcus, quando torni ad essere il tranquillo fisico dai modi gentili?}
-{4161}{}{Hey Marcus, don't you have some kind of town you're supposed to be running?}
+{4161}{}{Ehi Marcus, non dovresti essere da qualche parte a governare una citta'?}
 {4170}{}{Tieni duro Myron, sono sicuro che prima o poi ti cadranno le palle.}
 {4171}{}{Il nerdetto mi sta un po' rovinando lo stile.}
 {4172}{}{Myron e' come un brufolo gigante, che aspetta solo di essere schiacciato.}
 {4180}{}{Almeno Goris ha il buon senso di coprirsi.}
 {4181}{}{Ottimo lavoro mimetizzarti, Goris. Sembri proprio un tipico mostro gobbo.}
-{4200}{}{I'm curious to see what these tribal women are like.}
+{4200}{}{Sono curioso di vedere come sono le donne tribali.}
 {4210}{}{Puttane... puttane ovunque. Adoro questo posto del cazzo.}
-{4220}{}{This place is just begging for some chaos.}
-{4230}{}{There's too many cops here. I say we bail.}
-{4240}{}{Great, more freaks. We better not stay here longer than we have to.}
+{4220}{}{Questo posto sembra proprio voler un po' di caos.}
+{4230}{}{Ci sono troppi sbirri qui. Dico che ce la filiamo.}
+{4240}{}{(Fantastico, altri problemi.)}
 {4250}{}{Stiamo perdendo tempo qui. Le ragazze zombie non fanno per me. Di solito non mi piace che le ragazze sembrino morte fino a DOPO che ho finito con loro.}
 {4260}{}{Perche' diavolo stiamo perdendo il nostro tempo qui? Sul serio?}
-{4270}{}{I don't think I want to willingly spend any more of my time in this facility.}
+{4270}{}{Non penso di voler passare altro tempo in questa struttura di mia spontanea volonta'.}
 {5000}{}{[Scatta la testa verso di te e balza in piedi. Mentre ti guarda, i suoi occhi si spalancano improvvisamente e inizia ad ansimare per l'aria.]}
 {5001}{}{[FINE]}
 {5002}{}{Oh, merda!}
