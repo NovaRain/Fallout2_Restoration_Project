@@ -421,43 +421,43 @@
 {1705}{}{Direi che è tutto. Grazie.}
 {1800}{}{Sono pronto all'azione.}
 {1801}{}{Ho passato giorni migliori, ma posso farcela.}
-{1802}{}{I'm not feeling very good.}
-{1803}{}{I think I hear the King calling. I can see the light...}
+{1802}{}{Non mi sento molto bene.}
+{1803}{}{Credo che il Re mi stia chiamando. Vedo la luce...}
 {1900}{}{Nessun problema. Ma ti sentirai molto meno figo senza di me in giro. Lo dico solo...}
-{1901}{}{Sure. I'll catch ya later.}
+{1901}{}{Certo. Ci vediamo dopo.}
 {1902}{}{Certo, aspetto. Ma se non torni, iniziero' a cercarti, e non sara' piacevole
  quando ti trovero'.}
 {1903}{}{Va bene, purche' tu non mi stia mollando per fare posto a qualche altro idiota. Perche' ti prometto che sono
  migliore di loro in ogni modo immaginabile.}
 {1904}{}{Nessun problema.}
-{1905}{}{No problem, babe.}
+{1905}{}{Nessun problema, baby.}
 {1906}{}{Va bene, purche' tu non mi stia mollando per fare posto a qualche altro idiota. Perche' ti prometto che sono
  migliore di loro in ogni modo immaginabile.}
 {1907}{}{Ti sto facendo venire troppo caldo, eh? Capisco.}
-{2000}{}{Alright, what about it?}
+{2000}{}{D'accordo, di che si tratta?}
 {2001}{}{Senti, so che sono stato in ghiaccio per molto tempo, ma fidati, tutto e' in PERFETTO stato di funzionamento. Se vuoi,
  te lo dimostro qui, adesso. [Dex si ferma quando ti vede fissarlo] Oh, capisco, il mio *altro* equipaggiamento. Cosa vuoi sapere?}
 {2010}{}{E' un po' affollato. Fammi sapere se si libera qualcosa.}
 {2020}{}{Non mi sogno nemmeno di viaggiare con te. Sei brutto da far schifo.}
-{2030}{}{Let's roll.}
-{2031}{}{About time we got goin' again.}
-{3000}{}{So, what's your story?}
+{2030}{}{Andiamo.}
+{2031}{}{Era ora di rimetterci in marcia.}
+{3000}{}{Allora, qual è la tua storia?}
 {3001}{}{Cosa, tipo la storia della mia vita? Senti, so di essere piuttosto affascinante, ma non voglio stare qui a parlare per sempre.
  La bocca mi si secchera' tutta e non c'e' molta acqua in giro - non e' proprio una bella situazione.
  Ma suppongo di potertela riassumere se vuoi davvero sapere... In realta' MI piace parlare di me stesso quindi lascio
  a te la scelta. Vuoi il riassunto rapido o la versione piu' dettagliata?}
-{3002}{}{Just give me the quick summary.}
-{3003}{}{Lets hear the detailed version.}
-{3004}{}{Never mind, I lost interest.}
+{3002}{}{Dammi un riassunto veloce.}
+{3003}{}{Sentiamo la versione dettagliata.}
+{3004}{}{Lascia stare, ho perso interesse.}
 {3010}{}{Va bene, fondamentalmente, da quando ero bambino mi piaceva uccidere le cose. Potrei parlare della mia infanzia e dei miei
  genitori di merda e cercare di analizzare perche' mi piace farlo, ma non ho bisogno di scuse. Lo faccio semplicemente perche' posso, e
  e' divertente. A sedici anni passavo le giornate come un popolare idolo del liceo, e le notti come uno squartatore delle
  giovani lavoratrici di Chicago.}
-{3011}{}{Uh huh. Go on.}
+{3011}{}{Uh huh. Continua.}
 {3012}{}{Poi un giorno ho beccato la mia ragazza a fare la bestia a due schiene con un altro. Li ho fatti a pezzi, ho dato fuoco
  al posto, poi me la sono filata da Chicago. Ho passato i dieci anni successivi a girare il paese, sedurre ragazze
  e poi farle a pezzi. Poi alla fine mi hanno beccato, e il mio processo mi ha reso una celebrità.}
-{3013}{}{So, then what?}
+{3013}{}{E poi cosa è successo?}
 {3014}{}{Poi una delle mie nuove fan, Alice, mi aiuta a scappare. Noi due ci lanciamo in tre settimane di massacri attraverso il paese
  prima di cadere infine in una sparatoria. Poi, per qualche ragione, Il Sistema decide di ricucirmi e sottopormi a tutti
  questi test. Ed e' cosi' che sono finito all'EPA dove mi hai trovato.}
@@ -466,12 +466,12 @@
  nonno era a posto per essere un vecchio. Mi ha introdotto alla musica del Re. Purtroppo, e' stato colpito dalla Nuova Peste
  quando avevo sette anni. Poi quando ne avevo dieci, ho guardato dall'armadio mentre mio padre picchiava mia madre a morte per aver dimenticato di dare da mangiare
  al nostro cane, Capitan Robeenie.}
-{3021}{}{This is off to a pleasant start. Go on.}
+{3021}{}{Ottimo inizio. Continua pure.}
 {3022}{}{La str*** avrebbe dovuto ricordarsi di dar da mangiare al Capitano. Continua.}
 {3023}{}{Cosi' hanno messo via mio padre e mi hanno spedito a vivere con mia zia e mio zio. Vedi, ero un piccolo diavolo,
  anche allora, e mio zio, essendo un tipo militare, pensava di riuscire a raddrizzarmi - trasformarmi in un
  soldatino ammazza-Rossi, proprio come il figlio che aveva perso. Ci ha provato con tutte le sue forze, ma ero un bastardo testardo.}
-{3024}{}{Uh huh. Go on.}
+{3024}{}{Uh huh. Continua.}
 {3025}{}{Comunque, ci siamo spostati molto e non e' stato fino al liceo che ci siamo finalmente stabiliti
  a Chicago. E' allora che ho preso l'abitudine di sgattaiolare fuori di notte e accoltellare le puttane. Avevo ucciso cose per tutto il tempo che
  potevo ricordare, ma sventrare le bestiole del quartiere non si paragonava alla cosa vera, capisci?}
@@ -480,33 +480,33 @@
  il Signor Popolare. Ogni ragazzo voleva essere mio amico e ogni ragazza che guardavo era disposta ad aprirsi per me. Tranne questa
  ragazza, Vicky. Lei richiedeva davvero un po' di lavoro. Sorprendente, lo so, ma alla fine l'ho convinta a cedermi e a diventare la mia ragazza.}
 {3028}{}{E nel frattempo facevi il serial killer come secondo lavoro?}
-{3029}{}{I don't really care about your high school sweetheart. Forget the story.}
+{3029}{}{Non mi interessa della tua fidanzatina del liceo. Lascia perdere la storia.}
 {3030}{}{Si'. [Dex sorride.] Erano bei tempi. Ero davvero felice, sai? Dopo che ci siamo diplomati, Vicky ed io ci siamo presi
  un nostro posticino insieme, e andava tutto alla grande. Ma quella str*** ha dovuto andare a rovinare tutto tradendomi alle spalle.}
-{3031}{}{How dare she.}
+{3031}{}{Come ha osato.}
 {3032}{}{L'ho beccata sul fatto, e ho perso la testa. Le cose si sono fatte davvero brutali. Era stato un lavoro sloppy e non avrei mai potuto
  semplicemente coprirlo. Cosi' ho dato fuoco al posto e sono andato via. Ho viaggiato molto, ho fatto molte ragazze e
  ne ho lasciate la maggior parte morte. Non era una brutta vita, sai? Ci hanno messo dieci anni, ma la legge mi ha finalmente raggiunto.}
-{3033}{}{Uh-oh. So then what?}
+{3033}{}{Uh-oh. E poi cosa è successo?}
 {3034}{}{Poi mi hanno processato ed e' diventato un piccolo circo mediatico. Le ragazze adoravano perche' sono un gran bel tipo,
  e tutti gli altri adoravano perche' era una distrazione dalle notizie sulla Nuova Peste e dalla politica. Cosi' ho pensato di
  dargli un vero spettacolo.}
-{3035}{}{What'd you do?}
+{3035}{}{Cosa hai fatto?}
 {3036}{}{Be' a quel punto avevo fatto un sacco di fan, ma ce n'era una in particolare, una vera bambola di nome Alice. Diceva
  che mi amava e avrebbe fatto qualsiasi cosa per me. Cosi' durante il mio processo, mi ha aiutato a farla franca. Era una scommessa azzardata,
  ma siamo stati abbastanza fortunati da riuscirci. Poi le cose sono diventate folli... Sei sicuro di non aver mai sentito nulla di tutto questo?}
-{3037}{}{I'm sure, but go on.}
+{3037}{}{Sì sì, continua pure.}
 {3038}{}{Non ne ho mai sentito parlare, e ora non voglio piu' sentirne. Lascia perdere, mi sto annoiando.}
 {3039}{}{Be' ora che ero con Alice, era un po' difficile tornare ai miei vecchi modi di sedurre le donne e sventrarle.
  Invece, abbiamo iniziato a uccidere per il brivido chiunque fosse a portata di mano. Non importava quanto giovane o vecchio, eravamo
  assassini senza discriminazioni. Ma uccidendo cosi' imprudentemente, eravamo facili da tracciare. In tre settimane ci avevano
  in un angolo. Mi hanno abbattuto e Alice si e' fatta saltare le cervella.}
-{3040}{}{I see. Then what?}
+{3040}{}{Capisco. E poi?}
 {3041}{}{Cosi' ero li', certo di stare per morire, ma poi questi agenti governativi sono intervenuti e mi hanno portato via. Mi hanno rimesso
  al cento percento, poi hanno iniziato a farmi questi test, cercando di capire cosa mi rende cosi' com'e'... Comunque,
  puoi immaginare il resto, e la gola mi si e' seccata dal parlare. Accidenti, speravo di evitarlo.}
 {3042}{}{Grazie per la storia.}
-{3100}{}{Any tips you might be able to give me?}
+{3100}{}{Hai qualche consiglio da darmi?}
 {3101}{}{Tips? What kind of tips?}
 {3102}{}{Well, I'm sure you've got some skill.}
 {3103}{}{Oh, ho *tutti i tipi* di abilita'. Ma se stai cercando consigli... [Ti guarda, poi annuisce.] Va bene,
