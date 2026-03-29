@@ -45,7 +45,7 @@
 {230}{}{Per lo piu' qui. L'EPA era stata progettata e fornita con ogni tipo di macchinario e, da quando gli altri scienziati se ne sono andati, non e' stato usato piu' nulla. Ora, dopo tanti anni, sto solo esaurendo alcune cose...}
 {231}{}{Non importa. Devo andare adesso.}
 {240}{}{Droghe? Decine! Negli anni ho creato mentats, buffout, stimpak, kit medici di varie potenze, psycho e molte altre cose che non capiresti. Non lo faccio piu', comunque. Ho creato il robot Mr. Chemmie! per farlo al posto mio. Si trova nel complesso principale. Se hai davvero l'intelligenza e le capacita' scientifiche che dici, sentiti libero di usarlo per creare tutte le droghe che vuoi.}
-{241}{}{What special drugs have you created?}
+{241}{}{Che tipo di droghe speciali hai creato?}
 {242}{}{Where can I find Mr. Chemmie!?}
 {243}{}{Thanks. Say, have you ever heard of Jet?}
 {250}{}{Si', ho creato molte creature mentre ero all'EPA. Se sei un tipo che esplora, potresti averne incontrate alcune nelle Lande. Centauri? Flotter? Gli \"Alieni\"? Ora vagano liberamente nelle Lande. Ne ho tenute solo alcune qui e nella base principale per riferimento futuro.}
