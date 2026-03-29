@@ -1,49 +1,49 @@
-{100}{}{That's it... I think.}
+{100}{}{E' tutto... credo.}
 {101}{}{No, ma non puo'... io, beh... hmmm...}
 {102}{}{Il filo blu all'alloggiamento rosso...}
-{103}{}{Those mutations are progressing nicely.}
-{104}{}{It won't be long now.}
-{105}{}{Just a few more drops of HCl...}
-{106}{}{You see a man in a white lab coat.}
-{107}{}{You see The Doctor.}
+{103}{}{Quelle mutazioni stanno progredendo bene.}
+{104}{}{Non manca molto adesso.}
+{105}{}{Solo qualche altra goccia di HCl...}
+{106}{}{Vedi un uomo con un camice da laboratorio bianco.}
+{107}{}{Vedi il Dottore.}
 {108}{}{Il principale — e unico — dottore rimasto nell'EPA.}
-{109}{}{It would be unwise to attack me.}
+{109}{}{Sarebbe poco saggio attaccarmi.}
 {120}{}{Si'?}
-{121}{}{Hi, my name is }
-{122}{}{. Who are you?}
-{123}{}{Sorry to bother you. Goodbye.}
-{130}{}{I'm known as the Doctor.}
+{121}{}{Salve, mi chiamo }
+{122}{}{. Chi sei?}
+{123}{}{Mi dispiace disturbarla. Arrivederci.}
+{130}{}{Sono conosciuto come il Dottore.}
 {131}{}{Ah, giusto. Quindi cosa fai? Perche' sei qui tutto solo? Il resto del posto sembra deserto.}
-{132}{}{OK, thanks.}
+{132}{}{Ok, grazie.}
 {140}{}{Vedo che hai abilita' adeguate nelle vie della scienza. Forse potresti capire cosa faccio qui, dopotutto. Cosa desideri sapere?}
-{141}{}{Why are you here?}
+{141}{}{Perche' sei qui?}
 {142}{}{Di che cosa ti occupi?}
 {150}{}{Mi dispiace, ma non credo tu abbia le competenze necessarie per capire cosa sto facendo qui. Torna quando sarai mentalmente piu' forte.}
 {151}{}{Ehi, un momento. Provero' qualsiasi cosa tu mi dia!}
-{152}{}{Well, all right then. Goodbye.}
+{152}{}{Bene, d'accordo allora. Arrivederci.}
 {160}{}{Facevo parte del team originale di scienziati che lavorava qui nell'EPA prima della guerra. Sfortunatamente, nessuno di loro era abbastanza competente nelle discipline scientifiche o possedeva sufficiente determinazione, e hanno dovuto andarsene. Ora, sono l'unico rimasto.}
 {161}{}{Quindi, sei felice di questo? Voglio dire, di essere l'unico qui?}
 {170}{}{Qualsiasi cosa io voglia, davvero. Al momento sto conducendo ulteriori ricerche genetiche su creature che ho creato per osservare gli effetti dell'FEV sui loro sistemi immunitari. Anni fa ho creato molti nuovi farmaci e ne ho adattati diversi altri, ma non lo faccio piu'.}
-{171}{}{What's that about creatures you've created?}
-{172}{}{What types of drugs have you made?}
+{171}{}{Cosa sono quelle creature che hai creato?}
+{172}{}{Che tipo di droghe hai prodotto?}
 {180}{}{No, non puoi. Non sei abbastanza competente nelle vie della scienza e dei potenziamenti biologici. Ora, se vuoi scusarmi, mi stai facendo perdere tempo.}
 {181}{}{Assolutamente no. Mettimi alla prova.}
 {190}{}{<sorride> Beh, forse e' cosi'. Va bene, se vuoi, ti daro' una possibilita'. Cosa vorresti sapere allora?}
-{191}{}{Why are you here?}
+{191}{}{Perche' sei qui?}
 {192}{}{Di che cosa ti occupi?}
 {200}{}{Ma certo! Nessuno che mi controlla. Nessuna regola di alcun tipo. Faccio quello che voglio, quando voglio. Inoltre, essendo rimasto solo io qui, ho accesso a tutta l'attrezzatura di cui potrei mai avere bisogno. Altro?}
-{201}{}{Who are the people over there in those cages?}
+{201}{}{Chi sono quelle persone laggiù nelle gabbie?}
 {202}{}{Che cos'e' tutto quel liquido dai colori strani che ho visto in giro per l'EPA?}
-{203}{}{Where do you get all of the equipment from?}
+{203}{}{Da dove prendi tutto questo equipaggiamento?}
 {210}{}{Quelli nelle prime celle vicino a quel muro sono alcuni abitanti del villaggio entrati qui per sbaglio, e li ho catturati per usarli piu' avanti. Gli altri, quelli che sembrano piu' forti, sono i miei guerrieri per... emergenze.}
-{211}{}{...for use later? What do you mean?}
-{212}{}{Thanks. Can I ask another question?}
-{213}{}{Right. Thanks. I must be going now.}
+{211}{}{...da usare in seguito? Cosa intendi?}
+{212}{}{Grazie. Posso fare un'altra domanda?}
+{213}{}{Capito. Grazie. Devo andare adesso.}
 {220}{}{Sostanze chimiche e serbatoi di FEV, principalmente. Era tutto contenuto in grandi barili per essere conservato in sicurezza qui all'EPA. Sfortunatamente, c'e' stato un piccolo incidente e una grande perdita chimica ha costretto tutti ad andarsene, tranne quei tonti degli ologrammi. Alcune sostanze sono filtrate nei livelli inferiori. Ora le sto usando come materiale di sperimentazione. Finora hanno dato risultati promettenti!}
 {221}{}{Che tipo di risultati? Vuoi dire che hai creato tu queste creature?}
-{222}{}{So where do you get all your equipment from?}
+{222}{}{Allora da dove ti procuri tutto il tuo equipaggiamento?}
 {230}{}{Per lo piu' qui. L'EPA era stata progettata e fornita con ogni tipo di macchinario e, da quando gli altri scienziati se ne sono andati, non e' stato usato piu' nulla. Ora, dopo tanti anni, sto solo esaurendo alcune cose...}
-{231}{}{Never mind. I must be going now.}
+{231}{}{Non importa. Devo andare adesso.}
 {240}{}{Droghe? Decine! Negli anni ho creato mentats, buffout, stimpak, kit medici di varie potenze, psycho e molte altre cose che non capiresti. Non lo faccio piu', comunque. Ho creato il robot Mr. Chemmie! per farlo al posto mio. Si trova nel complesso principale. Se hai davvero l'intelligenza e le capacita' scientifiche che dici, sentiti libero di usarlo per creare tutte le droghe che vuoi.}
 {241}{}{What special drugs have you created?}
 {242}{}{Where can I find Mr. Chemmie!?}

@@ -36,7 +36,7 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {500}{}{Se mi stai scegliendo per un giaciglio, faresti meglio ad aspettarti una lotta -- aspetta, tu non hai il marchio del demone sulla testa. Chi sei?}
 {501}{}{I'm the "Chosen One" and who are you?}
 {502}{}{Il mio nome e' }
-{503}{}{. Who are you?}
+{503}{}{. Chi sei?}
 {510}{}{Il mio nome e' Kurisu. Vengo da una tribu' a sud-ovest, vicino alla Grande Acqua Salata. Gli schiavisti mi hanno presa. Hanno preso anche altri, ma loro sono stati mandati via. Dicono che non hanno finito con me. Mi tengono qui per il loro piacere malvagio. Per favore, devi tirarci fuori da questa gabbia e lontano da quegli uomini malvagi.}
 {511}{}{Non preoccuparti, sono qui per tirarti fuori. Ho una chiave e il permesso di portarvi via da qui.}
 {512}{}{Alright, let me try and lockpick this door.}

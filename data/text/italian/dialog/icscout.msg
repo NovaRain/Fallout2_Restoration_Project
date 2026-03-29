@@ -1,4 +1,4 @@
-{100}{}{You see a tribal.}
+{100}{}{Vedi un tribale.}
 {101}{}{Vedi Ombra-che-Cammina.}
 {150}{}{Vedi un uomo primitivo molto muscoloso con cicatrici nere che ricoprono la sua faccia. Ti sta fissando in silenzio.}
 {151}{}{Vedi Ombra-che-Cammina. Il suo viso e' pesantemente sfregiato da tatuaggi rituali.}
@@ -7,7 +7,7 @@
 {300}{}{Shhh... Sono a caccia di conigli.}
 {400}{}{[Ti guarda con occhi diffidenti.] Chi va la'?}
 {401}{}{Il mio nome e' }
-{402}{}{. Who are you?}
+{402}{}{. Chi sei?}
 {403}{}{I'm on a mission for Vault City. Who are you?}
 {404}{}{Il mio nome non e' importante. Sono venuto ad avvertirti. Sei in grave pericolo!}
 {405}{}{Sono la tua nemesi. Preparati a raggiungere i tuoi antenati!}
@@ -71,7 +71,7 @@
 {701}{}{[Keep staring]}
 {702}{}{[Attack]}
 {703}{}{Il mio nome e' }
-{704}{}{. Who are you?}
+{704}{}{. Chi sei?}
 {705}{}{I'm on a mission for Vault City. Who are you?}
 {706}{}{Il mio nome non e' importante. Sono venuto ad avvertirti. Sei in grave pericolo!}
 {707}{}{Never mind, I'll just leave.}
@@ -80,7 +80,7 @@
 {711}{}{[Keep staring]}
 {712}{}{[Attack]}
 {713}{}{Il mio nome e' }
-{714}{}{. Who are you?}
+{714}{}{. Chi sei?}
 {715}{}{I'm on a mission for Vault City. Who are you?}
 {716}{}{Il mio nome non e' importante. Sono venuto ad avvertirti. Sei in grave pericolo!}
 {717}{}{Never mind, I'll just leave.}
@@ -89,7 +89,7 @@
 {721}{}{[Keep staring]}
 {722}{}{[Attack]}
 {723}{}{Il mio nome e' }
-{724}{}{. Who are you?}
+{724}{}{. Chi sei?}
 {725}{}{I'm on a mission for Vault City. Who are you?}
 {726}{}{Il mio nome non e' importante. Sono venuto ad avvertirti. Sei in grave pericolo!}
 {727}{}{Never mind, I'll just leave.}

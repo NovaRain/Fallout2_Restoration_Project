@@ -1,4 +1,4 @@
-{100}{}{You see a tribal.}
+{100}{}{Vedi un tribale.}
 {101}{}{You see a member of the tribe.}
 {102}{}{One of the few remaining people in the tribe.}
 {200}{}{You're not welcome here.}
