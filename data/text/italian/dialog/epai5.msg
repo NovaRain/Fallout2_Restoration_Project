@@ -15,4 +15,4 @@
 {402}{}{Questa porta e' chiusa elettronicamente.}
 {403}{}{Sblocco della porta in corso. Grazie e buona giornata.}
 {404}{}{[FINE]}
-{500}{}{There is no lock to pick.}
+{500}{}{Non c'e' nessuna serratura da scassinare.}
