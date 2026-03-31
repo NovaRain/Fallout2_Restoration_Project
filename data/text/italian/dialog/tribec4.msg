@@ -5,7 +5,7 @@
 {200}{}{[Sembra immerso nei pensieri. Quando ti nota, sobbalza, poi si ricompone in fretta.] Uh, si', forestiero? Se cerchi guida spirituale, temo di non essere in grado al momento. Forse... forse un'altra volta.}
 {201}{}{Eh?! Oh, sei di nuovo tu. Non dovresti avvicinarti alla gente di soppiatto cosi'. Senti, ho molte cose per la testa al momento. Forse potrei aiutarti un'altra volta.}
 {202}{}{It seems like something is troubling you. Is there anything I could help you with?}
-{203}{}{I'll come back later.}
+{203}{}{Tornero' piu' tardi.}
 {204}{}{Huh-huh! Io spaventato te! Buuu!}
 {210}{}{Apprezzo l'offerta, ma... No, no, questa e' una questione personale che devo affrontare da solo.}
 {211}{}{[Riflette un momento, poi sospira.] E' piuttosto imbarazzante da ammettere ma... Vedi, non ho mai davvero *creduto* negli spiriti, nell'aldila', in nulla di tutto cio'. So cosa stai pensando: a cosa serve uno sciamano che non crede? E' che, beh, o facevo questo o prendevo una lancia e andavo a caccia di gecko con i guerrieri. Ti sembro un guerriero? Aspetta, non rispondere.}

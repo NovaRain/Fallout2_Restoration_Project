@@ -1,16 +1,16 @@
-{100}{}{You see a crazed-looking Shi scientist.}
-{101}{}{You see Dr. Sheng.}
+{100}{}{Vedi uno scienziato Shi dall'aspetto folle.}
+{101}{}{Vedi il Dr. Sheng.}
 {200}{}{[Vedi uno scienziato Shi con una barba rada e uno sguardo folle. Capelli e vestiti sono in disordine e sembra non dormire da giorni.] Ah! Si! Si, ti stavo aspettando. Mi hanno detto che saresti arrivato. [Ti squadra dalla testa ai piedi.] Si, sei perfetto.}
-{201}{}{I won't argue with that, but what the hell is going on here?}
+{201}{}{Non discuto, ma cosa diavolo sta succedendo qui?}
 {202}{}{Devi essere il dottor Sheng. Il dottor Wong mi ha detto dove trovarti. Gli Shi pensavano fossi morto.}
-{203}{}{First of all, what are these creatures?}
+{203}{}{Prima di tutto, cosa sono queste creature?}
 {204}{}{Perfetto per cosa, esattamente?}
-{205}{}{Who told you I was coming?}
+{205}{}{Chi ti ha detto che stavo arrivando?}
 {210}{}{Scienza! Cos'altro? Io sono il dottor Sheng e queste creature sono le mie creazioni. Belle, non trovi?}
-{211}{}{Uh, yeah ... But, what are they?}
+{211}{}{Uh, si'... Ma, cosa sono?}
 {212}{}{A dire il vero le trovo piuttosto ripugnanti. Da conati, davvero. E quell'odore, dolciastro e marcio allo stesso tempo, come sciroppo fatto con liquami di cadavere. Che cosa sono queste cose?}
 {220}{}{Ha! Il dottor Wong spera che io sia morto. Oh no, sto meglio che mai. E le cose miglioreranno ancora, se sei disposto ad aiutarmi.}
-{221}{}{Assist you with what?}
+{221}{}{Aiutarti in cosa?}
 {222}{}{Aspetta. Prima di accettare di aiutarti, dimmi che cosa sono queste creature.}
 {230}{}{Sono il futuro! Una nuova razza di forme di vita vegetali senzienti, create da me. Ho finalmente avuto successo nel sintetizzare la mia nuova vita vegetale con cadaveri umani freschi! Come puoi vedere, questo dona alle piante capacita' sensoriali, motorie e vocali che altrimenti non avrebbero. E conferisce loro un aspetto umanoide che permettera' una piu' facile assimilazione nella nostra cultura.}
 {231}{}{E dove trovi questi "cadaveri umani freschi"? }
@@ -18,19 +18,19 @@
 {233}{}{A dire il vero ho incontrato una pianta di spore che parlava senza essere stata fusa con un corpo umano.}
 {234}{}{Incredibile. Da collega amante della scienza, devo sapere come sia stato possibile.}
 {240}{}{Perfetto per il compito che ho in mente. Vedi, non tutte le mie creature sperimentali hanno avuto successo come questi esemplari. La maggior parte finisce per essere bestie violente e senza cervello. Tengo questi fallimenti rinchiusi in un recinto nel mio laboratorio, ma di recente sono fuggiti. Sono riuscito a uscire e chiudere la porta prima che qualcuno scappasse nelle Lande, ma ora non posso piu' tornare nel mio laboratorio.}
-{241}{}{So what do you want me to do about it?}
+{241}{}{"Cosa vuoi che faccia?"}
 {250}{}{Le mie creazioni, naturalmente. Sono sempre vigili sulle Lande. C'e' molto di cui diffidare la fuori, come saprai bene. Quando mi hanno avvisato del tuo arrivo, ho detto loro di portarti da me, perche' credo tu possa aiutarmi.}
-{251}{}{Assist you with what?}
+{251}{}{Aiutarti in cosa?}
 {252}{}{Prima di accettare di aiutarti, dimmi che cosa sono queste creature.}
 {260}{}{Oh, per lo piu' da predoni che hanno la pessima idea di attaccarci. Ma basta con questo. Devo sapere se sei disposto ad aiutarmi.}
-{261}{}{Assist you with what?}
+{261}{}{Aiutarti in cosa?}
 {270}{}{Vedi, non tutte le mie creature sperimentali hanno avuto successo come questi esemplari. La maggior parte diventa bestie violente e senza cervello. Tengo questi fallimenti rinchiusi in un recinto nel mio laboratorio, ma di recente sono fuggiti. Sono riuscito a uscire e chiudere la porta prima che qualcuno scappasse nelle Lande, ma ora non posso piu' tornare al laboratorio.}
-{271}{}{So what do you want me to do about it?}
+{271}{}{"Cosa vuoi che faccia?"}
 {280}{}{Come ti senti riguardo al mio lavoro non mi interessa. Ora saro' diretto. Ho un compito per cui sembri qualificato. Una volta completato, verrai ricompensato. Sei interessato?}
 {281}{}{Sono tutto orecchi.}
-{282}{}{I want nothing to do with you or your disgusting creations.}
+{282}{}{Non voglio avere niente a che fare con te o con le tue disgustose creature.}
 {290}{}{Eccellente! Consegnameli, e verrai ricompensato.}
-{291}{}{Sure, it's not like I have much use for them. Here you go.}
+{291}{}{Certo, non e' che ne abbia molto uso. Eccoli.}
 {292}{}{No. Mi sono affezionato a quei cosetti. Credo che li terro'. Magari ci faccio un giardino o qualcosa del genere.}
 {293}{}{I don't have them on me but I'll go see if I can find them.}
 {294}{}{Non li ho con me, e anche se li avessi non te li darei. Non voglio avere nulla a che fare con te o con i tuoi zombie?vegetali.}
@@ -92,7 +92,7 @@
 {451}{}{Si, immagino che *suoni* piuttosto assurdo. Comunque, con cosa volevi che ti aiutassi?}
 {452}{}{Non cambiare argomento — stavo dicendo la verita'! Lo giuro sul Vault Dweller, si chiamava Seymour e sapeva parlare. Voleva che lo ripiantassi in un posto migliore. Non me lo sto inventando e non stavo allucinando.}
 {460}{}{Basta! Non ho tempo per queste sciocchezze. Mi aiuterai o no?}
-{461}{}{Assist you with what?}
+{461}{}{Aiutarti in cosa?}
 {462}{}{No! Non ti aiutero', idiota! Seymour era reale! SEYMOUR ERA REALE!}
 {470}{}{[Sorride, chiaramente impaziente di mostrare il suo genio.] Sono sempre stato affascinato dalle piante. Sono cosi' straordinariamente diverse dagli animali, eppure sorprendentemente simili. Quando guardi un animale, sai che puo' pensare, che e' consapevole di cio' che lo circonda, che prova dolore e paura. Che ha ragione. Ovviamente il livello varia, ma il punto e' che un animale possiede tutto questo.}
 {471}{}{Continua.}
