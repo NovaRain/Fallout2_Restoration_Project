@@ -5,6 +5,6 @@
  non dovrebbe essere troppo difficile - il metallo si sta letteralmente sgretolando e puoi vedere chiaramente i tubi a vuoto.}
 {210}{}{Proprio come pensavi - il metallo cede facilmente e la consolle viene presto smontata. Questo sottomarino non sara' in grado
  di ricaricare i suoi tubi tanto presto.}
-{211}{}{You fail to disable the system.}
+{211}{}{Non riesci a disattivare il sistema.}
 {212}{}{*beep*}
 {213}{}{*beeboop*}

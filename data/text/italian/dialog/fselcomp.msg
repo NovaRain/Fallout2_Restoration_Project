@@ -36,19 +36,17 @@
 {135}{}{Mainframe: operativo. Tubature: operative. Postazioni di ricerca: operative. Centro riparazioni: operativo. Telecamere: operative.}
 {136}{}{Indietro.}
 {137}{}{Esci.}
-{200}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
- his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
- it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
- After a bit hacking and mathematical calculations, you determine the coordinates of the stash. You mark them down in your Pip-Boy.]}
-{201}{}{[The Hubologist Church appears to be hugely wealthy. The standard approach is to ask a new recruit to donate all
- his or her worldly possessions to the Church as a sign of good faith. When someone isn't asked to do this, apparently
- it means the Hubologists aren't intending to deal fairly. They have a huge cache of loot stashed somewhere in the desert.
- You already determined the coordinates of it.]}
-{210}{}{Hack the system.}
+{200}{}{[La Chiesa Hubologista sembra essere enormemente ricca. Il metodo standard consiste nel chiedere a ogni nuova recluta di donare alla Chiesa tutti i propri beni terreni 
+come segno di buona fede. Quando a qualcuno non viene chiesto, significa che gli Hubologisti non hanno intenzione di comportarsi onestamente. 
+Hanno un enorme bottino nascosto da qualche parte nel deserto. Dopo un po' di hacking e calcoli matematici, riesci a determinarne le coordinate. Le annoti sul tuo Pip?Boy.]}
+{201}{}{[La Chiesa Hubologista sembra essere enormemente ricca. Il metodo standard consiste nel chiedere a ogni nuova recluta di donare alla Chiesa tutti i propri beni terreni 
+come segno di buona fede. Quando a qualcuno non viene chiesto, significa che gli Hubologisti non hanno intenzione di comportarsi onestamente. 
+Hanno un enorme bottino nascosto da qualche parte nel deserto. Ne hai già determinato le coordinate.]}
+{210}{}{Violazione del sistema.}
 {211}{}{[Dopo qualche tempo ottieni pieno accesso amministrativo al mainframe. Ora puoi fare quello che vuoi al sistema.]}
 {212}{}{Formatta il sistema.}
 {213}{}{Procedura di formattazione... Inizializzata... Formattazione... Formattazione Completata... Il sistema verra' spento . Arrivederci}
-{220}{}{You format the Hubologist mainframe.}
+{220}{}{Formatti il mainframe degli Hubologisti.}
 {250}{}{Inviare il combustibile alla petroliera Poseidon.}
 {251}{}{Combustibile inviato come richiesto. Cisterne = Vuote. Chiusura programma in corso.}
 {252}{}{[FATTO]}

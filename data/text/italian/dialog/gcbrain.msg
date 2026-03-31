@@ -96,9 +96,9 @@
 {381}{}{Poi cosa?}
 {390}{}{Sono strisciato fuori. Mentre cominciavo a riprendermi, notai che ero cambiato. Provavo a comunicare con le persone, ma tutti cercavano di uccidermi. Gli umani sono troppo violenti per sopravvivere senza una guida forte -- ma questa e' un'altra storia. Il primo passo e' riparare il reattore.}
 {391}{}{Riparare il reattore?}
-{400}{}{You must get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't,
- then Vault City will no doubt attack Gecko. Of course, by destroying the reactor, they will doom
- themselves in the long run, as well.}
+{400}{}{Per riparare il reattore Gecko, devi procurarti un Regolatore di Magnetosfera Idroelettrica da Vault City. Se non lo fai,
+Vault City attaccherà senza dubbio Gecko. Ovviamente, distruggendo il reattore, si condanneranno
+anche loro a lungo termine.}
 {401}{}{Condannati anch'essi? Cosa intendi dire?}
 {402}{}{Perche' mai Vault City dovrebbe dare proprio a me un dispositivo per la centrale nucleare di Gecko?}
 {410}{}{Dovrai dimostrare che e' nel loro miglior interesse farlo. E' cosi' facile manipolare le persone con la promessa di un guadagno...}
@@ -175,7 +175,7 @@
 {700}{}{Non ho nient'altro da dirti.}
 {701}{}{Va bene brutto figlio di puttana, ora ho un nuovo accordo per te: o ritiri i tuoi roditori, o ti giuro che faccio saltare il dannato reattore!}
 {702}{}{Va bene, va bene... Considera fatto. Solo, non toccare il reattore. (borbotta) Maledetti umani psicotici...}
-{703}{}{Now that we're in agreement, what were you saying about the optimization?}
+{703}{}{Ora che siamo d’accordo, cosa stavi dicendo riguardo all’ottimizzazione?}
 {704}{}{It's settled then. Goodbye.}
 {705}{}{Hai raggiunto un accordo sui talpe-ratto con Il Cervello.}
 {706}{}{Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
