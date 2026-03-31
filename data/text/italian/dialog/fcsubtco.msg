@@ -1,4 +1,4 @@
-{100}{}{You see an old console.}
+{100}{}{Vedi una vecchia console.}
 {101}{}{Sembra che questa consolle gestisca il sistema di lancio e caricamento dei siluri. Come tutto il resto nel sottomarino,
  e' arrugginita fino in fondo e funziona appena.}
 {200}{}{Questo sottosistema, se disattivato, dovrebbe impedire che i tubi vengano ricaricati con siluri di riserva. Disattivarlo

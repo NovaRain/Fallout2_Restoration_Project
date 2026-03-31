@@ -41,14 +41,14 @@
 {304}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, mia moglie qui ti fara' divertire come non dimenticherai mai.}
 {305}{}{Actually, never mind. Bye.}
 {310}{}{Ora si' che parli la mia lingua! Va bene, affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
-{311}{}{Pleasure doing business with you. Bye.}
+{311}{}{È stato un piacere fare affari con te. Addio.}
 {312}{}{Addio.}
 {320}{}{$500? Not worth it. Make it $1,000 and you've got a deal.}
 {321}{}{I don't have that much. Bye.}
 {322}{}{Alright, fine. $1,000 it is.}
 {323}{}{No deal. Goodbye.}
 {330}{}{Ora si' che parli la mia lingua! Affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
-{331}{}{Pleasure doing business with you. Bye.}
+{331}{}{È stato un piacere fare affari con te. Addio.}
 {332}{}{Addio.}
 {340}{}{Mi stai minacciando? Nessuno mi minaccia e resta vivo! (ai suoi guardiani della carovana) Uccidete questo stupido stronzo!}
 {341}{}{Fatevi sotto!}
