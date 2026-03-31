@@ -1,16 +1,16 @@
 {100}{}{Vedi una guardia che indossa degli abiti trasandati; sul suo volto c'e' un'espressione attenta, ma annoiata.}
-{101}{}{You see a dock guard. He's unusually well armed.}
-{102}{}{You see the motorboat guard.}
-{150}{}{Hey! Step away from that!}
-{151}{}{Don't even think about that. This is your last warning.}
-{152}{}{I warned you, lao wai, now die!}
-{200}{}{What do you want, lao wai?}
-{201}{}{It's you again. What is it that you want, lao wai?}
-{202}{}{What are you guarding?}
-{203}{}{I need to use the motorboat.}
+{101}{}{Vedi una guardia del porto. E' insolitamente ben armata.}
+{102}{}{Vedi la guardia del motoscafo.}
+{150}{}{Ehi! Allontanati da li'!}
+{151}{}{Non ci pensare nemmeno. Questo e' il tuo ultimo avvertimento.}
+{152}{}{Ti avevo avvertito, lao wai, adesso muori!}
+{200}{}{Cosa vuoi, lao wai?}
+{201}{}{Sei ancora tu. Cosa vuoi, lao wai?}
+{202}{}{Cosa stai sorvegliando?}
+{203}{}{Ho bisogno di usare il motoscafo.}
 {204}{}{Nulla. Arrivederci.}
-{210}{}{Everything. Don't try anything funny.}
-{211}{}{Can't you be any more specific?}
+{210}{}{Tutto. Non provare a fare niente di strano.}
+{211}{}{Non puoi essere piu' specifico?}
 {220}{}{No. Now back away, outsider.}
 {221}{}{Okay. Ci vediamo.}
 {222}{}{Nessuno mi dice cosa fare. Sei finito!}
@@ -39,6 +39,6 @@
 {300}{}{Io andare su pesce?pesce di metallo?}
 {310}{}{[Ti guarda come se fossi la creatura piu' stupida che possa immaginare. Scuote lentamente la testa.] Tu no andare
  su pesce?pesce di metallo. Tu vai. Tu vai, o io sparo. Capito?}
-{311}{}{Okie, bu-bye!}
+{311}{}{Oke, ci-ciao!}
 {312}{}{Tu uomo?cattivo. Io spacco uomo?cattivo!}
 {500}{}{Riesci a convincerlo e ottieni l'accesso al motoscafo.}
