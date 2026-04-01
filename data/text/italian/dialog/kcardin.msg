@@ -186,7 +186,7 @@
 {2002}{}{Ummm}
 {2003}{}{Me aiuta.}
 {2004}{}{Me no piace storia. BYE!}
-{2005}{}{Oh, thank you. Let me mark on your map where he talked about looking. I sure hope you can
- find him. He isn't much, but I still love him and I miss him more than I thought I could. Please find
- him for me. You sure you can handle this... mentally?}
-{2006}{}{Me strong. Me believe in me self.}
+{2005}{}{Oh, grazie. Lascia che ti indichi sulla tua mappa il posto dove aveva detto che sarebbe andato. 
+Spero davvero che tu possa trovarlo. Non sarà granché, ma lo amo ancora e mi manca più di quanto avrei mai immaginato. 
+Ti prego, trovalo per me. Sei sicuro di potercela fare… mentalmente?}
+{2006}{}{Me forte. Me crede in me stesso.}
