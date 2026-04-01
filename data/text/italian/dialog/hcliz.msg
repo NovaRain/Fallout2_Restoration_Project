@@ -85,10 +85,10 @@
 {186}{}{Non so chi tu sia, ma sto arrivando per suonartele.}
 {200}{}{Hai qualcosa di speciale che potresti procurarmi e che non sia sugli scaffali?}
 {201}{}{In realta'... si. Vedere quel tuo cane spelacchiato mi ricorda qualcosa che ho trovato e che potrebbe esserti utile. Ti interessa un'armatura per lui? Ti costera' 2000$.}
-{202}{}{Hell yeah!}
+{202}{}{Eccome!}
 {203}{}{No, questo cane puo' gia' affrontare chiunque. Comunque grazie. Vediamo cos'altro hai.}
 {204}{}{(Guarda te e il tuo gruppo) No, mi spiace. Non credo di avere nulla di speciale che possa esserti utile. Quello che vedi qui e' quello che c'e'.}
-{205}{}{Oh well. Let's see what you've got.}
-{206}{}{I told you I'd let it go for $2000. Come back when you've got the cash for it!}
-{207}{}{Alright. Show me what else you've got.}
-{208}{}{Fine. I'll be back some other time.}
+{205}{}{Va bene. Vediamo cosa hai.}
+{206}{}{Ti ho detto che te lo do per 2000$. Torna quando avrai i soldi!}
+{207}{}{Va bene. Fammi vedere cos’altro hai.}
+{208}{}{D’accordo. Tornerò un’altra volta.}

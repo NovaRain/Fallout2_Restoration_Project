@@ -176,22 +176,22 @@ anche loro a lungo termine.}
 {701}{}{Va bene brutto figlio di puttana, ora ho un nuovo accordo per te: o ritiri i tuoi roditori, o ti giuro che faccio saltare il dannato reattore!}
 {702}{}{Va bene, va bene... Considera fatto. Solo, non toccare il reattore. (borbotta) Maledetti umani psicotici...}
 {703}{}{Ora che siamo d’accordo, cosa stavi dicendo riguardo all’ottimizzazione?}
-{704}{}{It's settled then. Goodbye.}
+{704}{}{Allora è deciso. Addio.}
 {705}{}{Hai raggiunto un accordo sui talpe-ratto con Il Cervello.}
 {706}{}{Le pattuglie di Vault City continuano a essere attaccate dai talpe-ratto. Suppongo che tu sia dietro a questo?}
 {707}{}{Chiedi il mio aiuto, eppure lasci un compito a meta'. (tra se') Tipico umano. (a te) Ottimizza il reattore, allora, e solo allora, ti assistero'.}
-{708}{}{That depends. What is it?}
+{708}{}{Dipende. Di cosa si tratta?}
 {709}{}{Ascoltami bene, ratto radioattivo. Stai davvero iniziando a farmi incazzare. Hai detto che il tuo "simile" aveva tirato le cuoia... Be', voglio che tu sappia -- sono stato io a finirlo. E ora penso che finiro' il lavoro di rendere la tua specie estinta.}
 {710}{}{Ascoltami bene, ratto radioattivo. Stai davvero iniziando a farmi incazzare. Penso che sia ora che io metta fine a questa follia.}
-{711}{}{I need to think this over.}
+{711}{}{Devo pensarci su.}
 {712}{}{Molto interessante... e qui pensavo che fossi preoccupato per il benessere di Vault City. Comunque, la sicurezza di quel villaggio e' parte integrante del mio piano. Pertanto, accettero' la tua richiesta, umano.}
 {713}{}{Mi sembra che, poiche' hai riparato e ottimizzato il reattore, ti meriti il mio aiuto. Cosa vuoi?}
-{714}{}{Thank you! What were you saying about the optimization?}
-{715}{}{Thank you! Bye.}
+{714}{}{Grazie! Cosa stavi dicendo riguardo all’ottimizzazione?}
+{715}{}{Grazie. Arrivederci.}
 {716}{}{Sembra che Gordon ti abbia gia' consegnato questo rapporto economico di cui parlo. Portalo subito a Vault City.}
 {717}{}{Lo faro'.}
 {718}{}{Umm... Si', forse piu' tardi.}
 {719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
-{720}{}{Very well, I shall help you.}
+{720}{}{Molto bene, ti aiuterò.}
 {721}{}{No, vaffanculo cervello di ratto! Ne ho abbastanza. E' ora di morire!}
 {4211}{}{Uh, credo che faro' meglio ad andare da Gordon a prendere quel disco. A dopo.}

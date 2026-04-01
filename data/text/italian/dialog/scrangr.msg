@@ -10,7 +10,7 @@
 {205}{}{I heard what happened to Metzger. Great job!}
 {300}{}{It's a slaver, attack!}
 {301}{}{Shit, we are under attack!}
-{400}{}{Greetings friend.}
+{400}{}{Saluti, amico.}
 {401}{}{This is private property. Don't loiter too long.}
 {402}{}{Ti piacciono gli schiavisti? Spero proprio di no... per il tuo bene.}
 {500}{}{Cosa!? Schiavisti? Come diavolo ci hanno trovato? Dobbiamo difenderci. All'attacco!}

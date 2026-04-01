@@ -213,40 +213,40 @@
 {4001}{}{D'accordo, se tu p'pensi che sia davvero una b'buona idea.}
 {4002}{}{Beh, non mi piace usare d'delle armi a meno che non ci sia c'costretto, ma immagino di sapere usare un coltello, credo. Posso usare una pistola, o almeno un tempo ne ero c'capace. Se proprio devo, credo di essere in grado di maneggiare una mitraglietta. Se solo non fossero cosi' rumorose. Sono un d'dottore, non un guerriero.}
 {4003}{}{Gosh, spero di non averne bisogno.}
-{4004}{}{Well, I don't like to use weapons unless I really have to, but I suppose I could use a knife, I think. I can use a spear, at least I used to be able to. If I really had to, I think I could handle a rifle. If only they weren't so loud. I'm a healer, not a fighter.}
+{4004}{}{Beh, non mi piace usare armi a meno che non sia necessario, ma credo di saper usare un coltello. So usare una lancia, o almeno un tempo ci riuscivo. Se proprio devo, penso di poter maneggiare un fucile… se solo non fossero così rumorosi. Sono un guaritore, non un combattente.}
 {5000}{}{Credo di p'poter avere un arto r'rotto.}
 {5001}{}{Credo di p'poter essere i'irradiato.}
 {5002}{}{Credo di p'poter essere a'avvelenato.}
-{5100}{}{I'm f'feeling a b'bit warm now.}
-{5101}{}{That's b'better.}
+{5100}{}{Mi sento un po’ caldo, ora.}
+{5101}{}{Molto meglio.}
 {6000}{}{Ho bisogno di un parere professionale, Lenny. Cosa sai sulla gestione di una malattia cardiaca?}
-{6001}{}{Can you tell me anything about these pills I found, Doc?}
+{6001}{}{Puoi dirmi qualcosa su queste pillole che ho trovato, dottore?}
 {6010}{}{Qu'qual e' il p'problema? Il t'tuo c'cuore non ti sta ab'bandonando adesso, v'vero?}
-{6011}{}{No, I was actually wondering if there was anything we could do for Cassidy.}
+{6011}{}{No, mi chiedevo se ci fosse qualcosa che possiamo fare per Cassidy.}
 {6012}{}{No. Ho intenzione di assassinare un vecchio malato e stavo cercando di trovare qualcosa di piu' creativo che avvicinarmi di soppiatto e far scoppiare un sacchetto di carta.}
 {6013}{}{Mettilo pure in conto alla curiosita' accademica, suppongo.}
-{6020}{}{Heh. No need to get t'tetchy, now.}
+{6020}{}{Ehi, non c’è bisogno di innervosirsi.}
 {6021}{}{Be', per lo p'piu', e' roba di s'senso c'comune. M'mangiare bene, s'stare alla l'larga dai c'chem piu' duri, quel g'genere di cose. M'mantenere lo s'stress al m'minimo. F'fondamentalmente, v'vivere p'piu' come una v'vecchia s'signora, e m'meno come... be', noi. Eh. O'ovviamente, la c'cosa m'migliore che p'potresti f'fare sarebbe p'probabilmente t'tamponarlo con qualche r'regolatore c'cardiaco, f'forse qualche v'vasodilatatore.}
-{6022}{}{Cardiac what now?}
-{6023}{}{Hmm. Heart pills.}
+{6022}{}{Cardiaco… cosa?}
+{6023}{}{Pillole per il cuore.}
 {6030}{}{V'vediamo, adesso... (Lenny borbotta tra se' mentre legge l'etichetta.)}
 {6040}{}{P'pillole per il c'cuore. I'immagino che quello che p'producono a Vault City e NCR o'oggi non sia molto d'diverso da q'quello che u'usavamo p'prima della g'guerra. M'medicina f'forte. D'dai quelle robe a un t'tizio e avrebbe il c'cuore di un m'maratoneta m'mutante. C'cavolo, se s'seguisse le i'indicazioni del d'dottore e le p'prendesse r'regolarmente, potrebbe p'probabilmente v'vivere di c'chem al b'burro c'caldo e n'non preoccuparsi che s'salti un s'singolo b'battito. Eh, n'non che io r'raccomanderei quel g'genere di c'cose, ovviamente. Gli o'ordini del d'd'ottore sono s'sempre s'supposti essere v'vita s'sana e m'molte f'fibre, g'giusto?}
-{6041}{}{Uh, right. Thanks, Lenny. Let me ask you about something else.}
+{6041}{}{Giusto. Grazie, Lenny. Lascia che ti chieda qualcos’altro.}
 {6042}{}{Sono pericolose in qualche modo? Ci sono effetti collaterali da tenere d'occhio?}
-{6043}{}{Do you think these could help Cassidy?}
+{6043}{}{Pensi che possano aiutare Cassidy?}
 {6050}{}{P'potrebbero essere p'proprio la c'cosa g'giusta, adesso che lo m'menzioni. In f'fatti, p'penso che lo s'sarebbero. D'dovrebbe s'stare attento a un p'paio di c'cose, pero'.}
 {6051}{}{Ad esempio?}
-{6052}{}{I knew there'd be a catch.}
+{6052}{}{Lo sapevo che c’era un trucco.}
 {6060}{}{N'niente che s'succeda t'troppo s'spesso. S'sono note per c'causare v'vertigini. E n'non d'dovresti p'prenderle con il s'succo di p'pompelmo, anche s'se n'non p'penso che s'sara' un g'gran p'problema, o'oggigiorno. A m'meno che non s'siano q'quelle c'cose v'verdi e g'grumose. Hmmm... (Lenny si porta una mano al mento e fissa il vuoto).}
 {6061}{}{Lenny?}
 {6070}{}{S'scusa. Oh! Un'altra c'cosa im'importante. A m'meno che tu n'non v'voglia f'fare una f'fine p'poco d'dignitosa, *n'non* v'vuoi m'mescolare q'quelle c'cose con le p'pilloline d'dinamizzanti di N'new Reno.}
 {6071}{}{P'pilloline... d'dinamizzanti?}
-{6072}{}{Bad reaction, then?}
+{6072}{}{Una brutta reazione, quindi?}
 {6080}{}{Eh s'si'. S'sai, p'per q'quando il t'tuo p'piccolo s'soldato n'non v'vuole m'mettersi s'sull'attenti? Il n'nome t'tecnico era "i'inibitori PDE-5" ma v'visti i t'tempi, e N'new Reno e'essendo q'quello c'che E'E'... C'comunque, d'dove ero r'rimasto?}
 {6081}{}{Eh s'si'. S'sai, p'per q'quando il p'piccolo s'soldato di un u'uomo n'non v'vuole m'mettersi s'sull'attenti? Il n'nome t'tecnico era "i'inibitori PDE-5" ma v'visti i t'tempi, e N'new Reno e'essendo q'quello c'che E'E'... C'comunque, d'dove ero r'rimasto?}
 {6082}{}{Ah, s'si'. P'prendi q'quelle d'due nel t'tuo s'sistema ins'sieme, e KER-BLAM! Il t'tuo c'cuore esp'plodera' c'come un s'sanguinaccio. R'ricordo di a'aver f'fatto p'post-mortem s'su p'piu' di un p'povero v'vecchio c'che era t'troppo o'occupato a s'seminare per l'leggere un'e'etichetta d'di av'vertimento.}
-{6083}{}{Blood Sausage?}
-{6084}{}{Huh. Good to know. Thanks a lot, Lenny.}
-{6090}{}{Oh. Heh. Musta b'been a little before your t'time. Sorry. Anything else I can d'do for you?}
-{6091}{}{Well, since you asked...}
-{6092}{}{Nope, that'll do. Thanks, Lenny.}
+{6083}{}{Sanguinaccio?}
+{6084}{}{Bene a sapersi. Grazie mille, Lenny.}
+{6090}{}{Oh. Deve essere stato un po’ prima del tuo tempo. Scusa. C’è qualcos’altro che posso fare per te?}
+{6091}{}{Beh, visto che me lo chiedi...}
+{6092}{}{No, va bene così. Grazie, Lenny.}
