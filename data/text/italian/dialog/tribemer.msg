@@ -79,7 +79,7 @@
 {310}{}{[Corruga la fronte.] Non so che tipo di idiota rifiuterebbe un affare del genere. [Scuote la testa e si gira
  verso i suoi uomini.] Bene, andiamo. [Ti lancia un'occhiata.] E vaffanculo per avermi fatto perdere tempo.}
 {311}{}{[Let them leave.]}
-{312}{}{[Attack]}
+{312}{}{[Attacca]}
 {320}{}{Nessuna fregatura, amico mio. Semplicemente ho gia' tutti gli Stimpak di cui ho bisogno, quindi mi sto liberando della scorta in eccesso.
  Le pelli dorate, d'altra parte... non ne avrei mai abbastanza. Certo, cinquanta Stimpak valgono molto di piu' di
  una misera ventina di pelli di geco dorato, ma sto sendo realistico. Non posso aspettarmi che la vostra tribu' -- abili cacciatori come sono certo che siate -- abbia un centinaio di pelli di geco dorato in giro, quindi sto facendo un'offerta piu' ragionevole. *Ecco* perche' e' un affare cosi' buono.}
@@ -108,5 +108,5 @@
  quel cazzo di roba -- li ho comprati. Quindi *io* sono quello che e' stato fregato qui -- non voi. Ora, dato che non c'e' accordo, non
  sprechero' piu' il mio tempo qui. Ciao.}
 {381}{}{[Let them leave.]}
-{382}{}{[Attack]}
+{382}{}{[Attacca]}
 {390}{}{Chi cazzo credi di essere? [Alle sue guardie del corpo.] Ammazzate questi dannati tribali!}

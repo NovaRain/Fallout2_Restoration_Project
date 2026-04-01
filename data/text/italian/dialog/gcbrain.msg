@@ -191,7 +191,7 @@ anche loro a lungo termine.}
 {716}{}{Sembra che Gordon ti abbia gia' consegnato questo rapporto economico di cui parlo. Portalo subito a Vault City.}
 {717}{}{Lo faro'.}
 {718}{}{Umm... Si', forse piu' tardi.}
-{719}{}{You *must* get a Hydroelectric Magnetosphere Regulator from Vault City in order to repair the Gecko reactor. If you don't, then Vault City will no doubt attack Gecko. If you help me, I will fulfill your request. So... will you join us?}
+{719}{}{Devi assolutamente recuperare un Regolatore Idroelettrico di Magnetosfera da Vault City per riparare il reattore di Gecko. Se non lo farai, Vault City attaccherà sicuramente Gecko. Se mi aiuterai, esaudirò la tua richiesta. Allora… ti unirai a noi?}
 {720}{}{Molto bene, ti aiuterò.}
 {721}{}{No, vaffanculo cervello di ratto! Ne ho abbastanza. E' ora di morire!}
 {4211}{}{Uh, credo che faro' meglio ad andare da Gordon a prendere quel disco. A dopo.}
