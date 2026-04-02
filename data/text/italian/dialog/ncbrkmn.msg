@@ -1,8 +1,8 @@
-{100}{}{You see a grungy, shaggy looking man.}
+{100}{}{Vedi un uomo dall’aspetto trasandato e arruffato.}
 {101}{}{I suoi vestiti sono strappati e sporchi. Ha diversi graffi sulle braccia e sulle gambe.}
-{150}{}{Woof! Wooof. Woooof.}
-{151}{}{Uh, are you alright?}
-{152}{}{Uh, right. Bye.}
+{150}{}{Woof! Woof. Woooof.}
+{151}{}{Ehm... tutto bene?}
+{152}{}{Ehm... va bene. Addio.}
 {153}{}{Hey, I think I found something that might help your condition.}
 {154}{}{Hmm... Sembra che tu possa soffrire di un disturbo neurologico, forse epilessia. Purtroppo non posso
  fare nulla. Arrivederci.}
