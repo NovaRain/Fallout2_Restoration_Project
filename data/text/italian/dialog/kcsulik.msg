@@ -484,7 +484,7 @@
 {3100}{}{[AVANTI]}
 {3101}{}{Dov’è esattamente la tua tribù, Sulik?}
 {3102}{}{Grazie. Lascia che ti chieda qualcos'altro.}
-{3103}{}{You too, Sulik. Take care of yourself.}
+{3103}{}{Anche tu, Sulik. Stammi bene.}
 {3200}{}{Si', ho parlato con la signora Buckner riguardo al tuo debito. Adesso devo solo mettermi d'accordo con Maida. Ti faro' sapere com'e' andata non appena avro' parlato con lei.}
 {3500}{}{Noi e io pensiamo che qualcosa non andare in noi. Tu fai meglio a controllare nostre braccia o nostre gambe.}
 {3501}{}{Noi e io pensiamo che qualcosa non andare in noi. Noi brillanti come sole.}

@@ -1,16 +1,16 @@
-{100}{}{You see a card dealer.}
+{100}{}{Vedi un croupier.}
 {101}{}{Vedi Tre-Carde Monte.}
 {150}{}{Vedi un vecchio dall'aspetto ossuto con il viso arrossato dal sole. E' cosi' magro che sembra fatto di ramoscelli.}
 {151}{}{Vedi Tre-Carde Monte. Scruta la strada, ti nota e annuisce.}
 {152}{}{Vedi Tre-Carde Monte. Scruta la strada, ti nota e annuisce.}
-{200}{}{Don't see how I lost...}
+{200}{}{Non capisco come abbia perso...}
 {201}{}{Continua a camminare... Monte oggi non e' in affari.}
 {202}{}{Ho nascosto la carta sbagliata?}
 {203}{}{Come ha fatto quel tribale stupido a scegliere sempre la carta giusta?}
 {205}{}{Eeeeh! Eroe! Tutto bene, tutto bene.}
 {206}{}{::Ti fa il gesto del pollice alzato::}
-{207}{}{::Smiles, nods::}
-{208}{}{You done good, hero. You done good.}
+{207}{}{::Sorride e annuisce::}
+{208}{}{Hai fatto bene, eroe. Hai fatto bene.}
 {215}{}{Dove diavolo sono le mie carte? Le avevo proprio un attimo fa.}
 {216}{}{Maledetti gnomi delle chiavi dell'auto, ora se la prendono anche con le mie carte da gioco.}
 {220}{}{Ehi, amico, lascia perdere i casinò. Vieni a giocare con Monte.}
@@ -19,7 +19,7 @@
 {223}{}{Qualcuno vuole giocare? Soldi facili, soldi facili.}
 {224}{}{Vieni a giocare. L'altro giorno uno mi ha portato via 50 fiches, facile.}
 {225}{}{Semplice, basta indovinare la Regina, la Regina rossa, e vinci. Tutto qui.}
-{226}{}{You allergic to easy money? Then get over here.}
+{226}{}{Allergico ai soldi facili? Allora vieni qui.}
 {227}{}{Oggi vincono tutti... vuoi essere il prossimo?}
 {228}{}{I casinò ti spennano, ti derubano... Monte ti tratta bene, ti da' una vera possibilita'.}
 {229}{}{Cerchi un po' di fortuna, signora? Le migliori probabilita' di New Reno! Dai...}
@@ -38,18 +38,18 @@
 {242}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
 {243}{}{Uh, io lusingato ma io non voglio iniziare ora... ciaaaao.}
 {244}{}{-Allontanati-}
-{245}{}{Let's play.}
-{246}{}{Uh, get down to what?}
-{247}{}{I'm familiar with the game. Let's play.}
+{245}{}{Giochiamo.}
+{246}{}{Ehm… metterci a fare cosa, esattamente?}
+{247}{}{Conosco il gioco. Giochiamo.}
 {248}{}{Tre-Carde Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta — cosa che non sara', visto che la nascondi mentre mescoli — allora vinco. No grazie, amico.}
 {249}{}{Tre-Carde Monte, eh? Metti tre carte a faccia in giu', le mescoli, e io ne scelgo una. Se e' quella giusta — cosa che non sara', visto che la nascondi mentre mescoli — allora vinco. No grazie, amico.}
 {250}{}{Non oggi, grazie.}
 {251}{}{Iniziare cosa? Il gioco, ovviamente!}
 {252}{}{Vedi... (ti mostra tre carte) ...una di queste e' una regina. Le metto a faccia in giu', le mescolo, e poi scegli quale e' la regina. Se indovini, vinci.}
-{253}{}{That simple, pal.}
-{254}{}{That simple, lady.}
-{255}{}{I'm not playing with a cheater like you.}
-{256}{}{Could you explain the rules again?}
+{253}{}{Semplice, amico.}
+{254}{}{Semplice, signora.}
+{255}{}{Non gioco con uno che bara come te.}
+{256}{}{Puoi rispiegarmi le regole?}
 {257}{}{Sounds simple enough. Let's play. Here's 20 chips.}
 {258}{}{Non oggi, grazie.}
 {260}{}{(Consegni i soldi. Monte annuisce, ti mostra le carte, poi le sbatte a terra e le mescola per qualche secondo.)}
@@ -72,7 +72,7 @@
 {284}{}{Tu imbroglione. Tu non giochi giusto.}
 {285}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
 {286}{}{Nuh-uh io NON PIACE gioco CIAAAO.}
-{287}{}{I'm not playing with a cheater like you.}
+{287}{}{Non gioco con uno che bara come te.}
 {288}{}{Sure. Here's 20 chips.}
 {289}{}{No, grazie.}
 {300}{}{(Consegni i soldi. Monte annuisce, ti mostra le carte, poi le posa a terra. Mentre lo fa, nasconde una carta cosi' velocemente che quasi non lo noti. Poi procede a mescolare per qualche secondo.)}
