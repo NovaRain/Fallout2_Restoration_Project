@@ -1,5 +1,5 @@
 {100}{}{Vedi uno schiavista.}
-{101}{}{This slaver looks like one mean dude.}
+{101}{}{Questo schiavista ha un’aria davvero minacciosa.}
 {200}{}{Eccoti qua.}
 {201}{}{Adesso morirai.}
 {202}{}{Shit, Rangers! Time to die!}
