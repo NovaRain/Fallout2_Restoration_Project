@@ -146,9 +146,9 @@
 {594}{}{Allora... tu e Miria. Siete entrambi liberi di vedervi con altra gente, oppure...?}
 {595}{}{Che ne dici di uno scambio di mogli? Potrai avere la mia non appena ne avro' una.}
 {596}{}{Allora... chi e' questa tipa orientale tutta pepe?}
-{597}{}{Kitsune's kinda cute. Can I... well, you know... how about it?}
-{598}{}{This oriental chick suuuure is a looker.}
-{599}{}{So... you and Kitsune. Are you two going out or something?}
+{597}{}{Kitsune è piuttosto carina. Posso… beh, sai… che ne dici?}
+{598}{}{Questa ragazza orientale è proprio uno schianto.}
+{599}{}{Allora… tu e Kitsune. State insieme o qualcosa del genere?}
 {600}{}{Siamo pronti a partire?}
 {605}{}{Perche' diavolo siamo QUI?}
 {606}{}{Tutti quelli di questa citta' avrebbero bisogno di un bel clistere.}

@@ -1,10 +1,10 @@
 {100}{}{Vedi uno dei bambini degli Wright. }
 {150}{}{Vedi un ragazzino con i capelli neri.}
-{151}{}{You see a black-haired little girl.}
+{151}{}{Vedi una bambina dai capelli neri.}
 {155}{}{Ti fa una linguaccia.}
 {156}{}{Ti sta fissando con un'aria imbronciata.}
 {157}{}{Ti fa una linguaccia.}
-{158}{}{She looks at you suspiciously.}
+{158}{}{Ti guarda con sospetto.}
 {159}{}{Ti sta fissando con un'aria imbronciata.}
 {175}{}{Fallout 2 vi e' stato offerto da Letter Z.}
 {176}{}{Ehi! }
