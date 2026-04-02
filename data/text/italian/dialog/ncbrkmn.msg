@@ -3,18 +3,18 @@
 {150}{}{Woof! Woof. Woooof.}
 {151}{}{Ehm... tutto bene?}
 {152}{}{Ehm... va bene. Addio.}
-{153}{}{Hey, I think I found something that might help your condition.}
+{153}{}{Ehi, credo di aver trovato qualcosa che potrebbe aiutarti.}
 {154}{}{Hmm... Sembra che tu possa soffrire di un disturbo neurologico, forse epilessia. Purtroppo non posso
  fare nulla. Arrivederci.}
-{160}{}{Woof. Woof woof. Woooof.}
+{160}{}{Woof. Woof?woof. Woooof.}
 {250}{}{Grrr!}
 {251}{}{Grrrrrr!}
 {252}{}{Grrrrrrrr!}
 {253}{}{Grrrrrrrrrr!}
-{254}{}{[Shamble away]}
-{255}{}{Grrrrrrrrr! Grrr! Woof!}
+{254}{}{[Allontanati barcollando]}
+{255}{}{Grrrrrr! Grrr! Woof!}
 {256}{}{(L'uomo mugola e se la squaglia.)}
-{257}{}{Hehe. Nice doggie...}
+{257}{}{Hehe... bel cagnolino...}
 {258}{}{Hehe. Io super genio...}
 {300}{}{Woof?}
 {301}{}{Si'. Ascolta attentamente questa serie di lettere che sto per dirti...}
@@ -32,6 +32,6 @@
 {351}{}{Woof! Woooof!}
 {352}{}{*Si gratta*}
 {400}{}{Bau! Heh, stavo scherzando. Grazie ancora per avermi guarito.}
-{500}{}{You cure the Barking Man.}
-{600}{}{*whimper*}
+{500}{}{Curi l’Uomo?Che?Abbaia.}
+{600}{}{*guaito*}
 {601}{}{Il pugile ti guarda con occhi terrorizzati}

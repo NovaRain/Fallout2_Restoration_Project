@@ -2,7 +2,7 @@
 {150}{}{You see a well-dressed man. He is surveying the casino.}
 {151}{}{Vedi un capotavola. Sta sorvegliando il casino'.}
 {200}{}{Uh…you'll need to remove that armor.}
-{201}{}{Uh, sir... or ma'am... you'll need to remove that armor.}
+{201}{}{Ehm, signore… o signora… deve togliersi quell’armatura.}
 {202}{}{Signore... signora... non puo' indossare quello nel casino'.}
 {205}{}{Uh, perche' si muove cosi' silenziosamente, signore?}
 {206}{}{Uh, e' in missione segreta, signore?}
@@ -53,7 +53,7 @@
 {305}{}{Non dovrei chiacchierare mentre sono in servizio, ma sono contento che tu abbia distrutto l'Enclave.}
 {306}{}{Ehi, }
 {310}{}{Need some more chips at table three…}
-{311}{}{Good crowd today...}
+{311}{}{Bel pubblico, oggi…}
 {315}{}{Yeah, yer Mom said I was special, too. Now take a hike…maybe she's along Virgin street somewhere.}
 {316}{}{Oh che bello! Ciao ciao}
 {317}{}{-Allontanati-}

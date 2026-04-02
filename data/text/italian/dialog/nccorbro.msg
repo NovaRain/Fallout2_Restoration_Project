@@ -287,7 +287,7 @@
 {937}{}{Oh, crudeli, crudeli divinita' del sesso! Quale offesa possiamo mai avervi rivolto per convincervi a privarci del cubo?}
 {938}{}{::Sigh:: Adesso che il cubo non c'e' piu', forse dovrei appendere il macrame' al chiodo.}
 {1000}{}{Me sentire malato-malatino in pancino.}
-{1001}{}{You have a foul, unhealthy taste in your mouth, and you feel sick to your stomach. But hey, 3 chips is 3 chips!}
+{1001}{}{Hai un sapore nauseante in bocca e lo stomaco ti si rivolta. Ma, ehi... 3 fiches sono 3 fiches!}
 {1100}{}{Ack! ::sputo, sputo:: che SCHIFO!}
 {1101}{}{Hai un sapore malsano e nauseante in bocca, e il tuo stomaco protesta. Ma, ehi! 5 dollari sono 5 dollari!}
 {1200}{}{Non... mi sento tanto bene.}
