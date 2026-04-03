@@ -1,4 +1,4 @@
-{100}{}{You see a warrior.}
+{100}{}{Vedi un guerriero.}
 {101}{}{You see Serin.}
 {102}{}{He looks badly injured and has a broken leg.}
 {103}{}{Vedi Serin. Sembra gravemente ferito e ha una gamba rotta.}

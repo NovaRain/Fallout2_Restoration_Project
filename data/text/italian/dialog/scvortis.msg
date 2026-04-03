@@ -117,4 +117,4 @@
 {274}{}{Faccio quello che voglio. E credo che ora ti ucciderò.}
 {275}{}{Tornero' quando avro' piu' soldi.}
 {280}{}{[Indica sulla tua mappa la posizione del campo degli schiavisti.] E' da quelle parti. Ora cos'altro vuoi per farmi perdere tempo?}
-{281}{}{I've got what I need. Bye.}
+{281}{}{Ho quello che mi serve. Addio.}

@@ -1,5 +1,5 @@
-{100}{}{You see a warrior.}
-{101}{}{You see Krom, the Head Warrior of the tribe.}
+{100}{}{Vedi un guerriero.}
+{101}{}{Vedi Krom, il Capo Guerriero della tribù.}
 {102}{}{Vedi un guerriero gigantesco e muscoloso. La sua pelle color bronzo porta le cicatrici di innumerevoli battaglie.}
 {200}{}{[Questo gigante abbronzato dal sole sembra avere muscoli scolpiti nel granito. Sotto una criniera di capelli neri,
  i suoi occhi blu ardenti ti trapassano.] Io sono Krom, il capo guerriero di questa tribu'. Chi sei, e cosa ti porta qui?}
@@ -10,8 +10,8 @@
 {203}{}{, e sono in una sacra missione per salvare il mio villaggio, Arroyo, da una distruzione certa.}
 {204}{}{Sono }
 {205}{}{, e sono stato in una sacra missione per salvare il mio villaggio, Arroyo, da una distruzione certa. Ma ho trovato cio' che mi serviva.}
-{206}{}{I'm a simple wanderer -- nothing more. I'll be moving on now.}
-{207}{}{[Smile.] Thank you, Krom.}
+{206}{}{Sono solo un viandante — niente di più. Ora vado.}
+{207}{}{[Sorridi.] Grazie, Krom.}
 {208}{}{Grazie, ma perche' non tieni gli occhi puntati qui su. Va bene, omone?}
 {209}{}{Risparmiami i complimenti, va bene, lurido? Non ho alcuna intenzione di andare a letto con te. Diamine, non voglio nemmeno parlare
  con te. Addio.}
@@ -44,15 +44,15 @@
  Ora, impugna la tua arma cosi' posso spaccarti il cranio, oppure sparisci dalla mia vista.}
 {241}{}{[Ride fragorosamente, poi ti da' una pacca sul sedere con una mano che sembra capace di frantumare massi.] Hai un bel fuoco dentro, ragazza. Mi piace.
  Forse potremmo metterlo a buon uso mentre sei qui. Che ne dici?}
-{242}{}{Alright, fine, I'm going.}
-{243}{}{No one threatens me, asshole!}
-{244}{}{To hell with you. I'm leaving. Bye.}
+{242}{}{D’accordo, va bene, me ne vado.}
+{243}{}{Nessuno mi minaccia, stronzo!}
+{244}{}{Al diavolo. Me ne vado. Addio.}
 {245}{}{Nessuno mi tocca, stronzo! [Attacca.]}
-{246}{}{If you keep your hands to yourself, then I just *might* consider helping.}
+{246}{}{Se tieni le mani a posto, *forse* potrei anche aiutarti.}
 {247}{}{Dipende. [Sorriso seducente.] Cosa avevi in mente, omone? [Occhiolino.]}
 {250}{}{Sono ben versato nell'arte del sarcasmo. Porta la tua lingua furba altrove prima che te la strappi dalla bocca.}
-{251}{}{Alright, fine, I'm going.}
-{252}{}{No one threatens me, asshole!}
+{251}{}{D’accordo, va bene, me ne vado.}
+{252}{}{Nessuno mi minaccia, stronzo!}
 {260}{}{Sei un tipo testardo. Per gli Dei, potrei anche iniziare a piacerti. [Sorride e ti da' una pacca sulla schiena con una
  mano che sembra capace di frantumare massi.] Finche' sei qui, forse potresti aiutarci con un paio di cose. Che ne dici?}
 {261}{}{Sei una tipa testarda. Per gli Dei, potrei anche iniziare a piacerti, ragazza. [Sorride e ti da' una pacca sul sedere
@@ -61,7 +61,7 @@
 {262}{}{Certo, credo di poter dare una mano prima di andare. Cosa vorresti che facessi?}
 {263}{}{Mi dispiace, ma non ho proprio il tempo. Anzi, dovrei davvero rimettermi in cammino ora. Addio.}
 {264}{}{Certo, credo di poter dare una mano prima di andare. Cosa vorresti che facessi?}
-{265}{}{If you keep your hands to yourself, then I just *might* consider helping.}
+{265}{}{Se tieni le mani a posto, *forse* potrei anche aiutarti.}
 {266}{}{Mi dispiace, ma non ho proprio il tempo. Anzi, dovrei davvero rimettermi in cammino ora. Addio.}
 {267}{}{Nessuno mi tocca, stronzo! [Attacca.]}
 {268}{}{Dipende. [Sorriso seducente.] Cosa avevi in mente, omone? [Occhiolino.]}
@@ -70,14 +70,14 @@
 {280}{}{[Volentieri. [Ti guarda negli occhi e sorride in modo lupesco. Nonostante l'aspetto segnato e ruvido, possiede una rude avvenenza.]
  Dimmi, ragazza, qual e' il tuo nome, e cosa ti porta nel nostro villaggio?}
 {290}{}{[Krom sorride in modo lupesco, poi ti afferra tra le sue possenti braccia.]}
-{291}{}{[Get to it.]}
+{291}{}{[Datti da fare.]}
 {292}{}{Ehi! Lasciami andare, hai capito tutto male!}
 {300}{}{Al diavolo te, tentatrice! Vai a stuzzicare qualcun altro. Non ho tempo da perdere con te.}
-{301}{}{Yeah, well fuck you too. Bye.}
+{301}{}{Sì, beh, fottiti anche tu. Addio.}
 {302}{}{Vabbe'. Ci vediamo.}
 {310}{}{[Diverse ore passano in una foschia di passione sudata e brutale. Alla fine, giaci sul pavimento della capanna di Krom, esausta.
  Krom e' al tuo fianco, i suoi occhi divorano i contorni del tuo corpo.] Per gli Dei, ragazza, sei incredibile!}
-{311}{}{Thanks. You're not so bad yourself.}
+{311}{}{Grazie. Anche tu non sei niente male.}
 {312}{}{Certo che lo sono. Dopotutto, sono il Prescelto.}
 {320}{}{[Krom ti rivolge un sorriso strano.] Gli Dei sanno che hai fatto miracoli per me, ragazza, ma forse ti interesserebbe
  aiutare anche il resto della tribu'?}
@@ -85,46 +85,46 @@
 {322}{}{Vorrei poter aiutare, ma dovrei davvero andare ora. Mi dispiace.}
 {323}{}{Vuoi che mi scopi il resto della tribu'? Che tipo di ragazza credi che io sia?}
 {330}{}{[Krom scoppia in una fragorosa risata.] Dei no, ragazza! Anche se potrebbe fare miracoli per il morale dei miei guerrieri, odierei condividere un miele dolce come te. No, ho un compito molto piu' banale per te, se sei disposta.}
-{331}{}{That depends. What would you need me to do?}
+{331}{}{Dipende. Che cosa vorresti che facessi?}
 {340}{}{[Ti osserva attentamente, come se stesse valutando qualcosa.] Devo incontrare uno di quei dannati mercanti civilizzati
  tra poco — un uomo grassoccio e guercio, che mi fido quanto di un radscorpion affamato. Non ci ha ancora traditi,
  ma ho un brutto presentimento per il nostro prossimo incontro.}
 {341}{}{E perche'?}
-{342}{}{I don't see how I fit into this. What's your point?}
+{342}{}{Non vedo cosa c’entri io. Dove vuoi arrivare?}
 {350}{}{L'ultima volta che abbiamo parlato, si vantava che mi avrebbe portato qualcosa di davvero miracoloso, e che sarebbe stato saggio
  per me portare tutte le pelli di gecko dorato che potevo trasportare. Non so quale sia il suo oggetto miracoloso, ma probabilmente e' qualche
  gingillo civilizzato sperando che io sia abbastanza ignorante da pagarlo piu' del dovuto. Ecco perche' vorrei che fossi tu a fare lo scambio.}
 {351}{}{Perche' io?}
-{352}{}{Sorry, but I think I'll pass. Bye.}
+{352}{}{Mi spiace, ma passo. Addio.}
 {360}{}{Perche' sei del mio sangue — una sorella tribale, come ci chiamano — e posso dire che hai avuto esperienza recente
  con il mondo civilizzato. Se prova a fregarti, tu lo noteresti piu' facilmente di me. Inoltre, ho un buon presentimento su di te,
  e ho imparato a fidarmi dei miei istinti.}
 {361}{}{Perche' sei del mio sangue — una sorella tribale, come ci chiamano — e posso dire che hai avuto esperienza recente
  con il mondo civilizzato. Se prova a fregarti, tu lo noteresti piu' facilmente di me. Inoltre, ho un buon presentimento su di te, ragazza,
  e ho imparato a fidarmi dei miei istinti.}
-{362}{}{Alright. Let's do this.}
-{363}{}{Alright, but give me a moment to get ready.}
+{362}{}{D’accordo. Facciamolo.}
+{363}{}{D’accordo, ma dammi un momento per prepararmi.}
 {364}{}{Se ti aiuto, cosa avro' in cambio?}
 {370}{}{[Ride piano.] Ti offro l'ospitalita' della nostra tribu' e l'opportunita' di impressionarmi. Non prometto altro.}
-{371}{}{Alright. Let's do this.}
-{372}{}{Alright, but give me a moment to get ready.}
+{371}{}{D’accordo. Facciamolo.}
+{372}{}{D’accordo, ma dammi un momento per prepararmi.}
 {373}{}{Non mi interessa. Ciao.}
-{375}{}{Are you ready to go?}
+{375}{}{Sei pronto ad andare?}
 {376}{}{Non ancora.}
-{377}{}{Alright. Let's do this.}
-{380}{}{It's up to you to decide.}
+{377}{}{D’accordo. Facciamolo.}
+{380}{}{Sta a te decidere.}
 {390}{}{[Krom esamina uno degli stimpak appena acquisiti dalla tribu'.] Questi dovrebbero rivelarsi piuttosto utili. [Avvicina
  lo stimpak al naso, annusa e aggrotta la fronte. Ne spruzza un po' sulla mano e lo assaggia con cautela.] Maledetti gli Dei!
  Sono pieni di sangue di brahmin! Quel bastardo guercio ci ha fregati. In questo momento starà ridendo di noi mentre si gode le sue nuove pelli dorate.}
-{391}{}{Sorry about that. I had no idea they were fake.}
-{392}{}{Oh well. Live and learn.}
+{391}{}{Scusa. Non avevo idea che fossero falsi.}
+{392}{}{Pazienza. Si impara vivendo.}
 {400}{}{Se rivedo mai quel cane imbroglione, saro' lieto di spaccargli il cranio. Ora, se vuoi scusarmi,
  devo sbarazzarmi di alcune fiale di sangue di brahmin. Forse lo sciamano potrebbe farne qualcosa.}
 {410}{}{Non mi importava di quel bastardo brutto, ma per gli Dei, non avevo intenzione di farlo a pezzi. Certo, ora la sua merce e' libera
  da prendere, ma se si sparge la voce che e' venuto a commerciare con noi e non e' mai tornato, verremo messi al bando dai mercanti.}
 {411}{}{Non mi importava di quel bastardo brutto, ma per gli Dei ragazza, non avevo intenzione di farlo a pezzi. Certo, ora la sua merce e' libera
  da prendere, ma se si sparge la voce che e' venuto a commerciare con noi e non e' mai tornato, verremo messi al bando dai mercanti.}
-{412}{}{Sorry, I guess I got carried away.}
+{412}{}{Scusa, mi sono lasciato prendere la mano.}
 {413}{}{Era feccia civilizzata e meritava la morte.}
 {414}{}{Oops.}
 {420}{}{Ora vedo che e' stato un errore affidarti questo compito. Terra' gli occhi ben aperti su di te finche' resterai nel nostro
@@ -142,7 +142,7 @@
  stati utili, ma siamo sopravvissuti senza, e continueremo a farlo. Sei la benvenuta tra noi, ragazza,
  e puoi considerare la nostra tribu' come la tua. Tuttavia, potrei chiedere ancora il tuo aiuto in futuro. Grazie per l'aiuto.}
 {442}{}{Nessun problema.}
-{443}{}{My pleasure.}
+{443}{}{È stato un piacere.}
 {444}{}{Vabbe'. Ci vediamo.}
 {450}{}{Se rivedo mai quel cane imbroglione, saro' felice di spaccargli il cranio. Tuttavia, hai fatto bene a scoprire il suo inganno.
  Vedo che ho fatto una scelta saggia nel fidarmi di te. Sei il benvenuto tra noi, e puoi considerare la nostra tribu' come la tua.
@@ -151,7 +151,7 @@
  Vedo che ho fatto una scelta saggia nel fidarmi di te, ragazza. Sei la benvenuta tra noi, e puoi considerare la nostra tribu' come la tua.
  Tuttavia, potrei chiedere ancora il tuo aiuto in futuro. Grazie per l'aiuto.}
 {452}{}{Nessun problema.}
-{453}{}{My pleasure.}
+{453}{}{È stato un piacere.}
 {454}{}{Vabbe'. Ci vediamo.}
 {460}{}{[Il gigante guerriero annuisce in segno di saluto mentre ti avvicini.] Bentornato, amico. Ti serve qualcosa?}
 {461}{}{[Il gigante guerriero sorride mentre ti vede avvicinarti.] Per gli Dei, quasi dimenticavo quanto sei splendida. Ti serve qualcosa, ragazza?}
