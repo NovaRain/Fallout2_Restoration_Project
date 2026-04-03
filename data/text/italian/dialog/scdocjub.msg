@@ -75,12 +75,12 @@
 {174}{}{Certo. Ecco i }
 {175}{}{Grazie; ho cercato di farmi dare i soldi da Saltbeef, ma quel vagabondo non ne ha mai avuti.}
 {176}{}{.}
-{200}{}{Whoa there, }
+{200}{}{Ehi, piano lì,}
 {201}{}{figliolo! }
 {202}{}{signorina! }
 {203}{}{Non puoi toccare quella roba! Ho appena misurato la dose del signor Westin e non vorremmo mica che prendesse le medicine sbagliate. Che diavolo credi di fare?}
 {204}{}{Stavo solo cercando di dare un'occhiata a quelle pillole che hai sullo scaffale la'.}
-{205}{}{Oh, don't mind me. I was just window shopping.}
+{205}{}{Oh, non badare a me. Stavo solo dando un’occhiata.}
 {206}{}{Scusa. Ho sempre avuto questa irresistibile compulsione a frugare tra le cose degli altri che non sono mai riuscito a scrollarmi di dosso.}
 {207}{}{Onestamente? Non mi aspettavo che fossi cosi' attento. Immagino che dovro' improvvisare.}
 {210}{}{Davvero? (Il Dott. Jubilee ti guarda con freddezza.) Direi che sei un po' troppo giovane per soffrire di un cuore malandato.}
@@ -88,7 +88,7 @@
 {212}{}{E vorrei che avessi ragione. L'ho preso da mio padre. O almeno cosi' mi dicono.}
 {213}{}{Oh, niente del genere. Sono solo esageratamente curioso, immagino.}
 {220}{}{Be', non puoi. Questo e' uno studio privato, non una farmacia. Potresti provare da Duppo, un po' a nord di qui.}
-{221}{}{Sounds like just what I'm looking for. Bye.}
+{221}{}{Sembra proprio quello che cercavo. Addio.}
 {222}{}{Ci daro' un'occhiata. Nel frattempo, pero', ti dispiace se ti faccio qualche domanda?}
 {223}{}{No, credo di essere venuto nel posto giusto. Vedo che stai facendo un buon lavoro qui. Pensavo di poter fare una donazione.}
 {230}{}{(Il dottore sbatte le palpebre. Le sbatte di nuovo.) Dovresti probabilmente parlarne con qualcuno. Purtroppo
@@ -96,27 +96,27 @@
  ricette, qualche povero disgraziato finira' in un mare di guai, se e' ancora in questo mondo. Meglio tenerti le mani per te.}
 {231}{}{Certo, dottore. Ma, uh, senti-- ho un amico che avrebbe davvero bisogno di alcune di quelle pillole per il cuore che hai la'.
  Pensi di essere disposto a vendermene un po'?}
-{240}{}{Awww, }
-{241}{}{son, }
+{240}{}{Awww,}
+{241}{}{ragazzo,}
 {242}{}{signorina, }
 {243}{}{Vorrei poterti aiutare, ma non sto prendendo nuovi pazienti adesso. Il Consiglio mi ha assunto a contratto. Non posso venderti pillole neanche-- la gente del Consigliere Westin dovrebbe venire a ritirare quelle tra }
-{244}{}{ days, }
+{244}{}{ giorni,}
 {245}{}{ giorno, }
 {246}{}{e non avro' proprio il tempo di preparare un altro lotto prima di allora.}
 {247}{}{Capisco, dottore. Forse trovero' un farmacista decente da qualche altra parte. Se non e' troppo chiedere, pero', hai qualche consiglio da darmi sull'argomento? Una medicina del genere non si trova spesso.}
 {248}{}{Queste sono le regole del gioco, immagino. Comunque, dovrei stare bene. Ho imparato *un sacco* di cardamomagia dai vecchi fumetti. Ridurre i chem pesanti a due volte al giorno AL MASSIMO, assicurarsi di fare esercizio in brevi scatti intensi cosi' il cuore non ha tempo di fare i capricci, roba del genere.}
 {250}{}{Mi dispiace per te, amico, ma temo che quelle pillole siano per il Consigliere Westin, e non sto prendendo nuovi pazienti adesso quindi non potrei scriverti una ricetta. Ora per favore, non andare a toccare quello scaffale. Se quelle ricette si mescolano, qualcuno potrebbe finire molto male.}
-{260}{}{Let's be clear here, }
-{261}{}{mister. }
-{262}{}{missy. }
-{263}{}{What exactly do you mean by "donation?"}
+{260}{}{Sia chiaro,}
+{261}{}{signore.}
+{262}{}{signorina.}
+{263}{}{Cosa intendi esattamente per “donazione”?}
 {264}{}{Un contributo di beneficenza, a sostegno del tuo servizio al pubblico, diciamo... 150 dollari? Puoi contarli nel retro. Ci vorra' solo un minuto, giusto?}
 {265}{}{Uh, in realta', credo che dovrei consultare il mio commercialista prima di fare qualcosa di avventato. A dopo, dottore.}
 {270}{}{Non posso, temo. Quelle sono per il Consigliere Westin. La sua gente dovrebbe passare a ritirarle tra }
-{271}{}{ days, }
+{271}{}{ giorni,}
 {272}{}{ giorno, }
 {273}{}{e non avro' il tempo di preparare un altro lotto prima di allora. Sono sicuro che puoi trovare un farmacista con meno lavoro.}
-{274}{}{I see. Well, thanks anyway.}
+{274}{}{Capisco. Grazie comunque.}
 {280}{}{(Il Dott. Jubilee ti fissa a bocca aperta per un momento.) Aw, mi stai prendendo in giro, vero? Devi stare per forza facendo il furbetto. (Ti guarda di nuovo, scuote la testa, gonfia le guance.) Hooo, ragazzo. In ogni caso, non sarei un vero dottore se ti lasciassi andare senza almeno qualche consiglio.}
 {281}{}{Vediamo... per cominciare, dovresti probabilmente smettere di fare... be', praticamente quasi tutto dovrebbe bastare. Niente alcol, niente fumo, niente carne rossa, NIENTE chem. Cerca di fare mezz'ora al giorno di esercizio LEGGERO. E prendila con calma. La vita non e' una gara, almeno non del tipo dove vuoi arrivare primo alla fine. A dire il vero, nessuno ascolta mai queste cose, ma almeno staro' piu' tranquillo stanotte.}
 {282}{}{Piu' importante, devi trovare un chimico decente e dirgli che hai bisogno di una fornitura regolare di Triprosinil. Tri-pros-i-nil. La roba del wasteland non sara' elegante come quella che ho sullo scaffale la', ma chimicamente e' tutta uguale quando si viene al sodo. 30 milligrammi, due volte al giorno.}
@@ -126,7 +126,7 @@
 {286}{}{Grazie mille, dottore. Non hai idea di quanto mi sei stato d'aiuto. Prenditi cura di te.}
 {287}{}{Tri-pros-i-nil, no pil-lo-le-per-il-caz-zo. Heh heh. Lo terro' a mente. A presto, dottore.}
 {290}{}{Pensi di avere a che fare con qualche cerusico losco da bartertown, }
-{291}{}{son, }
+{291}{}{ragazzo,}
 {292}{}{ragazzina, }
 {293}{}{e' cosi'? Non farlo. Sono un professionista medico dell'NCR formato e accreditato, e vale molto di piu' di quella manciatina di spiccioli.}
 {294}{}{Mi scuso. Ovviamente, un professionista del tuo calibro merita una donazione di non meno di 250 dollari.}
@@ -137,11 +137,11 @@
 {302}{}{ donna, }
 {303}{}{quindi ascolta bene: sono un dottore dell'NCR. E' un dovere solenne, e viene con un giuramento solenne. Se mi chiedi ancora una volta di pisciare su quel giuramento, l'UNICA parte che finira' dalla finestra e' "prima di tutto, non nuocere." Capito?}
 {304}{}{Va bene, al diavolo. Se sei cosi' bravo come sembri credere, forse riuscirai a rammendarti da solo dopo questo.}
-{305}{}{Whoa, now. Didn't mean to step on any toes, doc. I'll just leave you be for awhile.}
-{310}{}{Say, doc, I was wondering about those heart pills you've got up there on the shelf.}
+{305}{}{Ehi, calma. Non volevo offenderti, dottore. Ti lascio lavorare.}
+{310}{}{Senta, dottore, mi chiedevo di quelle pillole per il cuore che ha lì sullo scaffale.}
 {311}{}{Sei sicuro di non poter riconsiderare di vendermi alcune di quelle pillole?}
 {320}{}{Spiacente, la gente del Consigliere Westin dovrebbe passare a ritirarle tra }
-{321}{}{ days, }
+{321}{}{ giorni,}
 {322}{}{ giorno, }
 {323}{}{e sono semplicemente troppo occupato per preparare un altro lotto in tempo.}
 {324}{}{(Borbotta tra se'.) Dove diavolo ho messo quelle pillole per il signor Westin. Il suo cuore non durera' a lungo senza di esse. (Alza lo sguardo.)

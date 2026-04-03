@@ -17,7 +17,7 @@
 {212}{}{Va bene, Sulik, e' il momento del tuo piano. E' ora di far fuori la spazzatura.}
 {213}{}{[Infili la chiave nella serratura e apri il cancello, che stride mentre si apre.]}
 {214}{}{Hai avuto fortuna, amico? Per favore, fai presto.}
-{215}{}{Not yet. I'm still working on it.}
+{215}{}{Non ancora. Ci sto ancora lavorando.}
 {216}{}{I got the keys. Time to get you out of here.}
 {217}{}{Perche' c'e' cosi' tanto trambusto la fuori? Ah, sento che molti sono andati a raggiungere gli spiriti. Chi e'... Sulik? Gli spiriti stanno scherzando, o sei davvero tu, fratello?}
 {218}{}{Perche' c'e' cosi' tanto trambusto la fuori? Ah, sento che molti sono andati a raggiungere gli spiriti. E sento che sei tu a mandarli. Di cosa hai bisogno, Fabbricatore-di-fantasmi?}

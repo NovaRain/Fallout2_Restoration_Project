@@ -58,7 +58,7 @@
 {158}{}{Alright. I'll try to speak with him. Bye.}
 {159}{}{Allora andro' a parlare con lui. Tuttavia, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}
 {200}{}{Ehi, se sei davvero lo stesso Ian che viaggio' con il mio antenato, allora ho una domanda per te.}
-{201}{}{Alright, let's hear it.}
+{201}{}{D’accordo, sentiamo.}
 {202}{}{Come diavolo fai a essere ancora vivo? Devi avere piu' di cent'anni. Senza contare le memorie dell'Abitante del Vault, che dicono che sei stato bruciato vivo a Necropolis da un supermutante con un lanciafiamme.}
 {203}{}{[Scoppia in una risata roca per un po'; poi si calma e si asciuga un paio di lacrime.] Oh, questa e' buona. Bruciato vivo da un lanciafiamme, ah! Vedi, dissi all'Abitante del Vault di inventarsi una storia su come fossi morto, perche' non volevo che i nostri vecchi nemici cercassero di darmi la caccia -- ecco perche' ho cambiato nome. Gli dissi di farmi morire in un'esplosione di gloria, e a quanto pare l'ha presa alla lettera. Ah, questa e' fantastica.}
 {204}{}{Heh, immagino che questo chiarisca tutto. Comunque, ero curioso riguardo alle talpe giganti che stanno proteggendo il villaggio.}
