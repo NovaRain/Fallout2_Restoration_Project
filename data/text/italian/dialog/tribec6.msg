@@ -1,7 +1,7 @@
-{100}{}{You be needin' something?}
-{101}{}{Yeah, I was wondering who you're guarding.}
-{102}{}{Me? Oh no, I don't need anything. Bye.}
-{103}{}{Who you guard?}
+{100}{}{Ti serve qualcosa?}
+{101}{}{Sì, mi chiedevo chi stai sorvegliando.}
+{102}{}{Io? Oh no, non mi serve niente. Addio.}
+{103}{}{Chi tu guarda?}
 {104}{}{Ciao!}
 {110}{}{Io sto proteggendo il capo sacro della tribu'. Colui che cammina con gli spiriti. Grande onore proteggerlo. Tenere fuori gli indesiderati, come te. Ora vattene.}
 {111}{}{[FATTO]}

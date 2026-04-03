@@ -4,12 +4,12 @@
 {103}{}{She appears to be busily cooking.}
 {104}{}{Salve.}
 {200}{}{Non sei il benvenuto qui.}
-{201}{}{The spirits do not like you.}
-{202}{}{Go away, outworlder.}
-{203}{}{Why do you plague us?}
+{201}{}{Gli spiriti non ti vedono di buon occhio.}
+{202}{}{Vattene, straniero.}
+{203}{}{Perché ci tormenti?}
 {204}{}{Benvenuto, amico.}
-{205}{}{You will always be welcome here.}
-{206}{}{The spirits accept you as one of us.}
+{205}{}{Sarai sempre il benvenuto qui.}
+{206}{}{Gli spiriti ti accettano come uno di noi.}
 {207}{}{Grazie per averci aiutato.}
 {208}{}{Credevo che tutti i forestieri fossero malvagi. Non e' cosi'...}
 {209}{}{Non farlo.}
