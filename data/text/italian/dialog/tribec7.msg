@@ -1,6 +1,6 @@
-{100}{}{You see a tribal woman.}
-{101}{}{You see Kurisu, Sulik's sister.}
-{102}{}{You see a young, full figured tribal woman with several piercings and tattoos.}
+{100}{}{Vedi una donna della tribù.}
+{101}{}{Vedi Kurisu, la sorella di Sulik.}
+{102}{}{Vedi una giovane donna tribale, formosa, con diversi piercing e tatuaggi.}
 {150}{}{[FINE]}
 {200}{}{Sulik! [Si blocca e inizia a sussurrare.] Gli spiriti stanno scherzando, o sei davvero tu, fratello?}
 {201}{}{Io? No, sono il Prescelto. Devi stare pensando al vecchio naso d'ossa qui.}
@@ -18,30 +18,30 @@
 {213}{}{[Infili la chiave nella serratura e apri il cancello, che stride mentre si apre.]}
 {214}{}{Hai avuto fortuna, amico? Per favore, fai presto.}
 {215}{}{Non ancora. Ci sto ancora lavorando.}
-{216}{}{I got the keys. Time to get you out of here.}
+{216}{}{Ho le chiavi. È ora di tirarti fuori di qui.}
 {217}{}{Perche' c'e' cosi' tanto trambusto la fuori? Ah, sento che molti sono andati a raggiungere gli spiriti. Chi e'... Sulik? Gli spiriti stanno scherzando, o sei davvero tu, fratello?}
 {218}{}{Perche' c'e' cosi' tanto trambusto la fuori? Ah, sento che molti sono andati a raggiungere gli spiriti. E sento che sei tu a mandarli. Di cosa hai bisogno, Fabbricatore-di-fantasmi?}
 {219}{}{Sono venuto a salvarvi.}
 {221}{}{Lode agli spiriti! Per favore, devi tirarci fuori da questa gabbia. Lontano da questo luogo malvagio.}
 {222}{}{Gli spiriti ti lodano! Ora devo andare e tornare dal mio popolo. Sono mancata per molto tempo. Per favore, passa dal mio villaggio. E' vicino alla Grande Acqua Salata, qualche giorno a sud-ovest da qui. Grazie, amico.}
 {223}{}{[Sulik corre verso il portone e afferra le mani tese di sua sorella. Ti giri per dare un po' di privacy alla loro riunione emozionata. Pochi istanti dopo, sua sorella si gira verso di te.] Gli spiriti delle ossa dicono che tu stai guidando Sulik. Mi chiamo Kurisu, ma ora non e' il momento per i saluti come si deve. Gli Schiavisti, sono morti, vero?}
-{224}{}{Yes, the slavers are dead.}
+{224}{}{Sì, gli schiavisti sono morti.}
 {225}{}{Lode agli spiriti! Per favore, apri questa porta. Siamo impazienti di andarcene da questo luogo malvagio.}
-{226}{}{Don't worry. I got a key.}
-{227}{}{Alright, let me try and lockpick this door.}
-{400}{}{Let's keep moving.}
-{401}{}{Please, I wantin' to be home.}
+{226}{}{Non preoccuparti. Ho una chiave.}
+{227}{}{D’accordo, lascia che provi a scassinare questa porta.}
+{400}{}{Andiamo avanti.}
+{401}{}{Ti prego, voglio tornare a casa.}
 {410}{}{[Ti giri verso Kurisu.] Aspetta, non voglio andarmene finche' non libero gli schiavi nelle altre gabbie. 
 Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] State zitti e dirigetevi verso il bosco. Pensero' io alle guardie.}
 {500}{}{Se mi stai scegliendo per un giaciglio, faresti meglio ad aspettarti una lotta -- aspetta, tu non hai il marchio del demone sulla testa. Chi sei?}
-{501}{}{I'm the "Chosen One" and who are you?}
+{501}{}{Io sono il Prescelto. E tu chi sei?}
 {502}{}{Il mio nome e' }
 {503}{}{. Chi sei?}
 {510}{}{Il mio nome e' Kurisu. Vengo da una tribu' a sud-ovest, vicino alla Grande Acqua Salata. Gli schiavisti mi hanno presa. Hanno preso anche altri, ma loro sono stati mandati via. Dicono che non hanno finito con me. Mi tengono qui per il loro piacere malvagio. Per favore, devi tirarci fuori da questa gabbia e lontano da quegli uomini malvagi.}
 {511}{}{Non preoccuparti, sono qui per tirarti fuori. Ho una chiave e il permesso di portarvi via da qui.}
-{512}{}{Alright, let me try and lockpick this door.}
+{512}{}{D’accordo, lascia che provi a scassinare questa porta.}
 {530}{}{E' sicuro ora? Hai mandato gli schiavisti dagli spiriti?}
-{531}{}{Yes, it's safe. We can go to your village now.}
+{531}{}{Sì, è sicuro. Possiamo andare al tuo villaggio ora.}
 {532}{}{Si', ma lasciami liberare prima tutti gli schiavi qui, prima di andare.}
 {533}{}{No, not yet. I'll be back when it's safe.}
 {600}{}{Lode agli spiriti, siamo finalmente a casa! Grazie mille, amico.}
