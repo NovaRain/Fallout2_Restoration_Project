@@ -1,7 +1,7 @@
 {100}{}{Vedi un tribale.}
-{101}{}{You see a member of the tribe.}
-{102}{}{One of the few remaining people in the tribe.}
-{200}{}{You're not welcome here.}
+{101}{}{Vedi un membro della tribù.}
+{102}{}{Uno dei pochi membri rimasti della tribù.}
+{200}{}{Non sei il benvenuto qui.}
 {201}{}{The spirits do not like you.}
 {202}{}{Go away, outworlder.}
 {203}{}{Why do you plague us?}

@@ -3,7 +3,7 @@
 {102}{}{Porta con se' un palo appuntito usato per la pesca.}
 {103}{}{She appears to be busily cooking.}
 {104}{}{Salve.}
-{200}{}{You're not welcome here.}
+{200}{}{Non sei il benvenuto qui.}
 {201}{}{The spirits do not like you.}
 {202}{}{Go away, outworlder.}
 {203}{}{Why do you plague us?}

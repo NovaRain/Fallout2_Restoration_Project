@@ -86,7 +86,7 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {973}{}{Io conoscere Sulik. Sulik amico mio. Lui parlare come me. Lui parlare con osso nel naso.}
 {974}{}{I bring him. He miss yoo.}
 {975}{}{Me sorry. He dead.}
-{976}{}{I still look.}
+{976}{}{Me ancora cerca.}
 {1000}{}{Riunisci Sulik con sua sorella.}
 {2000}{}{I *knew* the bonespirit's had big plans for you.}
 {2001}{}{Prima tu salvare me. Poi tu salvare il mondo. Tu essere proprio l'eroe.}

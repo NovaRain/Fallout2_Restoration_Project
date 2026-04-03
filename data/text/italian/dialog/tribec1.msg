@@ -155,57 +155,57 @@
 {454}{}{Vabbe'. Ci vediamo.}
 {460}{}{[Il gigante guerriero annuisce in segno di saluto mentre ti avvicini.] Bentornato, amico. Ti serve qualcosa?}
 {461}{}{[Il gigante guerriero sorride mentre ti vede avvicinarti.] Per gli Dei, quasi dimenticavo quanto sei splendida. Ti serve qualcosa, ragazza?}
-{462}{}{I was wondering if I could ask you a couple questions.}
-{463}{}{No, sorry, I thought this was a different tent. I'll be going now.}
+{462}{}{Mi chiedevo se potessi farti un paio di domande.}
+{463}{}{Scusa, pensavo fosse un’altra tenda. Me ne vado.}
 {464}{}{[Sorriso seducente] Si', omone. Ho proprio bisogno di qualcosa. [Occhiolino.]}
 {470}{}{Certamente.}
-{471}{}{You look like you've been through a lot. I was wondering what your story is.}
-{472}{}{What could you tell me about this village?}
-{473}{}{Is there anything going on here I could help you with?}
+{471}{}{Sembri averne passate tante. Mi chiedevo qual è la tua storia.}
+{472}{}{Cosa puoi dirmi di questo villaggio?}
+{473}{}{C’è qualcosa che sta succedendo qui e con cui potrei aiutarvi?}
 {474}{}{Uh, strano. Sembra che abbia dimenticato cosa volevo chiederti. Tornero' se mi torna in mente. Addio.}
 {480}{}{[Ride piano.] Si', credo di averne passate molte. Vengo da una tribu' lontana, a nord. Quando avevo quindici anni,
  siamo stati attaccati da selvaggi. Mi svegliai quel giorno come un ragazzo, ma quando il sole tramonto' su quella scena cupa,
  mi ero fatto strada fino alla virilita' con la lama. Ogni uomo, donna e bambino era morto, tranne me. Ah, ma cos'e' la vita senza battaglia e conflitto?
  O spezza un uomo, o lo forgia come acciaio. Porto le mie cicatrici con orgoglio.}
-{481}{}{So what'd you do then?}
-{482}{}{Alright, I think I've heard enough. Let me ask you something else.}
+{481}{}{E quindi cosa hai fatto, poi?}
+{482}{}{D’accordo, credo di aver sentito abbastanza. Lascia che ti chieda qualcos’altro.}
 {490}{}{Ammucchiai i corpi e li guardai bruciare per tutta la notte. Poi raccolsi cio' che potevo e iniziai a vagare. Passai
  del tempo con varie tribu'; combattere molte battaglie. Trascorsi un po' di tempo tra gli uomini "civilizzati", ma mi stancarono presto.
  Troppi cani senza onore nascosti dietro le loro armi. Preferisco una buona battaglia di carne e acciaio. Non sono un uomo complicato.
  Dammi battaglie e banchetti, vino e donne. Cos'altro conta in questo mondo cupo?}
-{491}{}{So how'd you end up here?}
+{491}{}{Come sei finito qui, allora?}
 {500}{}{Arrivai qui un paio d'anni fa. Questa tribu' mi accolse e mi tratto' bene. Mi offrirono di diventare il loro capo guerriero,
  cosa che ovviamente accettai. Mi sono trovato bene qui, accanto alla Grande Acqua Salata. Ma sento crescere dentro di me il richiamo del viaggio.
  Un giorno non lontano, credo che riprendero' il cammino per vedere cosa gli Dei hanno in serbo per me.}
-{501}{}{Thanks for the story. Could I ask you something else?}
-{502}{}{Thanks for the story. Bye.}
+{501}{}{Grazie per la storia. Posso chiederti qualcos’altro?}
+{502}{}{Grazie per la storia. Addio.}
 {510}{}{Vediamo... La maggior parte dei membri di questo villaggio proviene da tre piccole tribu' che decisero di unirsi molti
  anni fa per evitare l'estinzione. Cio' crea un interessante miscuglio di usanze e dialetti. E, cosa piu' importante,
  crea un buon miscuglio di donne. A parte questo, non c'e' molto da dire. E' un villaggio semplice dove lottiamo per forgiare
  una semplice esistenza.}
-{511}{}{Alright, thanks. Could I ask you something else?}
+{511}{}{D’accordo, grazie. Posso chiederti qualcos’altro?}
 {512}{}{Okay, grazie. Ci vediamo.}
 {520}{}{A dire il vero, sembra che Marli stia avendo qualche problema con il pozzo. Se ti va di aiutare, potresti andare a vedere qual e' il problema.}
 {521}{}{Okay, grazie. Ci vediamo.}
-{522}{}{Alright, maybe I'll do that. But first, could I ask you something else?}
+{522}{}{D’accordo, forse lo farò. Ma prima, posso chiederti qualcos’altro?}
 {530}{}{Bene rivederti, amico. Se hai un momento, avrei di nuovo bisogno del tuo aiuto.}
 {531}{}{Bene rivederti, ragazza. Se hai un momento, avrei bisogno del tuo aiuto.}
 {532}{}{Certo. Cosa ti serve?}
-{533}{}{Sorry, I'm busy now. Perhaps later.}
+{533}{}{Scusa, ora sono occupato. Forse più tardi.}
 {540}{}{Due dei nostri cacciatori, Serin e Jerem, non sono ancora tornati dal terreno di caccia e alcuni stanno iniziando a preoccuparsi. Sono due dei nostri migliori guerrieri, e non vorrei pensare che sia successo loro qualcosa. Andrei a cercarli io stesso, ma se i villaggi vedessero che mi interesso cosi' tanto, temo che penserebbero al peggio. Preferisco non agitare nessuno finche' non so cosa sta succedendo. Quindi, li cercherai tu per me?}
-{541}{}{Alright, but where should I look?}
+{541}{}{D’accordo, ma dove dovrei cercare?}
 {542}{}{Mi dispiace, ma non ho tempo per cercarli. Inoltre, sono sicuro che torneranno presto. Addio.}
-{543}{}{I'm not here to babysit your warriors. Bye.}
+{543}{}{Non sono qui per fare da balia ai tuoi guerrieri. Addio.}
 {550}{}{Controlla il terreno di caccia, a nord. Il modo piu' rapido per arrivarci e' attraverso la grotta a ovest, vicino alla Grande Acqua Salata. Normalmente non consiglierei quella strada, perche' rischia di crollare, ma e' importante che tu faccia in fretta. Procedi con cautela nella grotta, e dovresti farcela.}
-{551}{}{Alright, I'll hurry and try to find them.}
+{551}{}{D’accordo, mi sbrigherò e cercherò di trovarli.}
 {552}{}{Aspetta, vuoi che passi in una grotta che sta per crollare? Hmm... Merda, mi sono appena ricordato! Devo andare a salvare la mia tribu'! Scusa, devo scappare.}
-{560}{}{Do you bring news of the lost hunters?}
-{561}{}{Not yet. I'll keep looking.}
+{560}{}{Hai notizie dei cacciatori scomparsi?}
+{561}{}{Non ancora. Continuerò a cercare.}
 {562}{}{Si', li ho trovati nella grotta. Sono entrambi morti.}
 {570}{}{[Krom annuisce, il volto cupo.] Come?}
 {571}{}{C'e' stato un crollo. Uno e' stato schiacciato dalle rocce; l'altro e' rimasto intrappolato sotto le macerie, poi divorato vivo da un gecko. E' stato piuttosto brutale.}
 {580}{}{Uccisi da un dannato crollo. Maledetti gli Dei! Odio perdere uomini validi in questo modo. Avrebbero dovuto morire sul campo di battaglia, come i veri guerrieri che erano. [Scuote la testa.] La loro perdita e' un duro colpo per questa tribu'. Comunque, grazie per averli cercati. I tuoi servigi non sono piu' necessari.}
-{581}{}{Sure, anytime. Bye.}
+{581}{}{Certo, quando vuoi. Addio.}
 {582}{}{Sono certo che fossero grandi uomini. Addio.}
 {590}{}{Grazie per aver trovato i cacciatori. La perdita di Jerem e' grave, era un guerriero abile. Avrebbe dovuto morire
  sul campo di battaglia, non per un dannato crollo. Comunque, Serin dovrebbe riprendersi completamente, grazie a te, amico. Sarai
@@ -213,46 +213,46 @@
 {591}{}{Grazie per aver trovato i cacciatori. La perdita di Jerem e' grave, era un guerriero abile. Avrebbe dovuto morire
  sul campo di battaglia, non per un dannato crollo. Comunque, Serin dovrebbe riprendersi completamente, grazie a te, ragazza. Sarai
  sempre la benvenuta qui.}
-{592}{}{Thanks. Take care, Krom.}
+{592}{}{Grazie. Stammi bene, Krom.}
 {800}{}{Mia tribu', Arroyo, bisogno aiuto. Io aiuto. Io speciale aiutante prescelto.}
 {801}{}{[Krom ride.] Si', sei sicuramente speciale. [Sorride e ti arruffa i capelli con una mano che sembra capace
  di frantumare massi.] Ti piace aiutare, eh? Che ne diresti di diventare l'aiutante speciale della nostra tribu'?}
-{802}{}{I help! Wut you need?}
+{802}{}{Me aiuta! Cosa serve?}
 {803}{}{Nuh-uh. Io aiuto Arroyo. No tempo aiutare altri. Biiiee!}
 {810}{}{Abbiamo bisogno di armi appuntite. [Indica la sua lancia.] Cinque lance, come questa. [Alza le dita.] *Cinque*.
  Inoltre, servono *dieci*, il doppio, coltelli. [Tira fuori un coltello e te lo mostra.] Come questo, okay? Cinque
  lance, non importa quanto affilate. E dieci coltelli normali. Capito?}
 {811}{}{Otay. Io andare trovare cose appuntite.}
-{812}{}{I have many pointy things. I no need them all.}
-{820}{}{Did you change your mind? Want to be our tribe's special helper?}
+{812}{}{Me ha tante cose appuntite. Me non serve tutte.}
+{820}{}{Hai cambiato idea? Vuoi essere l’aiutante speciale della tribù?}
 {821}{}{Io speciale. Io essere grande aiutante per tribu'.}
-{830}{}{You find all the pointy things I asked for?}
-{831}{}{I found.}
-{832}{}{I still look.}
+{830}{}{Hai trovato tutte le cose appuntite che ti ho chiesto?}
+{831}{}{Trovato.}
+{832}{}{Me ancora cerca.}
 {840}{}{[Krom esamina rapidamente le armi, poi sorride e ti da' una pacca sulla schiena.] Hai fatto un buon lavoro. Grazie. Ora vai, e non cacciarti nei guai.}
 {841}{}{Ciao!}
 {850}{}{[Krom ti arruffa i capelli.] Ecco il mio aiutante speciale. Ora vai, e non cacciarti nei guai.}
 {851}{}{Ciao!}
-{860}{}{Come to press your luck, have you?}
-{861}{}{No, I've come to kick your ass.}
-{862}{}{No, I just wanted to apologize for offending you.}
-{863}{}{No, I was just leaving.}
-{870}{}{Ah, it seems I'm in a forgiving mood today, friend. Now what can I do for you?}
+{860}{}{Sei venuto a sfidare la fortuna, eh?}
+{861}{}{No, sono venuto a spaccarti il culo.}
+{862}{}{No, volevo solo scusarmi per averti offeso.}
+{863}{}{No, stavo proprio andando via.}
+{870}{}{Ah, oggi mi sento magnanimo, amico. Cosa posso fare per te?}
 {871}{}{Non mi piace essere preso in giro, ragazza, ma per gli Dei, come potrei restare arrabbiato con una dea come te? Ora, cosa posso fare per te?}
 {872}{}{Lasciamo perdere. Ci vediamo.}
 {1000}{}{[Il gigante guerriero annuisce rispettosamente.] Be', se non e' il grande eroe delle Lande. E' stata un'impresa notevole,
  mandare quei cani dell'Enclave dritti all'inferno cosi'. A dire il vero, sentire le storie delle tue imprese mi ha ispirato
  a tornare anch'io nelle Lande.}
-{1001}{}{Where will you go?}
+{1001}{}{Dove andrai?}
 {1002}{}{Te ne vai cosi'? Ma sei il capo guerriero della tribu'.}
 {1003}{}{D'accordo. Buona fortuna nel tuo viaggio, Krom.}
 {1010}{}{[Scrolla le sue larghe spalle.] L'est sembra una direzione buona quanto qualsiasi altra. Si', credo che andro' a est a vedere
  cosa mi attende.}
 {1020}{}{Metteranno semplicemente un altro guerriero al mio posto. Diamine, i capi guerrieri di solito non vivono molto piu' di un paio d'anni comunque, quindi direi che mi sono guadagnato la pensione.}
-{2000}{}{You restock the Tribe with more weapons.}
+{2000}{}{Rifornisci la tribù con altre armi.}
 {2500}{}{Sei caduto vittima dell'inganno di Roy.}
-{2501}{}{You needlessly kill the merchant.}
+{2501}{}{Uccidi inutilmente il mercante.}
 {2502}{}{Smascheri l'inganno di Roy e ti assicuri che non commerci mai piu'.}
-{2503}{}{You decline to trade with Roy.}
-{2504}{}{You expose Roy's deception.}
-{3000}{}{Begone vile slaver!}
+{2503}{}{Rifiuti di commerciare con Roy.}
+{2504}{}{Smascheri l’inganno di Roy.}
+{3000}{}{Vattene, vile schiavista!}
