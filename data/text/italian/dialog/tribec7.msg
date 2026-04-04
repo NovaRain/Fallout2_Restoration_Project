@@ -43,51 +43,51 @@ Aspettate qui finche' non libero tutti da questo campo. [Agli altri schiavi.] St
 {530}{}{E' sicuro ora? Hai mandato gli schiavisti dagli spiriti?}
 {531}{}{Sì, è sicuro. Possiamo andare al tuo villaggio ora.}
 {532}{}{Si', ma lasciami liberare prima tutti gli schiavi qui, prima di andare.}
-{533}{}{No, not yet. I'll be back when it's safe.}
+{533}{}{No, non ancora. Tornerò quando sarà sicuro.}
 {600}{}{Lode agli spiriti, siamo finalmente a casa! Grazie mille, amico.}
-{601}{}{You're welcome. So, how exactly were you captured?}
+{601}{}{Prego. Allora, come ti hanno catturata esattamente?}
 {602}{}{Stavo commerciando in un villaggio vicino. Sono arrivati gli schiavisti. Molto spargimento di sangue e caos. Poi tutto e' diventato buio. Mi sono svegliata in una gabbia affollata che puzzava di merda. Presto mi hanno spostata in una gabbia piu' piccola, con quelli che gli piace tenere. Ho visto molti schiavi andare e venire. Triste vedere le persone trattate come bestiame.}
 {603}{}{Si', la schiavitu' e' davvero una cosa orribile. Mi dispiace che tu abbia dovuto passare tutto questo, Kurisu. Allora, cosa farai ora?}
 {604}{}{Gli schiavisti mi hanno ferita, ma sono lontana dall'essere spezzata. Gli spiriti ti hanno guidato per assicurare la mia liberta'. Chiaramente gli spiriti stanno preparando qualcosa di grande per me. Gli spiriti hanno grandi piani anche per te. E per mio fratello Sulik. Manchera' molto, ma gli spiriti dicono che il suo posto e' camminare accanto a te. Diamine, perfino Nonno Ossa ti apprezza, quindi so che Sulik e' in buone mani. Abbi cura di te.}
-{605}{}{Thank you, Kurisu, see you around.}
+{605}{}{Grazie, Kurisu. Ci vediamo.}
 {606}{}{Gli schiavisti mi hanno ferita, ma sono lontana dall'essere spezzata. Gli spiriti ti hanno guidato per assicurare la mia liberta'. Chiaramente gli spiriti stanno preparando qualcosa di grande per me. Presto, credo che andro' a cercare mio fratello. Conoscendo Sulik, probabilmente si e' cacciato nei guai cercando di venire ad aiutarmi. Ora, forse saro' io ad aiutare lui.}
 {607}{}{In realta', credo di aver visto tuo fratello. Faccia piena di tatuaggi e un grande osso nel naso, giusto?}
 {608}{}{Quello e' proprio Sulik! E anche Nonno Ossa! Per favore, potresti riportare Sulik a casa? Mi manca cosi' tanto.}
 {609}{}{Nessun problema, lo portero' qui. Ci vediamo, Kurisu.}
-{610}{}{I don't think I can do that. You see, Sulik is dead.}
+{610}{}{Non credo di poterlo fare. Vedi… Sulik è morto.}
 {611}{}{Sulik... morto? Davvero, questo e' un giorno oscuro. So che ora e' con Nonno Ossa, ma Sulik... manchera' moltissimo. [Distoglie lo sguardo mentre gli occhi le si riempiono di lacrime.] Per favore... ho bisogno di stare sola ora. Grazie... per avermi riportata a casa.}
 {650}{}{Ciao, amico. Qualche fo-- Sulik!}
 {651}{}{[AVANTI]}
 {652}{}{[Kurisu corre verso Sulik, che la solleva in un abbraccio. Ti giri per dare loro un po' di privacy durante la riunione emozionata. Dopo alcuni istanti, Kurisu si gira verso di te con un sorriso mentre si asciuga le lacrime.] Grazie, amico, per aver trovato mio fratello. Gli spiriti hanno grandi piani per te e per Sulik. Manchera' molto, ma gli spiriti dicono che il suo posto e' camminare accanto a te. Diamine, perfino Nonno Ossa ti apprezza, quindi so che Sulik e' in buone mani. Abbi cura di te.}
 {653}{}{Ciao, amico. Hai avuto fortuna a trovare mio fratello Sulik?}
-{654}{}{No, still looking. I'll be back when I find him.}
-{700}{}{Thanks again, fren. May the spirits bless you.}
+{654}{}{No, sto ancora cercando. Tornerò quando l’avrò trovato.}
+{700}{}{Grazie ancora, amico. Che gli spiriti ti benedicano.}
 {701}{}{Mio fratello Sulik manchera' moltissimo.}
-{800}{}{Evil spirits walk with you! Be away!}
+{800}{}{Spiriti malvagi camminano con te! Vattene!}
 {810}{}{Torna dentro l'edificio, Kurisu! Me ne occupo io.}
-{820}{}{Please, don't be letting them hurt us.}
+{820}{}{Ti prego, non lasciare che ci facciano del male.}
 {900}{}{Io? No, io Prescelto. Tu parlare con Sulik?}
-{910}{}{Yes, bad men dead.}
-{920}{}{I got key.}
-{921}{}{I try lockpick.}
+{910}{}{Sì, uomini cattivi morti.}
+{920}{}{Me ha chiave.}
+{921}{}{Me prova scassinare.}
 {922}{}{[Annuisci a Sulik] Ora combattiamo gli uomini cattivi.}
-{923}{}{I still work.}
+{923}{}{Me ancora lavora.}
 {930}{}{[Ti giri verso Kurisu.] Io proteggere te. [Agli altri schiavi.] Andate a casa.}
 {940}{}{Scasso non funziona. Io cercare chiave. Tu aspettare.}
 {941}{}{Grimaldello no funziona. [Ti giri verso Sulik] Noi combattere uomini cattivi adesso.}
-{950}{}{I "Chosen One". Who yoo?}
+{950}{}{Me Prescelto. Chi tu?}
 {951}{}{Me }
-{952}{}{. Who yoo?}
-{960}{}{It safe. We go home.}
-{961}{}{It no safe. More bad men to kill.}
-{970}{}{You welcome. How they get yoo?}
+{952}{}{Chi tu?}
+{960}{}{È sicuro. Noi va casa.}
+{961}{}{Non sicuro. Più uomini cattivi da uccidere.}
+{970}{}{Prego. Come loro prende te?}
 {971}{}{Si', uomini cattivi non buoni. Tu cosa fare adesso?}
-{972}{}{Thankeee. Bye!}
+{972}{}{Grazieee. Ciao!}
 {973}{}{Io conoscere Sulik. Sulik amico mio. Lui parlare come me. Lui parlare con osso nel naso.}
-{974}{}{I bring him. He miss yoo.}
-{975}{}{Me sorry. He dead.}
+{974}{}{Me porta lui. Lui manca te.}
+{975}{}{Me dispiace. Lui morto.}
 {976}{}{Me ancora cerca.}
 {1000}{}{Riunisci Sulik con sua sorella.}
-{2000}{}{I *knew* the bonespirit's had big plans for you.}
+{2000}{}{Lo *sapevo* che gli spiriti delle ossa avevano grandi piani per te.}
 {2001}{}{Prima tu salvare me. Poi tu salvare il mondo. Tu essere proprio l'eroe.}
-{2002}{}{You don't be needin' Sulik, no more, do you?}
+{2002}{}{Tu non aver più bisogno di Sulik, vero?}

@@ -1,6 +1,6 @@
 {100}{}{Vedi una giovane donna.}
 {101}{}{You see Ann, Connar's wife.}
-{102}{}{She appears to be busily cooking.}
+{102}{}{Sembra impegnata a cucinare.}
 {200}{}{Oh, salve, sono Ann, la moglie di Connar. Devi essere tu quello che ci ha aiutati. Non posso dirti quanto apprezziamo tutto cio' che hai fatto. E' difficile credere che finalmente possiamo vivere in pace senza la paura che gli scagnozzi di Vault City vengano a portarci via dalle nostre case.}
 {201}{}{Felice di essere stato d'aiuto. Sembri piuttosto impegnata qui. Hai bisogno di aiuto con qualcosa?}
 {202}{}{Nessun problema. Ci vediamo.}
