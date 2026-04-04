@@ -1,16 +1,16 @@
 {100}{}{Vedi un uomo sporco ma dall'aspetto robusto.}
 {101}{}{Vedi Connar.}
-{102}{}{Hey you! What're you doing here?!}
+{102}{}{Ehi, tu! Cosa ci fai li'?}
 {103}{}{Adesso sta' fermo dove sei, viaggiatore. Che cosa ci fai qui?}
-{104}{}{I'm killing off all these mole rats.}
+{104}{}{Sto eliminando tutte queste talpe mutanti.}
 {105}{}{Perche', cosa ti interessa?}
 {106}{}{Perche' tu URLA!}
-{107}{}{I bet those bastards at Vault City sent you. Well, you best be off, and leave everything else alive.}
+{107}{}{Scommetto che ti hanno mandato quei bastardi di Vault City. Meglio che te ne vada e lasci tutto il resto in vita.}
 {108}{}{Beh, e' un po' tardi per farlo.}
 {109}{}{Perche'?}
 {110}{}{Scusa, ho del lavoro da fare.}
-{111}{}{Those creatures are the only thing stopping Vault City from making us their so-called "servants".}
-{112}{}{Look, they're paying me to get rid of these beasts, so that's what I'm gonna do.}
+{111}{}{Quelle creature sono l’unica cosa che impedisce a Vault City di farci diventare i loro “servi”.}
+{112}{}{Mi pagano per eliminare queste bestie, quindi è quello che farò.}
 {113}{}{Questo non me l'avevano detto.}
 {114}{}{Loro mi pagano perche' io mi sbarazzi dei mostri e ho completato il mio lavoro.}
 {115}{}{Idiota! Perche' diavolo l'hai fatto?}
@@ -25,11 +25,11 @@
 {124}{}{E hai creduto a loro sulla parola? Hai un sacco di cose da imparare dal mondo, amico.}
 {125}{}{C'e' niente che possa fare per aiutarvi?}
 {126}{}{I tipi di Vault City non sono certo i piu' coraggiosi del mondo. Basta un po' di casino e scappano come conigli. Se avessimo un po' di armi, credo che potremmo tenerli a distanza.}
-{127}{}{I might be able to help you out, but guns aren't cheap. What sort of guns you looking for?}
+{127}{}{Potrei aiutarti, ma le armi non sono economiche. Che tipo di armi cerchi?}
 {128}{}{[Ti guarda con un sorriso incerto.] Sei davvero serio nell'aiutarci, vero? Va bene, se te la senti,
  allora dei fucili sarebbero l'ideale--cosi' potremmo iniziare a farli fuori da lontano. Quindi, se vuoi davvero aiutare,
  portaci dei fucili automatici--quattro basteranno. Oh, e anche un fucile a pompa sarebbe utile, nel caso le cose si facciano ravvicinate e sporche.}
-{129}{}{I'll see what I can do. But like I said, guns aren't cheap, so I'm gonna need some money.}
+{129}{}{Vedrò cosa posso fare. Ma come ho detto, le armi costano, quindi avrò bisogno di soldi.}
 {130}{}{Non sei il benvenuto qui. Vattene.}
 {131}{}{Ho cambiato idea. Cosa posso fare per aiutarvi?}
 {132}{}{Certo... beh, voi non rimarrete qui a lungo, comunque.}
@@ -37,20 +37,19 @@
 {134}{}{Sei tornato! Hai portato le armi per noi?}
 {135}{}{Che cos'e' che vi serviva?}
 {136}{}{Si', eccole qua.}
-{137}{}{We need four assault rifles and a shotgun. The sooner you can get them to us, the better.}
+{137}{}{Ci servono quattro fucili d’assalto e un fucile a pompa. Prima ce li porti, meglio è.}
 {138}{}{Okay.}
-{139}{}{Alright! With these babies, we should able to make something of this place over the next couple months. Thanks a
- lot, and hey, if you ever need a place to rest, you'll always be welcome here, friend.}
+{139}{}{Perfetto! Con queste bellezze, nei prossimi mesi riusciremo a fare qualcosa di questo posto. Grazie mille e, se mai avrai bisogno di un posto dove riposare, sarai sempre il benvenuto qui, amico.}
 {140}{}{Di nulla.}
-{141}{}{Hello! Things are going well. We're going to work on expanding the Village in the next month.}
+{141}{}{Ciao! Le cose vanno bene. Il mese prossimo lavoreremo per espandere il villaggio.}
 {142}{}{Ehila'! Le cose vanno bene, come vedi. Da' un'occhiata in giro, se ne hai il tempo.}
 {143}{}{Stiamo continuando a costruire. Speriamo di espandere nuovamente le mura entro la fine del prossimo mese.}
-{144}{}{Greetings! The village has expanded again, just as we've hoped. Of course, you're welcome as always.}
-{145}{}{We no longer have anything to fear from Vault City--it looks like we'll be able to live here in peace. Thanks again, wanderer.}
+{144}{}{Saluti! Il villaggio si è espanso di nuovo, proprio come speravamo. Sei il benvenuto, come sempre.}
+{145}{}{Non abbiamo più nulla da temere da Vault City — sembra che potremo vivere qui in pace. Grazie ancora, viaggiatore.}
 {146}{}{Cerca solo di non uccidere niente qui intorno, sempliciotto.}
-{147}{}{What the hell have you done?!?! You fucking traitor! I hate you!!!}
-{148}{}{Oooooops...}
-{149}{}{Let me out of here!!!}
+{147}{}{Che diavolo hai fatto?! Maledetto traditore! Ti odio!!!}
+{148}{}{Ooops…}
+{149}{}{Fammi uscire di qui!!!}
 {150}{}{Cosa ti ho fatto di male?}
 {151}{}{Aiutatemi!}
 {152}{}{Certo. Tieni, questo e' tutto quello che possiamo permetterci. [Ti porge 5.000$.] Forse sono un dannato idiota a fidarmi
@@ -58,9 +57,9 @@
  e' dentro o vicino al bar. Sapra' cosa fare.}
 {153}{}{Sto andando.}
 {154}{}{Posso farti un paio di domande?}
-{155}{}{Certainly, what's on your mind?}
+{155}{}{Certo, cosa hai in mente?}
 {156}{}{Da dove vengono queste talpe giganti, e perche' non sono aggressive?}
-{157}{}{Nothing, bye.}
+{157}{}{Niente, addio.}
 {158}{}{Beh, e' una storia un po' strana. Vedi, un giorno e' arrivato qui un gruppo di ghoul, borbottando qualcosa su una "rinascita",
  e distribuendo questi strani amuleti. [Ti mostra un amuleto a forma di Ankh.] Questi grossi roditori sono venuti con loro, e i ghoul hanno detto
  che d'ora in poi ci avrebbero protetti. I ghoul se ne sono andati--probabilmente tornati a Gecko--ma i roditori sono rimasti, e
