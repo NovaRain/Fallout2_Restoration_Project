@@ -128,7 +128,7 @@
 {720}{}{Oh, capisco. Beh, se ci ha comprato la liberta', allora valeva ogni moneta. Grazie ancora per tutto quello che hai fatto per noi.}
 {730}{}{Facciamo cosi'--che ne dici di restituirci solo la meta'? Hai 2.500$?}
 {731}{}{Certo, tieni. [Gli dai 2.500$]}
-{732}{}{Sorry, I don't even have that much.}
+{732}{}{Mi spiace, non ne ho così tanti.}
 {740}{}{Grazie, }
-{741}{}{. We won't forget what you've done for us.}
+{741}{}{Non dimenticheremo ciò che hai fatto per noi.}
 {750}{}{Capisco... beh, non preoccuparti. I soldi non sono importanti quanto la nostra liberta'. Grazie.}

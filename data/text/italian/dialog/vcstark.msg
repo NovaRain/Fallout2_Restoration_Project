@@ -292,15 +292,15 @@
 {391}{}{Si', c'e' qualcosa... Ho dato un'occhiata al tuo rapporto di ricognizione e ho trovato un piccolo villaggio qui vicino infestato da ehm... "talpe giganti", e' cosi' che le chiamano gli stranieri, giusto? Voglio che tu vada li' ed elimini tutte quelle bestie.}
 {392}{}{Solo abbattere qualche ratto? Ok, ci penso io.}
 {393}{}{Perche'?}
-{394}{}{What about the NCR expedition?}
-{395}{}{I'll think about it. Can I ask you a few questions?}
-{396}{}{No, not my kind of job. Goodbye.}
+{394}{}{E riguardo alla spedizione della NCR?}
+{395}{}{Ci penserò. Posso farti qualche domanda?}
+{396}{}{No, non è il tipo di lavoro per me. Addio.}
 {397}{}{Eccellente. Vieni, lascia che ti mostri l'esatta posizione del villaggio. [Stark segna il villaggio sulla mappa del tuo Pip-Boy.] La paga e' di 750$, torna a riscuotere quando avrai finito il lavoro. Un'ultima cosa -- se non te ne occupi entro un mese, mandero' una squadra a eliminare i mostri... e qualsiasi altra minaccia.}
 {398}{}{Addio.}
 {399}{}{Per cosa? [Esita un momento, poi aggrotta la fronte.] Non devo spiegarti le mie motivazioni. Io do ordini, e tu li esegui -- e' cosi' che funziona. Se non vuoi il lavoro, mandero' una squadra a farlo al posto tuo... ma a volte le cose diventano un po' "disordinate" quando lascio liberi i miei ragazzi.}
-{400}{}{Got it. I'll take the job.}
-{401}{}{It's clear. What's with that village, anyway?}
-{402}{}{About that village...}
+{400}{}{Capito. Accetto il lavoro.}
+{401}{}{Chiaro. Ma che succede in quel villaggio, esattamente?}
+{402}{}{A proposito di quel villaggio...}
 {403}{}{Hai ucciso tutti quei grossi ratti schifosi? Davvero?}
 {404}{}{Mi hanno detto che intendi trasformare la gente di quel villaggio in servi, e che le talpe giganti te lo stavano impedendo -- e' questo il vero motivo per cui volevi che fossero sterminate.}
 {405}{}{Si'.}

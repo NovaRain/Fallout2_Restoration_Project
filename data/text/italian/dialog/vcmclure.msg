@@ -243,20 +243,20 @@
 {342}{}{Forse. Vado ad informarmi.}
 {343}{}{Hai riferito a McClure l'avvenuta consegna dell'antidoto contro il Jet.}
 {344}{}{Il disco indica che la centrale, essendo ora pienamente funzionale e ottimizzata, puo' produrre una gran quantita' di energia, ben superiore ai bisogni di Gecko. A Vault City potrebbe far comodo quest'energia. Credo che il Consiglio dovrebbe prendere in considerazione cio' che questo disco ha da offrire.}
-{345}{}{Do you know anything about the nearby village that's swarming with mole rats?}
+{345}{}{Sai qualcosa del villaggio vicino infestato dalle talpe mutanti?}
 {346}{}{In effetti, si'. Il sergente Stark mi ha riferito qualcosa a riguardo di recente. Che interesse hai in questa faccenda?}
 {347}{}{E' vero che intendete fare servi di quella gente?}
-{348}{}{Nothing really. May I ask you about something else?}
-{349}{}{Doesn't matter. Bye.}
+{348}{}{Niente di particolare. Posso chiederti qualcos’altro?}
+{349}{}{Non importa. Addio.}
 {350}{}{Reclutare servi non e' il problema qui. Il problema e' la minaccia che quei mostri rappresentano per Vault City. Secondo il rapporto del sergente Stark, la gente di quel villaggio sembra convivere con quelle enormi creature simili a ratti. Se e' vero, potrebbero aver trovato un modo per controllarle, e forse e' per questo che hanno iniziato ad attaccare le nostre pattuglie. Il sergente Stark intende eliminare questi parassiti, e ha il mio pieno supporto.}
 {351}{}{Ti assicuro che la gente di quel villaggio non sta controllando le talpe giganti. Anzi, ho una proposta per te: mi occupero' io del problema delle talpe giganti, e in cambio voglio la tua garanzia che Vault City lascera' in pace quella gente.}
 {352}{}{Una proposta interessante, ma come esattamente pensi di affrontare tutte quelle creature simili a ratti?}
-{353}{}{I think I might know who *is* controlling them.}
+{353}{}{Penso di sapere chi *li* sta controllando.}
 {354}{}{Non lo so davvero, ma trovero' qualcosa. Lo faccio sempre.}
 {355}{}{Davvero? Molto bene allora, mi fidero' della tua parola. Il raid verra' rimandato di un mese.}
 {356}{}{Sei un brav'uomo, McClure, e non te ne pentirai. Tornero' quando il problema sara' risolto.}
 {357}{}{E' incredibile, gli attacchi delle talpe giganti alle nostre pattuglie sono improvvisamente cessati senza preavviso. Non so come tu abbia fatto, ma ti ringrazio. Inoltre, manterro' la mia parte dell'accordo -- ordinero' a Stark di annullare immediatamente il raid. Finche' la gente di quel villaggio non rappresentera' una minaccia per Vault City, non avra' nulla da temere da noi -- me ne occupero' personalmente.}
-{358}{}{Thank you!}
-{359}{}{You solved the village problem.}
+{358}{}{Grazie!}
+{359}{}{Hai risolto il problema del villaggio.}
 {360}{}{Davvero interessante.}
-{370}{}{Alright. Well, I won't get in your way then.}
+{370}{}{D’accordo. Allora non ti intralcerò.}
