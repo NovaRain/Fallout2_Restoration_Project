@@ -46,7 +46,7 @@
 {320}{}{500$? Non vale la pena. Facciamo 1000$ e abbiamo un accordo.}
 {321}{}{Non ne ho così tanti. Addio.}
 {322}{}{D’accordo, va bene. 1000$ sia.}
-{323}{}{No deal. Goodbye.}
+{323}{}{Niente accordo. Addio.}
 {330}{}{Ora si' che parli la mia lingua! Affare fatto. [Ti strappa avidamente i soldi di mano e ti stringe la mano.]}
 {331}{}{È stato un piacere fare affari con te. Addio.}
 {332}{}{Addio.}
@@ -57,30 +57,30 @@
 {352}{}{Speriamo per te che non ci siano problemi. Perche' se ci sono, li risolvo io. Addio.}
 {353}{}{[Lo fissi intensamente per un momento, poi ti allontani lentamente.]}
 {360}{}{Ugh! Dio no! Preferirei scopare una brahmin. Ora vattene e smettila di farmi perdere tempo.}
-{361}{}{Fuck you, asshole! [Attack.]}
+{361}{}{Fottiti, stronzo! [Attacca.]}
 {362}{}{Va bene, ma potevi semplicemente dire di no. Non c'era bisogno di fare lo stronzo.}
-{363}{}{You don't know what you're missing.}
+{363}{}{Non sai cosa ti perdi.}
 {364}{}{[Ti copri la faccia brutta con le mani e scappi via piangendo.]}
 {370}{}{Eh, scusa ragazza. Non sono dell'umore giusto adesso. Hai qualcos'altro da offrire?}
 {371}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, ti paghero' 500$.}
 {372}{}{Rendi quel villaggio una tappa regolare del tuo percorso e, in cambio, faro' la mia parte per assicurarmi che nulla di "spiacevole" accada alla tua carovana.}
 {373}{}{No. Ci vediamo.}
 {380}{}{[Ti guarda dall'alto in basso, poi sorride.] Credo che abbiamo un accordo. Lo prendi dal retro?}
-{381}{}{Baby, I take it any way you want to give it.}
-{382}{}{You'll just have to find out, won't you?}
+{381}{}{Bella, lo prendo come vuoi darlo.}
+{382}{}{Lo scoprirai da solo, no?}
 {383}{}{Ugh! Assolutamente no! Ora sbrighiamoci a finire questa cosa prima che vomiti.}
 {390}{}{[Il mercante ti sorride mentre si riallaccia la cintura.] Cazzo, sai davvero come concludere un buon affare. Se mai avrai bisogno di convincere un mercante a fare qualcos'altro, assicurati di cercarmi. Ora dovrei proprio andare. E' stato un piacere fare affari con te.}
 {391}{}{[Rabbrividisci.] Una volta e' piu' che sufficiente. Addio.}
-{392}{}{Anytime. Bye.}
+{392}{}{Quando vuoi. Addio.}
 {393}{}{Addio.}
 {400}{}{[Guarda Miria dall'alto in basso, poi sorride.] Credo che abbiamo un accordo. [Ti stringe la mano, poi mette un braccio attorno a Miria e la accompagna in un posto piu' appartato.]}
 {401}{}{[Batti il piede mentre aspetti.]}
 {402}{}{[Fischietta mentre lavora]}
-{403}{}{[Check your weapons while you wait.]}
+{403}{}{[Controlli le tue armi mentre aspetti.]}
 {404}{}{[Rimani li' in silenzio e incroci sguardi imbarazzanti con le guardie della carovana mentre ascolti i suoni di tua moglie che viene profanata dal mercante.]}
 {410}{}{[Un'ora dopo, vedi Robert Baron e Miria, ora sudati e spettinati dopo il loro amplesso, tornare verso di te. Noti che Miria cammina con una lieve zoppia. Il mercante ti sorride mentre si riallaccia la cintura.] Cazzo, sai davvero come concludere un buon affare. Se mai avrai bisogno di convincere un mercante a fare qualcos'altro, assicurati di cercarmi. Ora dovrei proprio andare. E' stato un piacere fare affari con te.}
 {411}{}{Vabbe'. Ci vediamo.}
-{412}{}{Anytime. Bye.}
+{412}{}{Quando vuoi. Addio.}
 {413}{}{Addio.}
 {500}{}{Hai convinto il mercante ad aggiungere il villaggio alla sua rotta commerciale.}
 {510}{}{Uccidi il mercante, assicurandoti cosi' che il villaggio non possa commerciare.}
