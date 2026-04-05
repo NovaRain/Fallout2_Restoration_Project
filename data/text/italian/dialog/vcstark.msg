@@ -306,24 +306,24 @@
 {405}{}{Si'.}
 {406}{}{Non ancora.}
 {407}{}{Puoi far credere ad altri che tu lo faccia per il loro bene.}
-{408}{}{They're happy right where they are.}
-{409}{}{Doesn't matter. Will you complete your task or not?}
-{410}{}{Ok. I'll finish it.}
-{411}{}{No, I don't think so. }
-{412}{}{Great, return when you are done.}
+{408}{}{Stanno bene esattamente dove sono.}
+{409}{}{Non importa. Porterai a termine il compito o no?}
+{410}{}{D’accordo. Lo finirò.}
+{411}{}{No, non credo proprio.}
+{412}{}{Bene. Torna quando avrai finito.}
 {413}{}{Non importa, diventeranno tutti servi comunque. Sto mandando subito una squadra da combattimento. Presto non restera' nulla del loro piccolo villaggio.}
 {414}{}{[FATTO]}
-{415}{}{Return when all is done.}
+{415}{}{Torna quando avrai completato tutto.}
 {416}{}{Ottimo lavoro, soldato. Ecco i tuoi 750$ -- un piccolo prezzo da pagare per un villaggio pieno di nuovi servi. Hai reso un grande servizio a Vault City.}
-{417}{}{Wait -- You never said anything about making the villagers your servants.}
+{417}{}{Aspetta — non hai mai detto che avresti trasformato i villaggi in tuoi servi.}
 {418}{}{Vabbe'. Arrivederci.}
 {419}{}{E' per il loro bene. Una volta che saranno servi di Vault City, non avranno piu' bisogno di lottare per sopravvivere. Saranno nutriti e accuditi. In cambio, lavoreranno per il bene della Citta'. Tutti vincono.}
-{420}{}{But it's slavery!}
+{420}{}{Ma questa è schiavitù!}
 {421}{}{Non e' schiavitu', ma una coesistenza reciprocamente vantaggiosa, una simbiosi per cosi' dire.}
-{422}{}{Disgusting! Goodbye.}
+{422}{}{Rivoltante! Addio.}
 {423}{}{Non sorprende che quei demoni abbiano perso la testa.}
 {424}{}{Quale villaggio? Oh, quello da cui abbiamo preso i nostri nuovi servi... che c'e'?}
-{425}{}{You say what!? You enslaved them all?}
+{425}{}{Cosa!? Li hai ridotti tutti in schiavitù?}
 {426}{}{So chi ha fornito loro le armi. E' stato quel mercante nel cortile, Harry.}
 {427}{}{Sono felice che tu lo dica.}
 {428}{}{Non so perche', ma il proconsole McClure mi ha ordinato di aspettare un po' riguardo al villaggio. Vale anche per te.}
@@ -331,4 +331,4 @@
 {1215}{}{Ho convinto la loro guida a non condurli piu' attraverso le montagne. Senza di lui non troveranno mai la strada.}
 {1224}{}{Davvero? Quindi non saranno piu' una minaccia per noi?}
 {1251}{}{In realta', li ho gia' fermati. Ho convinto la loro guida a non condurli piu' attraverso le montagne. Senza di lui non troveranno mai la strada.}
-{1422}{}{Well, I agree. They're better off this way. Goodbye.}
+{1422}{}{Bene, sono d’accordo. Stanno meglio così. Addio.}
