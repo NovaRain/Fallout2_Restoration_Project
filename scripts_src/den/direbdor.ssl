@@ -48,10 +48,10 @@ end
 #include "../den/didoor.ssl"
 
 /**
- * Set `check_guard` to one of the guards or Becky herself.
- * Almost never Becky, though.
- * @param {ObjectPtr} door_user Critter using the door
- * @ret {ObjectPtr} who Guard critter or 0.
+ * Return the critter who's currently watching Becky's backroom door. The critter will issue a warning.
+ * One of the guards or Becky herself.
+ * @param {ObjectPtr} door_user Critter using the door, usually PC.
+ * @ret {ObjectPtr} Guard critter or 0.
  */
 procedure get_guard_object(variable door_user) begin
    if (becky_door_guard_obj != 0) then begin
