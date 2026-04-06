@@ -84,18 +84,19 @@ procedure Node005;
 /** North West */
 #define DIRECTION_NW 5
 
-/**
- * Tile near basement entry door
- */
-#define TILE_NEAR_DOOR  tile_num_in_direction(tile_num(becky_door_obj), DIRECTION_SE, 1)
+
 /**
  * Door tile
  */
 #define TILE_DOOR  tile_num(becky_door_obj)
 /**
+ * Tile near basement entry door
+ */
+#define TILE_NEAR_DOOR  tile_num_in_direction(TILE_DOOR, DIRECTION_SE, 1)
+/**
  * Tile in basement entry room
  */
-#define TILE_NEAR_BASEMENT_ENTRY  tile_num_in_direction(tile_num(becky_door_obj), DIRECTION_NW, 1)
+#define TILE_NEAR_BASEMENT_ENTRY  tile_num_in_direction(TILE_DOOR, DIRECTION_NW, 1)
 
 import variable becky_guard_obj;
 import variable becky_door_guard_obj;
