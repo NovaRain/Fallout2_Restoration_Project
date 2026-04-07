@@ -20,26 +20,26 @@
 {332}{}{Pensi che faccia tutto questo gratis? Parliamo di soldi.}
 {340}{}{[Ann sembra un po' agitata.] Beh, si'... d'accordo. Avevo messo via qualcosa per un'emergenza, ma suppongo che tu possa averlo. E pensare che ti consideravo una brava persona.}
 {341}{}{La bellezza è negli occhi di chi guarda, signora. Buona giornata.}
-{342}{}{Sorry, money makes the world go round. Bye.}
+{342}{}{Mi spiace, il mondo gira grazie ai soldi. Addio.}
 {350}{}{Oh, sei tu! Ho sentito cosa hai fatto al signor Baron. Non mi e' mai piaciuto, ma non dovevi ucciderlo. Come comunita' soffriremo senza un commercio adeguato.}
-{351}{}{Sorry, mistakes happen. Bye.}
-{352}{}{Not my problem. Bye.}
+{351}{}{Mi spiace, capita di sbagliare. Addio.}
+{352}{}{Non è un mio problema. Addio.}
 {353}{}{Non dovete preoccuparvi di nessun dannato mercante. Perche' ho intenzione di uccidere tutti voi.}
-{400}{}{Did Vault City send you?}
-{401}{}{We have the right to live here, you know.}
+{400}{}{Ti ha mandato Vault City?}
+{401}{}{Abbiamo il diritto di vivere qui, lo sai.}
 {402}{}{Non ho nient'altro da dirti.}
-{403}{}{Thanks again for everything!}
-{404}{}{Thanks so much!}
+{403}{}{Grazie ancora per tutto!}
+{404}{}{Grazie mille!}
 {405}{}{Finalmente siamo al sicuro.}
 {406}{}{Grazie di tutto! Assicurati di ripassare quando avremo ampliato il posto. Avro' finalmente una cucina funzionante in cui cucinare.}
 {410}{}{Ciao.}
 {411}{}{Sembri piuttosto impegnato qui. Hai bisogno di aiuto con qualcosa?}
 {412}{}{Lasciamo perdere. Ci vediamo.}
-{420}{}{How did it go?}
+{420}{}{Com’è andata?}
 {421}{}{Come e' andata cosa? Oh, il mercante. In realta', ho perso interesse e me ne sono andato in giro.}
 {430}{}{Cosa!? Ti rendi conto che questa era la nostra ultima occasione per prendere accordi con lui? Ora sembriamo degli idioti per avergli dato buca. Ci hai condannati.}
-{431}{}{Sorry, mistakes happen. Bye.}
-{432}{}{Not my problem. Bye.}
+{431}{}{Mi spiace, capita di sbagliare. Addio.}
+{432}{}{Non è un mio problema. Addio.}
 {433}{}{Non dovete preoccuparvi di nessun dannato mercante. Perche' ho intenzione di uccidere tutti voi.}
 {500}{}{Hai convinto il mercante ad aggiungere il villaggio alla sua rotta commerciale.}
 {510}{}{Hai ucciso il mercante, assicurando cosi' che il villaggio non possa commerciare.}
