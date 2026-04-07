@@ -3386,13 +3386,13 @@
 {44547}{}{Individuato bersaglio per l'assalto.}
 {44548}{}{Attacco in corso.}
 {44549}{}{Eliminazione minaccia in corso.}
-{44560}{}{Target missed.}
-{44561}{}{Sensors indicate enemy target missed.}
+{44560}{}{Bersaglio mancato.}
+{44561}{}{I sensori indicano che il nemico ha mancato il bersaglio.}
 {44562}{}{Danno negativo inflitto. Regolazione degli scanner di puntamento in corso.}
-{44563}{}{Enemy missed. Recalibrating targeting sensors.}
+{44563}{}{Nemico mancato. Ricalibrazione dei sensori di puntamento in corso.}
 {44564}{}{Errore. Malfunzionamento nei sensori di puntamento.}
 {44565}{}{Analisi dei dati di fuoco... correzioni completate.}
-{44566}{}{Enemy target undamaged.}
+{44566}{}{Bersaglio nemico non danneggiato.}
 {44800}{}{Ho la testa dura, ma questo mi ha fatto male.}
 {44801}{}{Ho un enorme mal di testa.}
 {44802}{}{Umph. Non la testa!}
@@ -3535,29 +3535,29 @@
 {60040}{}{Whrrr. Click. Click. Woof!}
 {60041}{}{Arg! Click. Woof!}
 {60060}{}{Azione offensiva evitata.}
-{70000}{}{You better hope that doesn't leave a scar.}
-{70001}{}{Woah! Not the face!}
-{70002}{}{My face! My beautiful face!}
-{70003}{}{Hey! Don't mess with perfection.}
-{70004}{}{Try that again motherfucker and see what happens.}
-{70010}{}{That hurt, asshole.}
-{70011}{}{Shit! My arm!}
-{70012}{}{Hey, lay off the guns.}
-{70013}{}{Son of a bitch, that hurt!}
-{70020}{}{That hurt, asshole.}
-{70021}{}{Shit! My arm!}
-{70022}{}{Hey, lay off the guns.}
-{70023}{}{Son of a bitch, that hurt!}
+{70000}{}{Speriamo per te che non lasci una cicatrice.}
+{70001}{}{Ehi! Non la faccia!}
+{70002}{}{La mia faccia! La mia bellissima faccia!}
+{70003}{}{Ehi! Non rovinare la perfezione.}
+{70004}{}{Riprova, bastardo, e vedi cosa succede.}
+{70010}{}{Fa male, stronzo.}
+{70011}{}{Merda! Il mio braccio!}
+{70012}{}{Ehi, piano con le armi.}
+{70013}{}{Maledizione, fa un sacco male!}
+{70020}{}{Fa male, stronzo.}
+{70021}{}{Merda! Il mio braccio!}
+{70022}{}{Ehi, piano con le armi.}
+{70023}{}{Maledizione, fa un sacco male!}
 {70030}{}{Tecnicamente ho piu' di centottant'anni, dovresti vergognarti.}
 {70031}{}{Sto sanguinando... non e' cosi' che dovrebbe funzionare.}
-{70032}{}{You can't kill me, I've got the heart of a demon.}
-{70033}{}{Hit me again and I'll knife you in the groin.}
-{70040}{}{You trying to make me a gimp?}
-{70041}{}{Ah! My knee!}
+{70032}{}{Non puoi uccidermi, ho il cuore di un demone.}
+{70033}{}{Colpiscimi ancora e ti pianto un coltello all’inguine.}
+{70040}{}{Vuoi ridurmi uno storpio?}
+{70041}{}{Ah! Il mio ginocchio!}
 {70042}{}{Shit! My leg!}
 {70043}{}{You gave me a fucking Charley horse!}
-{70050}{}{You trying to make me a gimp?}
-{70051}{}{Ah! My knee!}
+{70050}{}{Vuoi ridurmi uno storpio?}
+{70051}{}{Ah! Il mio ginocchio!}
 {70052}{}{Shit! My leg!}
 {70053}{}{You gave me a fucking Charley horse!}
 {70060}{}{I miei occhi!}
