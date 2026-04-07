@@ -76,7 +76,7 @@
 {175}{}{Yep. Addio.}
 {176}{}{Non aspetto altro che vedere come te la caverai. Buona giornata.}
 {177}{}{Buona giornata.}
-{178}{}{Berating someone? Any fool who had done their research can see that the very basis of Shi-town is the wreckage of this submarine. It seems fruitless to argue with those who would say otherwise.}
+{178}{}{Sto accusando qualcuno? Chiunque abbia fatto un minimo di ricerche sa che le fondamenta di Shi?town sono i resti di questo sottomarino. È inutile discutere con chi sostiene il contrario.}
 {179}{}{E' un atteggiamento molto moderato, il suo.}
 {180}{}{Puo' dirlo forte. E pensare che io ho a che fare con persone del genere ogni giorno. Ahime'!}
 {181}{}{Beh, ho delle altre domande da farle.}

@@ -19,7 +19,7 @@
 {118}{}{Presidente Tandi?}
 {119}{}{Ottimo. La mia solita fortuna... Grazie.}
 {120}{}{Ascolta, io conduco una vita retta e rispettabile! Non possiedo un GECK ne' nient'altro.}
-{121}{}{So-rry! I don't suppose you know where Vault 13 is?}
+{121}{}{Scusa! Per caso sai dove si trova il Vault 13?}
 {122}{}{Come non detto, allora. Adesso devo andare.}
 {123}{}{Ho in mente un paio di cose, se sei davvero interessato.}
 {124}{}{Stai scherzando, vero? Dopo quello che hai fatto con Jack? Credo che potresti cercarti un lavoro stabile.}

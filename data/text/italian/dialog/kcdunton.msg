@@ -211,6 +211,6 @@
 {706}{}{Va bene, Tribale, hai vinto stavolta. Smetteremo, ora lasciaci in pace.}
 {707}{}{Spaventi i fratelli Dunton abbastanza da non infastidire mai piu' Torr.}
 {708}{}{[FATTO]}
-{709}{}{Just leave us alone.}
-{710}{}{Yeah, whatever tribal. Just mind your own business.}
-{800}{}{I found a pile of bug parts in the cabin over at the grazing area. Do you know what they are?}
+{709}{}{Lasciaci in pace.}
+{710}{}{Sì, come vuoi, tribale. Fatti gli affari tuoi.}
+{800}{}{Ho trovato un mucchio di parti di insetto nel capanno vicino al pascolo. Sapete cosa sono?}

@@ -324,7 +324,7 @@
 {10005}{}{Non allontanarti troppo.}
 {10006}{}{Dovremmo distanziarci un po'.}
 {10007}{}{Andiamo, allora.}
-{10008}{}{Can you put your armor on?}
+{10008}{}{Puoi indossare la tua armatura?}
 {10100}{}{Su, Marcus. E' ora di andare.}
 {20000}{mcs81b}{D'accordo.}
 {20001}{}{Eh eh. Posso usare praticamente qualsiasi arma pesante convenzionale, tipo lanciarazzi o mitragliatrici, e armi pesanti a energia. Non me la cavo male con i pugni, e sono un mago con le granate. Non indosso armature. Non le fanno, della mia taglia.}

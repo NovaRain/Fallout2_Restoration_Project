@@ -114,8 +114,8 @@
 {502}{}{Nulla, grazie.}
 {550}{}{Bob non sembra aver voglia di parlare con te.}
 {2900}{}{Le cose si sono calmate di recente. Niente di davvero interessante da raccontarti.}
-{2901}{}{brahmin mutilators}
-{2902}{}{walking spirits}
-{2903}{}{gigantical rats}
-{2904}{}{missing people}
-{2905}{}{. Some even say the Den's involved.}
+{2901}{}{mutilatori di brahmin}
+{2902}{}{spiriti che camminano}
+{2903}{}{ratti giganteschi}
+{2904}{}{persone scomparse}
+{2905}{}{. Alcuni dicono persino che il Den sia coinvolto.}

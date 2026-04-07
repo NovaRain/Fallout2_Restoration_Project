@@ -50,12 +50,12 @@
 {304}{}{Comunque non mi piaceva quello stronzo.}
 {305}{}{Flick e' morto... Merda.}
 {306}{}{Cos'e' successo a Flick?}
-{307}{}{I miss Flick...}
-{310}{}{Hey Tubby, I..uhhh..need some help here.}
+{307}{}{Mi manca Flick...}
+{310}{}{Ehi Tubby, uhhh... ho bisogno di aiuto.}
 {311}{}{EHI TUBBY!}
 {312}{}{Salve.}
 {313}{}{Ehi!}
-{314}{}{Hey Flick, I..uhhh..need some help here.}
+{314}{}{Ehi Flick, uhhh... ho bisogno di aiuto.}
 {315}{}{EHI FLICK!}
 {320}{}{Ehi Tubby, mi puoi servire? I soldi ce li ho.}
 {321}{}{Ummm, Tubby, ho qui un po' di soldi.}
@@ -69,5 +69,5 @@
 {333}{}{Sei un amico.}
 {334}{}{Uhhh... Grazie ancora, Flick.}
 {335}{}{Sei un amico, Flick.}
-{340}{}{Here. Now beat, you druggie.}
-{341}{}{Take it and get the hell out.}
+{340}{}{Tieni. E adesso sparisci, drogato.}
+{341}{}{Prendi e levati di torno.}
