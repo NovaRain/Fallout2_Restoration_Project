@@ -20,7 +20,7 @@
 {119}{}{Mi merito un aumento. E' un lavoro pericoloso, questo.}
 {200}{}{Posso aiutarti?}
 {201}{}{Si', sto cercando il capo carovaniere.}
-{202}{}{Potrei farti qualche domanda a proposito di Chad?}
+{202}{}{I was wondering if I could ask you a few questions about Chad.}
 {203}{}{Chi sei?}
 {204}{}{No, grazie.}
 {205}{}{In tal caso, devi parlare con Bill, il Fornitore di Broken Hills. È dentro quell’edificio laggiù.}
