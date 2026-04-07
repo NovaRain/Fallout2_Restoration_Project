@@ -3329,110 +3329,110 @@
 {221300}{}{Stalagmite luminescente}
 {221301}{}{Un'estensione naturale del pavimento roccioso. Questa e' verde e luminescente!}
 {221400}{}{Colonna di roccia luminescente}
-{221401}{}{This thick column of rock extends from floor to ceiling. It's glowing!}
+{221401}{}{Questa spessa colonna di roccia si estende dal pavimento al soffitto. E' luminescente!}
 {221500}{}{Colonna di roccia luminescente}
-{221501}{}{This thin column of rock extends from floor to ceiling. It's glowing!}
-{221600}{}{Glowing Cave Wall}
-{221700}{}{Glowing Cave Wall}
-{221800}{}{Glowing Cave Wall}
-{221900}{}{Glowing Cave Wall}
-{222000}{}{Glowing Cave Wall}
-{222100}{}{Glowing Cave Wall}
-{222200}{}{Glowing Cave Wall}
-{222300}{}{Glowing Cave Wall}
-{222400}{}{Glowing Cave Wall}
-{222500}{}{Glowing Cave Wall}
-{222600}{}{Glowing Cave Wall}
-{222700}{}{Glowing Cave Wall}
-{222800}{}{Glowing Cave Wall}
-{222900}{}{Glowing Cave Wall}
-{223000}{}{Glowing Cave Wall}
-{223100}{}{Glowing Rocks}
-{223101}{}{A pile of glowing rocks. Not very interesting.}
-{223200}{}{Glowing Rocks}
-{223201}{}{A pile of glowing rocks. Not very interesting.}
-{223300}{}{Glowing Rocks}
-{223301}{}{A small pile of glowing rocks. Not in the least bit interesting to you.}
-{223400}{}{Glowing Rocks}
-{223401}{}{A very small pile of glowing rocks.}
-{223500}{}{Glowing Rocks}
-{223501}{}{A very small pile of glowing rocks.}
-{223600}{}{Glowing Rocks}
-{223601}{}{A very small pile of glowing rocks.}
-{223700}{}{Glowing Rocks}
-{223701}{}{A very small pile of glowing rocks.}
-{223800}{}{Glowing Rocks}
-{223801}{}{A pile of glowing rocks. Not very interesting.}
-{223900}{}{Glowing Egg Shell}
-{223901}{}{Pieces of a broken egg shell. It glows!}
-{224000}{}{Glowing Egg Shell}
-{224001}{}{Pieces of a broken egg shell. It glows!}
-{224100}{}{Glowing Egg Shell}
-{224101}{}{Pieces of a broken egg shell. It glows!}
-{224200}{}{Glowing Egg Shell}
-{224201}{}{Pieces of a broken egg shell. It glows!}
-{224300}{}{Small glowing rocks}
-{224301}{}{Scattered small glowing rocks.}
-{224400}{}{Small glowing rocks}
-{224401}{}{Scattered small glowing rocks.}
-{224500}{}{Small glowing rocks}
-{224501}{}{Scattered small glowing rocks.}
-{224600}{}{Glowing Egg Shell}
-{224601}{}{Pieces of a broken egg shell. It glows!}
-{224700}{}{Glowing Wood Planks}
+{221501}{}{Questa sottile colonna di roccia si estende dal pavimento al soffitto. E' luminescente!}
+{221600}{}{Parete della grotta luminescente}
+{221700}{}{Parete della grotta luminescente}
+{221800}{}{Parete della grotta luminescente}
+{221900}{}{Parete della grotta luminescente}
+{222000}{}{Parete della grotta luminescente}
+{222100}{}{Parete della grotta luminescente}
+{222200}{}{Parete della grotta luminescente}
+{222300}{}{Parete della grotta luminescente}
+{222400}{}{Parete della grotta luminescente}
+{222500}{}{Parete della grotta luminescente}
+{222600}{}{Parete della grotta luminescente}
+{222700}{}{Parete della grotta luminescente}
+{222800}{}{Parete della grotta luminescente}
+{222900}{}{Parete della grotta luminescente}
+{223000}{}{Parete della grotta luminescente}
+{223100}{}{Rocce luminescenti}
+{223101}{}{Un mucchio di rocce luminescenti. Non molto interessante.}
+{223200}{}{Rocce luminescenti}
+{223201}{}{Un mucchio di rocce luminescenti. Non molto interessante.}
+{223300}{}{Rocce luminescenti}
+{223301}{}{Un piccolo mucchio di rocce luminescenti. Assolutamente non interessante per te.}
+{223400}{}{Rocce luminescenti}
+{223401}{}{Un piccolissimo mucchio di rocce luminescenti.}
+{223500}{}{Rocce luminescenti}
+{223501}{}{Un piccolissimo mucchio di rocce luminescenti.}
+{223600}{}{Rocce luminescenti}
+{223601}{}{Un piccolissimo mucchio di rocce luminescenti.}
+{223700}{}{Rocce luminescenti}
+{223701}{}{Un piccolissimo mucchio di rocce luminescenti.}
+{223800}{}{Rocce luminescenti}
+{223801}{}{Un mucchio di rocce luminescenti. Non molto interessante.}
+{223900}{}{Guscio d'uovo luminescente}
+{223901}{}{Pezzi di un guscio d'uovo rotto. E' luminescente!}
+{224000}{}{Guscio d'uovo luminescente}
+{224001}{}{Pezzi di un guscio d'uovo rotto. E' luminescente!}
+{224100}{}{Guscio d'uovo luminescente}
+{224101}{}{Pezzi di un guscio d'uovo rotto. E' luminescente!}
+{224200}{}{Guscio d'uovo luminescente}
+{224201}{}{Pezzi di un guscio d'uovo rotto. E' luminescente!}
+{224300}{}{Piccole rocce luminescenti}
+{224301}{}{Piccole rocce luminescenti sparse.}
+{224400}{}{Piccole rocce luminescenti}
+{224401}{}{Piccole rocce luminescenti sparse.}
+{224500}{}{Piccole rocce luminescenti}
+{224501}{}{Piccole rocce luminescenti sparse.}
+{224600}{}{Guscio d'uovo luminescente}
+{224601}{}{Pezzi di un guscio d'uovo rotto. E' luminescente!}
+{224700}{}{Assi di legno luminescenti}
 {224701}{}{Queste solide assi di legno sono state legate strettamente tra loro.}
-{224800}{}{Glowing Wood Planks}
+{224800}{}{Assi di legno luminescenti}
 {224801}{}{Queste solide assi di legno sono state legate strettamente tra loro.}
 {224900}{}{Scala}
-{224901}{}{It's an old, glowing, fairly rickety ladder. It looks like it will barely support your weight.}
+{224901}{}{E' una vecchia scala luminescente e piuttosto traballante. Sembra poter sostenere a malapena il tuo peso.}
 {225000}{}{Scala}
 {225001}{}{Un buco artificiale con una scala che conduce in basso.}
-{225100}{}{Glowing Rocks}
-{225101}{}{You study the glowing rocks for a while, but they never move.}
-{225200}{}{Glowing Rocks}
-{225201}{}{You keep a close eye on these glowing rocks, in case they move to attack you.}
-{225300}{}{Glowing Rocks}
-{225301}{}{A large pile of glowing rocks. They look radioactive.}
-{225400}{}{Glowing Rocks}
-{225401}{}{A small pile of glowing rocks.}
-{225500}{}{Glowing Rocks}
-{225501}{}{A small pile of glowing rocks.}
-{225600}{}{Glowing Rocks}
-{225601}{}{A large pile of glowing rocks.}
-{225700}{}{Glowing Rocks}
-{225701}{}{A very large pile of glowing rocks. They look dangerous just sitting there.}
-{225800}{}{Glowing Rocks}
-{225801}{}{A large pile of glowing rocks. If you look closely, you can see the faces of little old men in the sides of the stones.}
-{225900}{}{Glowing Rocks}
-{225901}{}{Rocks, rocks, rocks! Everywhere you look, glowing rocks!}
-{226000}{}{Glowing Rocks}
-{226001}{}{A small pile of glowing rocks.}
-{226100}{}{Glowing Rocks}
-{226200}{}{Glowing Rocks}
-{226300}{}{Glowing Rocks}
-{226400}{}{Glowing Rocks}
-{226500}{}{Glowing Rocks}
-{226600}{}{Glowing Rocks}
-{226700}{}{Glowing Rocks}
-{226800}{}{Glowing Wall}
-{226900}{}{Glowing Wall}
-{227000}{}{Glowing Wall}
-{227100}{}{Glowing Wall}
-{227200}{}{Glowing Wall}
-{227300}{}{Glowing Wall}
-{227400}{}{Glowing Drain}
+{225100}{}{Rocce luminescenti}
+{225101}{}{Studi le rocce luminescenti per un po', ma non si muovono.}
+{225200}{}{Rocce luminescenti}
+{225201}{}{Tieni d'occhio queste rocce luminescenti, nel caso si muovano per attaccarti.}
+{225300}{}{Rocce luminescenti}
+{225301}{}{Un grosso mucchio di rocce luminescenti. Sembrano radioattive.}
+{225400}{}{Rocce luminescenti}
+{225401}{}{Un piccolo mucchio di rocce luminescenti.}
+{225500}{}{Rocce luminescenti}
+{225501}{}{Un piccolo mucchio di rocce luminescenti.}
+{225600}{}{Rocce luminescenti}
+{225601}{}{Un grosso mucchio di rocce luminescenti.}
+{225700}{}{Rocce luminescenti}
+{225701}{}{Un enorme mucchio di rocce luminescenti. Sembrano pericolose anche solo stando li'.}
+{225800}{}{Rocce luminescenti}
+{225801}{}{Un grosso mucchio di rocce luminescenti. Se guardi da vicino, puoi vedere facce di vecchietti sui lati delle pietre.}
+{225900}{}{Rocce luminescenti}
+{225901}{}{Rocce, rocce, rocce! Ovunque guardi, rocce luminescenti!}
+{226000}{}{Rocce luminescenti}
+{226001}{}{Un piccolo mucchio di rocce luminescenti.}
+{226100}{}{Rocce luminescenti}
+{226200}{}{Rocce luminescenti}
+{226300}{}{Rocce luminescenti}
+{226400}{}{Rocce luminescenti}
+{226500}{}{Rocce luminescenti}
+{226600}{}{Rocce luminescenti}
+{226700}{}{Rocce luminescenti}
+{226800}{}{Parete luminescente}
+{226900}{}{Parete luminescente}
+{227000}{}{Parete luminescente}
+{227100}{}{Parete luminescente}
+{227200}{}{Parete luminescente}
+{227300}{}{Parete luminescente}
+{227400}{}{Scarico luminescente}
 {227401}{}{C'e' un odore rancido e disgustoso che proviene da questo scarico fognario. Dopo qualche istante, non puzza piu' cosi' tanto.}
-{227500}{}{Glowing Drain}
-{227501}{}{You can barely make out some movement behind the grate covering this drain. You can see small green glowing eyes peering back at you. Rat eyes.}
-{227600}{}{Glowing Drain}
+{227500}{}{Scarico luminescente}
+{227501}{}{Riesci a malapena a distinguere dei movimenti dietro la grata che copre questo scarico. Vedi dei piccoli occhi verdi e luminescenti che ti fissano. Occhi di ratto.}
+{227600}{}{Scarico luminescente}
 {227601}{}{Un rumore d'acqua gorgogliante proviene da questo scarico. Lo stesso dicasi per un terribile fetore.}
-{227700}{}{Glowing Drain}
+{227700}{}{Scarico luminescente}
 {227701}{}{Un rumore d'acqua gorgogliante proviene da dietro questo scarico. Lo stesso dicasi per un terribile fetore.}
-{227800}{}{Grimy Bed}
+{227800}{}{Letto sudicio}
 {227801}{}{Esaminandolo piu' da vicino, ti accorgi che le lenzuola non sono state cambiate da tanto, tantissimo tempo.}
-{227900}{}{Grimy Bed}
+{227900}{}{Letto sudicio}
 {227901}{}{Esaminandolo piu' da vicino, ti accorgi che le lenzuola non sono state cambiate da tanto, tantissimo tempo.}
-{228000}{}{Grimy Bed}
+{228000}{}{Letto sudicio}
 {228001}{}{Esaminandolo piu' da vicino, ti accorgi che le lenzuola non sono state cambiate da tanto, tantissimo tempo.}
 {228100}{}{Vetro}
 {228101}{}{È difficile vedere attraverso questo vetro.}
@@ -3441,32 +3441,32 @@
 {228300}{}{Vetro}
 {228301}{}{È difficile vedere attraverso questo vetro.}
 {228400}{}{Vetro}
-{228401}{}{This glass is barely transparent.}
+{228401}{}{Questo vetro e' appena trasparente.}
 {228500}{}{Vetro}
-{228501}{}{This glass is barely transparent.}
+{228501}{}{Questo vetro e' appena trasparente.}
 {228600}{}{Vetro}
-{228601}{}{This glass is barely transparent.}
+{228601}{}{Questo vetro e' appena trasparente.}
 {228700}{}{Metal Door}
-{228701}{}{A sturdy metal door.}
+{228701}{}{Una robusta porta di metallo.}
 {228800}{}{Metal Door}
-{228801}{}{A sturdy metal door.}
-{228900}{}{Guards Shack}
+{228801}{}{Una robusta porta di metallo.}
+{228900}{}{Baracca della guardia}
 {228901}{}{Una baracca delle guardie fatiscente.}
-{229000}{}{Guards Shack}
+{229000}{}{Baracca della guardia}
 {229001}{}{Una baracca delle guardie fatiscente.}
 {229100}{}{Liquido verde ribollente}
 {229101}{}{Un liquido verde ribollente. Ha un odore strano.}
-{229200}{}{Heavy Laser Tower}
-{229201}{}{The laser turret rests on this concrete tower.}
+{229200}{}{Torretta laser pesante}
+{229201}{}{La torretta laser poggia su questa torre di cemento.}
 {229300}{}{Torretta Laser Pesante}
 {229301}{}{La torretta ruota in modo minaccioso.}
-{229400}{}{Heavy Laser Tower}
-{229401}{}{The laser turret rests on this concrete tower.}
+{229400}{}{Torretta laser pesante}
+{229401}{}{La torretta laser poggia su questa torre di cemento.}
 {229500}{}{Torretta Laser Pesante}
 {229501}{}{La torretta ruota in modo minaccioso.}
-{229800}{}{Film Poster}
+{229800}{}{Poster cinematografico}
 {229801}{}{Un vecchio poster cinematografico logoro. “Hobo With a Shotgun”.}
-{229900}{}{An odd looking creature}
+{229900}{}{Una creatura dall'aspetto strano}
 {229901}{}{Un cadavere avvolto da crescite vegetali.}
-{230000}{}{An odd looking creature}
+{230000}{}{Una creatura dall'aspetto strano}
 {230001}{}{Un cadavere avvolto da crescite vegetali.}

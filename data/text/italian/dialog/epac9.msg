@@ -6,7 +6,7 @@
 {210}{}{Faccio droghe! Tutti i tipi di droghe! Quando la vita ti butta giu', Mr. Chemmie e' qui per tirarti su! Come funziona Mr. Chemmie?! E' semplice! Ti servono solo un po' di conoscenze scientifiche e gli ingredienti giusti, poi lascia fare tutto a me! Dai! Provami! E bambini, ricordate di chiedere il permesso a mamma o papa' prima di giocare con Mr. Chemmie!}
 {211}{}{D'accordo, ci proverò.}
 {212}{}{Magari piu' tardi.}
-{220}{}{Bene! Produciamo farmaci! Cosa vuoi creare?}
+{220}{}{Bene! Produciamo farmaci! Cosa vuoi creare?!}
 {221}{}{Stimpak}
 {222}{}{Super Stimpak}
 {223}{}{Veleno}

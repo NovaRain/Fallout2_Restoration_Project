@@ -811,7 +811,7 @@
 {105400}{}{Slime}
 {150400}{}{}
 {162300}{}{Scotty}
-{310300}{}{Floor tile}
+{310300}{}{Piastrella del pavimento}
 {369100}{}{Tetto}
 {369200}{}{Tetto}
 {369300}{}{Tetto}
@@ -878,35 +878,35 @@
 {376200}{}{Tetto}
 {376300}{}{Tetto}
 {376400}{}{Tetto}
-{379100}{}{Roof Pipes}
-{379200}{}{Roof Pipes}
-{379300}{}{Roof Pipes}
-{379400}{}{Roof Pipes}
-{379500}{}{Roof Pipes}
-{379600}{}{Roof Pipes}
-{379700}{}{Roof Pipes}
-{379800}{}{Roof Pipes}
-{379900}{}{Roof Pipes}
-{380000}{}{Roof Pipes}
-{380100}{}{Roof Pipes}
-{380200}{}{Roof Pipes}
-{380300}{}{Roof Pipes}
-{380400}{}{Roof Pipes}
-{380500}{}{Roof Pipes}
-{380600}{}{Roof Pipes}
-{380700}{}{Roof Pipes}
-{380800}{}{Roof Pipes}
-{380900}{}{Roof Pipes}
-{381000}{}{Roof Pipes}
-{381100}{}{Roof Pipes}
-{381200}{}{Roof Pipes}
-{381300}{}{Roof Pipes}
-{381400}{}{Roof Pipes}
-{381500}{}{Roof Pipes}
-{381600}{}{Roof Pipes}
-{381700}{}{Roof Pipes}
-{381800}{}{Roof Pipes}
-{381900}{}{Roof Pipes}
+{379100}{}{Tubature del tetto}
+{379200}{}{Tubature del tetto}
+{379300}{}{Tubature del tetto}
+{379400}{}{Tubature del tetto}
+{379500}{}{Tubature del tetto}
+{379600}{}{Tubature del tetto}
+{379700}{}{Tubature del tetto}
+{379800}{}{Tubature del tetto}
+{379900}{}{Tubature del tetto}
+{380000}{}{Tubature del tetto}
+{380100}{}{Tubature del tetto}
+{380200}{}{Tubature del tetto}
+{380300}{}{Tubature del tetto}
+{380400}{}{Tubature del tetto}
+{380500}{}{Tubature del tetto}
+{380600}{}{Tubature del tetto}
+{380700}{}{Tubature del tetto}
+{380800}{}{Tubature del tetto}
+{380900}{}{Tubature del tetto}
+{381000}{}{Tubature del tetto}
+{381100}{}{Tubature del tetto}
+{381200}{}{Tubature del tetto}
+{381300}{}{Tubature del tetto}
+{381400}{}{Tubature del tetto}
+{381500}{}{Tubature del tetto}
+{381600}{}{Tubature del tetto}
+{381700}{}{Tubature del tetto}
+{381800}{}{Tubature del tetto}
+{381900}{}{Tubature del tetto}
 {385900}{}{Tetto}
 {386000}{}{Tetto}
 {386100}{}{Tetto}
@@ -935,4 +935,4 @@
 {388400}{}{Tetto}
 {388500}{}{Tetto}
 {388600}{}{Tetto}
-{388700}{}{Roof Vent}
+{388700}{}{Presa d'aria del tetto}

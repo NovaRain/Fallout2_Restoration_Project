@@ -229,7 +229,7 @@
 {3324}{}{Un gruppo di nomadi.}
 {3325}{}{Un uomo a guardia di un ponte.}
 {3326}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{3327}{}{A band of angry outcasts.}
+{3327}{}{Una banda di reietti arrabbiati.}
 {3350}{}{Discarica di rifiuti tossici.}
 {3351}{}{Un cane solitario.}
 {3352}{}{Una mandria di brahmin.}
@@ -265,7 +265,7 @@
 {3382}{}{I cavalieri di Re Artu'.}
 {3383}{}{Un boscaiolo di latta.}
 {3384}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-{3385}{}{A band of angry outcasts.}
+{3385}{}{Una banda di reietti arrabbiati.}
 {3400}{}{Un gruppo di guerrieri.}
 {3401}{}{Un gruppo di cannibali.}
 {3402}{}{Un gruppo di piante sporigene e qualche gecko argentato.}
@@ -291,7 +291,7 @@
 {3422}{}{Un piccolo gruppo di formiche.}
 {3423}{}{Un gruppo di cacciatori.}
 {3424}{}{Un gruppo di nomadi.}
-{3425}{}{A band of angry outcasts.}
+{3425}{}{Una banda di reietti arrabbiati.}
 {3450}{}{Discarica di rifiuti tossici.}
 {3451}{}{Un cane solitario.}
 {3452}{}{Una mandria di brahmin.}
@@ -321,7 +321,7 @@
 {3476}{}{I cavalieri di Re Artu'.}
 {3477}{}{Un boscaiolo di latta.}
 {3478}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-{3479}{}{A band of angry outcasts.}
+{3479}{}{Una banda di reietti arrabbiati.}
 {3500}{}{Una banda di reietti.}
 {3501}{}{Un gruppo di uomini di chiesa.}
 {3502}{}{Alcuni cacciatori di taglie.}
@@ -343,7 +343,7 @@
 {3518}{}{Un gruppo di nomadi.}
 {3519}{}{Un uomo a guardia di un ponte.}
 {3520}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{3521}{}{A band of angry outcasts.}
+{3521}{}{Una banda di reietti arrabbiati.}
 {3550}{}{Discarica di rifiuti tossici.}
 {3551}{}{Un cane solitario.}
 {3552}{}{Una mandria di brahmin.}
@@ -416,7 +416,7 @@
 {3629}{}{Un gruppo di trapper.}
 {3630}{}{Un uomo a guardia di un ponte.}
 {3631}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{3632}{}{A band of angry outcasts.}
+{3632}{}{Una banda di reietti arrabbiati.}
 {3650}{}{Discarica di rifiuti tossici.}
 {3651}{}{Un cane solitario.}
 {3652}{}{Una mandria di brahmin.}
@@ -452,7 +452,7 @@
 {3682}{}{I cavalieri di Re Artu'.}
 {3683}{}{Un boscaiolo di latta.}
 {3684}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-{3685}{}{A band of angry outcasts.}
+{3685}{}{Una banda di reietti arrabbiati.}
 {3700}{}{Discarica di rifiuti tossici.}
 {3701}{}{Un cane solitario.}
 {3702}{}{Una mandria di brahmin.}
@@ -586,7 +586,7 @@
 {3918}{}{Un mercante e il suo seguito.}
 {3919}{}{Un uomo a guardia di un ponte.}
 {3920}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{3921}{}{Some angry bandits.}
+{3921}{}{Alcuni banditi arrabbiati.}
 {3950}{}{Alcuni rapinatori.}
 {3951}{}{Alcuni ladri.}
 {3952}{}{Alcuni senzatetto.}
@@ -614,7 +614,7 @@
 {3974}{}{Una mandria di brahmin.}
 {3975}{}{Un uomo a guardia di un ponte.}
 {3976}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{3977}{}{Some angry bandits.}
+{3977}{}{Alcuni banditi arrabbiati.}
 {4000}{}{Alcuni rapinatori a caccia con cani selvatici.}
 {4001}{}{Alcuni ladri che cercano con cani selvatici.}
 {4002}{}{Una banda di ladri.}
@@ -692,7 +692,7 @@
 {4118}{}{Un commerciante e delle guardie.}
 {4119}{}{Un uomo a guardia di un ponte.}
 {4120}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{4121}{}{Some angry bandits.}
+{4121}{}{Alcuni banditi arrabbiati.}
 {4150}{}{Discarica di rifiuti tossici.}
 {4151}{}{Un cane solitario.}
 {4152}{}{Una mandria di brahmin.}
@@ -722,7 +722,7 @@
 {4176}{}{I cavalieri di Re Artu'.}
 {4177}{}{Un boscaiolo di latta.}
 {4178}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
-{4179}{}{Some angry bandits.}
+{4179}{}{Alcuni banditi arrabbiati.}
 {4200}{}{Discarica di rifiuti tossici.}
 {4201}{}{Un cane solitario.}
 {4202}{}{Una mandria di brahmin.}
@@ -1522,7 +1522,7 @@
 {5914}{}{Hubologisti che combattono contro dei mercenari.}
 {5915}{}{Hubologisti che respingono una squadra di arruolamento.}
 {5916}{}{Hubologisti.}
-{5917}{}{A band of angry mercenaries.}
+{5917}{}{Una banda di mercenari arrabbiati.}
 {5918}{}{Un gruppo di persone dall'aspetto importante.}
 {5950}{}{Una banda di mercenari.}
 {5951}{}{Una squadra di arruolamento.}
@@ -1543,7 +1543,7 @@
 {5966}{}{Hubologisti.}
 {5967}{}{Un uomo a guardia di un ponte.}
 {5968}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{5969}{}{A band of angry mercenaries.}
+{5969}{}{Una banda di mercenari arrabbiati.}
 {5970}{}{Un gruppo di persone dall'aspetto importante.}
 {6000}{}{Una banda di mercenari.}
 {6001}{}{Una squadra di arruolamento.}
@@ -1562,7 +1562,7 @@
 {6014}{}{Hubologisti che combattono contro dei mercenari.}
 {6015}{}{Hubologisti che respingono una squadra di arruolamento.}
 {6016}{}{Hubologisti.}
-{6017}{}{A band of angry mercenaries.}
+{6017}{}{Una banda di mercenari arrabbiati.}
 {6018}{}{Un gruppo di persone dall'aspetto importante.}
 {6050}{}{Discarica di rifiuti tossici.}
 {6051}{}{Un cane solitario.}
@@ -1592,7 +1592,7 @@
 {6075}{}{Un boscaiolo di latta.}
 {6076}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6077}{}{Il Caffe' dei Sogni Infranti.}
-{6078}{}{A band of angry mercenaries.}
+{6078}{}{Una banda di mercenari arrabbiati.}
 {6079}{}{Un gruppo di persone dall'aspetto importante.}
 {6100}{}{Discarica di rifiuti tossici.}
 {6101}{}{Un cane solitario.}
@@ -1624,7 +1624,7 @@
 {6127}{}{Un boscaiolo di latta.}
 {6128}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6129}{}{Il Caffe' dei Sogni Infranti.}
-{6130}{}{A band of angry mercenaries.}
+{6130}{}{Una banda di mercenari arrabbiati.}
 {6150}{}{Una banda di mercenari.}
 {6151}{}{Un branco di deathclaw.}
 {6152}{}{Un branco di gecki di fuoco.}
@@ -1644,7 +1644,7 @@
 {6166}{}{Una carovana che respinge alieni.}
 {6167}{}{Una carovana.}
 {6168}{}{Una carovana.}
-{6169}{}{A band of angry mercenaries.}
+{6169}{}{Una banda di mercenari arrabbiati.}
 {6200}{}{Discarica di rifiuti tossici.}
 {6201}{}{Un cane solitario.}
 {6202}{}{Una mandria di brahmin.}
@@ -1796,7 +1796,7 @@
 {6529}{}{Un boscaiolo di latta.}
 {6530}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6531}{}{Il Caffe' dei Sogni Infranti.}
-{6532}{}{A band of angry marauders.}
+{6532}{}{Una banda di razziatori arrabbiati.}
 {6550}{}{Una banda di razziatori.}
 {6551}{}{Un branco di lupi.}
 {6552}{}{Un branco di radscorpioni.}
@@ -1820,7 +1820,7 @@
 {6570}{}{Un viaggiatore.}
 {6571}{}{Un uomo a guardia di un ponte.}
 {6572}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{6573}{}{A band of angry marauders.}
+{6573}{}{Una banda di razziatori arrabbiati.}
 {6600}{}{Un distaccamento delle armate del Master.}
 {6601}{}{Una banda di razziatori.}
 {6602}{}{Alcuni Ranger che respingono una squadra delle armate del Master.}
@@ -1840,7 +1840,7 @@
 {6616}{}{Alcuni contadini.}
 {6617}{}{Un uomo a guardia di un ponte.}
 {6618}{}{I Cavalieri di Re Artu' che combattono contro un ratto.}
-{6619}{}{A band of angry marauders.}
+{6619}{}{Una banda di razziatori arrabbiati.}
 {6650}{}{Discarica di rifiuti tossici.}
 {6651}{}{Un cane solitario.}
 {6652}{}{Una mandria di brahmin.}
@@ -1869,7 +1869,7 @@
 {6675}{}{Un boscaiolo di latta.}
 {6676}{}{Gli "Unwashed Villagers" all'inseguimento di uno spammer.}
 {6677}{}{Il Caffe' dei Sogni Infranti.}
-{6678}{}{A band of angry marauders.}
+{6678}{}{Una banda di razziatori arrabbiati.}
 {6700}{}{Resti dell'Esercito del Master che combattono contro ratti-talpa mutanti.}
 {6701}{}{Resti dell'Esercito del Master.}
 {6702}{}{Uno sciame di mantidi.}
