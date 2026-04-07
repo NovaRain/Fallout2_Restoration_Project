@@ -81,14 +81,14 @@
 {365}{}{Reattore}
 {366}{}{Stanza Trappola}
 {370}{}{Entrance}
-{380}{}{Woodland}
+{380}{}{Bosco}
 {381}{}{Tribu'}
 {390}{}{Entrance}
 {391}{}{Condotti}
 {392}{}{Locali tecnici}
-{393}{}{Level One}
-{394}{}{Level Two}
-{395}{}{Level Three}
+{393}{}{Livello Uno}
+{394}{}{Livello Due}
+{395}{}{Livello Tre}
 {396}{}{Warehouse}
 {400}{}{La Citta' Fantasma}
 {401}{}{Caverna Principale}

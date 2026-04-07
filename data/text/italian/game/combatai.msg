@@ -3602,70 +3602,70 @@
 {70221}{}{Ahi, brucia!}
 {70222}{}{Quello lascerà un livido orribile.}
 {70230}{}{Ah! Proprio nel mio fottuto petto!}
-{70231}{}{There goes one of my lives...}
-{70232}{}{You missed my heart, monkey!}
-{70240}{}{You can't keep this cat from strutting.}
+{70231}{}{Addio a una delle mie vite...}
+{70232}{}{Hai mancato il cuore, scimmia!}
+{70240}{}{Non puoi fermare questo gatto dal pavoneggiarsi.}
 {70241}{}{Merda, proprio nella rotula!}
-{70242}{}{You can't slow me down!}
-{70250}{}{You can't keep this cat from strutting.}
+{70242}{}{Non puoi rallentarmi!}
+{70250}{}{Non puoi fermare questo gatto dal pavoneggiarsi.}
 {70251}{}{Merda, proprio nella rotula!}
-{70252}{}{You can't slow me down!}
-{70260}{}{Motherfucker hit me in the eyes!}
-{70261}{}{Oh! I think my eye's bleeding!}
+{70252}{}{Non puoi rallentarmi!}
+{70260}{}{Bastardo, mi hai colpito agli occhi!}
+{70261}{}{Oh! Credo che il mio occhio stia sanguinando!}
 {70262}{}{I miei occhi!}
-{70270}{}{Whoa, no hitting below the belt.}
+{70270}{}{Ehi, niente colpi sotto la cintura.}
 {70271}{}{Puntare all'inguine non e' bello. Per niente.}
 {70272}{}{Ehi! L'inguine e' fuori limite.}
 {70273}{}{Questo gatto non vuole essere castrato!}
 {70300}{}{Un gatto deve badare a se stesso!}
-{70301}{}{Screw it, you're not worth it.}
+{70301}{}{Al diavolo, non ne vali la pena.}
 {70302}{}{Al diavolo, me ne vado.}
 {70303}{}{Devo filare finche' ho ancora una vita da perdere.}
-{70304}{}{You won this time, monkey!}
-{70320}{}{Don't worry, this'll be over *real* soon.}
-{70321}{}{This cat's about to pounce!}
-{70322}{}{Let's waste these smegheads.}
+{70304}{}{Hai vinto tu, stavolta, scimmia!}
+{70320}{}{Non preoccuparti, finirà *molto* presto.}
+{70321}{}{Questo gatto sta per balzare!}
+{70322}{}{Sbarazziamoci di questi idioti.}
 {70340}{}{Sbrigatevi a dare un morso, così posso farlo anch'io!}
-{70341}{}{At least I'm killing you with style.}
-{70342}{}{You best not bleed on my clothes. }
-{70343}{}{I better not break a nail. }
-{70360}{}{Looks like this cat's too quick for you.}
-{70361}{}{Now that's just sad.}
-{70362}{}{Here, let me show you how to actually *hit* something.}
+{70341}{}{Almeno ti uccido con stile.}
+{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue.}
+{70343}{}{Speriamo di non spezzarmi un’unghia.}
+{70360}{}{Sembra che questo gatto sia troppo veloce per te.}
+{70361}{}{Questo è semplicemente triste.}
+{70362}{}{Vieni, lascia che ti mostri come si colpisce *davvero* qualcosa.}
 {70363}{}{Cavolo, quasi mi dispiace per te. Quasi.}
-{70400}{}{Ah! My head!}
-{70401}{}{I think my ear's bleeding.}
+{70400}{}{Ahi! La mia testa!}
+{70401}{}{Credo che il mio orecchio stia sanguinando.}
 {70402}{}{Cào! Spero che non mi abbia rotto il naso.}
-{70410}{}{Cào! My arm!}
+{70410}{}{Ahi! Il mio braccio!}
 {70411}{}{Dannazione, che male!}
 {70412}{}{Almeno non e' rotto... credo.}
-{70420}{}{Cào! My arm!}
+{70420}{}{Ahi! Il mio braccio!}
 {70421}{}{Dannazione, che male!}
 {70422}{}{Almeno non e' rotto... credo.}
-{70430}{}{I think I broke a rib.}
-{70431}{}{I won't die that easily.}
-{70432}{}{Cào! That hurt!}
-{70440}{}{Not the legs!}
-{70441}{}{Ah! Right in the shin.}
+{70430}{}{Penso che tu mi abbia rotto una costola!}
+{70431}{}{Non morirò così facilmente.}
+{70432}{}{Ahi! Fa male!}
+{70440}{}{Non le gambe!}
+{70441}{}{Ahi! Proprio allo stinco.}
 {70442}{}{Fa male, ma almeno posso ancora camminare.}
-{70450}{}{Not the legs!}
-{70451}{}{Ah! Right in the shin.}
+{70450}{}{Non le gambe!}
+{70451}{}{Ahi! Proprio allo stinco.}
 {70452}{}{Fa male, ma almeno posso ancora camminare.}
-{70460}{}{Cào! My eyes!}
-{70461}{}{Cheap shot!}
+{70460}{}{Ahi! I miei occhi!}
+{70461}{}{Colpo basso!}
 {70462}{}{Ehi! Non posso permettermi un'altra operazione agli occhi!}
-{70470}{}{I can't believe you just hit me there.}
-{70471}{}{I'm not that kind of girl!}
-{70472}{}{You just made this *real* personal.}
-{70500}{}{Looks like I've no choice but to run...}
-{70501}{}{I'd rather flee than die.}
-{70502}{}{Alright. That's enough of this...}
+{70470}{}{Non posso credere che tu mi abbia colpito lì.}
+{70471}{}{Non sono quel tipo di ragazza!}
+{70472}{}{Ora la cosa è diventata *davvero* personale.}
+{70500}{}{Sembra che non abbia altra scelta che scappare...}
+{70501}{}{Preferisco fuggire che morire.}
+{70502}{}{D’accordo. Adesso basta...}
 {70520}{}{Finiamola qui.}
-{70521}{}{Your death shall come swiftly.}
-{70522}{}{Looks like it's come to this...}
-{70540}{}{You asked for this.}
-{70541}{}{I take no pleasure from this.}
-{70542}{}{Now you see the consequence of your actions.}
-{70560}{}{Wow, that's pathetic.}
-{70561}{}{Too quick for you, huh?}
+{70521}{}{La tua morte sarà rapida.}
+{70522}{}{Sembra che si sia arrivati a questo...}
+{70540}{}{Te la sei cercata.}
+{70541}{}{Non traggo alcun piacere da questo.}
+{70542}{}{Ora vedi le conseguenze delle tue azioni.}
+{70560}{}{Wow, che patetico.}
+{70561}{}{Troppo veloce per te, eh?}
 {70562}{}{Non ci sei andato nemmeno vicino.}

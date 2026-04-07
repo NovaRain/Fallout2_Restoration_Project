@@ -13,7 +13,7 @@
 {131}{}{Ti prego, dammi solo un nome. Dammi qualcosa su cui lavorare.}
 {140}{}{Non doveva andare cosi'. Dicevi di voler mettere su famiglia con me. Oh, fa cosi' freddo... credo che sto morendo... No! Questo non e' reale! Non mi faresti mai questo, Thorg! Ti amo! Nessa ti amera' per sempre...}
 {141}{}{Grazie, Nessa. È tutto ciò che avevo bisogno di sapere.}
-{150}{}{È così solitario nel buio… così terribilmente solitario…}
+{150}{}{È così solitario nel buio… così terribilmente solitari.}
 {151}{}{[Fatto]}
 {160}{}{Il sangue non smette mai di scorrere... perche' questo dolore non finisce?}
 {161}{}{Non preoccuparti, Nessa. Presto ti aiuterò a trovare la pace.}

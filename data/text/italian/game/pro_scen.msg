@@ -97,7 +97,7 @@
 {4900}{}{Exit Grid Map Marker}
 {4901}{}{Exit Grid Map Marker}
 {5000}{}{Unita' di Processazione dell'Aria}
-{5001}{}{An APU cleans the old air to provide new air for the complex.}
+{5001}{}{Un'UPA pulisce l'aria vecchia e fornisce aria nuova al complesso.}
 {5100}{}{Sedia}
 {5101}{}{E' una sedia. Peccato che tu non abbia tempo per sederti e riposarti.}
 {5200}{}{Sedia}
@@ -415,9 +415,9 @@
 {21501}{}{}
 {21600}{}{}
 {21601}{}{}
-{21700}{}{UNUSED.}
-{21800}{}{UNUSED.}
-{21900}{}{UNUSED.}
+{21700}{}{NON USATO.}
+{21800}{}{NON USATO.}
+{21900}{}{NON USATO.}
 {22000}{}{Scatole}
 {22001}{}{Queste scatole di legno si stanno disfacendo a causa delle intemperie.}
 {22100}{}{Scatole}
@@ -457,8 +457,8 @@
 {23800}{}{}
 {23900}{}{}
 {24000}{}{}
-{24100}{}{UNUSED.}
-{24200}{}{UNUSED.}
+{24100}{}{NON USATO.}
+{24200}{}{NON USATO.}
 {24300}{}{Idrante}
 {24301}{}{Questo e' un idrante. Senza gli spruzzatori da soffitto del Vault, uno di questi potrebbe esserti utile per spegnere degli incendi.}
 {24400}{}{Lampione}
@@ -611,7 +611,7 @@
 {31900}{}{Albero}
 {32000}{}{Albero}
 {32100}{}{Albero}
-{32200}{}{UNUSED.}
+{32200}{}{NON USATO.}
 {32300}{}{Camion}
 {32301}{}{I resti rovinati di un camion diesel. Questo ammasso di ferraglia non si muovera' mai piu'.}
 {32400}{}{Camion}
@@ -801,8 +801,8 @@
 {41601}{}{Questi tubi trasferivano il carburante da un serbatoio sotterraneo al garage. Non vengono piu' usati da molto tempo.}
 {41700}{}{Pozzo dell'Ascensore}
 {41701}{}{Componente di un ascensore.}
-{41800}{}{Air Shaft}
-{41801}{}{An air shaft that stretches deep into the ship. It has been damaged.}
+{41800}{}{Condotto d'aria}
+{41801}{}{Un condotto d'aria che si insinua profondamente nella nave. E' stato danneggiato.}
 {41900}{}{Ascensore}
 {41901}{}{Un ascensore. Usalo per andare su e giu' tra i piani.}
 {42000}{}{Pozzo dell'Ascensore}
@@ -972,11 +972,11 @@
 {50901}{}{Una parte crollata del soffitto ha formato questo mucchio di pietrisco. La tua corda porta alla superficie.}
 {51000}{}{Rocce}
 {51001}{}{fgfgfg}
-{51100}{}{UNUSED.}
-{51200}{}{UNUSED.}
-{51300}{}{UNUSED.}
-{51400}{}{UNUSED.}
-{51500}{}{UNUSED.}
+{51100}{}{NON USATO.}
+{51200}{}{NON USATO.}
+{51300}{}{NON USATO.}
+{51400}{}{NON USATO.}
+{51500}{}{NON USATO.}
 {51600}{}{Tavolo}
 {51601}{}{Questo grosso tavolo sembra importante. Forse vi si svolgono delle riunioni?}
 {51700}{}{Tavolo}
@@ -1122,8 +1122,8 @@
 {58801}{}{Sembra una vecchia rotativa tipografica o un vattelapesca meccanico.}
 {58900}{}{Macchinario}
 {58901}{}{Sembra una vecchia rotativa tipografica o un vattelapesca meccanico.}
-{59000}{}{Scrap Metal}
-{59001}{}{Scrap Metal.}
+{59000}{}{Rottami di metallo}
+{59001}{}{Rottami di metallo.}
 {59100}{}{Tavolo}
 {59101}{}{Questo tavolo di metallo sembra in buone condizioni. C'e' un foro di scarico al centro.}
 {59200}{}{Tavolo}
@@ -1588,7 +1588,7 @@
 {82800}{}{Leggero}
 {82801}{}{Una luce di sicurezza.}
 {82900}{}{Obelisco}
-{82901}{}{Pillar.}
+{82901}{}{Pilastro.}
 {83000}{}{Ricettacolo per Robot}
 {83001}{}{Questa e' un'alcova per la ricarica dei robot. Quando non in servizio, i robot si agganciano qui per spegnersi e ricaricarsi.}
 {83100}{}{Ricettacolo per Robot}
@@ -1668,12 +1668,12 @@
 {88001}{}{Pezzi di un guscio d'uovo rotto.}
 {88100}{}{Guscio d'Uovo}
 {88101}{}{Pezzi di un guscio d'uovo rotto.}
-{88200}{}{Small rocks}
-{88201}{}{Scattered small rocks.}
-{88300}{}{Small rocks}
-{88301}{}{Scattered small rocks.}
-{88400}{}{Small rocks}
-{88401}{}{Scattered small rocks.}
+{88200}{}{Piccole rocce}
+{88201}{}{Piccole rocce sparse.}
+{88300}{}{Piccole rocce}
+{88301}{}{Piccole rocce sparse.}
+{88400}{}{Piccole rocce}
+{88401}{}{Piccole rocce sparse.}
 {88500}{}{Guscio d'Uovo}
 {88501}{}{Pezzi di un guscio d'uovo rotto.}
 {88600}{}{Lampione}
@@ -2008,8 +2008,8 @@
 {114500}{}{Bara}
 {114600}{}{Barre d'Acciaio}
 {114700}{}{Barre d'Acciaio}
-{114800}{}{Steel Cover}
-{114900}{}{Steel Cover}
+{114800}{}{Coperchio d'acciaio}
+{114900}{}{Coperchio d'acciaio}
 {115000}{}{Trappola Laser}
 {115100}{}{Trappola Laser}
 {115200}{}{Carretto da Minatore}
@@ -2034,8 +2034,8 @@
 {116801}{}{Una macchina non funzionante.}
 {116900}{}{Porta}
 {117000}{}{Porta}
-{117100}{}{Rusting Pipes}
-{117101}{}{A set of rusting old pipes.}
+{117100}{}{Tubi arrugginiti}
+{117101}{}{Un insieme di vecchi tubi arrugginiti.}
 {117200}{}{Tank}
 {117300}{}{Gazie}
 {117400}{}{Gazie}
@@ -2436,14 +2436,14 @@
 {153500}{}{Porta}
 {153600}{}{Porta}
 {153700}{}{Doccia}
-{153800}{}{UNUSED.}
-{153900}{}{UNUSED.}
-{154000}{}{UNUSED.}
-{154100}{}{UNUSED.}
-{154200}{}{UNUSED.}
-{154300}{}{UNUSED.}
-{154400}{}{UNUSED.}
-{154500}{}{UNUSED.}
+{153800}{}{NON USATO.}
+{153900}{}{NON USATO.}
+{154000}{}{NON USATO.}
+{154100}{}{NON USATO.}
+{154200}{}{NON USATO.}
+{154300}{}{NON USATO.}
+{154400}{}{NON USATO.}
+{154500}{}{NON USATO.}
 {154600}{}{Parete dello Shuttle}
 {154700}{}{Parete dello Shuttle}
 {154800}{}{Campo di Forza}
@@ -2775,46 +2775,46 @@
 {185100}{}{Carbone}
 {185200}{}{Una vecchia motocicletta}
 {185201}{}{Una vecchia motocicletta prebellica. Non funziona piu'.}
-{185300}{}{A water tank}
+{185300}{}{Serbatoio d'acqua}
 {185301}{}{Una torre metallica che contiene acqua potabile.}
-{185400}{}{Mom's Orphanage Sign}
+{185400}{}{Insegna dell'orfanotrofio di Mama}
 {185500}{}{Ventilatore}
-{185600}{}{A healthy looking tree}
-{185700}{}{A healthy looking tree}
-{185800}{}{A healthy looking tree}
-{185900}{}{A healthy looking tree}
-{186000}{}{A healthy looking tree}
-{186100}{}{A healthy looking shrub}
+{185600}{}{Un albero dall'aspetto sano}
+{185700}{}{Un albero dall'aspetto sano}
+{185800}{}{Un albero dall'aspetto sano}
+{185900}{}{Un albero dall'aspetto sano}
+{186000}{}{Un albero dall'aspetto sano}
+{186100}{}{Un arbusto dall'aspetto sano}
 {186200}{}{Pianta}
-{186201}{}{A mutated cornstalk. It seems to be thriving under these conditions. This one is a different color than the others you have seen.}
-{186300}{}{Fertile ground}
-{186400}{}{Fertile ground}
-{186500}{}{Fertile ground}
+{186201}{}{Una pianta di granturco mutata. Sembra crescere rigogliosamente in queste condizioni. Questa ha un colore diverso dalle altre che hai visto.}
+{186300}{}{Terreno fertile}
+{186400}{}{Terreno fertile}
+{186500}{}{Terreno fertile}
 {186600}{}{ARTE UTILIZZATA}
 {186601}{}{}
 {186700}{}{ARTE UTILIZZATA}
 {186701}{}{Un trono per un leader o comandante.}
-{186800}{}{Air vent}
-{186801}{}{A circular air vent to an underground facility.}
+{186800}{}{Presa d'aria}
+{186801}{}{Una presa d'aria circolare che conduce a una struttura sotterranea.}
 {186900}{}{Corda}
 {186901}{}{Una corda che conduce a una presa d'aria superiore.}
-{187000}{}{Air Processing Vent}
-{187001}{}{A vent used to filter air underground.}
+{187000}{}{Unita' di processazione dell'aria}
+{187001}{}{Una presa d'aria usata per filtrare l'aria sotterranea.}
 {187100}{}{Presa d'Aria}
-{187101}{}{A vent used to purify air.}
-{187200}{}{Brahmin sign}
+{187101}{}{Una presa d'aria usata per purificare l'aria.}
+{187200}{}{Insegna dei brahmin}
 {187201}{}{Un cartello con istruzioni.}
-{187300}{}{Brahmin sign}
-{187301}{}{A sign giving a warning.}
-{187400}{}{Crafting Machine}
+{187300}{}{Insegna dei brahmin}
+{187301}{}{Un'insegna di avvertimento.}
+{187400}{}{Macchina da lavorazione}
 {187401}{}{Una macchina con cui puoi produrre le tue droghe.}
-{187500}{}{Chemicals}
+{187500}{}{Sostanze chimiche}
 {187501}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
-{187600}{}{Chemicals}
+{187600}{}{Sostanze chimiche}
 {187601}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
-{187700}{}{Chemicals	}
+{187700}{}{Sostanze chimiche}
 {187701}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
-{187800}{}{Chemicals	}
+{187800}{}{Sostanze chimiche}
 {187801}{}{Sostanze chimiche gelatinose dall'odore nauseabondo.}
 {187900}{}{Corda}
 {187901}{}{Corda che indica un'area in cui non si deve camminare.}
@@ -2824,32 +2824,32 @@
 {188101}{}{Un'immagine raffigurante la Gioconda.}
 {188200}{}{Immagine da galleria}
 {188201}{}{Un'immagine che raffigura il primo allunaggio.}
-{188300}{}{Crafting Machine}
+{188300}{}{Macchina da lavorazione}
 {188301}{}{Una macchina con cui puoi produrre le tue droghe.}
-{188400}{}{Fertile ground}
-{188401}{}{Ground ready for planting.}
-{188500}{}{Fertile ground}
-{188501}{}{Ground ready for planting.}
+{188400}{}{Terreno fertile}
+{188401}{}{Terreno pronto per la semina.}
+{188500}{}{Terreno fertile}
+{188501}{}{Terreno pronto per la semina.}
 {188600}{}{Cartello di parcheggio}
 {188601}{}{Un cartello che indica le aree di parcheggio.}
 {188700}{}{Ascensore}
 {188701}{}{Un ascensore per spostarsi a un altro piano.}
-{188800}{}{Hibernation computer}
+{188800}{}{Computer di ibernazione}
 {188801}{}{Computer che controlla le vasche di ibernazione.}
-{188900}{}{A group of barrels}
+{188900}{}{Un gruppo di barili}
 {188901}{}{Barili che contengono varie sostanze chimiche.}
-{189000}{}{A burning barrel}
+{189000}{}{Barile in fiamme}
 {189001}{}{A quanto pare il cartello dice che è infiammabile.}
-{189100}{}{A barrel}
+{189100}{}{Barile}
 {189101}{}{Un barile pieno di una sorta di liquido.}
-{189200}{}{A barrel}
+{189200}{}{Barile}
 {189201}{}{Un barile contenente un denso liquido rosso nauseabondo.}
-{189300}{}{A barrel}
+{189300}{}{Barile}
 {189301}{}{Un barile con un'etichetta di pericolo biologico.}
 {189400}{}{Pianta}
-{189401}{}{This plant appears to have some type of berry hanging from it.}
-{189500}{}{A Tree}
-{189600}{}{A toaster}
+{189401}{}{Questa pianta sembra avere delle bacche che pendono dai rami.}
+{189500}{}{Albero}
+{189600}{}{Tostapane}
 {189601}{}{Un tostapane argentato appoggiato su una scrivania.}
 {189700}{}{Un proiettore olografico}
 {189701}{}{Il tuo proiettore olografico HD 2000 di base.}
@@ -2864,8 +2864,8 @@
 {190201}{}{Un congelatore in grado di contenere un essere umano vivo. Questo è aperto.}
 {190300}{}{Un congelatore criogenico}
 {190301}{}{Un congelatore in grado di contenere un essere umano vivo. Questo è chiuso.}
-{190400}{}{A desk}
-{190401}{}{A large, sturdy looking desk.}
+{190400}{}{Una scrivania}
+{190401}{}{Una scrivania grande e robusta.}
 {190500}{}{Camera di ibernazione}
 {190501}{}{Una camera di ibernazione. All'interno è sospeso il corpo di una donna caucasica.}
 {190600}{}{Camera di ibernazione}
@@ -2881,97 +2881,97 @@
 {191100}{}{Camera di ibernazione}
 {191101}{}{Una camera di ibernazione aperta. È vuota.}
 {191200}{}{Una sedia elettrica WattzMan 2000}
-{191300}{}{Imperial Shuttle}
-{191301}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
-{191400}{}{Imperial Shuttle}
-{191401}{}{A space vehicle of some kind. It has a license plate that reads: EMPRRULZ!}
+{191300}{}{Navetta Imperiale}
+{191301}{}{Un qualche tipo di veicolo spaziale. Ha una targa con scritto: EMPRRULZ!}
+{191400}{}{Navetta Imperiale}
+{191401}{}{Un qualche tipo di veicolo spaziale. Ha una targa con scritto: EMPRRULZ!}
 {191500}{}{Millennium Falcon}
 {191501}{}{Sembra un mucchio di ferraglia. Noti un paio di dadi pelosi appesi allo specchietto retrovisore.}
 {191600}{}{Braciere ardente}
-{191601}{}{This brazier is full of burning coals.}
-{191700}{}{Bone}
+{191601}{}{Questo braciere e' pieno di braci ardenti.}
+{191700}{}{Osso}
 {191701}{}{}
-{191800}{}{Bone}
-{191900}{}{Bone}
+{191800}{}{Osso}
+{191900}{}{Osso}
 {192000}{}{Ossa}
 {192001}{}{Resti sparsi.}
 {192100}{}{Ossa}
-{192101}{}{Are these human!}
+{192101}{}{Sono umane?}
 {192200}{}{Ossa}
-{192201}{}{Scattered human bones.}
+{192201}{}{Delle ossa umane sparse.}
 {192300}{}{Ossa}
 {192400}{}{Ossa}
 {192500}{}{Ossa}
-{192501}{}{Scattered human bones.}
+{192501}{}{Delle ossa umane sparse.}
 {192600}{}{Ossa}
 {192601}{}{Resti umani sparsi.}
 {192700}{}{Ossa}
-{192701}{}{Are these human!}
+{192701}{}{Sono umane?}
 {192800}{}{Ossa}
 {192900}{}{Barriera di cemento}
 {193000}{}{Barriera di cemento}
 {193100}{}{Porta di Sicurezza}
-{193101}{}{This door looks very secure.}
+{193101}{}{Questa porta sembra molto sicura.}
 {193200}{}{Porta di Sicurezza}
-{193201}{}{This rusty door still looks very secure.}
+{193201}{}{Questa porta arrugginita sembra ancora molto sicura.}
 {193300}{}{Pozzo dell'Ascensore}
 {193400}{}{Pozzo dell'Ascensore}
-{193401}{}{The shaft is broken.}
+{193401}{}{Il pozzo e' rotto.}
 {193500}{}{Pozzo dell'Ascensore}
 {193501}{}{Il pozzo ha una corda sul bordo che penzola verso il basso.}
 {193600}{}{Pozzo dell'Ascensore}
-{193601}{}{The shaft has a broken elevator and rope.}
+{193601}{}{Il pozzo ha un ascensore rotto e una corda penzolante.}
 {193700}{}{Pozzo dell'Ascensore}
 {193701}{}{Nel condotto manca l'ascensore. Pericoloso!}
-{193800}{}{Rusting Pipes}
-{193801}{}{A set of old rusting pipes.}
+{193800}{}{Tubi arrugginiti}
+{193801}{}{Un insieme di vecchi tubi arrugginiti.}
 {193900}{}{Generatore Elettrico}
 {193901}{}{Un generatore elettrico Wattz ElectroBox. Il tipo di generatore ausiliario piu' usato prima della Guerra.}
 {194000}{}{Generatore Elettrico}
-{194001}{}{A Wattz ElectroBox fuse box. Fairly standard as back-up generators before the war.}
-{194100}{}{Electrical Machinery}
-{194101}{}{This machine is buzzing with electricity.}
-{194200}{}{Small Monitor}
-{194201}{}{This small monitor appears to have someone talking.}
+{194001}{}{Una scatola di fusibili Wattz ElectroBox. Era uno dei generatori ausiliari piu' comuni prima della Guerra.}
+{194100}{}{Macchinario elettrico}
+{194101}{}{Questa macchina ronza di elettricita'.}
+{194200}{}{Monitor piccolo}
+{194201}{}{Su questo piccolo monitor sembra esserci qualcuno che parla.}
 {194300}{}{Monitor}
-{194301}{}{A large monitor, black and white only. This one has a woman lecturing on morals.}
+{194301}{}{Un grande monitor, in bianco e nero. Mostra una donna che tiene una lezione sulla morale.}
 {194400}{}{Monitor}
-{194401}{}{A large monitor, black and white only. This one warns of fallout.}
+{194401}{}{Un grande monitor, in bianco e nero. Mostra un avviso sul fallout.}
 {194500}{}{Monitor}
-{194501}{}{A large monitor, black and white only. The strange film appears to be stuck in a loop.}
-{194600}{}{Large Monitor}
-{194601}{}{A large monitor, black and white only. This one has a figure in armor.}
+{194501}{}{Un grande monitor, in bianco e nero. Il filmato sembra bloccato in un ciclo continuo.}
+{194600}{}{Monitor grande}
+{194601}{}{Un grande monitor, in bianco e nero. Mostra una figura in armatura.}
 {194700}{}{Monitor}
-{194701}{}{A large monitor, black and white only. This one has a dignified, but simple looking man rambling on.}
+{194701}{}{Un grande monitor, in bianco e nero. Mostra un uomo dall'aspetto semplice che parla a lungo.}
 {194800}{}{Monitor}
-{194801}{}{A large monitor, black and white only. The picture is of a rotating cross and circle.}
-{194900}{}{spare}
-{195000}{}{spare}
+{194801}{}{Un grande monitor, in bianco e nero. Mostra una croce e un cerchio che ruotano.}
+{194900}{}{ricambio}
+{195000}{}{ricambio}
 {195100}{}{Ombra}
 {195200}{}{Ombra}
 {195300}{}{Grande Pompa Meccanica Appiccicosa}
-{195301}{}{You see a large mechanical pump covered in strange noxious biological goo.}
-{195400}{}{Floor Grating}
-{195401}{}{A rusting floor grating.}
+{195301}{}{Vedi una grande pompa meccanica ricoperta da una strana sostanza biologica nauseante.}
+{195400}{}{Grata del pavimento}
+{195401}{}{Una grata del pavimento arrugginita.}
 {195500}{}{Grande Pompa Meccanica}
 {195501}{}{Una grande pompa meccanica che emerge attraverso una grata del pavimento.}
 {195600}{}{Grande Pompa Meccanica Appiccicosa}
-{195601}{}{You see a large mechanical pump covered in strange noxious biological goo.}
+{195601}{}{Vedi una grande pompa meccanica ricoperta da una strana sostanza biologica nauseante.}
 {195700}{}{Pompa Meccanica Appiccicosa Distrutta}
 {195701}{}{Vedi una grande pompa meccanica ricoperta di uno strano e nauseabondo muco biologico. I suoi giorni di pompaggio sono finiti.}
 {195800}{}{Pompa Meccanica Appiccicosa Distrutta}
 {195801}{}{Vedi una grande pompa meccanica ricoperta di uno strano e nauseabondo muco biologico. I suoi giorni di pompaggio sono finiti.}
-{195900}{}{Floor Cavity}
+{195900}{}{Cavita' nel pavimento}
 {196000}{}{Grande Pompa Meccanica}
 {196001}{}{Una grande pompa meccanica che emerge attraverso una grata del pavimento.}
 {196100}{}{Grande Pompa Meccanica}
 {196101}{}{Una grande pompa meccanica che emerge attraverso una grata del pavimento.}
 {196200}{}{Pila di Pneumatici}
 {196201}{}{Una pila di vecchissimi pneumatici. Si sono vulcanizzati e induriti, probabilmente a causa del calore.}
-{196300}{}{Rubber Tires}
-{196301}{}{Two ancient rubber tires. They have vulcanized and hardened, probably due to the heat.}
-{196400}{}{Rubber Tire}
-{196401}{}{An ancient rubber tire. It has become vulcanized and hardened, probably due to the heat.}
+{196300}{}{Pneumatici di gomma}
+{196301}{}{Due antichi pneumatici di gomma. Si sono vulcanizzati e induriti, probabilmente a causa del calore.}
+{196400}{}{Pneumatico di gomma}
+{196401}{}{Un antico pneumatico di gomma. Si e' vulcanizzato e indurito, probabilmente a causa del calore.}
 {196500}{}{Grande Turbina}
 {196501}{}{Una grande turbina in rotazione.}
 {196600}{}{Presa d'Aria}
@@ -2980,12 +2980,12 @@
 {196701}{}{Una presa d'aria che fornisce aria purificata all'intero complesso.}
 {196800}{}{Presa d'Aria}
 {196900}{}{Presa d'Aria}
-{197000}{}{Rusty Air Vent}
-{197001}{}{This air vent is rusty and blocked.}
-{197100}{}{Rusty Air Vent}
-{197101}{}{This air vent is rusty and blocked.}
-{197200}{}{Rusty Air Vent}
-{197201}{}{This rusty air vent is blocked.}
+{197000}{}{Presa d'aria arrugginita}
+{197001}{}{Questa presa d'aria e' arrugginita e bloccata.}
+{197100}{}{Presa d'aria arrugginita}
+{197101}{}{Questa presa d'aria e' arrugginita e bloccata.}
+{197200}{}{Presa d'aria arrugginita}
+{197201}{}{Questa presa d'aria arrugginita e' bloccata.}
 {197300}{}{Parete}
 {197400}{}{Parete}
 {197500}{}{Pannello di Legno}
@@ -2994,43 +2994,43 @@
 {197800}{}{Pozzo}
 {197801}{}{Uno dei tipici pozzi che si possono trovare nelle Lande.}
 {197900}{}{Scale}
-{197901}{}{A set of broad stairs.}
+{197901}{}{Delle scale larghe.}
 {198000}{}{Ampie scale arrugginite}
-{198001}{}{These stairs are rusting slowly away.}
+{198001}{}{Queste scale si stanno arrugginendo lentamente.}
 {198100}{}{Ampie scale arrugginite}
-{198101}{}{These stairs are rusting slowly away.}
-{198200}{}{Small Stairs}
+{198101}{}{Queste scale si stanno arrugginendo lentamente.}
+{198200}{}{Scale piccole}
 {198201}{}{Piccole scale tipiche.}
-{198300}{}{Small Rusting Stairs}
-{198301}{}{These stairs are rusting away.}
-{198400}{}{Jammed Fan}
-{198401}{}{This fan has a piece of metal jamming the blades.}
-{198500}{}{Air Processing Vent}
+{198300}{}{Scale piccole arrugginite}
+{198301}{}{Queste scale si stanno consumando per la ruggine.}
+{198400}{}{Ventola bloccata}
+{198401}{}{Questa ventola ha un pezzo di metallo incastrato tra le pale.}
+{198500}{}{Unita' di processazione dell'aria}
 {198501}{}{Sistema di ventilazione standard Vault-Tec.}
 {198600}{}{Parete d'Acciaio}
 {198700}{}{Parete d'Acciaio}
 {198800}{}{Parete d'Acciaio}
 {198900}{}{Parete d'Acciaio}
 {199000}{}{Parete d'Acciaio}
-{199100}{}{Rusting Pipes}
+{199100}{}{Tubi arrugginiti}
 {199200}{}{Tubature}
 {199300}{}{Porta del Magazzino}
 {199400}{}{Porta del Magazzino}
-{199500}{}{Giant Copper Statue}
+{199500}{}{Statua gigante di rame}
 {199501}{}{Questa statua emerge dalla terra. Ha un leggero odore di urina di scimmia.}
-{199600}{}{Giant Copper Statue}
+{199600}{}{Statua gigante di rame}
 {199601}{}{Questa statua emerge dalla terra. Ha un leggero odore di urina di scimmia.}
-{199700}{}{Giant Copper Statue}
+{199700}{}{Statua gigante di rame}
 {199701}{}{Questa statua emerge dalla terra. Ha un leggero odore di urina di scimmia.}
-{199800}{}{Giant Copper Statue}
+{199800}{}{Statua gigante di rame}
 {199801}{}{Questa statua emerge dalla terra. Ha un leggero odore di urina di scimmia.}
-{199900}{}{Giant Copper Statue}
+{199900}{}{Statua gigante di rame}
 {199901}{}{Questa statua emerge dalla terra. Ha un leggero odore di urina di scimmia.}
 {200000}{}{Ombra}
 {200001}{}{Ombra}
 {200100}{}{Ombra}
 {200200}{}{Serbatoio di Sospensione}
-{200201}{}{Some sort of medical or experimental apparatus. This tank holds a strange green liquid.}
+{200201}{}{Un apparato medico o sperimentale. Questa vasca contiene uno strano liquido verde.}
 {200300}{}{Serbatoio d'Acqua}
 {200301}{}{Un grosso serbatoio che contiene liquidi. In questo caso, probabilmente era progettato per immagazzinare acqua.}
 {200400}{}{Porta}
@@ -3040,26 +3040,26 @@
 {200700}{}{Tavolo della WarRoom}
 {200800}{}{Tavolo della WarRoom}
 {200900}{}{Porta di Sicurezza}
-{200901}{}{This door looks very secure.}
-{201000}{}{EPA Sign}
-{201100}{}{EPA Sign}
+{200901}{}{Questa porta sembra molto sicura.}
+{201000}{}{Insegna dell'EPA}
+{201100}{}{Insegna dell'EPA}
 {201200}{}{Targa EPA}
 {201201}{}{Una targa di metallo con le lettere EPA.}
 {201300}{}{Targa EPA}
 {201301}{}{Una targa di metallo con le lettere EPA.}
 {201400}{}{Targa EPA arrugginita}
-{201401}{}{This metal plaque is slowly rusting away.}
-{201500}{}{Metal Plaque}
-{201501}{}{A metal plaque with the number one.}
-{201600}{}{Metal Plaque}
+{201401}{}{Questa targa di metallo si sta arrugginendo lentamente.}
+{201500}{}{Targa di metallo}
+{201501}{}{Una targa di metallo con il numero uno.}
+{201600}{}{Targa di metallo}
 {201601}{}{Una targa di metallo con il numero due.}
-{201700}{}{Metal Plaque}
+{201700}{}{Targa di metallo}
 {201701}{}{Una targa di metallo con il numero tre.}
-{201800}{}{Metal Plaque}
+{201800}{}{Targa di metallo}
 {201801}{}{Una targa di metallo con il numero quattro.}
-{201900}{}{Metal Plaque}
+{201900}{}{Targa di metallo}
 {201901}{}{Una targa di metallo con il numero cinque.}
-{202000}{}{Metal Plaque}
+{202000}{}{Targa di metallo}
 {202001}{}{Una targa di metallo con il numero sei.}
 {202100}{}{Immagine da museo}
 {202200}{}{Immagine da museo}
@@ -3069,24 +3069,24 @@
 {202500}{}{Ombra}
 {202600}{}{Ombra}
 {202700}{}{Ombra}
-{202800}{}{Girlie Poster}
-{202900}{}{Girlie Poster}
-{203000}{}{Girlie Poster}
-{203100}{}{Girlie Poster}
-{203200}{}{Girlie Poster}
-{203300}{}{Girlie Poster}
-{203400}{}{Girlie Poster}
-{203500}{}{Girlie Poster}
-{203600}{}{Girlie Poster}
-{203700}{}{Girlie Poster}
-{203800}{}{Girlie Poster}
-{203900}{}{Girlie Poster}
-{204000}{}{Girlie Poster}
-{204100}{}{Girlie Poster}
-{204200}{}{Girlie Poster}
-{204300}{}{Girlie Poster}
-{204400}{}{Girlie Poster}
-{204500}{}{Girlie Poster}
+{202800}{}{Poster di ragazza}
+{202900}{}{Poster di ragazza}
+{203000}{}{Poster di ragazza}
+{203100}{}{Poster di ragazza}
+{203200}{}{Poster di ragazza}
+{203300}{}{Poster di ragazza}
+{203400}{}{Poster di ragazza}
+{203500}{}{Poster di ragazza}
+{203600}{}{Poster di ragazza}
+{203700}{}{Poster di ragazza}
+{203800}{}{Poster di ragazza}
+{203900}{}{Poster di ragazza}
+{204000}{}{Poster di ragazza}
+{204100}{}{Poster di ragazza}
+{204200}{}{Poster di ragazza}
+{204300}{}{Poster di ragazza}
+{204400}{}{Poster di ragazza}
+{204500}{}{Poster di ragazza}
 {204600}{}{}
 {204601}{}{}
 {204700}{}{Tappeto}
@@ -3103,17 +3103,17 @@
 {205201}{}{Un bel vaso.}
 {205300}{}{Presa d'Aria}
 {205400}{}{Presa d'Aria}
-{205500}{}{Vault Outer Door}
+{205500}{}{Porta esterna del Vault}
 {205501}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
-{205600}{}{Rusting Vault Outer Door}
-{205601}{}{This large rusting door is the link between the vault and the outside world.}
-{205700}{}{Rusting Vault Outer Door}
-{205701}{}{This large rusting door is the link between the vault and the outside world.}
-{205800}{}{Rusting Vault Outer Door}
+{205600}{}{Porta esterna del Vault arrugginita}
+{205601}{}{Questa grande porta arrugginita e' il collegamento tra il Vault e il mondo esterno.}
+{205700}{}{Porta esterna del Vault arrugginita}
+{205701}{}{Questa grande porta arrugginita e' il collegamento tra il Vault e il mondo esterno.}
+{205800}{}{Porta esterna del Vault arrugginita}
 {205801}{}{Il meccanismo di apertura e chiusura della pesante porta del vault e' stato danneggiato irreparabilmente.}
-{205900}{}{Rusting Vault Outer Door}
-{205901}{}{The door mechanism has been disabled.}
-{206000}{}{Vault Outer Door}
+{205900}{}{Porta esterna del Vault arrugginita}
+{205901}{}{Il meccanismo della porta e' stato disattivato.}
+{206000}{}{Porta esterna del Vault}
 {206001}{}{Questa grande porta e' il legame tra il vault e il mondo esterno.}
 {206100}{}{Vaso}
 {206101}{}{Un bel vaso.}
@@ -3125,36 +3125,36 @@
 {206401}{}{Un bel vaso.}
 {206500}{}{Parete}
 {206600}{}{Campo di Forza}
-{206700}{}{Metal Plaque}
+{206700}{}{Targa di metallo}
 {206701}{}{Una targa di metallo con il numero 7.}
 {206800}{}{Rocce}
 {206801}{}{Un grosso mucchio di rocce.}
 {206900}{}{Rocce}
 {206901}{}{Un grosso mucchio di rocce.}
-{207000}{}{Rusting Elevator}
+{207000}{}{Ascensore arrugginito}
 {207001}{}{Questo ascensore arrugginito viaggia tra i vari livelli.}
 {207100}{}{Acqua di sentina sporca}
-{207200}{}{Iron Vat}
+{207200}{}{Vasca di ferro}
 {207201}{}{Un enorme recipiente di ferro con uno strano liquido verde.}
 {207300}{}{Porta di Sicurezza}
-{207301}{}{This door looks very secure.}
+{207301}{}{Questa porta sembra molto sicura.}
 {207400}{}{Tappeto logoro}
 {207401}{}{Un vecchio tappeto intrecciato.}
 {207500}{}{Tappeto logoro}
 {207501}{}{Un vecchio tappeto intrecciato.}
-{207600}{}{NCR Picture}
-{207601}{}{A picture of the NCR banner.}
-{207700}{}{NCR Picture}
-{207701}{}{A picture of the NCR banner.}
-{207800}{}{NCR Picture}
-{207801}{}{A picture of the NCR banner.}
+{207600}{}{Immagine della NCR}
+{207601}{}{Un'immagine dello stendardo della NCR.}
+{207700}{}{Immagine della NCR}
+{207701}{}{Un'immagine dello stendardo della NCR.}
+{207800}{}{Immagine della NCR}
+{207801}{}{Un'immagine dello stendardo della NCR.}
 {207900}{}{Montagna}
 {207901}{}{Questa parete di roccia sembra assolutamente inaccessibile.}
 {208000}{}{Montagna}
 {208001}{}{Questa parete di roccia sembra assolutamente inaccessibile.}
-{208100}{}{Picture}
-{208200}{}{Picture}
-{208300}{}{Picture}
+{208100}{}{Immagine}
+{208200}{}{Immagine}
+{208300}{}{Immagine}
 {208400}{}{Presa d'Aria}
 {208500}{}{Presa d'Aria}
 {208600}{}{Presa d'Aria}
@@ -3165,29 +3165,29 @@
 {209100}{}{Pannello di Legno}
 {209200}{}{Presa d'Aria}
 {209300}{}{Presa d'Aria}
-{209400}{}{Wall Pipes}
-{209500}{}{Wall Pipes}
-{209600}{}{Wall Pipes}
-{209700}{}{Wall Pipes}
-{209800}{}{Wall Pipes}
-{209900}{}{Wall Pipes}
+{209400}{}{Tubature a parete}
+{209500}{}{Tubature a parete}
+{209600}{}{Tubature a parete}
+{209700}{}{Tubature a parete}
+{209800}{}{Tubature a parete}
+{209900}{}{Tubature a parete}
 {210000}{}{Porta di Sicurezza}
 {210001}{}{Questa porta di metallo è incastonata nella parete rocciosa.}
-{210100}{}{Vault Outer Door}
+{210100}{}{Porta esterna del Vault}
 {210101}{}{Questa porta del Vault è incastonata nella parete rocciosa della montagna. Sembra aver resistito all'esplosione di una bomba atomica.}
-{210200}{}{Vault Outer Door}
-{210201}{}{This large door is the link between the vault and the outside world. It has been scorched by a tremendous blast.}
+{210200}{}{Porta esterna del Vault}
+{210201}{}{Questa grande porta collega il vault al mondo esterno. E' stata bruciata da un'esplosione tremenda.}
 {210300}{}{Entrata della Grotta}
-{210301}{}{The cave appears to open up into a larger network of caves.}
+{210301}{}{La grotta sembra aprirsi in una rete di caverne piu' ampia.}
 {210400}{}{Computer d'Accesso per la Porta}
 {210401}{}{Questo computer controlla l'enorme porta del vault. Devi inserire uno specifico codice d'accesso per farlo funzionare.}
-{210500}{}{Rusting Boat}
-{210501}{}{This boat looks barely seaworthy.}
-{210600}{}{Rusting Boat}
-{210601}{}{This boat looks barely seaworthy.}
-{210700}{}{Mooring Post}
+{210500}{}{Barca arrugginita}
+{210501}{}{Questa barca sembra a malapena in grado di galleggiare.}
+{210600}{}{Barca arrugginita}
+{210601}{}{Questa barca sembra a malapena in grado di galleggiare.}
+{210700}{}{Paletto d'ormeggio}
 {210701}{}{Una corda collega il palo d'ormeggio alla barca.}
-{210800}{}{Mooring Post}
+{210800}{}{Paletto d'ormeggio}
 {210801}{}{Una corda collega il palo d'ormeggio alla barca.}
 {210900}{}{Portello del sottomarino arrugginito}
 {210901}{}{Con un po' di sforzo questo portello può ancora essere aperto.}
@@ -3195,104 +3195,104 @@
 {211001}{}{I danni del tempo e dell'acqua salata stanno lentamente consumando questo relitto arrugginito.}
 {211100}{}{Torre del sottomarino arrugginita}
 {211101}{}{I danni del tempo e dell'acqua salata stanno lentamente consumando questo relitto arrugginito.}
-{211200}{}{Rusting Ladder}
+{211200}{}{Scala arrugginita}
 {211201}{}{L'acqua salata sta gradualmente dissolvendo la scala di metallo.}
 {211300}{}{Torre del sottomarino arrugginita}
 {211301}{}{I danni del tempo e dell'acqua salata stanno lentamente consumando questo relitto arrugginito.}
-{211400}{}{Rusting Boat}
-{211401}{}{This boat looks barely seaworthy.}
+{211400}{}{Barca arrugginita}
+{211401}{}{Questa barca sembra a malapena in grado di galleggiare.}
 {211500}{}{Oceano torbido}
-{211600}{}{Rusting Hull}
+{211600}{}{Scafo arrugginito}
 {211601}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{211700}{}{Rusting Hull}
+{211700}{}{Scafo arrugginito}
 {211701}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{211800}{}{Rusting Hull}
+{211800}{}{Scafo arrugginito}
 {211801}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
 {211900}{}{Oceano torbido}
-{212000}{}{Rusting Hull}
+{212000}{}{Scafo arrugginito}
 {212001}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{212100}{}{Rusting Hull}
+{212100}{}{Scafo arrugginito}
 {212101}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
 {212200}{}{Oceano torbido}
 {212300}{}{Oceano torbido}
 {212400}{}{Oceano torbido}
 {212500}{}{Oceano torbido}
 {212600}{}{Oceano torbido}
-{212700}{}{Rusting Hull}
+{212700}{}{Scafo arrugginito}
 {212701}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{212800}{}{Rusting Hull}
+{212800}{}{Scafo arrugginito}
 {212801}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{212900}{}{Rusting Boat}
-{212901}{}{This boat looks barely seaworthy.}
+{212900}{}{Barca arrugginita}
+{212901}{}{Questa barca sembra a malapena in grado di galleggiare.}
 {213000}{}{Oceano torbido}
-{213100}{}{Rusting Hull}
+{213100}{}{Scafo arrugginito}
 {213101}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{213200}{}{Rusting Hull}
+{213200}{}{Scafo arrugginito}
 {213201}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
 {213300}{}{Oceano torbido}
 {213400}{}{Oceano torbido}
 {213500}{}{Oceano torbido}
-{213600}{}{Rusting Hull}
+{213600}{}{Scafo arrugginito}
 {213601}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
-{213700}{}{Rusting Hull}
+{213700}{}{Scafo arrugginito}
 {213701}{}{Lo scafo del sottomarino giace sommerso sotto l’oceano torbido.}
 {213800}{}{Oceano torbido}
 {213900}{}{Oceano torbido}
 {214000}{}{Oceano torbido}
-{214100}{}{Rusting Hull}
-{214200}{}{Torpedo Launcher}
+{214100}{}{Scafo arrugginito}
+{214200}{}{Lanciatore di siluri}
 {214201}{}{Questi tubi metallici sono composti da un notevole numero di interblocchi. Sembrano ancora funzionanti.}
-{214300}{}{Rusting Hull}
-{214301}{}{Rusting Hull}
-{214400}{}{Rusting Hull}
-{214500}{}{Rusting Hull}
-{214600}{}{Rusting Hull}
+{214300}{}{Scafo arrugginito}
+{214301}{}{Scafo arrugginito}
+{214400}{}{Scafo arrugginito}
+{214500}{}{Scafo arrugginito}
+{214600}{}{Scafo arrugginito}
 {214700}{}{Siluri}
 {214701}{}{Siluri}
 {214800}{}{Siluri}
 {214801}{}{Siluri}
 {214900}{}{Siluri}
 {214901}{}{Siluri}
-{215000}{}{Rusting Hull}
-{215100}{}{Rusting Hull}
-{215200}{}{Rusting Hull}
-{215300}{}{Rusty Machinery}
-{215400}{}{Rusty Machinery}
+{215000}{}{Scafo arrugginito}
+{215100}{}{Scafo arrugginito}
+{215200}{}{Scafo arrugginito}
+{215300}{}{Macchinario arrugginito}
+{215400}{}{Macchinario arrugginito}
 {215500}{}{Siluri}
 {215501}{}{Siluri}
 {215600}{}{Siluri}
 {215601}{}{Siluri}
-{215700}{}{Rusty Machinery}
-{215800}{}{Rusting Hull}
-{215900}{}{Rusty Machinery}
-{216000}{}{Rusting Hull}
-{216100}{}{Rusty Machinery}
-{216200}{}{Rusty Machinery}
-{216300}{}{Rusty Machinery}
-{216400}{}{Rusty Machinery}
-{216500}{}{Rusting Hull}
-{216600}{}{Rusting Hull}
-{216700}{}{Rusting Hull}
-{216800}{}{Rusting Hull}
-{216900}{}{Rusting Hull}
-{217000}{}{Rusting Hull}
-{217100}{}{Rusting Hull}
-{217200}{}{Rusting Hull}
+{215700}{}{Macchinario arrugginito}
+{215800}{}{Scafo arrugginito}
+{215900}{}{Macchinario arrugginito}
+{216000}{}{Scafo arrugginito}
+{216100}{}{Macchinario arrugginito}
+{216200}{}{Macchinario arrugginito}
+{216300}{}{Macchinario arrugginito}
+{216400}{}{Macchinario arrugginito}
+{216500}{}{Scafo arrugginito}
+{216600}{}{Scafo arrugginito}
+{216700}{}{Scafo arrugginito}
+{216800}{}{Scafo arrugginito}
+{216900}{}{Scafo arrugginito}
+{217000}{}{Scafo arrugginito}
+{217100}{}{Scafo arrugginito}
+{217200}{}{Scafo arrugginito}
 {217300}{}{Portello del sottomarino}
 {217400}{}{Sedia}
 {217500}{}{Sedia}
-{217600}{}{Poseidon Oil Sign}
-{217601}{}{This old neon sign still has some life left in it.}
+{217600}{}{Insegna Poseidon Oil}
+{217601}{}{Questa vecchia insegna al neon funziona ancora un po'.}
 {217700}{}{Massive porte d’acciaio del Vault}
 {217701}{}{Queste porte d’acciaio sono praticamente indistruttibili.}
-{218800}{}{Sub Tower}
-{218900}{}{Sub Tower}
+{218800}{}{Torre di servizio}
+{218900}{}{Torre di servizio}
 {219000}{}{Scale}
-{219001}{}{A set of wooden stairs.}
+{219001}{}{Delle scale di legno.}
 {219100}{}{Scale}
-{219101}{}{A set of wooden stairs.}
+{219101}{}{Delle scale di legno.}
 {219200}{}{Scale}
-{219201}{}{A set of wooden stairs.}
+{219201}{}{Delle scale di legno.}
 {219300}{}{Scala}
 {219400}{}{Portello del sottomarino arrugginito}
 {219500}{}{Portello del sottomarino arrugginito}
@@ -3302,35 +3302,35 @@
 {219800}{}{Manifesto di un Ricercato}
 {219801}{}{Un ritratto abbozzato di un fuggitivo ricercato dalle autorità locali.}
 {219900}{}{Ventilatore}
-{220000}{}{Jammed Fan}
-{220100}{}{Rusty Steel Rail}
+{220000}{}{Ventola bloccata}
+{220100}{}{Ringhiera d'acciaio arrugginita}
 {220200}{}{Insegna}
 {220201}{}{Quest'insegna dice: Emporio.}
 {220300}{}{Tappeto logoro}
 {220301}{}{Un semplice tappeto. Il tessitore era chiaramente molto dotato.}
-{220400}{}{Glowing Bones}
-{220401}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
-{220500}{}{Glowing Bones}
-{220501}{}{A large pile of glowing animal bones. At least, you think all the bones are animal...}
-{220600}{}{Glowing Bones}
-{220601}{}{A very large pile of glowing bones. You cannot determine the species of the dead critters.}
-{220700}{}{Glowing Bones}
-{220701}{}{You think these might be Horned Kangaroo bones, but you cannot be sure. They are glowing and too weathered to make a final determination.}
-{220800}{}{Glowing Bones}
-{220801}{}{You see the bones of a large, glowing two-headed cow.}
+{220400}{}{Ossa luminescenti}
+{220401}{}{Un grosso mucchio di ossa animali luminescenti. O almeno, *credi* che siano tutte animali...}
+{220500}{}{Ossa luminescenti}
+{220501}{}{Un grosso mucchio di ossa animali luminescenti. O almeno, *credi* che siano tutte animali...}
+{220600}{}{Ossa luminescenti}
+{220601}{}{Un enorme mucchio di ossa luminescenti. Non riesci a determinare la specie delle creature morte.}
+{220700}{}{Ossa luminescenti}
+{220701}{}{Potrebbero essere ossa di Canguro Cornuto, ma non ne sei certo. Sono luminescenti e troppo consumate per esserne sicuro.}
+{220800}{}{Ossa luminescenti}
+{220801}{}{Vedi le ossa di una grande mucca bicipite luminescente.}
 {220900}{}{Frana}
-{220901}{}{A large amount of glowing rocks, far more than could ever be moved easily.}
-{221000}{}{Glowing Metal Cover}
-{221001}{}{A heavy glowing man-hole cover. It looks like it is in good shape, and that it was recently moved.}
-{221100}{}{Glowing Sewer Hole}
-{221101}{}{It looks like an access hole for the sewer system. It's glowing green!}
-{221200}{}{Glowing Stalagmite}
-{221201}{}{A natural extension of the rock floor. This one's glowing green!}
-{221300}{}{Glowing Stalagmite}
-{221301}{}{A natural extension of the rock floor. This one's glowing green!}
-{221400}{}{Glowing Rock Column}
+{220901}{}{Un grande mucchio di rocce luminescenti, molte piu' di quante si possano spostare facilmente.}
+{221000}{}{Coperchio metallico luminescente}
+{221001}{}{Un pesante coperchio di tombino luminescente. Sembra in buone condizioni ed e' stato spostato di recente.}
+{221100}{}{Tombino luminescente}
+{221101}{}{Sembra un accesso al sistema fognario. E' verde e luminescente!}
+{221200}{}{Stalagmite luminescente}
+{221201}{}{Un'estensione naturale del pavimento roccioso. Questa e' verde e luminescente!}
+{221300}{}{Stalagmite luminescente}
+{221301}{}{Un'estensione naturale del pavimento roccioso. Questa e' verde e luminescente!}
+{221400}{}{Colonna di roccia luminescente}
 {221401}{}{This thick column of rock extends from floor to ceiling. It's glowing!}
-{221500}{}{Glowing Rock Column}
+{221500}{}{Colonna di roccia luminescente}
 {221501}{}{This thin column of rock extends from floor to ceiling. It's glowing!}
 {221600}{}{Glowing Cave Wall}
 {221700}{}{Glowing Cave Wall}

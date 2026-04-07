@@ -65,9 +65,9 @@
 {164}{}{Montagne}
 {165}{}{EPA}
 {166}{}{EPA}
-{167}{}{EPA Warehouse}
+{167}{}{Magazzino EPA}
 {168}{}{un Mercante}
-{169}{}{Shi Submarine}
+{169}{}{Sottomarino Shi}
 {200}{}{Deserto}
 {201}{}{}
 {202}{}{}
@@ -456,7 +456,7 @@
 {585}{}{Celle di Detenzione}
 {586}{}{Celle di Detenzione}
 {587}{}{Porto}
-{588}{}{Vertibird Unloading Pad}
+{588}{}{Piattaforma di scarico Vertibird}
 {589}{}{Porto}
 {590}{}{Salone d'Ingresso}
 {591}{}{Salone d'Ingresso}
@@ -522,41 +522,41 @@
 {651}{}{Deserto}
 {652}{}{Deserto}
 {653}{}{Entrance}
-{654}{}{Second Floor}
-{655}{}{Third Floor}
+{654}{}{Secondo Piano}
+{655}{}{Terzo Piano}
 {656}{}{Scantinato}
-{657}{}{enter name}
-{658}{}{enter name}
+{657}{}{inserisci nome}
+{658}{}{inserisci nome}
 {659}{}{Cave}
-{660}{}{enter name}
-{661}{}{enter name}
+{660}{}{inserisci nome}
+{661}{}{inserisci nome}
 {662}{}{Villaggio}
 {663}{}{Villaggio}
 {664}{}{Villaggio}
-{665}{}{Woodland}
+{665}{}{Bosco}
 {666}{}{Tribu'}
 {667}{}{Tribu'}
-{668}{}{Fishing Area}
-{669}{}{Small Cave}
-{670}{}{enter name}
+{668}{}{Zona di Pesca}
+{669}{}{Piccola Grotta}
+{670}{}{inserisci nome}
 {671}{}{Entrance}
 {672}{}{Livello Impianto Aria, Acqua e Energia}
-{673}{}{Robot Maintenance}
-{674}{}{Level One}
-{675}{}{Level Two}
-{676}{}{Level Three}
-{677}{}{Secret Level}
-{678}{}{enter name}
-{679}{}{enter name}
-{680}{}{Main Camp}
-{681}{}{enter name}
-{682}{}{enter name}
+{673}{}{Manutenzione Robot}
+{674}{}{Livello Uno}
+{675}{}{Livello Due}
+{676}{}{Livello Tre}
+{677}{}{Livello Segreto}
+{678}{}{inserisci nome}
+{679}{}{inserisci nome}
+{680}{}{Campo Principale}
+{681}{}{inserisci nome}
+{682}{}{inserisci nome}
 {683}{}{Deserto}
 {684}{}{Deserto}
 {685}{}{Deserto}
 {686}{}{Entrance}
-{687}{}{Level One}
-{688}{}{Level Two}
+{687}{}{Livello Uno}
+{688}{}{Livello Due}
 {689}{}{Rifugio Sicuro dei Ranger}
 {690}{}{Rifugio Sicuro dei Ranger}
 {691}{}{Rifugio Sicuro dei Ranger}
@@ -575,16 +575,16 @@
 {704}{}{Deserto}
 {705}{}{Deserto}
 {706}{}{Deserto}
-{707}{}{Sub Surface}
-{708}{}{Sub Interior Level 1}
+{707}{}{Sottosuolo}
+{708}{}{Sottolivello Interno 1}
 {709}{}{}
-{710}{}{Level One}
-{711}{}{Level Two}
-{712}{}{Level Three}
-{713}{}{Level One}
-{714}{}{Level Two}
-{715}{}{Level Three}
-{716}{}{Abandoned House}
+{710}{}{Livello Uno}
+{711}{}{Livello Due}
+{712}{}{Livello Tre}
+{713}{}{Livello Uno}
+{714}{}{Livello Due}
+{715}{}{Livello Tre}
+{716}{}{Casa Abbandonata}
 {717}{}{Caverna}
 {718}{}{}
 {1500}{}{Arroyo}
@@ -637,14 +637,14 @@
 {1547}{}{Incontro Casuale}
 {1548}{}{Stalle}
 {1549}{}{Villaggio}
-{1550}{}{Slaver Camp}
-{1551}{}{Hubologist Stash}
-{1552}{}{Safe House}
-{1553}{}{Safe House}
-{1554}{}{Safe House}
-{1555}{}{RP Easter Egg Encounter}
+{1550}{}{Campo degli Schiavisti}
+{1551}{}{Nascondiglio degli Hubologisti}
+{1552}{}{Rifugio Sicuro}
+{1553}{}{Rifugio Sicuro}
+{1554}{}{Rifugio Sicuro}
+{1555}{}{Incontro Segreto (RP)}
 {1556}{}{un Mercante}
 {1557}{}{un Mercante}
-{1558}{}{Shi Submarine}
-{1559}{}{Abandoned House}
-{1560}{}{Gecko Enclave Patrol}
+{1558}{}{Sottomarino Shi}
+{1559}{}{Casa Abbandonata}
+{1560}{}{Pattuglia dell’Enclave (Gecko)}

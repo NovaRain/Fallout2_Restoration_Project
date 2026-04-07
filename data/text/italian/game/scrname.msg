@@ -1410,7 +1410,7 @@
 {1510}{}{Spray Antiparassitario}
 {1511}{}{Doctor's Prisoner}
 {1512}{}{una Formica Gigante}
-{1513}{}{The Doctor}
+{1513}{}{Il Dottore}
 {1514}{}{Fruit Fly}
 {1515}{}{Creature}
 {1516}{}{un Robot}
@@ -1425,8 +1425,8 @@
 {1525}{}{Porta dell'Ascensore}
 {1526}{}{Porta}
 {1527}{}{Sostanze chimiche casuali}
-{1528}{}{Fertile ground}
-{1529}{}{Fertile ground}
+{1528}{}{Terreno fertile}
+{1529}{}{Terreno fertile}
 {1530}{}{Hibernation Computer}
 {1531}{}{Lighting Generator}
 {1532}{}{Campo di Forza}
