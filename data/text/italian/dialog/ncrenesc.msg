@@ -327,14 +327,14 @@
 {5260}{}{...*sniff*... vado a cercare il mio fratellone perche' ti picchi, vecchio! Poi ci mangeremo un gelato e...*sniff*... una TORTA e ci sara' una grossa festa con i clown e...}
 {6000}{}{Stavo cercando qualche consiglio sulla salute del cuore. Pensi di potermi spiegare un paio di cose?}
 {6010}{}{So che questo deve venirti come uno shock, ma un camice bianco non conferisce automaticamente una laurea in cardiologia. Sono un farmacista. Produco chem. Poi tu li compri. Poi, te ne vai. In silenzio.}
-{6011}{}{Fair enough. Moving on, then...}
+{6011}{}{D’accordo. Andiamo avanti, allora…}
 {6012}{}{Dai, potresti accontentarmi? Solo questa volta? Tiiii pregoooo?}
 {6020}{}{Bene. La mia ricetta e' sigarette e carne rossa, in grandi quantita'. E' tutto? Se devo sopportare ancora questa ciarla vuota oggi, rischio di avere un ictus io stesso.}
 {6021}{}{Si', sei proprio teso, vero? Scommetto che Hakunin potrebbe aiutarti con quello. E' lo sciamano a casa mia, ad Arroyo. Senti, ti ho mai parlato di Arroyo?}
 {6022}{}{E non sarebbe una tragedia. Prossima domanda...}
-{6023}{}{Okay then, just one more quick thing...}
-{6024}{}{Gee, thanks Renesco. I knew I could count on you. You take care now.}
-{6030}{}{I need you to fix me up with a special order.}
+{6023}{}{Ok, solo un’ultima cosa veloce…}
+{6024}{}{Accidenti, grazie Renesco. Sapevo di poter contare su di te. Stammi bene.}
+{6030}{}{Ho bisogno che tu mi prepari un ordine speciale.}
 {6031}{}{Quindi, riguardo a quell'ordine speciale di cui stavamo parlando...}
 {6040}{}{Si'? E allora? Ti aspettavi che leggessi nel pensiero, o vorresti che ti facessi una sorpresa?}
 {6041}{}{Neanche per sogno, stronzo. Quello di cui ho bisogno sono alcune... um... pillole. Per, um... (lasci cadere la voce, guardi in modo eloquente verso la fibbia della cintura, guardi Renesco negli occhi e ti schiarisca la voce).}
@@ -359,7 +359,7 @@
 {6080}{}{Hmmm. E' tutto? Roba elementare, davvero. E i materiali di base costano pochissimo. Tenendo conto della manodopera... 200 dollari dovrebbero bastare.}
 {6081}{}{Cosa?! Se volevo farmi fregare, sarei andato al Cat's Paw! Almeno saprei in cosa mi stavo cacciando.}
 {6082}{}{Lo sai bene quanto me che stiamo parlando di 15 dollari di chem e cinque minuti di lavoro col mortaio. Credo che dobbiamo parlare un po' di cifre qui.}
-{6083}{}{All right. You've got overhead, I've got better places to be. $200.}
+{6083}{}{D’accordo. Tu hai le tue spese, io ho posti migliori dove stare. 200$.}
 {6084}{}{Non sono sicuro di potermi permettere cosi' tanto al momento. Forse ci torniamo dopo.}
 {6090}{}{(Il suo cipiglio si accentua.) Non sono dell'umore per menare il can per l'aia con te. Pensi che mi beva che sei solo un homo not-so-erectus particolarmente schizzinoso? PREGO! Hai idea di quanto tempo faccio questo lavoro?}
 {6091}{}{Evidentemente non hai passato molto tempo fuori dalla tua caverna, quindi fidati di me quando dico che non ci sono molti tipi di pillole in giro che corrispondono a quella descrizione stranamente specifica tua, e una *molto nota* mi viene in mente immediatamente. Articoli "speciali", prezzi speciali, tribale. Benvenuto a New Reno. Saranno 300 dollari.}
@@ -367,11 +367,11 @@
 {6093}{}{Ti ho coperto il culo con Salvatore. Considera questo il saldo del tuo debito.}
 {6094}{}{Non credo che *il signor Bishop* sarebbe molto contento di te se sapesse che stai ostacolando i suoi interessi in questo modo, Renesco.}
 {6095}{}{Bene. 300 dollari, e quello e' per le pillole *e* la tua discrezione. Capito?}
-{6096}{}{Whoa, easy there fuzzy little man peach. Maybe I'll just come back when you're in a better mood.}
+{6096}{}{Ehi, calma. Forse ripasso quando sarai di umore migliore.}
 {6100}{}{Bene. Immagino che concluda i nostri affari, allora. Devo dire, tribale, che e' stato... quasi *tollerabile*. Ora, stai buono e cerca di non rovinare il momento. (Renesco prende i tuoi soldi e si mette al lavoro.)}
 {6101}{}{(Passano alcuni minuti. Renesco si spolvera le mani e fa scorrere un flacone di pillole indistinguibile da quello di Westin sul bancone verso di te.) Ecco fatto. Ora, abbiamo finito?}
 {6102}{}{Lascia che ti chieda qualcos'altro.}
-{6103}{}{That's it for me. See you around.}
+{6103}{}{Per me è tutto. Ci vediamo.}
 {6110}{}{(Renesco diventa rosso, le narici che fremono di rabbia, ma poi abbassa lo sguardo e comincia a pulire gli occhiali con grande attenzione sul camice mentre parla.) Primate, le UNICHE due cose per cui saro' MAI in debito con te sono UN CAZZO e NIENTE.}
 {6111}{}{Ora, detto questo... se servira' a toglierti dalla testa questa intollerabile illusione provinciale che tu abbia in qualche modo qualcosa su di me, il solo PENSIERO della quale mi fa stare male in modi che mi mancano le parole per descrivere... }
 {6112}{}{SUPPONGO... che le tue tre volte maledette pillole siano un prezzo modesto da pagare. E se SENTIRO' MAI PIU' dire una parola che fa anche solo RIMA con "debito," il negozio avra' un nuovo tappeto di pelle di scimpanze'. Siediti, stai zitto, e lavora sul farti crescere un paio di pollici opponibili mentre preparo questo composto. (Renesco si mette al lavoro.)}

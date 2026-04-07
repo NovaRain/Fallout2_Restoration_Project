@@ -93,4 +93,4 @@
 {366}{}{Perdonami, Mick.}
 {367}{}{Ricorda, vai di gancio!}
 {368}{}{Ne vedo tre!}
-{400}{}{He is sweating profusely.}
+{400}{}{Sta sudando copiosamente.}

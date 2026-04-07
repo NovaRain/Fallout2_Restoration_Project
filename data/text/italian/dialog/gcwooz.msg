@@ -141,7 +141,7 @@
 {470}{}{Quegli stronzi di Vault City. Se c'e' qualcuno che ci fara' fuori, quelli sono loro. Sono dei fottuti pazzi. Se qualcuno non ha una testa di cazzo come la loro, lo vogliono vedere morto. Starei ben attento a quella gente, se fossi in te.}
 {471}{}{Questo sembra proprio un buon consiglio. Staro' attento. Lascia che adesso ti chieda qualcos'altro.}
 {472}{}{Penso che abbiano avuto un'ottima idea. Giusto un po' di pulizia genetica. Spero proprio che comincino da te. Addio.}
-{473}{}{Well, right now they're pretty crazed about the village nearby. Do you know anything about this?}
+{473}{}{Al momento sono piuttosto agitati riguardo al villaggio qui vicino. Ne sai qualcosa?}
 {480}{}{L'unico momento nel quale noi ghoul veniamo trattati bene e' quando portiamo con noi un'arpa.}
 {481}{}{Non sapevo che i ghoul fossero dei musicisti.}
 {482}{}{Oh, capisco. Eh, eh. Vorrei chiederti qualcos'altro.}
@@ -203,4 +203,4 @@
 {732}{}{Si', un altro giro per tutti.}
 {740}{}{Eh, si' ho sentito che quegli stronzi vengono attaccati dai talpe-ratto che proteggono quelle pelli lisce. Se lo meritano per essersi cacciati negli affari altrui. Non so molto di piu' pero'. Lumpy laggiù nel deposito di rottami potrebbe saperne di piu'. Quella pelle liscia sente sempre le cose in giro.}
 {741}{}{Grazie per l'informazione. Addio.}
-{742}{}{Good to know. Let me ask you something else.}
+{742}{}{Bene a sapersi. Lascia che ti chieda qualcos’altro.}

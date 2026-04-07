@@ -171,5 +171,5 @@
 {270}{}{Hmmphf.}
 {271}{}{Ti sei "preso cura" dell'Hubologista per Merk.}
 {272}{}{Hai recuperato i documenti del Dr. Henry.}
-{300}{}{Where the hell do you think you are going?! Try that again and I'll kick your ass.}
-{301}{}{I warned you!}
+{300}{}{Dove diavolo credi di andare?! Riprovaci e ti rompo il culo.}
+{301}{}{Ti avevo avvertito!}

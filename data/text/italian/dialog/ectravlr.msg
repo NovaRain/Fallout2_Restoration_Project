@@ -51,4 +51,4 @@
 {1111}{}{San Francisco.}
 {1112}{}{New California Republic.}
 {1113}{}{Una miniera abbandonata.}
-{1114}{}{An old, abandoned facility.}
+{1114}{}{Una vecchia struttura abbandonata.}

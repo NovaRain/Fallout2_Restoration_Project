@@ -84,8 +84,7 @@
 {291}{}{Parlami degli uomini insetto che attaccano i brahmin, per favore.}
 {292}{}{Parlami dei RTF, per favore.}
 {293}{}{Parlami del fantasma, per favore.}
-{294}{}{I'm not surprised that a trapper's gone missing with all this excitement, but tell me about him,
- too.}
+{294}{}{Non mi sorprende che un cacciatore sia scomparso, con tutto questo trambusto. Parlami anche di lui.}
 {295}{}{Vorrei chiederti qualcos'altro.}
 {296}{}{Non voglio sapere altro.}
 {300}{}{Beh, i fratelli Dunton sono sempre in cerca di qualcuno che faccia il lavoro sporco. E poi c'e' Torr, il ragazzo dei Buckner, che ha paura di andare a far la guardia ai brahmin di notte a causa degli uomini insetto.}
@@ -109,9 +108,9 @@
 {390}{}{Giardino dell'Eden, eh? Beh, per me e' Jenny, la cosa che piu' si avvicina al Giardino dell'Eden. Bastano pochi dollari per crearlo. (sorride) Non sembra male, ma non so dove potresti trovare la cosa che cerchi, altrimenti. }
 {391}{}{Beh, non e' proprio quello che intendevo. Lascia che ti faccia qualche altra domanda.}
 {392}{}{Questo e' tutto quello che volevo sapere, per il momento.}
-{2900}{}{Things are pretty quiet around here now, actually.}
-{2901}{}{brahmin-mutilating bugmen}
+{2900}{}{A dire il vero, ora qui è tutto abbastanza tranquillo.}
+{2901}{}{uomini?insetto che mutilano i brahmin}
 {2902}{}{roditori di dimensioni insolite}
-{2903}{}{a walking spirit}
-{2904}{}{a missing trapper}
-{2905}{}{. Klamath's become a real hot spot lately.}
+{2903}{}{uno spirito che cammina}
+{2904}{}{un cacciatore scomparso}
+{2905}{}{. Klamath è diventata un posto piuttosto movimentato, ultimamente.}

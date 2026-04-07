@@ -2,7 +2,7 @@
 {101}{}{Vedi Angela Bishop che urla.}
 {150}{}{Vedi una giovane e attraente donna che indossa un completo di pelle attillato.}
 {151}{}{Vedi Angela Bishop. Quando incontra il tuo sguardo, si lecca lentamente le labbra.}
-{152}{}{You see Angela Bishop. She scowls at you with disgust.}
+{152}{}{Vedi Angela Bishop. Ti guarda con disgusto.}
 {175}{}{Vedi una giovane donna che indossa un completo attillato di pelle. Sembra troppo sveglia per essere una prostituta.}
 {176}{}{Vedi Angela Bishop. Ti rivolge uno strano sorriso.}
 {200}{}{Mio padre ti UCCIDERA' quando sapra' come mi hai trattata.}

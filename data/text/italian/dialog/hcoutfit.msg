@@ -1,4 +1,4 @@
-{100}{}{You see a medium-sized man wearing dusty clothing.}
+{100}{}{Vedi un uomo di media statura con abiti impolverati.}
 {101}{}{Vedi Bill, il Fornitore.}
 {102}{}{Vedi un uomo di media statura che indossa degli abiti polverosi. Dall'odore si direbbe sia stato a contatto con dei brahmin.}
 {103}{}{Ehila', compare. Cosa posso fare per te?}
@@ -111,4 +111,4 @@
 {211}{}{[continua]}
 {212}{}{Mi spiace, ma senza Chad che mi aiuti a coordinare il personale, non posso offrire lavoro come facevo in passato. Mi manchera', quel povero bastardo. Morire nel deserto come un brahmin ferito...}
 {213}{}{Mi dispiace. Arrivederci.}
-{214}{}{I'm sorry, but without Chad around to help manage personnel, I can't be givin' out work the way I used to.}
+{214}{}{Mi spiace, ma senza Chad ad aiutarmi a gestire il personale non posso distribuire lavoro come prima.}

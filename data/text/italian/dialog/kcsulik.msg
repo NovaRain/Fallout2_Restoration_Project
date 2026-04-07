@@ -400,7 +400,7 @@
 {1021}{}{Tu hai avuto un sacco di problemi con la gente. Noi ce ne andiamo finche' non avrai risolto questo.}
 {1023}{}{Noi non essere mai amici di uccisore di bambini.}
 {1025}{}{Tu causato problemi a Klamath. Noi ce ne andiamo.}
-{1026}{}{You be causing trouble in my home village. We're gone.}
+{1026}{}{Tu portato guai nel mio villaggio. Noi andare via.}
 {2300}{}{Gli spiriti ci muovono.}
 {2301}{}{Noi e io ci muovere.}
 {2302}{}{OK, calma.}
@@ -460,7 +460,7 @@
 {3058}{}{Si'.}
 {3059}{}{No, credo sia tempo che tu la cerchi da solo.}
 {3060}{slk90}{Forse e' cosi. Mancherai a noi e io, pero'. Buoni spiriti con te, amico.}
-{3061}{}{Thanks, Sulik. Goodbye. [Sulik hands you his gear.]}
+{3061}{}{Grazie, Sulik. Addio.}
 {3062}{}{Beh, forse potresti rimanere con me. Credo che potremmo ancora trovare tua sorella.}
 {3063}{slk91a}{Dopotutto, tu volere buona compagnia allora?}
 {3064}{slk91b}{Essere bello essere di nuovo a casa.}
@@ -476,15 +476,15 @@
 {3082}{}{Essere bello essere di nuovo a casa.}
 {3083}{}{Cosi' tante giovani vergini cui raccontare i nostri viaggi - e cosi' poco tempo per farlo.}
 {3084}{}{Noi dobbiamo parlare con l'erba-superba. Poi lasciate che il mondo ondeggi.}
-{3086}{}{Take care, fren.}
-{3087}{}{We and I wish you the best of luck.}
-{3088}{}{Thanks again for everything, fren.}
+{3086}{}{Abbi cura di te, amico.}
+{3087}{}{Noi e io ti auguriamo la miglior fortuna.}
+{3088}{}{Grazie ancora di tutto, amico.}
 {3090}{}{Questo qui essere nostro villaggio. Noi e io andare parlare con nostri amici.}
 {3091}{}{Noi e io andare parlare di nuovo con nostri amici prima di partire.}
 {3100}{}{[AVANTI]}
-{3101}{}{Where exactly is your tribe, Sulik?}
+{3101}{}{Dov’è esattamente la tua tribù, Sulik?}
 {3102}{}{Grazie. Lascia che ti chieda qualcos'altro.}
-{3103}{}{You too, Sulik. Take care of yourself.}
+{3103}{}{Anche tu, Sulik. Stammi bene.}
 {3200}{}{Si', ho parlato con la signora Buckner riguardo al tuo debito. Adesso devo solo mettermi d'accordo con Maida. Ti faro' sapere com'e' andata non appena avro' parlato con lei.}
 {3500}{}{Noi e io pensiamo che qualcosa non andare in noi. Tu fai meglio a controllare nostre braccia o nostre gambe.}
 {3501}{}{Noi e io pensiamo che qualcosa non andare in noi. Noi brillanti come sole.}

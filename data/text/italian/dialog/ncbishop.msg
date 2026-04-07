@@ -255,8 +255,8 @@
 {925}{}{Hai assassinato Westin.}
 {950}{}{Hai eliminato Carlson.}
 {975}{}{Sei diventato un picciotto della famiglia Bishop.}
-{1805}{}{Yeah... rumor in the wastes is somebody that matches your description helped put a stop to the raiders south of Vault City. }
+{1805}{}{Sì... nelle Lande gira voce che qualcuno che ti assomiglia abbia fermato i predoni a sud di Vault City.}
 {1820}{}{Be', devi essere un bel figlio di puttana furbo per convincere la loro guida a smettere di portarli attraverso le montagne.
  E potrebbe essere che non mi PIACCIA quello che hai fatto laggiù.}
-{1836}{}{Way I see it, you OWE me big, tribal. I don't like people messing with affairs that aren't theirs. }
-{1840}{}{I don't owe you anything, and I'm not going to do your dirty work. Understand?}
+{1836}{}{Per come la vedo io, mi devi un grosso favore, tribale. Non mi piace chi mette il naso negli affari altrui.}
+{1840}{}{Non ti devo niente, e non farò i tuoi lavori sporchi. Chiaro?}

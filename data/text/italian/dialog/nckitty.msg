@@ -94,9 +94,9 @@
 {404}{}{Davin avrebbe bisogno di fare un (bel) po' di esperienza.}
 {405}{}{Miria vorrebbe fare quattro passi in un territorio selvaggio.}
 {406}{}{In realta', nessuno, grazie.}
-{407}{}{Dex here. Better keep an eye on him though, he can get a little out of control.}
+{407}{}{Questo è Dex. Meglio tenerlo d’occhio, a volte perde il controllo.}
 {408}{}{Questo e' il Gatto Jules. Attento pero', potrebbe mordere le ragazze.}
-{409}{}{Kitsune here. Hopefully you can satisfy her Asian needs, if you know what I mean.}
+{409}{}{Questa è Kitsune. Spero tu sappia… come dire… starle dietro.}
 {420}{}{Il tuo amico qui? (Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {421}{}{(Osserva attentamente il tuo compagno, annuisce.) Credo che possiamo accontentarvi... }
 {422}{}{ dollari.}
@@ -186,7 +186,7 @@
 {704}{}{*Whew*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
 {706}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
-{707}{}{I hope you took notes.}
+{707}{}{Spero che tu abbia preso appunti.}
 {708}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
 {709}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}

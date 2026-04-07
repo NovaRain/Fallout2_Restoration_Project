@@ -143,4 +143,4 @@ perche' questo costera' ::colpo di tosse:: $200.}
 {401}{}{K-9.}
 {402}{}{Kitsune.}
 {403}{}{Dex.}
-{404}{}{Cat Jules.}
+{404}{}{Gatto Jules.}

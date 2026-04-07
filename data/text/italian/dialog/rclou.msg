@@ -135,15 +135,9 @@
 {234}{}{Che cosa succede di bello in citta'?}
 {300}{}{Hai contribuito a disintossicare Fannie.}
 {301}{}{Arrivederci.}
-{310}{}{I may have something that can help Fannie. [Give Lou the Jet antidote]}
-{1103}{}{Hello there. I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- I just want you to know that I'm thankful for what you did. How can I help you?}
-{1104}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran.
- Jail's too good for what that bastard done.}
-{1105}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. I cain't rightly believe
- that you let the bastard that cut my gal go free. You've got some nerve coming back in here. What the hell
- do you want?}
-{1106}{}{You're still a damn idiot. But life goes on, for the rest of us. I'm Lou. Owner of the Malamute
- Saloon, finest house north of San Fran. Now just what the hell do you want?}
-{1107}{}{I'm Lou. Owner of the Malamute Saloon, finest house north of San Fran. Just remember,
- too much money ain't good for that gal. Now whattya need?}
+{310}{}{Forse ho qualcosa che può aiutare Fannie. [Consegni a Lou l’antidoto per il Jet]}
+{1103}{}{Ciao. Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Voglio che tu sappia che ti sono grata per quello che hai fatto. Come posso aiutarti?}
+{1104}{}{Sono Lou, proprietaria del Malamute Saloon, il miglior locale a nord di San Fran. Il carcere è troppo poco per quello che quel bastardo ha fatto.}
+{1105}{}{Sono Lou, proprietaria del Malamute Saloon. Non riesco a credere che tu abbia lasciato libero il bastardo che ha ferito la mia ragazza. Hai un bel coraggio a tornare qui. Che diavolo vuoi?}
+{1106}{}{Rimani un dannato idiota. Ma la vita va avanti, per noi altri. Sono Lou. Ora, cosa diavolo vuoi?}
+{1107}{}{Sono Lou. Ricorda: troppi soldi non fanno bene a quella ragazza. Di cosa hai bisogno?}

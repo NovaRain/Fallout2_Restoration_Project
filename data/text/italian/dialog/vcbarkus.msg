@@ -168,4 +168,4 @@
 {267}{}{Che cosa ci fai di nuovo qui? Ti avevo mandato al Vault! Per tutti i... molto bene, ti faro' accompagnare nuovamente la'.}
 {268}{}{Oh-keeeee}
 {269}{}{Hai convinto Barkus a rilasciare Joshua.}
-{300}{}{I heard you're quite the hero. Good job.}
+{300}{}{Ho sentito che sei un vero eroe. Bel lavoro.}
