@@ -50,7 +50,7 @@
 {149}{}{Capisco. Com'e' che faccio a far partire questa nave?}
 {150}{}{Grazie. Ciao.}
 {151}{}{Hai fatto un grave errore a metterti contro il Capitano e i suoi amici...}
-{152}{}{Come si pilota questa piattaforma? Beh, vedo che hai già fatto il pieno. Quando avrai sistemato tutto il resto, premi semplicemente il pulsante. Il computer si occuperà del resto, se funziona ancora. Si dirigerà dritta verso la piattaforma petrolifera, a meno che quel vecchio sottomarino non la faccia saltare in aria. Ma almeno non dovrai preoccuparti che l'Enclave ti spari addosso, perché hai il transponder IFF. Assicurati solo di avere tutto il necessario per accedere a ogni cosa: FOB, computer funzionante e carburante. Abbastanza facile, no? }
+{152}{}{How do you pilot this rig? Well, I see you already gassed her up. When you've taken care of everything else, just press the button. The computer will take care of the rest, if it's still working. It'll sail right out to the oil rig - unless that old sub blows it up. But at least you won't have to worry about the Enclave firing at you, because you've got the IFF transponder. Just make sure you've got what you need to access everything: FOB, working computer, and fuel. Easy enough, huh?}
 {153}{}{Ah, certo. Devi anche mettere in funzione il computer di navigazione. Scommetto che troverai il pezzo che ti serve in uno dei vecchi vault.}
 {154}{}{Mi fa piacere rivederti. Che cosa ti serve?}
 {155}{}{, e a meno che non mi sbagli, e' li' che si trovano anche i tuoi amici.}

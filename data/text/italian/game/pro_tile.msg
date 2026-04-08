@@ -1011,4 +1011,4 @@
 {388400}{}{Tetto}
 {388500}{}{Tetto}
 {388600}{}{Tetto}
-{388700}{}{Roof Vent}
+{388700}{}{Presa d'aria del tetto}

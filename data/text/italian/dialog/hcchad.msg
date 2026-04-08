@@ -56,7 +56,7 @@
 {203}{}{D’accordo. Addio.}
 {204}{}{Ah accidenti, sapevo che non sarebbe durato per sempre. [Si guarda intorno e abbassa la voce.] Va bene, ascolta. Tieni la bocca chiusa su questa faccenda. Ecco $1000 per tenerti zitto. [Ti da' i soldi.] Ora, se mi scusi, devo andare.}
 {205}{}{[FATTO]}
-{206}{}{Aiuto! Abbiamo un ladro qui!}
+{206}{}{Help! We have a thief on our hands here.}
 {207}{}{}
 {208}{}{Che diavolo!? Chi sei tu?}
 {209}{}{Io? Ehm, sono la fatina dei denti. Sono venuto a portarti grandi ricchezze.}

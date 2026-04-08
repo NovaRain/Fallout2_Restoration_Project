@@ -29,7 +29,7 @@ Rimettero' a posto le eliche e mi assicuro che non ci trasformino in rottami fin
 {360}{}{Ehi, sono occupato qui.}
 {361}{}{Scusa, sto lavorando.}
 {370}{}{Non toccarlo!}
-{371}{}{Che cosa ti ho detto!?}
+{371}{}{Che cosa ti ho detto?!}
 {372}{}{Ti avevo avvertito!}
 {375}{}{Che diavolo stai facendo!? Guardie!}
 {380}{}{Smettila di perdere tempo e torna al lavoro.}

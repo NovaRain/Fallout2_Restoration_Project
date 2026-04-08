@@ -117,8 +117,8 @@
 {217}{}{Spalatore di Letame Esperto}
 {218}{}{Weapon Enhanced Knockout}
 {219}{}{Iettatore}
-{220}{}{Alcohol Addiction}
-{221}{}{Smoker}
+{220}{}{Dipendenza da Alcol}
+{221}{}{Fumatore}
 {1101}{}{Con la Consapevolezza, ti vengono date informazioni dettagliate su ogni creatura da te esaminata. Puoi vedere i loro punti vita esatti e varie informazioni sull'arma da loro impugnata.}
 {1102}{}{Hai imparato le arti segrete dell'Oriente, o semplicemente sai dare pugni piu' velocemente. In ogni caso, i tuoi attacchi Corpo a Corpo richiedono 1 PA in meno.}
 {1103}{}{L'esperienza nel combattimento a mani nude ti ha dato un vantaggio quando si tratta di fare danni. Infliggi +2 punti danno negli attacchi a mani nude o in mischia per ogni livello di questa Strenna.}

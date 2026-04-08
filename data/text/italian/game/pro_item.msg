@@ -1029,17 +1029,17 @@
 {53201}{}{Questa mappa disegnata grossolanamente mostra la zona che circonda New Reno. Sembra che a nord ci sia una base militare di qualche tipo.}
 {53300}{}{Pelle del Gecko di Fuoco}
 {53301}{}{Questa e' la pelle di un gecko di fuoco, disseccata e trattata. Presenta ampie bruciature che la rendono di scarso valore.}
-{53400}{}{Bucket}
+{53400}{}{Secchio}
 {53401}{}{Un secchio di medie dimensioni usato per tirare su l'acqua da un pozzo.}
-{53500}{}{Scaly Fish}
+{53500}{}{Pesce Squamoso}
 {53501}{}{Un pesce dall'aspetto squamoso. Se cucinato, probabilmente sarebbe un pasto gustoso.}
-{53600}{}{Fish}
+{53600}{}{Pesce}
 {53601}{}{Un pesce dall'aspetto crudo. Se cucinato, probabilmente sarebbe un pasto gustoso.}
 {53700}{}{Ode al Diluvio di Fiamme}
 {53701}{}{Un romanzo ambientato dopo una devastante guerra nucleare. L'estratto descrive come, subito dopo la guerra, ci fu una violenta reazione contro la cultura del sapere avanzato e della tecnologia che aveva portato allo sviluppo delle armi nucleari. Chiunque fosse istruito, e alla fine anche chiunque sapesse leggere, rischiava di essere ucciso.}
 {53800}{}{Libro di testo}
 {53801}{}{Un vecchio libro di testo di prima della Grande Guerra. E' piuttosto tecnico e non sembra contenere informazioni utili.}
-{53900}{}{Army Technical Manual}
+{53900}{}{Manuale Tecnico dell’Esercito}
 {53901}{}{Un vecchio manuale tecnico progettato per il Corpo degli Ingegneri dell'Esercito degli Stati Uniti.}
 {54000}{}{Manuale Operativo}
 {54001}{}{Il manuale operativo del KV-75; un dispositivo crittografico tattico portatile. Usato anche da utenti non tattici per comunicazioni di alto livello nelle reti telefoniche locali a banda larga e nei terminali satellitari a banda larga.}
@@ -1049,33 +1049,33 @@
 {54201}{}{Una bottiglia fresca del miglior vino dell'Abbazia.}
 {54300}{}{Diario}
 {54301}{}{Sembra essere un diario appartenuto a una giovane ragazza. La scritta sulla copertina interna dice: "Proprieta' di Anna". La maggior parte delle pagine e' strappata o sbiadita, ma una e' ancora leggibile. "Giorno 271: Oggi mia madre mi ha dato un ciondolo d'oro. E' la cosa piu' bella che abbia mai posseduto. Non me ne separero' mai."}
-{54400}{}{Botany Holodisk}
+{54400}{}{Olodisco di Botanica}
 {54401}{}{Questo disco informativo categorizza le varie forme di vita vegetale che crescevano prima della Grande Guerra.}
-{54500}{}{Expired G.E.C.K.}
-{54501}{}{The Garden of Eden Creation Kit. This unit is standard equipment for all Vault-Tec vaults. A GECK is the resource for rebuilding civilization after the bomb. Just add water and stir. This one is well beyond is expiration date. What a waste!}
-{54600}{}{Old Coin}
+{54500}{}{G.E.C.K. Scaduto}
+{54501}{}{Il Kit di Creazione del Giardino dell’Eden. Questa unità è equipaggiamento standard di tutti i vault della Vault-Tec. Un GECK è la risorsa per ricostruire la civiltà dopo la bomba: basta aggiungere acqua e mescolare. Questo è ben oltre la data di scadenza. Che spreco!}
+{54600}{}{Moneta Antica}
 {54601}{}{Una moneta molto antica. Non sei sicuro di chi sia il volto raffigurato, ma sembra rara e potrebbe valere molti soldi.}
-{54700}{}{A watch}
+{54700}{}{Un orologio}
 {54701}{}{Un orologio antico. Questa marca ha smesso di essere prodotta molto prima della Grande Guerra.}
-{54800}{}{Pack of Cigarettes}
+{54800}{}{Pacchetto di Sigarette}
 {54801}{}{Un pacchetto di "Commies". Sul retro c'e' scritto: "Fuma un Commie per fare la tua parte per la democrazia e sentirti meglio". Piu' in basso c'e' un avviso sanitario: "Come tuo dottore, raccomando i Commies per un alito piu' fresco e un sorriso vincente". Sembra che ce ne siano circa 10 nel pacchetto.}
 {54900}{}{Maschera antigas}
 {54901}{}{La Maschera Protettiva: la tua maschera e' la tua prima linea di difesa contro gli agenti biologici. Abbine cura.}
-{55000}{}{Toaster}
+{55000}{}{Tostapane}
 {55001}{}{Un tostapane argentato appoggiato su una scrivania.}
 {55100}{}{Siringa}
 {55101}{}{Uno strumento prebellico per somministrare farmaci. E' pieno di una sostanza sconosciuta.}
-{55200}{}{Dog Food}
-{55201}{}{Several cans of dog food.}
+{55200}{}{Cibo per Cani}
+{55201}{}{Diverse scatolette di cibo per cani.}
 {55300}{}{Spray Antiparassitario}
 {55301}{}{Una bomboletta spray piena di una sostanza che uccide tutti i parassiti conosciuti.}
 {55400}{}{Armatura ambientale}
 {55401}{}{Armatura ideale contro attacchi biologici.}
 {55500}{}{Opuscolo EPA}
 {55501}{}{Un volantino distribuito all'inizio delle visite guidate.}
-{55600}{}{Drugs}
+{55600}{}{Droghe}
 {55601}{}{Una sorta di farmaci conservati da prima della guerra.}
-{55700}{}{Security Rooms Key Card}
+{55700}{}{Tessera delle Stanze di Sicurezza}
 {55701}{}{Un tesserino per sbloccare le stanze di sicurezza.}
 {55800}{}{Portaprovette}
 {55801}{}{Un supporto per contenere provette chimiche.}
@@ -1083,75 +1083,75 @@
 {55901}{}{Chiavi che permettono l'accesso al capanno di stoccaggio in superficie.}
 {56000}{}{Sostanze chimiche casuali}
 {56001}{}{PERICOLO! Sostanze chimiche sconosciute. Usare con cautela.}
-{56100}{}{Corn Seeds}
+{56100}{}{Semi di mais}
 {56101}{}{Buste di semi, usate per coltivare piante. Questi sono etichettati come semi di mais geneticamente modificati, immuni sia alle malattie che alle infestazioni di insetti.}
-{56200}{}{Plant Spray}
+{56200}{}{Spray per piante}
 {56201}{}{Una bomboletta spray piena di una sostanza che uccide vari tipi di piante.}
-{56300}{}{Trigger activated dynamite}
+{56300}{}{Dinamite con innesco}
 {56301}{}{A differenza della dinamite normale, che viene impostata con un timer, questa dinamite e' attivata da un grilletto.}
-{56400}{}{Trigger switch}
-{56401}{}{Trigger for dynamite.}
+{56400}{}{Interruttore di innesco}
+{56401}{}{Innesco per dinamite.}
 {56500}{}{Carta}
 {56501}{}{Un foglio con un codice d'accesso scarabocchiato sopra.}
-{56600}{}{Experimental Seeds}
+{56600}{}{Semi sperimentali}
 {56601}{}{Busta di semi sperimentali. Il risultato della germinazione e' sconosciuto.}
-{56700}{}{A drill}
+{56700}{}{Un trapano}
 {56701}{}{Un trapano elettrico.}
-{56800}{}{Trigger activated dynamite}
+{56800}{}{Dinamite con innesco}
 {56801}{}{A differenza della dinamite normale, che viene impostata con un timer, questa dinamite e' attivata da un grilletto. Questa e' armata e pronta per essere attivata.}
-{56900}{}{Pop Rocks}
+{56900}{}{Caramelle frizzanti}
 {56901}{}{Una busta non aperta di una gustosa caramella frizzante fatta di zucchero, lattosio (altro zucchero), sciroppo di mais (ancora piu' zucchero) e aromi. Si dice che, se mescolata con bevande come la Nuka-Cola, lo stomaco possa esplodere.}
-{57000}{}{Bottle of Shampoo}
+{57000}{}{Bottiglia di shampoo}
 {57001}{}{Una bottiglia premium di shampoo. A differenza delle altre marche principali, questo shampoo viene in una insolita bottiglia in plastica flessibile. E' stata progettata appositamente cosi', in modo che, quando la bottiglia viene spremuta, esca la giusta quantita' di shampoo — non di piu', non di meno. Basta un colpo al tappo, e sei pronto.}
-{57100}{}{K-9 Kevlar}
+{57100}{}{Kevlar per K-9}
 {57101}{}{Un vecchio set impolverato di robuste piastre in kevlar inserite in maniche di nylon nero. Pensi che debba essere della misura per un nano, finche' non noti un'etichetta all'interno che dice: Kevlar Canino. Taglia Large. Un prodotto DoggieBuddy. Made in Taiwan.}
-{57200}{}{Human Ear}
+{57200}{}{Orecchio umano}
 {57201}{}{Un orecchio di donna. Che schifo! Solo una persona mentalmente instabile rimuoverebbe un orecchio umano.}
 {57300}{}{Contenitore ERSI}
 {57301}{}{Un contenitore di Inibitori della Sindrome da Rigetto Ambientale. Applicati a esemplari che escono da un lungo periodo di ibernazione.}
-{57400}{}{Lightsaber}
+{57400}{}{Spada laser}
 {57401}{}{Un'arma antica di un'epoca piu' civilizzata. Non goffa o casuale come un blaster. Ti e' stata data da Obi-Wan-Killap. Forza min: 2}
 {57500}{}{Blaster}
 {57501}{}{Religioni strampalate e armi antiche non sono all'altezza di un buon blaster al tuo fianco, ragazzo. Forza min: 3}
-{57600}{}{Lightsaber}
+{57600}{}{Spada laser}
 {57601}{}{Un'arma antica di un'epoca piu' civilizzata. Non goffa o casuale come un blaster. Ti e' stata data dall'Imperatrice Timeslip. Forza min: 2.}
-{57700}{}{Air Processing Vent}
-{57701}{}{The grill on this vent looks different.}
+{57700}{}{Unita' di processazione dell'aria}
+{57701}{}{La griglia di questo condotto sembra diversa.}
 {57800}{}{Metal Locker}
 {57801}{}{Uno stipetto dove riporre effetti personali.}
 {57900}{}{Metal Locker}
 {57901}{}{Uno stipetto dove riporre effetti personali.}
 {58000}{}{Tabella di Codici Cinesi}
 {58001}{}{Non ne sei certo, ma sembra essere una tabella contenente vari codici di comando cinesi. Forse, se trovassi un posto dove inserirli, potresti imparare qualcosa.}
-{58100}{}{Dead Tribal}
+{58100}{}{Selvaggio morto}
 {58101}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58200}{}{Dead Tribal}
+{58200}{}{Selvaggio morto}
 {58201}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
 {58300}{}{Spina di Pianta}
-{58301}{}{An organic seed-spike that the carnivorous plants spit at potential food or seed carriers. This one is sharper, and harder than usual.}
-{58400}{}{Dead Vault Dweller}
+{58301}{}{Un seme-spina organico che le piante carnivore sputano contro cibo potenziale o trasportatori di semi. Questa e' piu' affilata e dura del solito.}
+{58400}{}{Abitante del Vault morto}
 {58401}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58500}{}{Dead Vault Dweller}
+{58500}{}{Abitante del Vault morto}
 {58501}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58600}{}{Dead Tribal}
+{58600}{}{Selvaggio morto}
 {58601}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58700}{}{Dead Tribal}
+{58700}{}{Selvaggio morto}
 {58701}{}{Questa persona e' morta in modo orribile sul tavolo medico.}
-{58800}{}{K-9 Kevlar}
+{58800}{}{Kevlar per K-9}
 {58801}{}{Kevlar K-9 Indossabile (FALSA)}
-{58900}{}{Mutant Armor}
-{58901}{}{Mutant Armor}
-{59000}{}{Mutant Armor}
+{58900}{}{Armatura mutante}
+{58901}{}{Armatura mutante}
+{59000}{}{Armatura mutante}
 {59001}{}{Armatura Mutante Indossabile (FALSA)}
-{59100}{}{Small Scorpion Tail}
-{59101}{}{The severed tail of a small radscorpion.}
-{59200}{}{Plant seed}
+{59100}{}{Coda di scorpione piccolo}
+{59101}{}{La coda recisa di un piccolo radscorpione.}
+{59200}{}{Seme di pianta}
 {59201}{}{Un seme di pianta datoti dal dottor Sheng.}
-{59300}{}{Nothing out of the ordinary}
-{59301}{}{Nothing out of the ordinary.}
-{59400}{}{Nothing out of the ordinary}
-{59401}{}{Nothing out of the ordinary.}
-{59500}{}{Nothing out of the ordinary}
-{59501}{}{Nothing out of the ordinary.}
-{59600}{}{Fake Heart Pills}
+{59300}{}{Niente fuori dall'ordinario}
+{59301}{}{Niente fuori dall'ordinario.}
+{59400}{}{Niente fuori dall'ordinario}
+{59401}{}{Niente fuori dall'ordinario.}
+{59500}{}{Niente fuori dall'ordinario}
+{59501}{}{Niente fuori dall'ordinario.}
+{59600}{}{Pillole finte per il cuore}
 {59601}{}{Queste pillole sarebbero normalmente usate da persone con problemi cardiaci, tranne che in questo caso porterebbero alla morte. Sono state mescolate con altre sostanze chimiche, garantendo un'esperienza di cuore che esplode.}

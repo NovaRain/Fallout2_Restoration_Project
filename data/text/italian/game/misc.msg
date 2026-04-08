@@ -124,18 +124,18 @@
 {9242}{}{Modificazione del software in corso, Padrone... Sistemi a posto.}
 {9243}{}{Modificazione del software in corso, Padrone... Massima efficienza dei sistemi!}
 {9250}{}{}
-{9260}{}{There's more than one way to skin a cat.}
+{9260}{}{C’è più di un modo per ottenere ciò che vuoi.}
 {9261}{}{Piu' in basso cado, piu' in alto volo.}
 {9262}{}{Vivi. Impara. Evolvi.}
 {9263}{}{Sento e dimentico; vedo e ricordo; faccio e capisco.}
-{9264}{}{I *am* the Nine.}
-{9270}{}{You know, I think I'm starting to recover from that whole being frozen thing.}
+{9264}{}{Io *sono* il Nove.}
+{9270}{}{Sai, credo di essermi quasi ripreso da tutta quella storia del congelamento.}
 {9271}{}{Ahh... si'. Sento la vecchia magia tornare da me ora.}
-{9272}{}{I don't want to blow your mind, but I just got even better.}
+{9272}{}{Non voglio sconvolgerti, ma sono appena migliorato.}
 {9273}{}{Attenzione, sono appena diventato perfetto. Ora troviamo qualche prostituta cosi' possiamo festeggiare.}
 {9274}{}{Sembra che abbia superato la perfezione. Suppongo che, se qualcuno poteva riuscirci, quello ero io.}
-{9280}{}{The Cat is back!}
+{9280}{}{Il Gatto è tornato!}
 {9281}{}{I miei occhi mi ingannano o il mio sedere sembra meglio che mai?}
-{9282}{}{My cat senses are tingling!}
+{9282}{}{I miei sensi felini stanno fremendo!}
 {9283}{}{Se solo avessi un po' di pesce da accompagnare a questa esperienza.}
-{9284}{}{This Cat is unstoppable!}
+{9284}{}{Questo Gatto è inarrestabile!}

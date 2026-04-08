@@ -191,7 +191,7 @@
 {1023}{}{Picciotto: Mordino}
 {1024}{}{Picciotto: Wright}
 {1025}{}{Divorziato}
-{1026}{}{Smoker}
+{1026}{}{Fumatore}
 {1100}{}{Questa statistica rappresenta la tua reputazione generale. Piu'alto il valore, piu' sei conosciuto e rispettato. Se la tua reputazione e' negativa, qualcuno ti odia per le tue cattive azioni.}
 {1101}{}{Hai ucciso un gran numero di persone. Di solito non e' molto positivo diventare famosi per questo. Delinquenti e sbandati, tuttavia, ti rispetteranno di piu'.}
 {1102}{}{Le tue azioni ti hanno fatto diventare l'eroe della gente. Notizie della tua guerra contro il male e la delinquenza sono giunte in molti luoghi. Le persone onorevoli ti rispetteranno di piu'.}

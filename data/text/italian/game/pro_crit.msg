@@ -501,63 +501,63 @@
 {48300}{}{Frank Horrigan}
 {48301}{}{La Guardia del Corpo del Presidente.}
 {48400}{}{Nessa}
-{48401}{}{The ghost of dead Nessa.}
+{48401}{}{Il fantasma di Nessa.}
 {48500}{}{Shaman}
 {48501}{}{Sciamano tribale.}
-{48600}{}{Warrior 	}
-{48601}{}{Tribe warrior.}
+{48600}{}{Guerriero	}
+{48601}{}{Guerriero della tribù.}
 {48700}{}{una Guardia}
-{48800}{}{Sulik's sister}
+{48800}{}{Sorella di Sulik}
 {48900}{}{Kaga}
 {49000}{}{Kaga}
 {49100}{}{Kaga}
 {49200}{}{Kaga}
 {49300}{}{Kaga}
 {49400}{}{Ologramma 00000}
-{49401}{}{The hologram for the director of science.}
+{49401}{}{Ologramma del Direttore Scientifico.}
 {49500}{}{Ologramma 10001}
-{49501}{}{The hologram for the director of security.}
+{49501}{}{Ologramma del Direttore della Sicurezza.}
 {49600}{}{Ologramma 12001}
-{49601}{}{The hologram for the director of operations.}
+{49601}{}{Ologramma del Direttore delle Operazioni.}
 {49700}{}{Ologramma 10031}
 {49701}{}{Ologramma per il direttore della Manutenzione del Suolo.}
 {49800}{}{Ologramma 40011}
 {49801}{}{Ologramma per il Direttore delle Relazioni Pubbliche.}
-{49900}{}{Mr. Handy Robot}
+{49900}{}{Robot Mr. Handy}
 {49901}{}{Una versione gravemente depressa del robot Mr. Handy.}
-{50000}{}{The Doctor}
+{50000}{}{Il Dottore}
 {50001}{}{Il principale, e unico, dottore rimasto nell'EPA.}
-{50100}{}{EPA Spore Plant}
-{50101}{}{A hideously mutated spore plant.}
+{50100}{}{Pianta Sporigena EPA}
+{50101}{}{Una pianta sporigena orribilmente mutata.}
 {50200}{}{Kitsune}
 {50300}{}{Dex}
 {50400}{}{Cat Jules}
-{50500}{}{Doctor's Warrior}
-{50501}{}{A warrior for the doctor.}
-{50600}{}{Fruit fly}
-{50601}{}{A mutated fruit fly.}
+{50500}{}{Guerriero del Dottore}
+{50501}{}{Un guerriero al servizio del Dottore.}
+{50600}{}{Moscerino della frutta}
+{50601}{}{Un moscerino della frutta mutato.}
 {50700}{}{Un ologramma}
 {50701}{}{Un ologramma.}
-{50800}{}{Kitsune - level 1}
-{50900}{}{Kitsune - level 2}
-{51000}{}{Kitsune - level 3}
-{51100}{}{Kitsune - level 4}
-{51200}{}{Kitsune - level 5}
-{51300}{}{Dex - level 1}
-{51400}{}{Dex - level 2}
-{51500}{}{Dex - level 3}
-{51600}{}{Dex - level 4}
-{51700}{}{Dex - level 5}
-{51800}{}{Cat Jules - level 1}
-{51900}{}{Cat Jules - level 2}
-{52000}{}{Cat Jules - level 3}
+{50800}{}{Kitsune – Livello 1}
+{50900}{}{Kitsune – Livello 2}
+{51000}{}{Kitsune – Livello 3}
+{51100}{}{Kitsune – Livello 4}
+{51200}{}{Kitsune – Livello 5}
+{51300}{}{Dex – Livello 1}
+{51400}{}{Dex – Livello 2}
+{51500}{}{Dex – Livello 3}
+{51600}{}{Dex – Livello 4}
+{51700}{}{Dex – Livello 5}
+{51800}{}{Cat Jules – Livello 1}
+{51900}{}{Cat Jules – Livello 2}
+{52000}{}{Cat Jules – Livello 3}
 {52100}{}{Cat Jules - livello 4}
 {52200}{}{Cat Jules - livello 5}
 {52300}{}{MIBoba Fe88}
 {52400}{}{Hivan Zolo}
 {52500}{}{Contie-bacca}
 {52600}{}{Darek Vader}
-{52700}{}{Jotisz the Hutt}
+{52700}{}{Jotisz l’Hutt}
 {52800}{}{R2Qwerty}
 {52900}{}{Chris3ParksO}
 {53000}{}{Yosan12}
@@ -573,12 +573,12 @@
 {54000}{}{Minigun Jim}
 {54100}{}{Bofast}
 {54200}{}{Krom}
-{54300}{}{Mother Spore Plant}
-{54400}{}{Mother Alien}
-{54500}{}{EPA Spore Plant}
-{54501}{}{A hideously mutated spore plant.}
+{54300}{}{Pianta Sporigena Madre}
+{54400}{}{Alieno Madre}
+{54500}{}{Pianta Sporigena EPA}
+{54501}{}{Una pianta sporigena orribilmente mutata.}
 {54600}{}{un Cane Selvatico}
 {54601}{}{Un cane meticcio selvatico.}
 {54700}{}{un Robot Sentinella vers. II}
 {54800}{}{il Vecchio Joe}
-{54900}{}{A plant creature}
+{54900}{}{Una creatura vegetale}
