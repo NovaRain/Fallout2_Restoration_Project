@@ -168,7 +168,7 @@ anche loro a lungo termine.}
 {656}{}{Beh, questo l'avevo capito anch'io... ma cosa?}
 {657}{}{Ad esempio?}
 {658}{}{Un dispositivo? Che tipo di dispositivo?}
-{659}{}{Perche' non mi spieghi quest’ultimo passaggio, e poi vedro' se aiutarti.}
+{659}{}{Perche' non mi spieghi quest’ultimo passaggio e poi vedro' se aiutarti.}
 {670}{}{Il reattore, sempre il reattore (sigh). Torna quando avrai ottenuto qualche risultato con il reattore.}
 {671}{}{Torna piu' tardi. Sto comunicando con un potere superiore, o qualcosa del genere (sheesh).}
 {672}{}{Senti, se non ritiri gli attacchi, la gente del villaggio potrebbe finire schiavizzata da Vault City.}
