@@ -72,7 +72,7 @@
 {273}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
 {274}{}{Il miglior casino' di New Reno. Del MONDO, addirittura.}
 {275}{}{Donna Fortuna e' qui da noi, stasera... vincono tutti!}
-{276}{}{Vieni qui, e vinci!}
+{276}{}{Avanti, avanti… venite a vincere qualche gettone.}
 {277}{}{Vuoi bere qualcosa, tesoro?}
 {278}{}{Benvenuta nel nostro casino', tesoro.}
 {279}{}{Questo tavolo e' libero, se vuoi giocare...}
@@ -84,8 +84,8 @@
 {292}{}{Punti, signore. Puntata minima 5 fiches. Fate il vostro gioco…}
 {293}{}{Punti, signora. Puntata minima 5 fiches. Fate il vostro gioco…}
 {294}{}{Fate il vostro gioco, puntata minima 5 fiches. Fate il vostro gioco…}
-{295}{}{Me no minimo! Me grande!}
-{296}{}{Buoni zuccherini! YUM! (mordi i dadi) Ouch! No buoni!}
+{295}{}{Io… più for-te di te.}
+{296}{}{Io… gioco ai dadi… nei pantaloni.}
 {297}{}{Cosa essere questo gioco? Me può scommettere pelle di gecko? Me ha pelle di… ooooh… lucine belle là!}
 {298}{}{Scommetti 5 fiches?}
 {299}{}{Scommetti 15 fiches?}
@@ -100,7 +100,7 @@
 {312}{}{Um... Mi hanno detto che qui sul retro stanno distribuendo dei cervelli. Forse dovresti andare a dare un'occhiata.}
 {313}{}{Ciaooooo.}
 {314}{}{Beeene. }
-{315}{}{Uh… cervelli… cosa essere? Me vuole vedere!}
+{315}{}{Uh… cervelli… che cosa e'?}
 {320}{}{Very well, sir. Come back soon.}
 {321}{}{Molto bene, signore. Tornate presto.}
 {322}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella città sbagliata.}

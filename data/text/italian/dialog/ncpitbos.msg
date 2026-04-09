@@ -116,7 +116,7 @@
 {406}{}{Capisco. Le dispiace se le faccio qualche altra domanda…?}
 {407}{}{Interessante. Grazie per l'informazione.}
 {415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
-{416}{}{Le dispiace se le faccio qualche altra domanda…?}
+{416}{}{Ti dispiace se ti faccio altre domande…}
 {417}{}{Interessante. Grazie per l'informazione.}
 {425}{}{Sure, be good for business. Dressing room's in the back…}
 {426}{}{Eccellente. Saro' sul palco tra qualche minuto...}
