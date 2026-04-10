@@ -6,7 +6,7 @@
 {105}{}{Me ferito.}
 {106}{}{Ho bisogno di un dottore.}
 {107}{}{Non potresti semplicemente prendere delle pillole o qualcosa del genere invece di disturbarmi per queste sciocchezze?}
-{108}{}{Diavolo, sanguini appena!}
+{108}{}{Diavolo, non stai quasi neanche sanguinando.}
 {109}{}{Non so. Non penso di poterla salvare. Forse dovremo amputare questa gamba.}
 {110}{}{Stai scherzando.}
 {111}{}{Ah-ah.}
@@ -109,7 +109,7 @@
 {260}{}{Sia chiaro,}
 {261}{}{signore.}
 {262}{}{signorina.}
-{263}{}{Cosa intendi esattamente per “donazione”?}
+{263}{}{Cosa intendi esattamente per “donazione?”}
 {264}{}{Un contributo di beneficenza, a sostegno del tuo servizio al pubblico, diciamo... 150 dollari? Puoi contarli nel retro. Ci vorra' solo un minuto, giusto?}
 {265}{}{Uh, in realta', credo che dovrei consultare il mio commercialista prima di fare qualcosa di avventato. A dopo, dottore.}
 {270}{}{Non posso, temo. Quelle sono per il Consigliere Westin. La sua gente dovrebbe passare a ritirarle tra }
