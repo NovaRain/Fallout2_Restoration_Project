@@ -3574,7 +3574,7 @@
 {70101}{}{Ho detto che mi dispiace, ora lasciami in pace.}
 {70102}{}{Al diavolo, me ne vado.}
 {70103}{}{Tornerò più tardi e ti pugnalerò nel sonno.}
-{70104}{}{Era solo uno scherzo!}
+{70104}{}{Era solo uno scherzo.}
 {70105}{}{Mi dispiace davvero, non so cosa mi sia preso.}
 {70106}{}{Mi hanno costretto, lo giuro!}
 {70107}{}{Lasciami vivere e non uccidero' mai piu', lo prometto!}
@@ -3642,7 +3642,7 @@
 {70420}{}{Ahi! Il mio braccio!}
 {70421}{}{Dannazione, che male!}
 {70422}{}{Almeno non e' rotto... credo.}
-{70430}{}{Penso che tu mi abbia rotto una costola!}
+{70430}{}{Credo di essermi rotto una costola.}
 {70431}{}{Non morirò così facilmente.}
 {70432}{}{Ahi! Fa male!}
 {70440}{}{Non le gambe!}

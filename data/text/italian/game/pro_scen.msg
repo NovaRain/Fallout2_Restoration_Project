@@ -2896,7 +2896,7 @@
 {192000}{}{Ossa}
 {192001}{}{Resti sparsi.}
 {192100}{}{Ossa}
-{192101}{}{Sono umane?}
+{192101}{}{Sono umane?!}
 {192200}{}{Ossa}
 {192201}{}{Delle ossa umane sparse.}
 {192300}{}{Ossa}
@@ -2906,7 +2906,7 @@
 {192600}{}{Ossa}
 {192601}{}{Resti umani sparsi.}
 {192700}{}{Ossa}
-{192701}{}{Sono umane?}
+{192701}{}{Sono umane?!}
 {192800}{}{Ossa}
 {192900}{}{Barriera di cemento}
 {193000}{}{Barriera di cemento}
