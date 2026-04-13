@@ -50,7 +50,7 @@
 {149}{}{Il colpo grosso. Saltbeef e' un vecchio cercatore d'uranio - piu' precisamente, un ubriacone. Negli ultimi tempi vive nella proprieta' di Westin.}
 {150}{}{Un'altra domanda...}
 {151}{}{Grazie per la storia.}
-{152}{}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per }
+{152}{}{Beh, speravo proprio di ricavarci dei soldi. Te lo lascero' per $}
 {153}{}{Magari piu' tardi. Un'altra domanda...}
 {154}{}{Magari un'altra volta. Devo andare.}
 {155}{}{Saltbeef e' un vecchio cercatore d'uranio. Negli ultimi tempi vive nella proprieta' di Westin.}
@@ -72,10 +72,10 @@
 {171}{}{Cosa c'e' che non va, signorina?}
 {172}{}{Ecco a te, signorina.}
 {173}{}{Beh, non dovresti preoccuparti, signorina. Se non stressa il suo fisico, probabilmente ci sotterrera' tutti. Naturalmente deve sottoporsi a visite periodiche e prendere sempre la sua medicina.}
-{174}{}{Certo. Ecco i }
+{174}{}{Certo. Ecco i $}
 {175}{}{Grazie; ho cercato di farmi dare i soldi da Saltbeef, ma quel vagabondo non ne ha mai avuti.}
 {176}{}{.}
-{200}{}{Ehi, piano lì,}
+{200}{}{Ehi, piano lì, }
 {201}{}{figliolo! }
 {202}{}{signorina! }
 {203}{}{Non puoi toccare quella roba! Ho appena misurato la dose del signor Westin e non vorremmo mica che prendesse le medicine sbagliate. Che diavolo credi di fare?}
@@ -96,24 +96,24 @@
  ricette, qualche povero disgraziato finira' in un mare di guai, se e' ancora in questo mondo. Meglio tenerti le mani per te.}
 {231}{}{Certo, dottore. Ma, uh, senti-- ho un amico che avrebbe davvero bisogno di alcune di quelle pillole per il cuore che hai la'.
  Pensi di essere disposto a vendermene un po'?}
-{240}{}{Awww,}
-{241}{}{ragazzo,}
+{240}{}{Awww, }
+{241}{}{ragazzo, }
 {242}{}{signorina, }
 {243}{}{Vorrei poterti aiutare, ma non sto prendendo nuovi pazienti adesso. Il Consiglio mi ha assunto a contratto. Non posso venderti pillole neanche-- la gente del Consigliere Westin dovrebbe venire a ritirare quelle tra }
-{244}{}{ giorni,}
+{244}{}{ giorni, }
 {245}{}{ giorno, }
 {246}{}{e non avro' proprio il tempo di preparare un altro lotto prima di allora.}
 {247}{}{Capisco, dottore. Forse trovero' un farmacista decente da qualche altra parte. Se non e' troppo chiedere, pero', hai qualche consiglio da darmi sull'argomento? Una medicina del genere non si trova spesso.}
 {248}{}{Queste sono le regole del gioco, immagino. Comunque, dovrei stare bene. Ho imparato *un sacco* di cardamomagia dai vecchi fumetti. Ridurre i chem pesanti a due volte al giorno AL MASSIMO, assicurarsi di fare esercizio in brevi scatti intensi cosi' il cuore non ha tempo di fare i capricci, roba del genere.}
 {250}{}{Mi dispiace per te, amico, ma temo che quelle pillole siano per il Consigliere Westin, e non sto prendendo nuovi pazienti adesso quindi non potrei scriverti una ricetta. Ora per favore, non andare a toccare quello scaffale. Se quelle ricette si mescolano, qualcuno potrebbe finire molto male.}
-{260}{}{Sia chiaro,}
-{261}{}{signore.}
-{262}{}{signorina.}
+{260}{}{Sia chiaro, }
+{261}{}{signore. }
+{262}{}{signorina. }
 {263}{}{Cosa intendi esattamente per “donazione?”}
 {264}{}{Un contributo di beneficenza, a sostegno del tuo servizio al pubblico, diciamo... 150 dollari? Puoi contarli nel retro. Ci vorra' solo un minuto, giusto?}
 {265}{}{Uh, in realta', credo che dovrei consultare il mio commercialista prima di fare qualcosa di avventato. A dopo, dottore.}
 {270}{}{Non posso, temo. Quelle sono per il Consigliere Westin. La sua gente dovrebbe passare a ritirarle tra }
-{271}{}{ giorni,}
+{271}{}{ giorni, }
 {272}{}{ giorno, }
 {273}{}{e non avro' il tempo di preparare un altro lotto prima di allora. Sono sicuro che puoi trovare un farmacista con meno lavoro.}
 {274}{}{Capisco. Grazie comunque.}
@@ -126,7 +126,7 @@
 {286}{}{Grazie mille, dottore. Non hai idea di quanto mi sei stato d'aiuto. Prenditi cura di te.}
 {287}{}{Tri-pros-i-nil, no pil-lo-le-per-il-caz-zo. Heh heh. Lo terro' a mente. A presto, dottore.}
 {290}{}{Pensi di avere a che fare con qualche cerusico losco da bartertown, }
-{291}{}{ragazzo,}
+{291}{}{ragazzo, }
 {292}{}{ragazzina, }
 {293}{}{e' cosi'? Non farlo. Sono un professionista medico dell'NCR formato e accreditato, e vale molto di piu' di quella manciatina di spiccioli.}
 {294}{}{Mi scuso. Ovviamente, un professionista del tuo calibro merita una donazione di non meno di 250 dollari.}
@@ -141,7 +141,7 @@
 {310}{}{Senta, dottore, mi chiedevo di quelle pillole per il cuore che ha lì sullo scaffale.}
 {311}{}{Sei sicuro di non poter riconsiderare di vendermi alcune di quelle pillole?}
 {320}{}{Spiacente, la gente del Consigliere Westin dovrebbe passare a ritirarle tra }
-{321}{}{ giorni,}
+{321}{}{ giorni, }
 {322}{}{ giorno, }
 {323}{}{e sono semplicemente troppo occupato per preparare un altro lotto in tempo.}
 {324}{}{(Borbotta tra se'.) Dove diavolo ho messo quelle pillole per il signor Westin. Il suo cuore non durera' a lungo senza di esse. (Alza lo sguardo.)

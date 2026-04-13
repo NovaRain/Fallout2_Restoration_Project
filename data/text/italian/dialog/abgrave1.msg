@@ -1,4 +1,4 @@
-{100}{}{Vedi un paletto segnatombe. }
+{100}{}{Vedi un paletto segnatombe.}
 {101}{}{Sul paletto c'e' scritto: }
 {102}{}{"Qui' giace Fratello Gregory. Un uomo che non conosceva limiti."}
 {103}{}{Zia Patty. Ben tolto di mezzo, davvero.}

@@ -80,7 +80,7 @@
 {282}{}{Sono felice di esser stato d'aiuto; ovviamente, i 50$ non mi hanno certo fatto male.}
 {283}{}{Bene, sono sicuro che dormiro' sonni piu' tranquilli sapendo che Klamath non ha piu' nulla da temere dal liquore di Bob.}
 {284}{}{Non me ne frega granche', amico.}
-{290}{}{Be', vediamo. Ultimamente in citta' succedono un sacco di cose. (conta sulle dita) C'e'...}
+{290}{}{Be', vediamo. Ultimamente in citta' succedono un sacco di cose. (conta sulle dita) C'e'... }
 {291}{}{Parlami degli uomini insetto che attaccano i brahmin, per favore.}
 {292}{}{Parlami dei RTF, per favore.}
 {293}{}{Parlami del fantasma, per favore.}

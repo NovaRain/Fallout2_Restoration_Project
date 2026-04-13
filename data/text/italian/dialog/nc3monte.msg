@@ -65,7 +65,7 @@
 {270}{}{Quella a sinistra.}
 {271}{}{Quella a destra.}
 {272}{}{Quella al centro.}
-{280}{}{(Monte gira la carta. E' la...}
+{280}{}{(Monte gira la carta. E' la... }
 {281}{}{Spiacente, amico, non stavolta, ma ci sei andato VICINO.}
 {282}{}{Spiacente, signora, non stavolta, ma ci sei andata VICINO.}
 {283}{}{Pero' ci sai fare, davvero. Vuoi riprovare?}

@@ -290,7 +290,7 @@ Avviso! Collegamento al server centrale CIN di Pechino non disponibile. Recupero
 {512}{}{::indietro::}
 {520}{}{2077-11-12: Finalmente! Siamo arenati nella baia di San Francisco. I marinai esultavano finche' non abbiamo aperto i
  portelli. La citta' e' un disastro, devastata da tempeste di fuoco e ricadute radioattive. Ho inviato squadre a terra per trovare un sito adatto per il campo.
- Finora nessuna ha segnalato tale luogo.}
+ Finora nessuna ha segnalato tale luogo. }
 {521}{}{Continua a leggere.}
 {522}{}{::indietro::}
 {530}{}{2077-11-16: La squadra di Lao ha trovato un quartiere abitabile. Gli abitanti lo hanno abbandonato, dopo l'allarme raid aereo

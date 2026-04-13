@@ -24,7 +24,7 @@
 {123}{}{Fottiti.}
 {124}{}{Lascia in pace il mio armadietto o te ne faro' pentire amaramente.}
 {125}{}{E' tempo... di morire.}
-{200}{}{Ok, sbrighiamola -- non mi piace avere mutanti che puzzano nel mio ufficio, e ho un sacco da fare. Lavori per i Salvatores?}
+{200}{}{Ok, sbrighiamola -- non mi piace avere mutanti che puzzano nel mio ufficio, e ho un sacco da fare. Lavori per i Salvatores? }
 {201}{}{Non sono affari tuoi, stronzo.}
 {202}{}{Non lavoro per nessuno.}
 {203}{}{E allora?}

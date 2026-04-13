@@ -60,7 +60,7 @@
 {301}{}{Ma non ha senso, perche' dovrebbero mentire su di te?}
 {302}{}{L'unica stronzata qui in giro e' quella che esce dalla tua bocca, e credo sia ora di farti tacere per sempre.}
 {310}{}{Ehi, so che non sembra avere molto senso, ma hai guardato questo posto? Qui non c'e' molto che abbia senso.
- Chissa' cosa passa nelle menti bacate di questi scienziati.}
+ Chissa' cosa passa nelle menti bacate di questi scienziati. }
 {311}{}{Hmm... su questo hai ragione. Non dico che ti creda... ma suppongo di poterti almeno ascoltare.}
 {312}{}{Sì, davvero. Continua...}
 {320}{}{Ok, vedi, fa tutto parte dei loro "esperimenti". Quei fottuti dottori stavano facendo dei test sulla
@@ -135,7 +135,7 @@
  posto e' andato a puttane, e tu sembri uscita da una specie di racconto d'avventura fantascientifico.}
 {471}{}{Sono passati piu' di centocinquant'anni da quando il Grande Silenzio ha posto fine agli Antichi... *la tua* gente.}
 {475}{}{Grande Silenzio? Gli Antichi? Perche' non risparmi queste stronzate criptiche e mi dici semplicemente cosa e' successo?}
-{476}{}{Il Grande Silenzio e' come il mio popolo chiama la fine del tuo mondo. Quando i grandi fuochi piovvero dal cielo e bruciarono la terra. Scoprirai che il mondo non e' affatto come quello che conoscevi.}
+{476}{}{Il Grande Silenzio e' come il mio popolo chiama la fine del tuo mondo. Quando i grandi fuochi piovvero dal cielo e bruciarono la terra. Scoprirai che il mondo non e' affatto come quello che conoscevi. }
 {480}{}{Non mi dire, quindi hanno davvero sganciato le bombe, eh? Immagino che il progetto Vault non fosse solo un enorme spreco dei soldi dei contribuenti, dopotutto.}
 {481}{}{Aspetta. Conosci i sacri Vault?}
 {490}{}{Conoscerle? Diavolo, vivevo proprio accanto al Vault di Chicago. Ho perfino visto finire di costruire quell'affare.
@@ -178,11 +178,11 @@
  cavarmela in uno scontro. Diavolo, potrei anche andare da solo, ma non ho la minima idea di che razza di follia
  si nasconda la' fuori adesso. Per quanto ne so, il primo albero su cui piscio potrebbe aprire la bocca e staccarmi il cazzo a morsi.}
 {551}{}{Va bene, puoi viaggiare con me, ma ti terro' d'occhio. Nel momento stesso in cui anche solo pensi
- di uscire dai ranghi, ti abbatto.}
+ di uscire dai ranghi, ti abbatto. }
 {552}{}{Certo, suppongo che possiamo fare squadra. Benvenuto nel gruppo, Dex.}
 {553}{}{Era una dannata bella storia, e non sei nemmeno un cattivo attore, il che ti rende ancora piu' pericoloso. Credo che faro'
  un favore alle Terre Desolate e ti elimino prima che tu possa fare altro danno.}
-{554}{}{Direi che abbiamo un accordo... socio.}
+{554}{}{Direi che abbiamo un accordo... socio. }
 {555}{}{Be', la tua conoscenza degli Antichi potrebbe rivelarsi molto utile... suppongo che abbiamo un accordo.}
 {556}{}{Non ho davvero tempo di "insegnarti come muoverti". Sono sicura che te la caverai benissimo da sola, "tesoro".}
 {560}{}{[Il sorriso di Dex vacilla e i suoi occhi si fanno assenti. Dopo un momento, inizia a parlare senza incrociare il tuo sguardo.]
@@ -247,7 +247,7 @@
 {692}{}{Non lo so, Dex. Mettiamo che ti lasci venire con me e che torniamo sani e salvi in un insediamento remoto.
  Una volta li', come faccio a sapere che non cercherai di tagliarmi la gola alla prima occasione?}
 {700}{}{Posso dire che non sei un santo, quindi potrei farti la stessa domanda. Ma per risponderti, non ti ucciderei
- perche' mi metterei nei guai. Saro' sincero,}
+ perche' mi metterei nei guai. Saro' sincero, }
 {701}{}{, non me ne frega un cazzo di nessuno o di niente, tranne che di me stesso. Se il mondo e' messo cosi' male come dici,
  allora restare con te e' la mia migliore possibilita'. E' semplice.}
 {702}{}{Va bene. Andiamo.}

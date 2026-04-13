@@ -83,13 +83,13 @@
 {351}{}{Grazie, lo faro'.}
 {352}{}{Niente, grazie. Scusa il disturbo.}
 {353}{}{Stavo solo controllando. Continua pure.}
-{355}{}{Il}
-{356}{}{Il}
+{355}{}{Il }
+{356}{}{Il }
 {357}{}{Chi sei?}
 {358}{}{Puoi dirmi qualcosa sul casino'?}
 {359}{}{Capisco. Grazie delle informazioni.}
 {360}{}{Ehi, guarda chi c'e'! Ehi, }
-{361}{}{. Benvenuto a}
+{361}{}{. Benvenuto a }
 {362}{}{Fooooooo foo foo fooooo}
 {363}{}{-Allontanati-}
 {364}{}{Chi sei?}
@@ -126,7 +126,7 @@
 {436}{}{D’accordo, grazie. Avevo altre domande…}
 {437}{}{D’accordo… ma tornerò.}
 {445}{}{[Conti le fiches della serata. Niente male.]}
-{446}{}{La pelle era un tocco carino.}
+{446}{}{La pelle era un tocco carino. }
 {447}{}{Anche il bavaglio a sfera che avevi con te non ha guastato. }
 {448}{}{[CONTINUA]}
 {455}{}{Sì, puzza peggio della merda di brahmin. Però tu…? Mah, perché no. Un po’ di improvvisazione non farà male, ma il pubblico è tosto… spera di essere bravo.}
@@ -139,7 +139,7 @@
 {511}{}{Bene, andro' a portare il mio talento a qualcuno che lo sapra' DAVVERO apprezzare.}
 {512}{}{Vabbe'. Ci vediamo.}
 {520}{}{Eri in fiamme la' fuori. La prossima Traci Lords. }
-{521}{}{Non credo di aver mai visto qualcuno muoversi così sul palco. Hai davvero talento.}
+{521}{}{Non credo di aver mai visto qualcuno muoversi così sul palco. Hai davvero talento. }
 {522}{}{Certo. Ci vediamo.}
 {523}{}{Torna tra una settimana per un altro spettacolo.}
 {530}{}{Mi spiace, non sei all’altezza dei nostri standard.}
@@ -174,8 +174,8 @@
 {1286}{}{Non mi interessa se il tuo amico e' uno degli Ex-Men, i mutanti aspettano fuori.}
 {1287}{}{Quel mostro mutante non puo' entrare.}
 {1306}{}{. Prenditi una pausa dal salvare il mondo e divertiti un po'.}
-{1335}{}{Questo è il}
-{1336}{}{Questo è il}
+{1335}{}{Questo è il }
+{1336}{}{Questo è il }
 {1337}{}{Chi sei?}
 {1338}{}{Puoi dirmi qualcosa sul casino'?}
 {1339}{}{Niente, grazie. Scusa il disturbo.}

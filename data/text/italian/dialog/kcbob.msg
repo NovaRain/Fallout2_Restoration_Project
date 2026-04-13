@@ -46,7 +46,7 @@
 {231}{}{Nessun problema, Bob. Ci vediamo in giornata. }
 {232}{}{Felice di aiutarti. Ma prima vorrei che tu mi dicessi cos'e' successo in citta' ultimamente.}
 {240}{}{Beh, sei davvero abile nel contrattatare, non c'e' dubbio. OK, ti offro 55$. Lo farai?}
-{241}{}{Ci hai provato, ma 50$ e' quanto vale questo lavoro per me. Diamine, non posso permettermi di pagarti un dollaro di piu'.}
+{241}{}{Ci hai provato, ma 50$ e' quanto vale questo lavoro per me. Diamine, non posso permettermi di pagarti un dollaro di piu'. }
 {242}{}{OK, lo faro'.}
 {243}{}{Non ho intenzione di farlo per quei soldi. Il mio tempo vale molto di piu'.}
 {250}{}{Ehila', compare. Sei tornato a trovare Whiskey Bob, eh? Sei pronto a parlare di bevute, di affari e di amenita' simili?}
@@ -59,7 +59,7 @@
 {281}{}{Grazie. Adesso non avro' bisogno di zoppicare fin li' -- anche se mi e' costato 55$. Eccoti i tuoi soldi. Hai qualche domanda alla quale potrei rispondere?}
 {282}{}{Si'. Dimmi cos'e' successo in citta' negli ultimi tempi.}
 {283}{}{No grazie, Bob. Credo di sapere gia' tutto quello che mi serve.}
-{290}{}{Ultimamente qui intorno succedono un sacco di cose. Abbiamo...}
+{290}{}{Ultimamente qui intorno succedono un sacco di cose. Abbiamo... }
 {291}{}{Parlami degli attacchi contro i brahmin.}
 {292}{}{Dimmi tutto quello che sai a proposito degli spiriti vaganti.}
 {293}{}{Ratti giganteschi? *Devo* saperne di piu'.}

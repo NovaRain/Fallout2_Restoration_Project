@@ -1717,7 +1717,7 @@
 {18150}{}{Colpisci!}
 {18151}{}{Reagisci!}
 {18152}{}{SUPER... NUCLEAR... TORNADO... FIST... }
-{18153}{}{Ti spiezzo in due.}
+{18153}{}{Ti spiezzo in due. }
 {18154}{}{Ti schiaccero' come un insetto...}
 {18160}{}{Troppo lento!}
 {18161}{}{Sei solo chiacchiere...}
@@ -3627,8 +3627,8 @@
 {70322}{}{Sbarazziamoci di questi idioti.}
 {70340}{}{Sbrigatevi a dare un morso, così posso farlo anch'io!}
 {70341}{}{Almeno ti uccido con stile.}
-{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue.}
-{70343}{}{Speriamo di non spezzarmi un’unghia.}
+{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue. }
+{70343}{}{Speriamo di non spezzarmi un’unghia. }
 {70360}{}{Sembra che questo gatto sia troppo veloce per te.}
 {70361}{}{Questo è semplicemente triste.}
 {70362}{}{Vieni, lascia che ti mostri come si colpisce *davvero* qualcosa.}

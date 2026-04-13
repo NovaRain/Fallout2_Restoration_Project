@@ -29,7 +29,7 @@ Il volo automatico non puo' avvenire senza la presenza di questa scheda.}
 {241}{}{Eccoci -- il momento della verita'. La tribu' e' nei guai e dipende tutto da me. I piedi mi fanno male, tutto il corpo duole, e non ricordo l'ultima volta che ho mangiato un pasto decente.
 Sono questi i momenti per cui viviamo. Non si torna indietro. E' il momento di mostrare al mondo di cosa }
 {242}{}{ siamo fatti. Avanti, Enclave!}
-{243}{}{Hehe... Vola uccellino, vola!}
+{243}{}{Hehe... Vola uccellino, vola! }
 {244}{}{ me lasciare te, ora.}
 {300}{}{[Sali sull'aeromobile e accedi al terminale del pilota.] Benvenuti in PoseidoNet. Questo terminale e' limitato alle trasmissioni tra lo squadrone di Vertibird dell'Enclave e la piattaforma d'attracco. Comando?}
 {301}{}{Stato.}
