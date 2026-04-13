@@ -1,6 +1,6 @@
 {100}{}{Vedi un uomo sporco ma dall'aspetto robusto.}
 {101}{}{Vedi Connar.}
-{102}{}{Ehi, tu! Cosa ci fai li'?}
+{102}{}{Ehi, tu! Cosa ci fai li'?!}
 {103}{}{Adesso sta' fermo dove sei, viaggiatore. Che cosa ci fai qui?}
 {104}{}{Sto eliminando tutte queste talpe mutanti.}
 {105}{}{Perche', cosa ti interessa?}
@@ -13,7 +13,7 @@
 {112}{}{Mi pagano per eliminare queste bestie, quindi è quello che farò.}
 {113}{}{Questo non me l'avevano detto.}
 {114}{}{Loro mi pagano perche' io mi sbarazzi dei mostri e ho completato il mio lavoro.}
-{115}{}{Idiota! Perche' diavolo l'hai fatto?}
+{115}{}{Idiota! Perche' diavolo l'hai fatto?!}
 {116}{}{Mi servivano i soldi.}
 {117}{}{Verrano a prenderci se lo fai, lo sai questo?}
 {118}{}{Non e' un problema mio.}

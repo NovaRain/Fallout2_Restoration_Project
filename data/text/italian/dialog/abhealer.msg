@@ -15,7 +15,7 @@
 {406}{}{[CONTINUA]}
 {407}{}{[STOP]}
 {408}{}{(All’improvviso, Jack comincia a sciogliersi.) MI STO SCI-OOO-GLIENDO, MI STO SCI-OOO-GLIENDO, OH CHE MONDO…}
-{409}{}{Cosa dia...?!}
+{409}{}{Che diavolo...}
 {500}{}{Ehi, non rubare le mie forniture mediche!}
 {501}{}{Ottieni %d punti esperienza per aver fatto sciogliere Jack. Sei contento adesso, povero malato?}
 {600}{}{Sono un dottore. Mi prendo cura della gente dell’Abbazia da… oh, saranno quindici anni ormai, credo.}

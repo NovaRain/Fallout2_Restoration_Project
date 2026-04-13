@@ -127,7 +127,7 @@
 {252}{}{Penso di aver fatto abbastanza per l’umanità oggi. Ci vediamo.}
 {260}{}{Cosa ci fai qui? Questo e' un posto priv— Ehi, un momento, credo di aver sentito parlare di te. Non sei quello che ha distrutto uno dei campi di schiavi di Metzger?}
 {261}{}{Già, ero io.}
-{262}{}{Certo che l’ho fatto. Hai qualche problema?}
+{262}{}{Certo che l’ho fatto. Hai qualche problema? }
 {263}{}{Forse… perché?}
 {264}{}{Non ho idea di cosa tu stia parlando. Ora, se non ti dispiace, vado.}
 {270}{}{Quello che hai fatto è stato davvero ammirevole, e vorrei stringerti la mano.}
