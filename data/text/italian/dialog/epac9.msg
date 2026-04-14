@@ -56,7 +56,7 @@
 {380}{}{Rad-X}
 {381}{}{RadAway}
 {382}{}{Qualcosa di speciale}
-{383}{}{Niente.}
+{383}{}{Niente}
 {390}{}{E' il tuo giorno fortunato! Ho giusto abbastanza sostanze nei miei serbatoi per creare un lotto di ERSI! Vuoi che Mr. Chemmie li prepari per te?!}
 {391}{}{Crea}
 {392}{}{Esci.}
