@@ -84,8 +84,8 @@
 {292}{}{Punti, signore. Puntata minima 5 fiches. Fate il vostro gioco…}
 {293}{}{Punti, signora. Puntata minima 5 fiches. Fate il vostro gioco…}
 {294}{}{Fate il vostro gioco, puntata minima 5 fiches. Fate il vostro gioco…}
-{295}{}{Io… più for-te di te.}
-{296}{}{Io… gioco ai dadi… nei pantaloni.}
+{295}{}{Io… più for-te di te}
+{296}{}{Io… gioco ai dadi… nei pantaloni}
 {297}{}{Cosa essere questo gioco? Me può scommettere pelle di gecko? Me ha pelle di… ooooh… lucine belle là!}
 {298}{}{Scommetti 5 fiches?}
 {299}{}{Scommetti 15 fiches?}
@@ -98,7 +98,7 @@
 {310}{}{Uh, very well, sir. Come back soon.}
 {311}{}{Uh, molto bene, signora. Torna presto.}
 {312}{}{Um... Mi hanno detto che qui sul retro stanno distribuendo dei cervelli. Forse dovresti andare a dare un'occhiata.}
-{313}{}{Ciaooooo.}
+{313}{}{Ciaooooo}
 {314}{}{Beeene. }
 {315}{}{Uh… cervelli… che cosa e'?}
 {320}{}{Very well, sir. Come back soon.}

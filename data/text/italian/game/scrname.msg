@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{il Proconsole Gregory}
-{218}{}{Infermiera Phyllis.}
+{218}{}{Infermiera Phyllis}
 {219}{}{Randal}
 {220}{}{Sostanza Gelatinosa}
 {221}{}{Barkus}
@@ -1344,7 +1344,7 @@
 {1444}{}{Guerriero capo}
 {1445}{}{Marli}
 {1446}{}{Abitanti del villaggio}
-{1447}{}{Shaman}
+{1447}{}{Sciamano}
 {1448}{}{Fantasma}
 {1449}{}{Selvaggio}
 {1450}{}{Kurisu}

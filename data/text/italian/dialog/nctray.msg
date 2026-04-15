@@ -125,7 +125,7 @@
 {506}{}{Vabbe'. Io me ne vado.}
 {520}{}{Gia', proprio come PENSAVO. Faresti meglio ad andartene prima che la tua mammina si preoccupi.}
 {521}{}{No. In realta' e' TUA madre che si preoccupa perche' non sono li' a darle un po' di piacere.}
-{522}{}{-Lascialo perdere e vattene senza fare storie-}
+{522}{}{Lascialo perdere e vattene senza fare storie.}
 {530}{}{D'accordo. Affare fatto. (Conta velocemente i soldi, li mette in tasca.) La Highwayman e' tutta tua. Non ha nettare nel serbatoio, naturalmente, e non ha nessuno di quegli aggeggini speciali che stavo per metterle su...}
 {531}{}{Di che aggeggi stai parlando?}
 {532}{}{Sono stanco di questa marea di stronzate. Assaggia un po' di piombo, "chop shop boy"...}

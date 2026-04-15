@@ -302,7 +302,7 @@
 {28500}{}{la Straniera Mistriosa}
 {28600}{}{la Straniera Mistriosa}
 {28700}{}{la Straniera Mistriosa}
-{28800}{}{il Gorilla del Pres.}
+{28800}{}{il Gorilla del Pres}
 {28900}{}{un Uovo di Deathclaw}
 {29000}{}{Metzger}
 {29100}{}{una Persona}
@@ -502,7 +502,7 @@
 {48301}{}{La Guardia del Corpo del Presidente.}
 {48400}{}{Nessa}
 {48401}{}{Il fantasma di Nessa.}
-{48500}{}{Shaman}
+{48500}{}{Sciamano}
 {48501}{}{Sciamano tribale.}
 {48600}{}{Guerriero	}
 {48601}{}{Guerriero della tribù.}

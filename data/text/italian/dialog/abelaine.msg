@@ -11,7 +11,7 @@
 {401}{}{Qual e' il tuo nome?}
 {402}{}{Non proprio. Arrivederci.}
 {403}{}{Cosa puoi dirmi a proposito dell'Abazia?}
-{500}{}{Il mio nome e' Elaine}
+{500}{}{Il mio nome e' Elaine.}
 {501}{}{Capisco. Ancora un paio di domande...}
 {600}{}{Ehi! Prima che tu vada, forse potresti farmi un favore. Dovrei portare questo pezzo di macchina a Max nella
 sala copie al piano interrato. Ma vedi, il mio ginocchio sinistro mi ha dato fastidio ultimamente, ed è davvero una seccatura per me salire e scendere

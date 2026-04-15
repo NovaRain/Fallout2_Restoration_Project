@@ -11,7 +11,7 @@
 {221}{}{Ci sono alcune porte nel complesso che non posso aprire senza pronunciare una password. Mi piacerebbe davvero oltrepassarle e vedere di piu' della vostra struttura. Non e' che per caso conosci la password?}
 {230}{}{Certo che conosco la password, ma purtroppo non posso condividerla con te. Capisco il tuo entusiasmo nel voler vedere tutto cio' che questa grande struttura ha da offrire, ma ci sono regole da seguire per la tua sicurezza. Ricordate tutti, offriamo visite guidate del complesso a orari prestabiliti.}
 {231}{}{Oh, non devi preoccuparti per la mia sicurezza, sono il Prescelto. E poi, quand'e' stata l'ultima volta che avete avuto un *vero* visitatore? Vuoi davvero lasciarmi deluso?}
-{232}{}{Bene allora. Addio.}
+{232}{}{Bene allora. Addio}
 {240}{}{Certo che no. Ma se ti dessi la password, potrei mettere in pericolo te e anche il complesso. Bambini, per favore non prendete in giro gli ologrammi.}
 {241}{}{Come potrebbe mettere in pericolo il complesso? Mi dispiace dirtelo, signora, ma questo posto e' gia' andato all'inferno e ritorno. Qui non c'e' altro che sostanze pericolose e robot rotti. Onestamente, non vedo come potrei peggiorare la situazione.}
 {242}{}{Allora lascia perdere.}
