@@ -9,7 +9,7 @@
  animale in trappola. Quando i suoi occhi tornano su di te, si addolciscono, e si rilassa mentre i ricordi gli tornano
  alla mente. Cambia rapidamente atteggiamento, mostrando una calma sicura nonostante sia nudo.] Non ti riconosco, amico.
  Non ti dispiace se mi vesto, vero?}
-{211}{}{Immagino non ci sia nulla di male...}
+{211}{}{Immagino non ci sia nulla di male-}
 {212}{}{Beh, io—}
 {220}{}{Certo che non ti dispiace. Grazie, amico. [Ti passa accanto e apre un armadietto vicino. Si veste con calma
  con un abito elegante, poi infila in tasca il contenuto dell'armadietto. Con un pettinino, inizia a sistemare e modellare
@@ -101,7 +101,7 @@
  animale in trappola. Quando i suoi occhi tornano su di te, si addolciscono, e si rilassa mentre i ricordi tornano a fiume.
  Cambia rapidamente atteggiamento, ostentando una fredda sicurezza, nonostante la nudita'.] Ehi bambola, so di essere uno spettacolo
  niente male, ma qui dentro fa un po freddo. Ti dispiace se mi vesto?}
-{411}{}{Immagino non ci sia nulla di male...}
+{411}{}{Immagino non ci sia nulla di male-}
 {412}{}{Beh, io—}
 {420}{}{Certo che non ti dispiace. Grazie, tesoro. [Ti passa accanto, dandoti una leggera pacca sul sedere, e apre un armadietto vicino.
  Si veste con noncuranza con un completo tagliato su misura, poi infila in tasca il contenuto dell armadietto. Con un pettinino da tasca,
@@ -204,7 +204,7 @@
 {610}{}{[Scatta con la testa verso di te e balza in piedi. Ti osserva con attenzione, poi si guarda intorno come un animale in trappola.
  Quando i suoi occhi tornano su di te, si addolciscono, e si rilassa mentre i ricordi tornano a fiume. Cambia rapidamente
  atteggiamento, ostentando una fredda sicurezza, nonostante la nudita'.] Non ti riconosco, amico. Non ti dispiace se mi vesto, vero?}
-{611}{}{Immagino non ci sia nulla di male...}
+{611}{}{Immagino non ci sia nulla di male-}
 {612}{}{Beh, io—}
 {620}{}{Certo che non ti dispiace. Grazie, amico. [Ti passa accanto e apre un armadietto vicino. Si veste con calma
  con un abito elegante, poi infila in tasca il contenuto dell'armadietto. Con un pettinino, inizia a sistemare e modellare
@@ -261,7 +261,7 @@
  in trappola. Quando i suoi occhi tornano su di te, si addolciscono e si rilassa mentre i ricordi gli tornano alla mente.
  Cambia rapidamente atteggiamento, mostrando una calma sicura nonostante sia nudo.] Ehi bambola, so di essere uno spettacolo,
  ma qui fa un po' freddo. Ti dispiace se mi vesto?}
-{811}{}{Immagino non ci sia nulla di male...}
+{811}{}{Immagino non ci sia nulla di male-}
 {812}{}{Beh, io—}
 {820}{}{Certo che non ti dispiace. Grazie, bella. [Ti passa accanto, dandoti una pacca sul sedere, e apre un armadietto vicino.
  Si veste con calma con un abito elegante, poi infila in tasca il contenuto dell'armadietto. Con un pettinino, inizia a
@@ -584,7 +584,7 @@
 {4210}{}{Puttane... puttane ovunque. Adoro questo posto del cazzo.}
 {4220}{}{Questo posto sembra proprio voler un po' di caos.}
 {4230}{}{Ci sono troppi sbirri qui. Dico che ce la filiamo.}
-{4240}{}{(Fantastico, altri problemi.)}
+{4240}{}{Ottimo, altri fenomeni da baraccone. Meglio non restare qui più del necessario.}
 {4250}{}{Stiamo perdendo tempo qui. Le ragazze zombie non fanno per me. Di solito non mi piace che le ragazze sembrino morte fino a DOPO che ho finito con loro.}
 {4260}{}{Perche' diavolo stiamo perdendo il nostro tempo qui? Sul serio?}
 {4270}{}{Non penso di voler passare altro tempo in questa struttura di mia spontanea volonta'.}

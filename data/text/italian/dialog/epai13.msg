@@ -4,7 +4,7 @@
 {103}{}{[FATTO]}
 {104}{}{Camere di Ibernazione. Tre individui sono stati sigillati in queste camere prima della guerra, ciascuno per motivi
  classificati. I soggetti restano sigillati e ignari dell'ambiente circostante. Sono disponibili registri per ogni soggetto.}
-{105}{}{Torna al Menu Principale}
+{105}{}{Torna al Menu Principale.}
 {106}{}{ATTENZIONE: Periodi prolungati in un ambiente di congelamento profondo alterano i processi chimici del corpo.
  Senza la corretta applicazione di sostanze chimiche al corpo del soggetto all'uscita dalle camere, potrebbero soffrire di ERS
  (Sindrome da Rigetto Ambientale). Per garantire la sicurezza del soggetto, si raccomanda vivamente di inserire un contenitore ERSI

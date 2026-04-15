@@ -111,7 +111,7 @@
 {372}{}{Lascia che ti chieda qualcos'altro.}
 {380}{}{Il dottor Sheng e' ancora vivo e ha creato una sorta di pianta che mette radici e controlla i cadaveri umani.}
 {390}{}{Dunque ha ottenuto qualche successo con il suo Progetto Xeno. Affascinante... e inquietante. Abbiamo posto fine ai suoi esperimenti sulle piante senzienti dopo aver perso uno dei nostri tecnici. Quando se ne ando' per continuare le sue ricerche, pensai che sarebbe caduto vittima delle sue stesse creazioni. E' riuscito a ottenere una qualche forma di controllo su di esse?}
-{391}{}{Si, alcune sembrano essere sottomesse. Lo chiamano persino "maestro".}
+{391}{}{Si, alcune sembrano essere sottomesse. Lo chiamano persino "maestro."}
 {400}{}{Hmm... Se riuscisse in qualche modo a creare un esercito di quelle creature vegetali, non sarebbe affatto un bene per gli Shi. Speravo non si arrivasse a questo, ma sembra che non abbiamo altra scelta che assicurarci che il dottor Sheng e i suoi esperimenti vengano eliminati. Dato che si fida abbastanza di te da permetterti di avvicinarti, sei il candidato migliore. E' qualcosa che saresti disposto a fare? Verresti ricompensato, naturalmente.}
 {401}{}{Sarebbe un piacere. Lui e tutta la sua operazione mi fanno venire i brividi.}
 {402}{}{Di che tipo di compenso stiamo parlando?}
