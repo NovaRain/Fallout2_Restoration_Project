@@ -56,7 +56,7 @@
 {302}{}{Dov'e' che vuoi andare? Qui? Beh... (Ti osserva per bene) ...un uomo deve fare quello che un uomo deve fare. Diamoci dentro.}
 {303}{}{Uh-huh}
 {304}{}{Nuh-uh}
-{306}{}{-Ci dai "dentro"-}
+{306}{}{Ci dai dentro.}
 {307}{}{Uh, no grazie. Ho cambiato idea. Ci vediamo.}
 {320}{}{Allora, d'accordo...}
 {321}{}{Uh-uh-uh}
