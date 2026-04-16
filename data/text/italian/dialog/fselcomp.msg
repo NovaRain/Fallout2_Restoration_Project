@@ -45,7 +45,7 @@ Hanno un enorme bottino nascosto da qualche parte nel deserto. Ne hai già deter
 {210}{}{Violazione del sistema.}
 {211}{}{[Dopo qualche tempo ottieni pieno accesso amministrativo al mainframe. Ora puoi fare quello che vuoi al sistema.]}
 {212}{}{Formatta il sistema.}
-{213}{}{Procedura di formattazione... Inizializzata... Formattazione... Formattazione Completata... Il sistema verra' spento . Arrivederci}
+{213}{}{Procedura di formattazione... Inizializzata... Formattazione... Formattazione Completata... Il sistema verra' spento . Arrivederci.}
 {220}{}{Formatti il mainframe degli Hubologisti.}
 {250}{}{Inviare il combustibile alla petroliera Poseidon.}
 {251}{}{Combustibile inviato come richiesto. Cisterne = Vuote. Chiusura programma in corso.}

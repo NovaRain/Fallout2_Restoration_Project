@@ -34,4 +34,4 @@
 {400}{}{Bau! Heh, stavo scherzando. Grazie ancora per avermi guarito.}
 {500}{}{Curi l’Uomo?Che?Abbaia.}
 {600}{}{*guaito*}
-{601}{}{Il pugile ti guarda con occhi terrorizzati}
+{601}{}{Il pugile ti guarda con occhi terrorizzati.}

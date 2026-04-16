@@ -34,9 +34,9 @@
 {238}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, signora?}
 {239}{}{(Monte sorride, e la pelle attorno agli occhi si increspa.) Cerchi una partita, eroe?}
 {240}{}{Tre-Carde Monte e' il nome, e il gioco e' lo stesso del nome. Metti giu' 20 fiches e iniziamo.}
-{241}{}{Tu imbroglione. Tu non giochi giusto.}
-{242}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
-{243}{}{Uh, io lusingato ma io non voglio iniziare ora... ciaaaao.}
+{241}{}{Tu imbroglione. Tu non giochi giusto}
+{242}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio}
+{243}{}{Uh, io lusingato ma io non voglio iniziare ora... ciaaaao}
 {244}{}{-Allontanati-}
 {245}{}{Giochiamo.}
 {246}{}{Ehm… metterci a fare cosa, esattamente?}
@@ -69,16 +69,16 @@
 {281}{}{Spiacente, amico, non stavolta, ma ci sei andato VICINO.}
 {282}{}{Spiacente, signora, non stavolta, ma ci sei andata VICINO.}
 {283}{}{Pero' ci sai fare, davvero. Vuoi riprovare?}
-{284}{}{Tu imbroglione. Tu non giochi giusto.}
-{285}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio.}
-{286}{}{Nuh-uh io NON PIACE gioco CIAAAO.}
+{284}{}{Tu imbroglione. Tu non giochi giusto}
+{285}{}{Okay ecco fiches io non sicuro quanto e' 20 quindi ecco un mucchio}
+{286}{}{Nuh-uh io NON PIACE gioco CIAAAO}
 {287}{}{Non gioco con uno che bara come te.}
 {288}{}{Certo. Ecco 20 fiches.}
 {289}{}{No, grazie.}
 {300}{}{(Consegni i soldi. Monte annuisce, ti mostra le carte, poi le posa a terra. Mentre lo fa, nasconde una carta cosi' velocemente che quasi non lo noti. Poi procede a mescolare per qualche secondo.)}
 {301}{}{Allora... qual e' la regina, amico?}
 {302}{}{Allora... qual e' la regina, signora?}
-{303}{}{Tu messo carta in manica tu non giochi giusto.}
+{303}{}{Tu messo carta in manica tu non giochi giusto}
 {304}{}{Lucy la mancina}
 {305}{}{Quella in mezzo}
 {306}{}{Quella a destra}
@@ -90,7 +90,7 @@
 {320}{}{COSA hai detto, amico?}
 {321}{}{COSA hai detto, signora?}
 {322}{}{Mi stai accusando di barare?}
-{323}{}{Nuh-uh. Io SAPEVO tu imbroglia.}
+{323}{}{Nuh-uh. Io SAPEVO tu imbroglia}
 {324}{}{Nuh-uh! Nuh-uh! Non arrabbiarti. Io andare.}
 {325}{}{Si'.}
 {326}{}{Tieni pure i soldi. Me ne vado.}
@@ -104,10 +104,10 @@
 {341}{}{Allora... qual e' la regina, amico?}
 {342}{}{Allora... qual e' la regina, signora?}
 {343}{}{(Monte sta usando il suo mazzo normale! Devi rubargli l'altro mazzo per completare lo scambio.)}
-{344}{}{Tu messo carta in manica tu non giochi giusto.}
-{345}{}{Uh... quella a sinistra, Lucy.}
-{346}{}{Uh... Quella in mezzo.}
-{347}{}{Uh... quella a destra.}
+{344}{}{Tu messo carta in manica tu non giochi giusto}
+{345}{}{Uh... quella a sinistra, Lucy}
+{346}{}{Uh... Quella in mezzo}
+{347}{}{Uh... quella a destra}
 {348}{}{Maledetto IMBROGLIONE. Ti ho visto nascondere quella carta. Ridammi i miei soldi prima che ti faccia fuori qui in mezzo alla strada.}
 {349}{}{Quella che hai nella manica.}
 {350}{}{Uh, quella a sinistra.}
@@ -129,7 +129,7 @@
 {377}{}{Credo che tu abbia vinto, signora.}
 {378}{}{(Ti porge i soldi con riluttanza.)}
 {379}{}{Ancora! Ancora!}
-{380}{}{Grazie, me va ora.}
+{380}{}{Grazie, me va ora}
 {381}{}{Allora, giochiamo ancora o no? Dai, Monte. Ho appena iniziato.}
 {382}{}{Bene, grazie Monte. Ci vediamo.}
 {385}{}{(Monte gira la carta. E' la regina di cuori. Sembra sconvolto.) Uh...? Heh... uh...}
