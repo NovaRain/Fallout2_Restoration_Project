@@ -41,7 +41,7 @@
 {514}{}{Ora... dove ho messo Leia...?}
 {600}{}{Vedi R2Qwerty.}
 {601}{}{Un robotino vivace. Lampeggia e bippa.}
-{610}{}{Beep beep!}
+{610}{}{Bip bip!}
 {611}{}{Rrrrrr bip Rrrrwow!}
 {612}{}{*lampeggia e si agita eccitato*}
 {613}{}{Balestre! Tattiche! Balestre!}
