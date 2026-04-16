@@ -158,8 +158,8 @@
 {660}{}{[Mynoc annuisce cupamente.] Potrebbe essersi allontanato dal cammino, ma era un tempo un grande e rispettato guerriero. Spero che la sua anima tormentata abbia trovato pace nell'altro mondo.}
 {661}{}{Infatti. A presto, Mynoc.}
 {662}{}{Vabbene. Mi sembrava uno stronzo. A presto, Mynoc.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

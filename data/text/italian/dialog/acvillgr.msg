@@ -42,8 +42,8 @@
 {400}{}{C'e' qualcosa che potresti dirmi a proposito di Kaga?}
 {401}{}{[Il villager ti fissa con gli occhi spalancati, poi si allontana lentamente da te guardandosi intorno nervosamente.]}
 {402}{}{Beh, immagino di no.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}

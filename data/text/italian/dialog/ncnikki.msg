@@ -222,5 +222,5 @@
 {1253}{}{, sei nel posto giusto.}
 {1266}{}{, e vincerai dei soldi.}
 {1268}{}{.}
-{1314}{}{ un nuovo oggetto fa sempre comodo.}
+{1314}{}{ un nuovo oggetto fa sempre comodo}
 {2699}{}{Farai uno spettacolo qui, stanotte?}

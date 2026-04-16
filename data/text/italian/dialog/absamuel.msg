@@ -67,9 +67,9 @@
 {703}{}{Bene, prenditi cura di te allora.}
 {704}{}{Non credo che le tombe aperte siano il vero motivo per cui cadi, Samuel, ma prendila con calma adesso.}
 {1000}{}{*Fischio*}
-{1001}{}{*Cough* *Cough*}
+{1001}{}{*Tosse* *Tosse*}
 {1002}{}{*Si schiarisce la voce*}
-{1003}{}{*Cough*}
-{1004}{}{*Sigh*}
+{1003}{}{*Tosse*}
+{1004}{}{*Sospiro*}
 {1005}{}{*Hic*}
 {2000}{}{E' stata una giornata *hic* lunga. Torna domattina.}
