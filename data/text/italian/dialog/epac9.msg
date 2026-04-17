@@ -40,7 +40,7 @@
 {320}{}{Ottima scelta! Per creare del RadAway, dammi: una Nuka-Cola, un Ago Ipodermico Vuoto e uno Stimpak! Gnam-gnam!}
 {322}{}{Produci RadAway.}
 {330}{}{Ottima scelta! Per creare un Antidoto al Veleno, dammi: una Coda di Scorpione e una bottiglia di Alcol! Gnam-gnam!}
-{331}{}{Make Poison Antidote.}
+{331}{}{Preparare Antidoto per Veleno.}
 {340}{}{Oh cielo! Una richiesta speciale! Che tipo di droga speciale vuoi che Mr. Chemmie crei per te oggi?!}
 {341}{}{Marijuana.}
 {342}{}{Composti medici.}
