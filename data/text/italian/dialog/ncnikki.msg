@@ -20,7 +20,7 @@
 {181}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
 {182}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
 {183}{}{You see one of the casino dealers. She motions for you to come over and play.}
-{200}{}{::Cheers::}
+{200}{}{::Saluti::}
 {201}{}{::Applaude::}
 {202}{}{::Fischia::}
 {203}{}{! Benvenuto nel nostro casino', eroe!}
