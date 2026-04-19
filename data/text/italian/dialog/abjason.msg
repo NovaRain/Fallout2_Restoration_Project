@@ -103,7 +103,7 @@ Almeno, non senza aiuto. Ma cosa diresti se ti dicessi che ti scorto io?}
 {372}{}{Wooz ha davvero una Black Dahlia! Da sola ha reso il viaggio degno. Certo, i ghoul sono brutti come il
  demonio, ma ho scoperto che se tolgo gli occhiali, sono quasi tollerabili. Comunque, grazie mille per avermi portato. Ecco, io,
  ehm, l'ho "preso in prestito" dai Memorabilia dell'Abbazia, stranamente e' una delle poche reliquie tecnologiche che funziona ancora.
- [Ti porge uno Stealth Boy.] Ci vediamo.}
+ [Ti porge un Mimetizzatore.] Ci vediamo.}
 {373}{}{Grazie. Ciao.}
 {374}{}{Sono solo felice di non doverti sentire lamentare ancora. Arrivederci.}
 {380}{}{Porca miseria, Wooz ha davvero una Black Dahlia! Da sola ha reso il viaggio degno. Certo, i ghoul sono brutti come il
