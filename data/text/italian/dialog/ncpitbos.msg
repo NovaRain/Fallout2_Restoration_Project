@@ -1,5 +1,5 @@
-{100}{}{You see the casino pit boss.}
-{150}{}{You see a well-dressed man. He is surveying the casino.}
+{100}{}{Vedi il supervisore del casino'.}
+{150}{}{Vedi un uomo ben vestito. Sta sorvegliando il casino'.}
 {151}{}{Vedi un capotavola. Sta sorvegliando il casino'.}
 {200}{}{Uh…you'll need to remove that armor.}
 {201}{}{Ehm, signore… o signora… deve togliersi quell’armatura.}
@@ -29,7 +29,7 @@
 {275}{}{Ehi, ehi…Myron! Era da un po' che non ti si vedeva fuori dal laboratorio.}
 {276}{}{Sei qui per provare un po' della nuova merce, Myron?}
 {277}{}{Ehi! Entra, Myron.}
-{280}{}{Shoot. What d'you want to know?}
+{280}{}{Spara. Cosa vuoi sapere?}
 {281}{}{Fooooooo foo foo fooooo}
 {282}{}{-Allontanati-}
 {283}{}{Chi sei?}
@@ -45,7 +45,7 @@
 {295}{}{Niente droidi.}
 {296}{}{Qui non serviamo i droidi.}
 {297}{}{Niente droidi. Loro se ne stanno fuori.}
-{300}{}{Uh, you better run along now, sir.}
+{300}{}{Uh, faresti meglio ad andartene, signore.}
 {301}{}{Uh, faresti meglio ad andartene adesso, signora.}
 {302}{}{Levati dai piedi, ritardato.}
 {303}{}{La mamma dice che ero spezziale}
@@ -115,7 +115,7 @@
 {405}{}{Si chiamava Nikki. Lavorava qui, ma l’hanno fatta fuori… non molto tempo fa.}
 {406}{}{Capisco. Le dispiace se le faccio qualche altra domanda…?}
 {407}{}{Interessante. Grazie per l'informazione.}
-{415}{}{Her name was Nikki. She used to work here but she took off not too long ago. Just packed her shit and bailed.}
+{415}{}{Si chiamava Nikki. Lavorava qui ma se n'e' andata non molto tempo fa. Ha preso la sua roba e se l'e' squagliata.}
 {416}{}{Ti dispiace se ti faccio altre domande…}
 {417}{}{Interessante. Grazie per l'informazione.}
 {425}{}{Sure, be good for business. Dressing room's in the back…}

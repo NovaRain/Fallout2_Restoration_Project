@@ -101,7 +101,7 @@
 {313}{}{Ciaooooo}
 {314}{}{Beeene. }
 {315}{}{Uh… cervelli… che cosa e'?}
-{320}{}{Very well, sir. Come back soon.}
+{320}{}{Benissimo, signore. Torni presto.}
 {321}{}{Molto bene, signore. Tornate presto.}
 {322}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella città sbagliata.}
 {323}{}{5 fiches? “Troppo per le tue tasche?” Amico, sei nella città sbagliata.}
@@ -109,7 +109,7 @@
 {325}{}{5 fiches? “Troppo per le tue tasche?” Ragazza, sei nella città sbagliata.}
 {326}{}{Lo faro', grazie.}
 {327}{}{Forse, ma almeno *io* non ci vivo.}
-{330}{}{Sorry, sir. Better luck next time.}
+{330}{}{Mi dispiace, signore. Piu' fortuna la prossima volta.}
 {331}{}{Mi spiace, signore. Ritentate, sarete piu' fortunata.}
 {332}{}{Mi spiace. Ritenta, sarai piu' fortunato.}
 {333}{}{Hai [C] fiches. Continui a giocare?}
@@ -121,19 +121,19 @@
 {343}{}{Hai [C] fiches. Continui a giocare?}
 {344}{}{Smetti di giocare.}
 {345}{}{Smetti di giocare.}
-{350}{}{Winner! You've doubled your money! Well done, sir!}
+{350}{}{Vincitore! Ha raddoppiato i suoi soldi! Complimenti, signore!}
 {351}{}{Avete vinto! Prendete il doppio dei soldi che avevate puntato. Ben fatto, signora!}
 {352}{}{Hai vinto! Prendi il doppio dei soldi che avevi puntato!}
 {353}{}{Hai [C] fiches. Continui a giocare?}
 {354}{}{Smetti di giocare.}
 {355}{}{Smetti di giocare.}
-{360}{}{Winner! You've tripled your money! Luck is in the house tonight! Well done, sir!}
+{360}{}{Vincitore! Ha triplicato i suoi soldi! La fortuna e' con noi stanotte! Complimenti, signore!}
 {361}{}{Avete vinto! Prendete il triplo dei soldi che avevate puntato. La Fortuna ci ha fatto visita, stanotte! Ben fatto, signora!}
 {362}{}{Hai vinto! Prendi il triplo dei soldi che avevi puntato!}
 {363}{}{Hai [C] fiches. Continui a giocare?}
 {364}{}{Smetti di giocare.}
 {365}{}{Smetti di giocare.}
-{370}{}{What do you want now? You here to waste my time, or you gonna place a bet?}
+{370}{}{Cosa vuoi adesso? Sei qui a farmi perdere tempo, o vuoi fare una puntata?}
 {371}{}{Sono chiunque tu VOGLIA che io sia, tesoro. Allora, vuoi puntare?}
 {372}{}{Sono chiunque tu VOGLIA che io sia, cara. Allora, vuoi puntare?}
 {373}{}{Fai una puntata.}
@@ -142,21 +142,21 @@
  non ti sia accorta di lui che barava tutte quelle volte.}
 {376}{}{Conosci qualcuno di nome Pretty Boy Lloyd?}
 {377}{}{Parleremo più tardi, Nikki.}
-{380}{}{Yeah, I heard he's DEAD. That what you want to hear, killer?! Huh?! Now you gonna place a bet or bullshit me some more?}
+{380}{}{Si', ho sentito che e' MORTO. E' questo che volevi sentire, assassino?! Eh?! Ora fai una puntata o mi rompi ancora le scatole?}
 {381}{}{No. Vuoi puntare o no?}
 {382}{}{Fai una puntata.}
 {383}{}{Sì. Scommetto che sai dov’è Pretty Boy Lloyd.}
 {384}{}{Si', scommetto che tu e Pretty Boy Lloyd stavate entrambi rubando soldi al signor Salvatore. Difficile credere che non ti sia accorta
  che Lloyd barava tutte quelle volte.}
 {385}{}{Parleremo più tardi, Nikki.}
-{390}{}{Then that's a bet you'd LOSE, sweetheart, but if you're as stupid as you are ugly, you'd probably bet anyway. I ain't
- seen that bum since he conned Mr. Salvatore.}
+{390}{}{Allora quella e' una puntata che PERDERESTI, tesoro, ma se sei stupida quanto sei brutta, lo faresti comunque. Non
+ ho visto quel barbone da quando ha fregato il signor Salvatore.}
 {391}{}{Allora è una scommessa che perderesti, tesoro. Non vedo quel pezzente da quando ha fregato il signor Salvatore.}
 {392}{}{Allora è una scommessa che perderesti, ragazza. Non vedo quel pezzente da quando ha fregato il signor Salvatore.}
 {393}{}{Forse non mi hai sentito la prima volta, quindi per i non udenti: dov'e' Lloyd?}
 {394}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {395}{}{Bene. Parleremo più tardi, Nikki.}
-{400}{}{Sweetheart, I TOLD you that I don't know where he is. Now, look, I'm WORKING here, so go back to whatever rock you --}
+{400}{}{Tesoro, TE L'HO DETTO che non so dove si trova. Senti, sto LAVORANDO, quindi torna sotto il sasso da cui --}
 {401}{}{Ragazza, TI HO DETTO che non so dove sia. Senti, STO LAVORANDO, quindi torna pure sotto la pietra da cui sei uscita e—}
 {402}{}{Nikki, Nikki... sto perdendo la PAZIENZA. Se non mi dici dov'e' Lloyd, perdo anche le staffe.}
 {403}{}{Nikki, non so cosa e' successo tra te e Lloyd. Ma sai una cosa? Non ho BISOGNO di saperlo. Diro' semplicemente
@@ -164,7 +164,7 @@
 {404}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {405}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {406}{}{Parleremo più tardi, Nikki.}
-{410}{}{You touch me, and Mr. Salvatore will skin you alive.}
+{410}{}{Se mi tocchi, il signor Salvatore ti scortica vivo.}
 {411}{}{Salvatore non ti proteggera'; mazzieri come te se ne trovano a bizzeffe. Smettila di menare il can per l'aia e dimmi dov'e' Lloyd, o ALTRIMENTI.}
 {412}{}{Salvatore non ti proteggera'; e' morto. Smettila di menare il can per l'aia e dimmi dov'e' Lloyd, o ALTRIMENTI.}
 {413}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
@@ -176,37 +176,37 @@
 {422}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {423}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {424}{}{Parleremo più tardi, Nikki.}
-{430}{}{Look, LIKE I SAID, I don't know where he is. But *maybe* I heard he used to have a room at the Desperado. You might find
- something there. Now, if you don't mind, I got to get back to work.}
+{430}{}{Senti, COME HO GIA' DETTO, non so dove sia. Ma *forse* ho sentito che aveva una stanza al Desperado. Potresti trovare
+ qualcosa la'. Ora, se non ti dispiace, devo tornare al lavoro.}
 {431}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {432}{}{Abbastanza sospetto che non te ne sia accorta tutte quelle volte. Dovresti essere cieca... o corrotta.}
 {433}{}{Parleremo più tardi, Nikki.}
-{440}{}{Look, I just STARTED working here, and I can't recognize every card counter and two-bit cheat that walks in.
- I gotta pretty good line on shitheads like you, though.}
+{440}{}{Senti, ho APPENA INIZIATO a lavorare qui, e non posso riconoscere ogni baro e imbroglione da quattro soldi che entra.
+ Ma gli stronzi come te li riconosco abbastanza bene.}
 {441}{}{Oh, quindi e' cosi' che tu e Lloyd vi siete messi insieme?}
 {442}{}{Quindi hai appena cominciato a lavorare, eh? Molto conveniente. Be', e' tutto quello che mi serve sapere. Di' a Lloyd che e' un uomo morto.}
 {443}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {444}{}{Parleremo più tardi, Nikki.}
-{450}{}{Yeah, you take enough Jet, and everything seems suspicious, don't it?}
+{450}{}{Si', se sniffi abbastanza Jet, tutto sembra sospetto, vero?}
 {451}{}{E' DAVVERO sospetto. Avresti dovuto capire che tipo era Lloyd appena e' entrato in questo casino'.}
 {452}{}{Nikki, so che hai aiutato Lloyd a barare. Dimmi dov'e' Lloyd, e ti do meta' del suo bottino: 500 chip.}
 {453}{}{Parleremo più tardi, Nikki.}
-{460}{}{You get the hell outta here right now. I ain't got nothing else to say to you.}
+{460}{}{Sparisci da qui, cazzo. Non ho piu' niente da dirti.}
 {461}{}{Non ho niente da dirti. Sparisci.}
 {462}{}{Per ora, forse no. Ma parlero' con te piu' tardi, Nikki. Puoi contarci.}
 {470}{}{You talk smooth...but so do snakes. MAYBE I know where Lloyd is, MAYBE I don't. You got 500 chips?}
 {471}{}{Forse. Dipende da cosa hai per me.}
-{480}{}{COULD be that Lloyd still has my take, and I ain't sure he's gonna give it to me. So COULD be that - for 500 chips - I
- COULD tell you where his lying ass is hanging out.}
+{480}{}{POTREBBE essere che Lloyd abbia ancora la mia parte, e non sono sicura che me la restituira'. Quindi POTREBBE essere che - per 500 chip - IO
+ POTREI dirti dove si nasconde quel bugiardo di merda.}
 {481}{}{Fatto. Ecco i 500 chip. Dimmi dov'e'.}
 {482}{}{E' un prezzo piuttosto alto per un mucchio di "forse" e "potrebbe". Lo trovero' da solo.}
 {483}{}{Non ho abbastanza fiches. Tornerò quando ne avrò di più. Spero che sarai ancora qui.}
-{490}{}{(Pockets the money) Check the boiler room in the basement of the Desperado. That's where the son of a bitch was
- going to run if things got hot.}
+{490}{}{(Intasca i soldi) Controlla la sala caldaie nel seminterrato del Desperado. E' li' che quel figlio di puttana
+ aveva intenzione di rifugiarsi se le cose si mettevano male.}
 {491}{}{D’accordo. A dopo, Nikki.}
-{500}{}{Would you get outta here?! People see us talking like this, then THEY'RE gonna talk. Understand?}
+{500}{}{Ma vattene, cazzo?! Se la gente ci vede parlare cosi', poi LORO iniziano a parlare. Capito?}
 {501}{}{D’accordo. A dopo, Nikki.}
-{510}{}{Go to hell, then! I ain't got nothing else to say to you, EVER.}
+{510}{}{Allora vai all'inferno! Non ho piu' niente da dirti, MAI PIU'.}
 {511}{}{Mi spezza il cuore. A dopo, Nikki.}
 {600}{}{Corrompi Nikki per farti dire dove potrebbe nascondersi Lloyd.}
 {1210}{}{. Posso aiutarti in… *qualche* modo?}
