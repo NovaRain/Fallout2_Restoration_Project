@@ -89,7 +89,7 @@
 {393}{}{Livello Uno}
 {394}{}{Livello Due}
 {395}{}{Livello Tre}
-{396}{}{Warehouse}
+{396}{}{Magazzino}
 {400}{}{La Citta' Fantasma}
 {401}{}{Caverna Principale}
 {402}{}{Lago sotterraneo}

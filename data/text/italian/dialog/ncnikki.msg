@@ -1,25 +1,25 @@
 {100}{}{Vedi Nikki la dolce.}
-{125}{}{You see one of the casino dealers.}
+{125}{}{Vedi una delle croupier del casinò.}
 {150}{}{Vedi Nikki la dolce.}
 {151}{}{Vedi Darlin’ Nikki. Ti fa l’occhiolino.}
-{152}{}{You see Darlin' Nikki. She motions for you to come over and play.}
+{152}{}{Vedi una delle croupier del casinò. Ti fa cenno di avvicinarti a giocare.}
 {153}{}{Vedi Darlin’ Nikki. Mason aveva ragione sul suo lato B.}
 {154}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
 {155}{}{Vedi Darlin’ Nikki. Mason aveva ragione sul suo lato B.}
 {156}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
-{160}{}{You see Darlin' Nikki. She motions for you to come over and play.}
+{160}{}{Vedi una delle croupier del casinò. Ti fa cenno di avvicinarti a giocare.}
 {161}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
 {162}{}{Vedi Darlin’ Nikki. Il suo vestito copre a malapena il suo corpo.}
-{170}{}{You see one of the casino dealers.}
+{170}{}{Vedi una delle croupier del casinò.}
 {171}{}{Vedi una delle croupier del casino'. Ti fa l'occhiolino.}
-{172}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{172}{}{Vedi Darlin' Nikki. Ti fa cenno di avvicinarti a giocare.}
 {173}{}{Vedi una delle croupier del casino'. Ha due gambe niente male.}
 {174}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
 {175}{}{Vedi una delle croupier del casino'. Profuma davveeero di buono.}
-{180}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{180}{}{Vedi Darlin' Nikki. Ti fa cenno di avvicinarti a giocare.}
 {181}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
 {182}{}{Vedi una delle croupier del casino'. I suoi abiti coprono a malapena il suo corpo.}
-{183}{}{You see one of the casino dealers. She motions for you to come over and play.}
+{183}{}{Vedi Darlin' Nikki. Ti fa cenno di avvicinarti a giocare.}
 {200}{}{::Saluti::}
 {201}{}{::Applaude::}
 {202}{}{::Fischia::}
@@ -34,14 +34,14 @@
 {216}{}{Salve, signora. Me lo dica se posso esserle utile per qualcosa.}
 {217}{}{Vuole giocare, signora?}
 {218}{}{Sembra cosi'...(trema)...pericolosa.}
-{220}{}{Looks like this one's already gambling with his life.}
+{220}{}{Sembra che questo stia già giocando con la propria vita.}
 {221}{}{Uh, credo che sia entrato nel casino' sbagliato...}
 {222}{}{Se non se ne va prima che lo vedano i ragazzi...}
 {223}{}{Uh-oh. Guai in arrivo...}
 {224}{}{Sembra che questa qui stia gia' giocando d'azzardo con la sua vita.}
 {225}{}{Uh, credo che sia entrata nel casino' sbagliato...}
 {226}{}{Se non se ne va prima che la vedano i ragazzi...}
-{230}{}{Hey, muscles. You looking to spend some chips?}
+{230}{}{Ehi, muscoloso. Vuoi spendere qualche fiche?}
 {231}{}{Ehi, campione… [strizza l’occhio]… ti va di giocare?}
 {232}{}{Ehi, campione… [sorride]… vuoi tentare la sorte?}
 {233}{}{Se cerchi un po' di compagnia per dopo...}
@@ -56,7 +56,7 @@
 {242}{}{Salve, }
 {243}{}{Vuoi giocare, }
 {244}{}{Benvenuto nel nostro casino', }
-{250}{}{Hey there, movie man. You looking to spend some chips?}
+{250}{}{Ehi, bell'attore. Vuoi spendere qualche fiche?}
 {251}{}{Ehi, }
 {252}{}{Ehi, }
 {253}{}{Se vuoi vincere dei soldi, }
@@ -66,7 +66,7 @@
 {267}{}{Vuoi bere qualcosa?}
 {268}{}{Benvenuto nel nostro casino', }
 {269}{}{Ehilà, signora Star del Cinema. Vuole spendere lo stipendio?}
-{270}{}{Hey there, sweetie. You looking to spend some chips?}
+{270}{}{Ehi, tesoro. Vuoi spendere qualche fiche?}
 {271}{}{Ehi, dolcezza… [strizza l’occhio]… vuoi giocare?}
 {272}{}{Ehi, dolcezza… [sorride]… vuoi tentare la fortuna?}
 {273}{}{Se vuoi vincere dei soldi, sei venuto nel posto giusto.}
@@ -95,7 +95,7 @@
 {303}{}{Come va, Nikki?}
 {304}{}{Whoa, troppo per le mie tasche. Me ne vado.}
 {305}{}{Niente giocate oggi, grazie.}
-{310}{}{Uh, very well, sir. Come back soon.}
+{310}{}{Ehm, va benissimo, signore. Tornate presto.}
 {311}{}{Uh, molto bene, signora. Torna presto.}
 {312}{}{Um... Mi hanno detto che qui sul retro stanno distribuendo dei cervelli. Forse dovresti andare a dare un'occhiata.}
 {313}{}{Ciaooooo}
