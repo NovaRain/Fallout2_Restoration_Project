@@ -115,7 +115,7 @@
 {333}{}{Hai [C] fiches. Continui a giocare?}
 {334}{}{Smetti di giocare.}
 {335}{}{Smetti di giocare.}
-{340}{}{Winner! Well done, sir!}
+{340}{}{Vincitore! Ben fatto, signore!}
 {341}{}{Vincitrice! Ben fatto, signora!}
 {342}{}{Vincitore!}
 {343}{}{Hai [C] fiches. Continui a giocare?}
