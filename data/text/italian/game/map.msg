@@ -58,7 +58,7 @@
 {157}{}{Deserto}
 {158}{}{Montagne}
 {159}{}{Montagne}
-{160}{}{Viper Camp}
+{160}{}{Accampamento Viper}
 {161}{}{Deserto}
 {162}{}{Montagne}
 {163}{}{Deserto}
@@ -230,7 +230,7 @@
 {359}{}{Deserto}
 {360}{}{}
 {361}{}{}
-{362}{}{Virgin Street}
+{362}{}{Via delle Vergini}
 {363}{}{Scantinato del Desperado}
 {364}{}{Desperado, 2do Piano}
 {365}{}{2da Strada}
@@ -242,7 +242,7 @@
 {371}{}{Zona Est}
 {372}{}{Stazione Ferroviaria}
 {373}{}{}
-{374}{}{Chop Shop}
+{374}{}{Officina dei Ladri}
 {375}{}{}
 {376}{}{}
 {377}{}{Cimitero}
