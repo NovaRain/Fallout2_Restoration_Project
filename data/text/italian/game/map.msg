@@ -104,7 +104,7 @@
 {233}{}{Grotte dei Ratti}
 {234}{}{Grotte dei Ratti}
 {235}{}{Grotte dei Ratti}
-{236}{}{Entrance}
+{236}{}{Ingresso}
 {237}{}{Tunnel con Scorie Radioattive}
 {238}{}{Magazzini}
 {239}{}{Territorio di Caccia}
@@ -221,7 +221,7 @@
 {350}{}{Level 3}
 {351}{}{Level 4}
 {352}{}{}
-{353}{}{Entrance}
+{353}{}{Ingresso}
 {354}{}{}
 {355}{}{}
 {356}{}{Deserto}
@@ -304,7 +304,7 @@
 {433}{}{Costa}
 {434}{}{Centro citta'}
 {435}{}{Scantinato}
-{436}{}{Unused}
+{436}{}{Inutilizzato}
 {437}{}{Zona Residenziale}
 {438}{}{Sottoterra}
 {439}{}{Miniera}
@@ -521,13 +521,13 @@
 {650}{}{Deserto}
 {651}{}{Deserto}
 {652}{}{Deserto}
-{653}{}{Entrance}
+{653}{}{Ingresso}
 {654}{}{Secondo Piano}
 {655}{}{Terzo Piano}
 {656}{}{Scantinato}
 {657}{}{inserisci nome}
 {658}{}{inserisci nome}
-{659}{}{Cave}
+{659}{}{Grotta}
 {660}{}{inserisci nome}
 {661}{}{inserisci nome}
 {662}{}{Villaggio}
@@ -539,7 +539,7 @@
 {668}{}{Zona di Pesca}
 {669}{}{Piccola Grotta}
 {670}{}{inserisci nome}
-{671}{}{Entrance}
+{671}{}{Ingresso}
 {672}{}{Livello Impianto Aria, Acqua e Energia}
 {673}{}{Manutenzione Robot}
 {674}{}{Livello Uno}
@@ -554,7 +554,7 @@
 {683}{}{Deserto}
 {684}{}{Deserto}
 {685}{}{Deserto}
-{686}{}{Entrance}
+{686}{}{Ingresso}
 {687}{}{Livello Uno}
 {688}{}{Livello Due}
 {689}{}{Rifugio Sicuro dei Ranger}
@@ -597,7 +597,7 @@
 {1507}{}{New Reno}
 {1508}{}{Deposito Militare Sierra}
 {1509}{}{Vault 15}
-{1510}{}{New California Republic}
+{1510}{}{Nuova Repubblica della California}
 {1511}{}{Vault 13}
 {1512}{}{Base Militare}
 {1513}{}{Redding}
