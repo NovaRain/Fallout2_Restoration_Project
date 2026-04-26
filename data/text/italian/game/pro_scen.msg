@@ -94,8 +94,8 @@
 {4701}{}{Un monitor di computer; sta mostrando vari bit di dati.}
 {4800}{}{Monitor}
 {4801}{}{Un monitor di computer; sta mostrando vari bit di dati.}
-{4900}{}{Exit Grid Map Marker}
-{4901}{}{Exit Grid Map Marker}
+{4900}{}{Marcatore Uscita Mappa}
+{4901}{}{Marcatore Uscita Mappa}
 {5000}{}{Unita' di Processazione dell'Aria}
 {5001}{}{Un'UPA pulisce l'aria vecchia e fornisce aria nuova al complesso.}
 {5100}{}{Sedia}
@@ -122,15 +122,15 @@
 {6101}{}{E' un tavolo. Prima dell'invenzione dei tavoli, la gente era costretta a tenere le proprie cose sul pavimento.}
 {6200}{}{Tavolo}
 {6201}{}{E' sicuramente un tavolo.}
-{6300}{}{Tumbleweed}
+{6300}{}{Rotolacampo}
 {6301}{}{E' un tumbleweed, uno di quegli ammassi di sterpi rotolanti. Certo, tu non hai mai visto dal vivo un vero tumbleweed. Faresti meglio a guardarlo attentamente.}
-{6400}{}{Cactus}
+{6400}{}{Kaktus}
 {6401}{}{Non vedi niente di speciale in questo cactus.}
-{6500}{}{Cactus}
+{6500}{}{Kaktus}
 {6501}{}{Non vedi niente di importante in questo cactus.}
 {6600}{}{Albero}
 {6601}{}{Un albero morto. Qui niente cresce bene.}
-{6700}{}{Secret Blocking Hex}
+{6700}{}{Cella di Blocco Segreta}
 {6701}{}{Se vedi questo, prenditela con il designer tecnico.}
 {6800}{}{Scale}
 {6801}{}{Delle scale.}
@@ -252,7 +252,7 @@
 {12601}{}{Un'erbaccia del deserto.}
 {12700}{}{Erbaccia}
 {12701}{}{Un'erbaccia del deserto.}
-{12800}{}{Blocking Hex (NoLight)}
+{12800}{}{Cella di Blocco (Senza Luce)}
 {12900}{}{Parete}
 {13000}{}{Parete}
 {13100}{}{Parete}
@@ -654,7 +654,7 @@
 {34201}{}{Questo era un cartello per regolare il flusso del traffico.}
 {34300}{}{Cartello Precedenza}
 {34301}{}{Il cartello e' sbiadito, ma riesci a leggere la parola PRECEDENZA.}
-{34400}{}{Block Hex Auto Inviso}
+{34400}{}{Cella di Blocco Auto Inviso}
 {34401}{}{Se vedi questo, prenditela con il designer tecnico.}
 {34500}{}{Pavimento}
 {34600}{}{Porta}
@@ -1058,12 +1058,12 @@
 {55501}{}{Un qualche tipo di apparato medico o sperimentale; sembra in grado di contenere un corpo umano o di dimensioni maggiori.}
 {55600}{}{Serbatoio di Sospensione Rotto}
 {55601}{}{Un pezzo di equipaggiamento rotto. Non e' riparabile.}
-{55700}{}{Mainframe}
+{55700}{}{Calcolatore Centrale}
 {55701}{}{Un enorme super computer. Probabilmente il computer dall'aspetto piu' potente che tu abbia mai visto.}
 {55800}{}{Piattaforma di Supporto}
 {55801}{}{Questa piattaforma sostiene l'enorme super computer al di sopra dei serbatoi di raffreddamento.}
-{55900}{}{Don't use}
-{56000}{}{Don't use}
+{55900}{}{Non usare}
+{56000}{}{Non usare}
 {56100}{}{Letto}
 {56101}{}{Un letto a castello stile militare. Sembra molto scomodo. Sembra anche che potresti rimbalzare per mezzo metro, se ci saltassi sopra.}
 {56200}{}{Letto}
@@ -1249,7 +1249,7 @@
 {65500}{}{Tubatura}
 {65600}{}{Generatore Elettrico}
 {65601}{}{Un generatore elettrico Wattz ElectroBox. Il tipo di generatore ausiliario piu' usato prima della Guerra.}
-{65700}{}{Tank}
+{65700}{}{Cisterna}
 {65701}{}{Una grande cisterna d'acqua. Sembra ben conservata, il che e' probabilmente una buona cosa.}
 {65800}{}{Cassetta della Polizia}
 {65801}{}{Una cassetta della polizia dal Regno Unito, 1960 circa.}
@@ -2036,7 +2036,7 @@
 {117000}{}{Porta}
 {117100}{}{Tubi arrugginiti}
 {117101}{}{Un insieme di vecchi tubi arrugginiti.}
-{117200}{}{Tank}
+{117200}{}{Cisterna}
 {117300}{}{Gazie}
 {117400}{}{Gazie}
 {117500}{}{Gazie}
@@ -2055,7 +2055,7 @@
 {118800}{}{Carbone}
 {118900}{}{Macchina}
 {118901}{}{Un pezzo di equipaggiamento generico per il reattore.}
-{119000}{}{Tank}
+{119000}{}{Cisterna}
 {119100}{}{Fuoco}
 {119200}{}{Acqua}
 {119300}{}{Cartello: Trapper Town}
@@ -2450,21 +2450,21 @@
 {154900}{}{Campo di Forza}
 {155000}{}{Unita' di Estrazione Organi}
 {155001}{}{L'ultimo modello della serie chirurgica "Fallo da Solo" della Vault-Tec. Rimuove automaticamente gli organi con la semplice pressione di un tasto.}
-{155100}{}{Shuttle}
-{155200}{}{Shuttle}
-{155300}{}{Shuttle}
-{155400}{}{Shuttle}
-{155500}{}{Shuttle}
-{155600}{}{Shuttle}
-{155700}{}{Shuttle}
-{155800}{}{Shuttle}
-{155900}{}{Shuttle}
-{156000}{}{Shuttle}
-{156100}{}{Shuttle}
-{156200}{}{Shuttle}
-{156300}{}{Shuttle}
-{156400}{}{Shuttle}
-{156500}{}{Shuttle}
+{155100}{}{Navetta}
+{155200}{}{Navetta}
+{155300}{}{Navetta}
+{155400}{}{Navetta}
+{155500}{}{Navetta}
+{155600}{}{Navetta}
+{155700}{}{Navetta}
+{155800}{}{Navetta}
+{155900}{}{Navetta}
+{156000}{}{Navetta}
+{156100}{}{Navetta}
+{156200}{}{Navetta}
+{156300}{}{Navetta}
+{156400}{}{Navetta}
+{156500}{}{Navetta}
 {156600}{}{Ombra}
 {156700}{}{Ombra}
 {156800}{}{Ombra}
@@ -3449,9 +3449,9 @@
 {228501}{}{Questo vetro e' appena trasparente.}
 {228600}{}{Vetro}
 {228601}{}{Questo vetro e' appena trasparente.}
-{228700}{}{Metal Door}
+{228700}{}{Porta in Metallo}
 {228701}{}{Una robusta porta di metallo.}
-{228800}{}{Metal Door}
+{228800}{}{Porta in Metallo}
 {228801}{}{Una robusta porta di metallo.}
 {228900}{}{Baracca della guardia}
 {228901}{}{Una baracca delle guardie fatiscente.}
