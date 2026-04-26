@@ -80,9 +80,9 @@
 {180}{}{Maida}
 {181}{}{Sajag}
 {182}{}{Sally}
-{183}{}{Smiley}
+{183}{}{Sorridente}
 {184}{}{Jenny}
-{185}{}{Slim}
+{185}{}{Magro}
 {186}{}{Torr}
 {187}{}{uno dei due Dunton}
 {188}{}{un Cittadino}
@@ -115,7 +115,7 @@
 {215}{}{Mr. Smith}
 {216}{}{Skeeve}
 {217}{}{il Proconsole Gregory}
-{218}{}{Infermiera Phyllis.}
+{218}{}{Infermiera Phyllis}
 {219}{}{Randal}
 {220}{}{Sostanza Gelatinosa}
 {221}{}{Barkus}
@@ -132,7 +132,7 @@
 {232}{}{Gordon}
 {233}{}{Hank}
 {234}{}{Jeremy}
-{235}{}{Lumpy}
+{235}{}{Bitorzoluto}
 {236}{}{Skeeter}
 {237}{}{Zomak}
 {238}{}{Wooz}
@@ -299,7 +299,7 @@
 {399}{}{Vortis}
 {400}{}{un'Inserviente della Bath House}
 {401}{}{uno Schiavo}
-{402}{}{Scorpion}
+{402}{}{Scorpione}
 {403}{}{un Brahmin}
 {404}{}{Automobile}
 {405}{}{Tavolo}
@@ -340,7 +340,7 @@
 {440}{}{un'Attrice Porno}
 {441}{}{un'Assistente}
 {442}{}{Map Script}
-{443}{}{Wolf}
+{443}{}{Lupo}
 {444}{}{Generatore}
 {445}{}{Porta}
 {446}{}{Super mutanti}
@@ -551,7 +551,7 @@
 {651}{}{V15 map Script}
 {652}{}{Phil}
 {653}{}{Bill}
-{654}{}{Butcher}
+{654}{}{Macellaio}
 {655}{}{Dalia}
 {656}{}{John}
 {657}{}{Jones}
@@ -606,7 +606,7 @@
 {706}{}{il Supervisore}
 {707}{}{Zaius}
 {708}{}{Jacob}
-{709}{}{Chemistry Set}
+{709}{}{Kit di chimica}
 {710}{}{Prop}
 {711}{}{Porta}
 {712}{}{Computer}
@@ -627,7 +627,7 @@
 {727}{}{Schiavista}
 {728}{}{uno Schiavo}
 {729}{}{un Partecipante al Party}
-{730}{}{Mantis}
+{730}{}{Mantide}
 {731}{}{un Brahmin}
 {732}{}{un Cane Selvatico}
 {733}{}{Computer}
@@ -644,7 +644,7 @@
 {744}{}{Bess}
 {745}{}{un Brahmin}
 {746}{}{Angela Bishop}
-{747}{}{Tommy "The Balls"}
+{747}{}{Tommy "Palle d’Acciaio"}
 {748}{}{Safe}
 {749}{}{Safe}
 {750}{}{Safe}
@@ -742,7 +742,7 @@
 {842}{}{uno Sciacallo}
 {843}{}{un Mercante}
 {844}{}{un Contadino}
-{845}{}{Arroyo Temple}
+{845}{}{Tempio di Arroyo}
 {846}{}{un Lavoratore del Porto}
 {847}{}{un Contadino}
 {848}{}{una Guardia}
@@ -1100,7 +1100,7 @@
 {1200}{}{Miniera}
 {1201}{}{Pit}
 {1202}{}{Cal}
-{1203}{}{Slim}
+{1203}{}{Magro}
 {1204}{}{Jenna}
 {1205}{}{}
 {1206}{}{}
@@ -1176,7 +1176,7 @@
 {1276}{}{Scatola}
 {1277}{}{Seymour}
 {1278}{}{John Sullivan}
-{1279}{}{Lumpy}
+{1279}{}{Bitorzoluto}
 {1280}{}{}
 {1281}{}{}
 {1282}{}{}
@@ -1197,7 +1197,7 @@
 {1297}{}{Croce}
 {1298}{}{Aratro}
 {1299}{}{Aratro}
-{1300}{}{Scorpion}
+{1300}{}{Scorpione}
 {1301}{}{Generatore}
 {1302}{}{Porta}
 {1303}{}{Porta}
@@ -1344,7 +1344,7 @@
 {1444}{}{Guerriero capo}
 {1445}{}{Marli}
 {1446}{}{Abitanti del villaggio}
-{1447}{}{Shaman}
+{1447}{}{Sciamano}
 {1448}{}{Fantasma}
 {1449}{}{Selvaggio}
 {1450}{}{Kurisu}
@@ -1368,7 +1368,7 @@
 {1468}{}{porta del recinto degli schiavi}
 {1469}{}{Scaffale}
 {1470}{}{Porta}
-{1471}{}{Little Bobby}
+{1471}{}{Piccolo Bobby}
 {1472}{}{Il padre del piccolo Bobby}
 {1473}{}{un Abusivo}
 {1474}{}{uno Spacciatore di Droga}

@@ -1,10 +1,10 @@
 {0}{}{Sei sicuro di voler uscire?}
 {1}{}{Versione demo}
-{2}{}{Default character will be used.}
+{2}{}{Verra' usato il personaggio predefinito.}
 {3}{}{Immagine salvata.}
 {4}{}{Caricamento rapido effettuato.}
 {5}{}{Salvataggio rapido effettuato.}
-{6}{}{Demo time limit exceeded.}
+{6}{}{Limite di tempo della demo superato.}
 {7}{}{Il Pipboy non e' accessibile in combattimento!}
 {8}{}{Errore nel salvare l'immagine.}
 {9}{}{INTRO}
@@ -17,7 +17,7 @@
 {16}{}{Punti Vita}
 {17}{}{Il sensore di movimento non e' installato.}
 {18}{}{Il sensore di movimento ha esaurito la carica.}
-{20}{}{Copyright(c) Interplay Productions. Tutti i diritti riservati. }
+{20}{}{Copyright(c) Interplay Productions. Tutti i diritti riservati.}
 {30}{}{Vuoi continuare a giocare?}
 {50}{}{Fallout 2 richiede il CD per funzionare!}
 {100}{}{Errore nel salvataggio della configurazione!}

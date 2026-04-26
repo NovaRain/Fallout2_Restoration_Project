@@ -26,7 +26,7 @@
 {253}{}{plasma}
 {254}{}{elettrico}
 {255}{}{emp}
-{256}{}{esplos.}
+{256}{}{esplosione}
 {300}{}{No}
 {301}{}{Razzo}
 {302}{}{Gel per Lanciafiamme}
@@ -160,7 +160,7 @@
 {674}{}{Ci provero'.}
 {675}{}{Non posso farlo.}
 {676}{}{Non credo di poterlo fare.}
-{677}{}{Arf!}
+{677}{}{Ouaf!}
 {678}{}{Uff!}
 {700}{}{Non hai abbastanza Punti Azione.}
 {800}{}{Leggi il libro.}

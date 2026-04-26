@@ -55,7 +55,7 @@
 {2800}{}{Mitra Laser}
 {2801}{}{Un mitragliatore laser H&K L30. Progettata per uso militare, tale arma era un prototipo all'inizio della Guerra. Le canne multiple consentono un volume di fuoco maggiore prima del surriscaldamento. Alimentato da Celle a Micro-Fusione. Min FZ: 6.}
 {2900}{}{10mm JHP}
-{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava}
+{2901}{}{Munizioni. Calibro: 10mm, camiciate a punta cava.}
 {3000}{}{10mm AP}
 {3001}{}{Munizioni. Calibro: 10mm, perfora armature.}
 {3100}{}{.44 Magnum JHP}
@@ -77,7 +77,7 @@
 {3900}{}{Cella a Micro-Fusione}
 {3901}{}{Un'unita' di produzione d'energia di medie dimensioni. Centrale a fusione autonoma.}
 {4000}{}{Stimpak}
-{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite. }
+{4001}{}{Un farmaco curativo. Quando iniettato, il farmaco assicura l'immediata guarigione di piccole ferite.}
 {4100}{}{Soldi}
 {4101}{}{Valuta corrente nel mondo delle Lande.}
 {4200}{}{Frigo}
@@ -104,9 +104,9 @@
 {5201}{}{Un contatore Geiger Wattz Electronics modello C-Radz. Rileva la presenza e l'intensita' di campi di radioattivita'.}
 {5300}{}{Mentat}
 {5301}{}{Una confezione di droghe alteranti la mente. Aumenta le funzioni legate alla memoria, e velocizza gli altri processi mentali. Alto rischio di dipendenza.}
-{5400}{}{Stealth Boy}
+{5400}{}{Mimetizzatore}
 {5401}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
-{5500}{}{Chip di depurazione dell'acqua.}
+{5500}{}{Chip di depurazione dell'acqua}
 {5501}{}{Questo e' un Water Chip della Vault-Tec. Di solito ogni scatola ne contiene cinque.}
 {5600}{}{Targhette Militari}
 {5601}{}{Targhette militari. Il nome Dickinson e la parola Enclave sono a malapena leggibili.}
@@ -226,11 +226,11 @@
 {11301}{}{Vesti consunte.}
 {11400}{}{Mano di Tangler}
 {11401}{}{Un manipolatore cybernetico, dall'aspetto e dalla forma di una mano. Danneggiata a causa della natura maldestra del processo di rimozione.}
-{11500}{}{Super Sledge}
+{11500}{}{Super martello}
 {11501}{}{Un Super Martello da Guerra, costruito dalla Confraternita d'Acciaio, utilizzando le migliori tecniche di costruzione disponibili. Include un dispositivo di stoccaggio di energia cinetica, per aumentare la violenza del colpo. Min FZ: 5.}
-{11600}{}{Ripper}
+{11600}{}{Sventratore}
 {11601}{}{Una lama a vibrazione modello "Ripper"(tm). Alimentata da una piccola cella a energia, questa specie di motosega taglia e macella il suo bersaglio. Min FZ: 4.}
-{11700}{}{Flower}
+{11700}{}{Fiore}
 {11701}{}{Uno splendido fiore.}
 {11800}{}{Fucile Laser}
 {11801}{}{Un fucile laser Wattz 2000. Utilizza celle a Micro-Fusione per colpi piu' potenti, e una lunga canna per una gittata maggiore. Min FZ: 6.}
@@ -408,7 +408,7 @@
 {20801}{}{Un sensore di movimento Wattz Electronics modello C-U. Rileva il movimento di materiale biologico su una distanza espressa in metri usando un dispositivo radar appostiamente tarato. E' acceso.}
 {20900}{}{Esplosivo al Plastico}
 {20901}{}{Un pezzo di Cordex, una marca militare di esplosivi al plastico. Altamente stabile, molto distruttivo. E' provvisto di un timer, che sta ticchettando.}
-{21000}{}{Stealth Boy}
+{21000}{}{Mimetizzatore}
 {21001}{}{Un meccanismo di occultamento personale RobCo Stealth Boy 3001. Genera un campo modulante che trasmette la luce riflessa da un lato all'altro di un oggetto.}
 {21100}{}{Ossa}
 {21101}{}{Vedi Ed. Ed e' morto.}
@@ -495,7 +495,7 @@
 {25300}{}{Combinatore Celle di Carburante}
 {25301}{}{Questo chip combina il flusso di energia che entra nel motore elettrico di un'automobile. Molti guidatori hanno bruciato velocemente questo chip effettuando frequenti, rapide accelerazioni. E' a tutt'oggi un oggetto prezioso da possedere -- se solo tu avessi una macchina dove installarlo.}
 {25400}{}{Regolatore Celle di Carburante}
-{25401}{}{Alcuni proprietari d'auto installarono questo regolatore, che raddoppia i km/litro tra un rifornimento e l'altro; a molti guidatori, pero', non interessava quanta benzina consumasse la loro macchina, dato che, in fondo, "la benzina e' economica e abbondante, perche' preoccuparsene?".}
+{25401}{}{Alcuni proprietari d'auto installarono questo regolatore, che raddoppia i km/litro tra un rifornimento e l'altro; a molti guidatori, pero', non interessava quanta benzina consumasse la loro macchina, dato che, in fondo, la benzina e' economica e abbondante, perche' preoccuparsene?}
 {25500}{}{Pass Giornaliero}
 {25501}{}{Questo foglietto spiegazzato ti garantisce l'accesso a tutte le zone di Vault City, tranne il Vault stesso, solo per le ore diurne.}
 {25600}{}{Falsi Documenti di Cittadinanza}
@@ -532,7 +532,7 @@
 {27101}{}{L'abbondante fiore usato come base nella creazione della polvere curativa.}
 {27200}{}{Radice di Xander}
 {27201}{}{La rara radice che dona proprieta' di guarigione alla polvere curativa.}
-{27300}{}{Healing Powder}
+{27300}{}{Polvere curativa}
 {27301}{}{Una sostanza magica curativa molto potente - il suo utilizzo portera' con se' una sensazione di sonnolenza nella tua testa.}
 {27400}{}{Missile per Robot}
 {27401}{}{Usato solo da robot attrezzati con missili.}
@@ -705,7 +705,7 @@
 {35901}{}{Munizioni. Calibro: 4.7mm, senza bossolo.}
 {36000}{}{9mm}
 {36001}{}{Munizioni. Calibro: 9mm.}
-{36100}{}{Cartuccia per SparaAghi HN }
+{36100}{}{Cartuccia per SparaAghi HN}
 {36101}{}{Munizioni. Questa cartuccia sembra essere la munizione per la pistola sparaaghi. Ogni "proiettile" e' una piccola siringa ipodermica progettata per iniettare il suo contenuto nel bersaglio al momento dell'impatto.}
 {36200}{}{Cartuccia per SparaAghi HN AP}
 {36201}{}{Munizioni. Questa cartuccia sembra essere la munizione perfora armature (AP) per la pistola sparaaghi HN. Le punte delle ipodermiche sono fatte con una strana lega e sono incredibilmente appuntite.}
@@ -803,7 +803,7 @@
 {41200}{}{Lattina d'Olio}
 {41201}{}{Vedi una lattina di Armor-Go. Un lubrificante dell'era spaziale, a polimeri, per armature potenziate.}
 {41300}{}{Tessera d'Identita' per le Stalle}
-{41301}{}{Questa e' una tessera d'identita' temporanea. E' attraversata da una striscia rossa, che sembra indicare il tuo impiego: "Ricercatore delle Stalle".}
+{41301}{}{Questa e' una tessera d'identita' temporanea. E' attraversata da una striscia rossa, che sembra indicare il tuo impiego: "Ricercatore delle Stalle."}
 {41400}{}{Chiave della Baracca del Vault 15}
 {41401}{}{Una normale chiave.}
 {41500}{}{Occhiali}
@@ -858,11 +858,11 @@
 {44000}{}{Gel Biomedico}
 {44001}{}{Un vasetto di BioGel usato in campo biomedico.}
 {44100}{}{Targhette de "il Biondo"}
-{44101}{}{Queste targhette militari hanno il nome del proprietario cancellato e il nome "il Biondo" inciso sul retro. Sotto al nome c'e' il numero "11".}
+{44101}{}{Queste targhette militari hanno il nome del proprietario cancellato e il nome "il Biondo" inciso sul retro. Sotto al nome c'e' il numero "11."}
 {44200}{}{Targhette di Sentenza}
-{44201}{}{Queste targhette militari indentificano il proprietario come "Sentenza". Sotto al nome c'e' il numero "16".}
+{44201}{}{Queste targhette militari indentificano il proprietario come "Sentenza". Sotto al nome c'e' il numero "16."}
 {44300}{}{Targhette di Tuco}
-{44301}{}{Queste targhette militari puzzolenti indentificano il proprietario come "Tuco Benedicto Pacifico Juan Maria Ramirez", seguito dal numero "27".}
+{44301}{}{Queste targhette militari puzzolenti indentificano il proprietario come "Tuco Benedicto Pacifico Juan Maria Ramirez", seguito dal numero "27."}
 {44400}{}{Mappa dei Predoni}
 {44401}{}{Questa e' una mappa spiegazzata del Nord California pre-bellico. Reno e le circostanti piste per carovane sono evidenziati in rosso, e c'e' una "X" rossa lontano ad est di Reno con la scritta "Predoni" scarabocchiata sotto.}
 {44500}{}{Stella dello Sceriffo}
@@ -873,8 +873,8 @@
 {44701}{}{Questo Olodisco contiene informazioni che svelano l'accordo segreto tra Bishop e NCR. Pare che Bishop abbia assoldato mercenari per attaccare Vault City nella speranza che Vault City si rivolgesse a NCR per aiuto militare. L'Olodisco e' solo audio e non ha testo. Vault City potrebbe esserne interessata.}
 {44800}{}{Libro Contabile}
 {44801}{}{Questo libro contabile elenca una serie di pagamenti mensili versati alla banda di mercenari da parte della Famiglia Bishop di New Reno. La portata dei pagamenti dipendeva molto dalla "pressione" esercitata su Vault City dai mercenari. Vault City potrebbe trovarlo interessante.}
-{44900}{}{Unused}
-{44901}{}{Unused}
+{44900}{}{Inutilizzato}
+{44901}{}{Inutilizzato}
 {45000}{}{Foglio Strappato 1}
 {45001}{}{Vedi un foglio di carta con delle scritte. Sembra fare parte di una specie di codice. Sfortunatamente il codice e' incompleto. Se solo tu potessi trovare tutti e tre i pezzi. Riesci a cavarci il seguente: 1. Fisica, Password KSLJ, 2. Chimica, Password TIU, 3. Biologia, Password INTL}
 {45100}{}{Foglio Strappato 2}
@@ -925,14 +925,14 @@
 {47301}{}{Vedi il tuo sesto dito. E' una piccola parte mutante di te. Per qualche ragione, senti un terribile senso di vuoto mentre guardi il tuo piccolo dito amputato.}
 {47400}{}{Margherite}
 {47401}{}{Un vaso di margherite. Non sono carine?}
-{47500}{}{Unused}
-{47501}{}{Unused}
+{47500}{}{Inutilizzato}
+{47501}{}{Inutilizzato}
 {47600}{}{Lettera dell'Illuminata}
 {47601}{}{Un resoconto indirizzato all'AHS-9 di San Francisco. E' assolutamente noioso da leggere: tabelle di aggiustamenti oppressivi, rapporti spese e altre ciarle indegne del tuo tempo.}
 {47700}{}{Olodisco di una Trasmissione}
-{47701}{}{L'etichetta dice: "Galaxy News Network".}
+{47701}{}{L'etichetta dice: "Galaxy News Network."}
 {47800}{}{Olodisco sulla Missione Sierra}
-{47801}{}{L'etichetta dice: "Stato della Missione".}
+{47801}{}{L'etichetta dice: "Stato della Missione."}
 {47900}{}{Componenti NavCom}
 {47901}{}{Questi sono parti di computer da installare all'interno di qualche macchinario. Il fatto che dicano "Poseidon Oil" e "Computer di Navigazione" ti induce a pensare che vadano installati in un Computer di Navigazione della Poseidon Oil.}
 {48000}{}{Bonus: +1 Agilita'}
@@ -999,7 +999,7 @@
 {51600}{}{Amlpificatore Medico PIPboy}
 {51601}{}{Questo amplificatore consiste di un olodisco, un cavo a microfilamenti, una fascia per la testa, e un sensore ottico che va piazzato sull'occhio sx dell'utente. Un lampo ottico trasmette un'intera enciclopedia e altre conoscenze nella memoria, aumentando permanentemente le abilita' mediche.}
 {51700}{}{"Little Jesus"}
-{51701}{}{Questa lama dall'aspetto cattivo un tempo apparteneva a Little Jesus Mordino. Ha molte tacche e tagli sulla sua superficie, ma il suo filo e' tagliente come un rasoio. Sul manico e' inciso "Little Jesus".}
+{51701}{}{Questa lama dall'aspetto cattivo un tempo apparteneva a Little Jesus Mordino. Ha molte tacche e tagli sulla sua superficie, ma il suo filo e' tagliente come un rasoio. Sul manico e' inciso "Little Jesus."}
 {51800}{}{Doppio Mitragliatore}
 {51801}{}{Usato solo da Auto-Cannone.}
 {51900}{}{Tappi di Bottiglia}

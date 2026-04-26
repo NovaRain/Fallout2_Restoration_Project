@@ -14,7 +14,7 @@
 {1013}{}{Cristo, non ho piu' il braccio!}
 {1014}{}{Oh Dio, non il braccio.}
 {1015}{}{Basta, ti prego, basta.}
-{1016}{}{(Sob, sob)}
+{1016}{}{(Sniff, sniff)}
 {1017}{}{Il mio braccio e' davvero messo male.}
 {1018}{}{Come mi guadagnero' da vivere, adesso?}
 {1019}{}{L'hai rotto.}
@@ -477,7 +477,7 @@
 {1545}{}{Non sento piu' le gambe.}
 {1546}{}{Improvvisamente, sento caldo e ho sonno.}
 {1547}{}{Errrggggg!}
-{1548}{}{Gack! cough, cough.}
+{1548}{}{Gack! Cof, cof.}
 {1549}{}{Devo andare avanti, devo ammazzare i nemici....}
 {1550}{}{Le tenebre mi stanno chiamando.}
 {1551}{}{L'ora della mia morte si avvicina.}
@@ -590,7 +590,7 @@
 {1674}{}{Sculacciami mammina, sono stato cattivo.}
 {1675}{}{Verra' fuori una bella crosta.}
 {1676}{}{E' tutto mio quel sangue?}
-{1677}{}{Marshall Dillon, Marshall Dillon!}
+{1677}{}{Walker Texas Ranger, Walker Texas Ranger!}
 {1678}{}{Mi verranno le vesciche.}
 {1679}{}{Kai, yai, yippee, ai, ay!}
 {1680}{}{Dannato sangue negli occhi!}
@@ -832,7 +832,7 @@
 {2159}{}{Yeah, prendi questo!}
 {2160}{}{Io non miro cosi' male, vero?}
 {2161}{}{Ho visto brahmin piu' svegli di te.}
-{2162}{}{Whew!}
+{2162}{}{Fiuu!}
 {2163}{}{Non e' cosi' facile sconfiggermi.}
 {2164}{}{Grazie al cielo!}
 {2165}{}{Mi hai mancato!}
@@ -903,14 +903,14 @@
 {2257}{}{Dai amico, vieni a prenderle.}
 {2258}{}{E beccati questo!}
 {2259}{}{Adoro il sapore del sangue.}
-{2260}{}{Non sei poi cosi' bravo come pensavi}
-{2261}{}{Patetico}
-{2262}{}{Sei solo un criminale da strapazzo}
-{2263}{}{Non sei niente di speciale}
-{2264}{}{Non saro' la tua vittima}
+{2260}{}{Non sei poi cosi' bravo come pensavi.}
+{2261}{}{Patetico.}
+{2262}{}{Sei solo un criminale da strapazzo.}
+{2263}{}{Non sei niente di speciale.}
+{2264}{}{Non saro' la tua vittima.}
 {2265}{}{Questo e' stato il tuo ultimo errore.}
 {2266}{}{Questo era il tuo colpo migliore?}
-{2267}{}{E io che pensavo che questo sarebbe stato un combattimento *serio*.}
+{2267}{}{E io che pensavo che questo sarebbe stato un combattimento *serio.*}
 {2268}{}{Prova a mirare nella *mia* direzione, la prossima volta.}
 {2269}{}{Sei solo un fottuto pagliaccio.}
 {2270}{}{Dannati principianti!}
@@ -992,7 +992,7 @@
 {2400}{}{Me ne vado!}
 {2401}{}{Forse non e' stata una buona idea!}
 {2402}{}{Attacca qualcun altro, okay!}
-{2403}{}{Yikes!}
+{2403}{}{Urca!}
 {2404}{}{Non moriro' per questo!}
 {2405}{}{Questo e' troppo per me!}
 {2420}{}{Ehi tu!}
@@ -1204,7 +1204,7 @@
 {3062}{}{Attacco da parte del bersaglio: fallito. Risposta in elaborazione.}
 {3063}{}{L'unita' non e' stata danneggiata dall'attacco.}
 {3064}{}{Ricalcolo delle capacita' offensive del bersaglio.}
-{3065}{}{Analisi: Errore del bersaglio nella scelta tattica. L'unita' non ha subito danni.}
+{3065}{}{Analisi: Errore del bersaglio nella scelta tattica. L'unita' non ha subito danni}
 {3100}{}{Devo andarmene da qui!}
 {3101}{}{Tornero'...}
 {3102}{}{Non mi ammazzerai oggi!}
@@ -1355,7 +1355,7 @@
 {10123}{}{Chi e' il creatore?}
 {10124}{}{Errore di calcolo! Errore di calcolo!}
 {10125}{}{Mi dispiace, Dave.}
-{10126}{}{./~ Daisy, Daisy, give me your answer, do ./~}
+{10126}{}{./~ Daisy, Daisy, dammi la tua risposta, fallo ./~}
 {10127}{}{Pericolo Bill Williamson, Pericolo!}
 {10128}{}{Gort! Klaatu Berada Nictu!}
 {10129}{}{Sssszzzzztt *POP*}
@@ -1375,7 +1375,7 @@
 {10143}{}{Chi e' il creatore?}
 {10144}{}{Errore di calcolo! Errore di calcolo!}
 {10145}{}{Mi dispiace, Dave.}
-{10146}{}{./~ Daisy, Daisy, give me your answer, do ./~}
+{10146}{}{./~ Daisy, Daisy, dammi la tua risposta, fallo ./~}
 {10147}{}{Pericolo Bill Williamson, Pericolo!}
 {10148}{}{Gort! Klaatu Berada Nictu!}
 {10149}{}{Sssszzzzztt *POP*}
@@ -1480,7 +1480,7 @@
 {12243}{}{E' ora di mettere la tua fottuta carcassa nella fossa.}
 {12244}{}{Ti faro' sputare il cuore e ci camminero' sopra.}
 {12245}{}{Mi dispiace solo di non avere il tempo di mettere la tua testa in una pressa...}
-{12246}{}{Lascia che ti mostri cosa facciamo alla spazzatura, da queste parti}
+{12246}{}{Lasciatemi mostrare cosa facciamo con i rifiuti qui intorno...}
 {12247}{}{Ti colpiro' cosi' forte che penserai si tratti di un terremoto...}
 {12248}{}{Ne ho abbastanza di questo stronzo...}
 {12249}{}{Saluta gli angeli da parte mia...}
@@ -1648,7 +1648,7 @@
 {14040}{}{Ecco a te, allora.}
 {14041}{}{Touche'!}
 {14042}{}{En Garde!}
-{14043}{}{Hai-Kee-Baaa!}
+{14043}{}{Hai?Ki'?Baaa!}
 {14044}{}{Ti avro'!}
 {14045}{}{Tira fuori i tuoi pugni.}
 {14046}{}{Uh, estrai, Pellegrino - e' cosi' che dite, vero?}
@@ -1717,7 +1717,7 @@
 {18150}{}{Colpisci!}
 {18151}{}{Reagisci!}
 {18152}{}{SUPER... NUCLEAR... TORNADO... FIST... }
-{18153}{}{Ti spiezzo in due.}
+{18153}{}{Ti spiezzo in due. }
 {18154}{}{Ti schiaccero' come un insetto...}
 {18160}{}{Troppo lento!}
 {18161}{}{Sei solo chiacchiere...}
@@ -1836,7 +1836,7 @@
 {32126}{}{Se insisti nel volere la lotta...}
 {32128}{}{Pensi davvero di potermi sconfiggere?}
 {32140}{}{Haiiiiiiii-YA!}
-{32141}{}{Chop-socky!}
+{32141}{}{Hai?yaa!}
 {32142}{}{rooOOOooo!}
 {32143}{}{Hai!}
 {32144}{}{Huh!}
@@ -1873,7 +1873,7 @@
 {32245}{}{L'Inferno dei morti bolliti vivi ti attende!}
 {32246}{}{Saluta i tuoi antenati da parte mia!}
 {32247}{}{Sono immortale!}
-{32248}{}{Chop-suey!}
+{32248}{}{Hai?yaa!}
 {32249}{}{Hai-YA!}
 {32260}{}{Mi sento invincibile!}
 {32261}{}{Fammi vedere di cosa sei capace.}
@@ -1952,7 +1952,7 @@
 {32526}{}{Ne ho anche per te, oh yeah.}
 {32540}{}{Adesso devi ballare.}
 {32541}{}{::canta::}
-{32542}{}{Iii... will always love YOOUUUUU}
+{32542}{}{Iooo... ti amero' per SEMPREEEE}
 {32543}{}{Non possiamo semplicemente essere amici?}
 {32544}{}{Sei COSI' morto.}
 {32545}{}{Piegati un secondo...}
@@ -2022,7 +2022,7 @@
 {32790}{}{Ooooooooo, il pube! Ooooooo...}
 {32791}{}{Oww...brucia!}
 {32792}{}{Urp!}
-{32793}{}{::gasp::}
+{32793}{}{::sussulto::}
 {32794}{}{Non...posso...respirare...}
 {32795}{}{Non c'e' problema... sono gia'... sterile...}
 {32800}{}{Padre Stellare! Aiutaci Tu!}
@@ -2153,7 +2153,7 @@
 {36020}{}{Ow, il braccio!}
 {36021}{}{Hai rotto il braccio!}
 {36022}{}{Te ne pentirai!}
-{36030}{}{(Grunt!)}
+{36030}{}{(Grugnisce!)}
 {36031}{}{E' solo una ferita della carne!}
 {36032}{}{Grrr!}
 {36033}{}{Te ne pentirai!}
@@ -2173,7 +2173,7 @@
 {36092}{}{Urg! Petey! Va tutto bene laggiu'?}
 {36093}{}{Che...wheeeeze...male!}
 {36094}{}{Urp!}
-{36095}{}{Gasp!}
+{36095}{}{Sussulta!}
 {36100}{}{Ci rivedremo!}
 {36101}{}{Tornero'...}
 {36102}{}{Non sono mai stato sconfitto prima d'ora!}
@@ -2506,7 +2506,7 @@
 {40051}{}{Noi non vogliamo che il vino rosso rosso esca.}
 {40052}{}{Tu fatto male a noi, noi fare male a te.}
 {40053}{}{Aiiiiiieeeeee!}
-{40054}{}{Shing-ding-ding!}
+{40054}{}{Cling?cling?cling!}
 {40055}{}{Gli spiriti oscuri ci mordono spalla.}
 {40056}{}{Il cielo essere cosi' chiaro adesso.}
 {40057}{}{Nonn-osso non permettera' che noi muore.}
@@ -2836,7 +2836,7 @@
 {41250}{}{Merda! Ho le termiti!}
 {41251}{}{Non pensavo di essere cosi' secco e fragile.}
 {41252}{}{Dannazione, nessuno ha del nastro adesivo?}
-{41253}{}{(Cough, cough, wheeeeeeeeze)}
+{41253}{}{(Tossisce, wheeeeeeeeze)}
 {41254}{}{Foro di entrata, foro di uscita, un'altra aggiunta alla mia collezione di fori!}
 {41255}{}{Dannazione, mi hanno disossato.}
 {41256}{}{Pazienza, era il mio profilo peggiore.}
@@ -3129,7 +3129,7 @@
 {41763}{}{Prendi un numero.}
 {41764}{}{Bzzt! Bersaglio mancato!}
 {41765}{}{Ma voi non la smettete mai?}
-{41766}{}{Yawn.}
+{41766}{}{Sbadiglia.}
 {41767}{}{Pivellini.}
 {41768}{}{Torna al poligono di tiro, ragazzo.}
 {41769}{}{Continua cosi'. Forse un giorno riuscirai a colpirmi.}
@@ -3289,7 +3289,7 @@
 {42157}{}{Non rimanevo coinvolto in una rissa dai tempi della quinta elementare.}
 {42158}{}{Hai morso un boccone troppo grande da masticare, faccia da culo.}
 {42159}{}{Muori! Uh, per favore?}
-{42160}{}{Yikes!}
+{42160}{}{Urca!}
 {42161}{}{Aieeeee...oh, aspetta... mi hai mancato. Dimentica la parte in cui urlavo.}
 {42162}{}{Non hai preso niente!}
 {42163}{}{Questo era DAVVERO vicino...}
@@ -3306,7 +3306,7 @@
 {42174}{}{Mi serviranno delle mutande nuove, una volta finita questa battaglia.}
 {42175}{}{Non possiamo discuterne amichevolmente?}
 {42176}{}{Ah! Mi hai mancato, merdaccia!}
-{42177}{}{Zoiks!}
+{42177}{}{Ouh!}
 {44000}{}{Bzzzt!}
 {44010}{}{Zzzzzzt!}
 {44020}{}{Fizzzzzzzzt!}
@@ -3533,7 +3533,7 @@
 {60000}{}{Sistemi offensivi ignorati.}
 {60020}{}{Sistemi offensivi attivati.}
 {60040}{}{Whrrr. Click. Click. Woof!}
-{60041}{}{Arg! Click. Woof!}
+{60041}{}{Arg! Clic. Bau!}
 {60060}{}{Azione offensiva evitata.}
 {70000}{}{Speriamo per te che non lasci una cicatrice.}
 {70001}{}{Ehi! Non la faccia!}
@@ -3627,8 +3627,8 @@
 {70322}{}{Sbarazziamoci di questi idioti.}
 {70340}{}{Sbrigatevi a dare un morso, così posso farlo anch'io!}
 {70341}{}{Almeno ti uccido con stile.}
-{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue.}
-{70343}{}{Speriamo di non spezzarmi un’unghia.}
+{70342}{}{Sarà meglio che tu non sporchi i miei vestiti di sangue. }
+{70343}{}{Speriamo di non spezzarmi un’unghia. }
 {70360}{}{Sembra che questo gatto sia troppo veloce per te.}
 {70361}{}{Questo è semplicemente triste.}
 {70362}{}{Vieni, lascia che ti mostri come si colpisce *davvero* qualcosa.}

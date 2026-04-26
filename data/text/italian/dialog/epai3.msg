@@ -43,7 +43,7 @@
 {138}{}{Nella nostra sperimentazione piu' recente, abbiamo scelto come soggetto l'ufficiale militare, Generale J. Ripper. Inizialmente,
  non era consapevole delle nostre intenzioni, ma ora sembra aver capito. E' diventato ossessionato dalla frase "preziosi fluidi
  corporei" ed evita di bere qualsiasi sostanza di cui non conosca l'origine. Ha persino smesso di avere rapporti sessuali,
- temendo che le donne cerchino "l'essenza vitale".}
+ temendo che le donne cerchino "l'essenza vitale."}
 {139}{}{Indietro.}
 {150}{}{Modifica del Sesso.}
 {151}{}{Moscerini della frutta carichi di virus.}

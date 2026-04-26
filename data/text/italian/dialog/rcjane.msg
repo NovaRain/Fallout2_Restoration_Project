@@ -5,14 +5,14 @@
 {104}{}{Oooh. Pelosetti.}
 {105}{}{Pelosi belli.}
 {106}{}{Ah, capisco. Devi essere nuovo di qui. Bene, ascoltami. Piazzero' una scommessa speciale per te, durante gli incontri di domani. Che ne dici, vuoi che lo faccia?}
-{107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete).}
+{107}{}{(Annuisci) Ook, ook. (e le porgi il portamonete)}
 {108}{}{Mook? Gaga. Ciao pelosetti.}
 {109}{}{Bravo. Torna qui domani e se la tua creatura ha vinto il suo incontro, io ti daro' i tuoi soldi. Okay?}
 {110}{}{OK, ottima mossa. Faro' in modo di piazzare una scommessa davvero speciale, con questi. Ci vediamo.}
 {111}{}{Vinto?}
 {112}{}{Okay... ciao ciao.}
 {113}{}{No, mi dispiace. Ma sento che la prossima volta andra' molto meglio. Vuoi che piazzi un'altra scommessa speciale?}
-{114}{}{Okay. Gaie. (annuisci e le porgi il portamonete)}
+{114}{}{Okay. Gaie. (annuisci e le porgi il portamonete).}
 {115}{}{Booo? Ciao.}
 {116}{}{Mi dispiace molto, ma non hai soldi sufficienti per scommettere. Torna quando avrai messo insieme qualche spicciolo.}
 {117}{}{Okay, bello bello. Ciao.}
@@ -141,33 +141,33 @@
 {308}{}{Boss}
 {310}{}{Tanker}
 {311}{}{Muttley}
-{312}{}{Spud}
+{312}{}{Patata}
 {313}{}{Larry}
 {314}{}{Joe}
 {315}{}{Kong}
 {316}{}{Gorgo}
 {317}{}{Willard}
 {318}{}{Ben}
-{320}{}{Stumpy}
-{321}{}{Shredder}
-{322}{}{Ripper}
+{320}{}{Tarchiato}
+{321}{}{Trituratore}
+{322}{}{Sventratore}
 {323}{}{Skree}
 {324}{}{Buban}
 {325}{}{Bongo}
-{326}{}{One-eye}
-{327}{}{Spot}
+{326}{}{Guercio}
+{327}{}{Brufolo}
 {328}{}{Lord Wiggler}
-{330}{}{Lucky}
-{331}{}{Zoroaster the Great}
+{330}{}{Fortunato}
+{331}{}{Zoroastro il Grande}
 {332}{}{Shub}
 {333}{}{Usuthu}
-{334}{}{Growler}
-{335}{}{Puggsly}
-{336}{}{Precious}
-{337}{}{Fraggle}
-{338}{}{Captain Midnight}
-{340}{}{Hammer}
-{341}{}{Secretariat}
+{334}{}{Ringhio}
+{335}{}{Furfante}
+{336}{}{Tesoro}
+{337}{}{Sbruffone}
+{338}{}{Capitano Midnight}
+{340}{}{Martello}
+{341}{}{Segreteria}
 {342}{}{Man o' War}
 {343}{}{Sancho Panza}
 {344}{}{Loki}
@@ -175,10 +175,10 @@
 {346}{}{Grendel}
 {347}{}{Lady Penelope}
 {348}{}{Mr. Baggins}
-{350}{}{Lightning}
+{350}{}{Fulmine}
 {351}{}{Percy}
-{352}{}{Flower}
-{353}{}{Rumplestiltskin}
+{352}{}{Fiore}
+{353}{}{Tremotino}
 {354}{}{Shagrat}
 {355}{}{Muktar}
 {356}{}{McComb}

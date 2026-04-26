@@ -7,7 +7,7 @@
 {106}{}{Smamma. Non ho niente da dirti.}
 {107}{}{Oh, uh, ehi, Capitano. E' una bella giornata, vero?}
 {108}{}{Beh, che mi venga un colpo se quello non e' il nuovo Cittadino.}
-{109}{}{Ehila', "Cittadino".}
+{109}{}{Ehila', "Cittadino."}
 {110}{}{Non puoi portare mutanti qui dentro.}
 {111}{}{Non puoi portare ghoul qui dentro.}
 {112}{}{Siamo chiusi per la notte. Torna domani mattina.}
@@ -28,9 +28,9 @@
 {127}{}{Quali altri modi?}
 {128}{}{Grazie. Allora andro' da Wallace.}
 {129}{}{Qualche consiglio? Beh, i consigli costano, Esterno. Hai del denaro con te?}
-{130}{}{-Dagli 50$-}
-{131}{}{-Dagli 75$-}
-{132}{}{-Dagli 100$-}
+{130}{}{Dagli 50$.}
+{131}{}{Dagli 75$.}
+{132}{}{Dagli 100$.}
 {133}{}{Quelli che ho non credo possano stimolare il tuo interesse. Tornero' quando avro' qualche dollaro in piu'.}
 {134}{}{Come non detto. Magari sara' per un'altra volta.}
 {135}{}{Beh, ci sono un paio di cose che potresti fare. Una di queste e' diventare un Cittadino. Non perquisiscono mai i Cittadini. Naturalmente le tue chance di diventare un Cittadino sono praticamente pari a zero.}
@@ -109,21 +109,21 @@
 {208}{}{No-no IO RESTO}
 {209}{}{Ho trovato questo Esterno che vagava nelle lande, Barkus. Mi pare che possa diventare un buon Servo.}
 {210}{}{Ho trovato questa cricca che vagava nelle lande, Barkus. Questo Esterno mi pare che possa diventare un buon Servo.}
-{211}{}{2 Seconds}
+{211}{}{2 Secondi}
 {212}{}{Stai scherzando, VERO? Si vede lontano un miglio che e' un mentecatto.}
-{213}{}{1 Second, don't remove Barkus' float yet.}
+{213}{}{1 Secondo, non rimuovere ancora il float di Barkus.}
 {214}{}{Cacco! Pupu'!}
-{215}{}{2 Seconds}
+{215}{}{2 Secondi}
 {216}{}{Dai. Non ti serve qualcuno che lavori al Vault?}
-{217}{}{1 Second, don't remove Barkus' float yet.}
+{217}{}{1 Secondo, non rimuovere ancora il float di Barkus.}
 {218}{}{Valt! Gechkk!}
-{219}{}{2 Seconds}
+{219}{}{2 Secondi}
 {220}{}{Beh...hmmm. Immagino tu voglia una ricompensa, giusto?}
-{221}{}{2 Seconds}
+{221}{}{2 Secondi}
 {222}{}{E gli Esterni si mangiano le loro feci? CERTO che voglio una ricompensa.}
-{223}{}{1 Second, Don't remove Skeev's float}
+{223}{}{1 Secondo, non rimuovere il float di Skeev}
 {224}{}{Pessa? Pissaaaaaa!}
-{225}{}{1 Second}
+{225}{}{1 Secondo}
 {226}{}{Molto bene. Vorra' dire che lo mandero' al Vault. FORSE potra' pulire i magazzini.}
 {227}{}{Whoa. Come hai fatto a scappare?}
 {228}{}{Whoa. Come hai fatto a scappare? Faresti meglio a tornare dentro prima che Barkus s'arrabbi. Forza...}

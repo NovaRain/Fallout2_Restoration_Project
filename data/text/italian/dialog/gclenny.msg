@@ -122,7 +122,7 @@
 {400}{}{V'vuoi che c'combatta in modo d'diverso?}
 {401}{}{Vorrei che tu ti posizionassi ad una distanza diversa.}
 {402}{}{Vorrei che tu usassi la tua arma migliore.}
-{403}{}{Vorrei che tu indossassi la tua armatura migliore.}
+{403}{}{Vorrei che tu indossassi la tua armatura migliore}
 {404}{}{Vorrei che tu combattessi in modo diverso.}
 {405}{}{Nulla.}
 {410}{}{Q'quanto distante vuoi che mi m'metta? Sai che e' difficile per me s'starti dietro.}
@@ -136,7 +136,7 @@
 {422}{}{Combatti pure normalmente.}
 {423}{}{Combatti in maniera aggressiva.}
 {424}{}{Nulla.}
-{430}{}{Immagino che n'non si finisca mai d'di imparare... }
+{430}{}{I'm-immagino che s-si possa i-insegnare nuovi trucchi a un vecchio c-cane. Che s-soddisfazione.}
 {431}{}{P'per qualche r'ragione non credo di aver a'afferrato il c'concetto.}
 {432}{}{Okay.}
 {440}{}{Oh, Okay. Aspettero' qu'qui finche' non sarai t'tornato. D'dammi la possibilita' di r'riposare le mie articolazioni d'doloranti.}

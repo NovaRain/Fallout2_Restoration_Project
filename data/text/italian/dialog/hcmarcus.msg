@@ -48,7 +48,7 @@
 {147}{}{Vengo da un villaggio fondato dal vero Abitante del Vault.}
 {148}{}{Da un villaggio a nord ovest.}
 {149}{}{Oh. Errore mio. Beh, grazie. Ci vediamo.}
-{150}{mcs15a}{Che novita'... che novita'... }
+{150}{mcs15a}{Che novita'... che novita'...}
 {151}{mcs15b}{Beh, uno dei ragazzi delle carovane inizia a preoccuparmi. Chad. Credo faccia la cresta sulle commissioni. Potresti controllare per me?}
 {152}{}{Io cosa ne ricavo?}
 {153}{}{Certo. Lo faro'.}
@@ -220,32 +220,32 @@
 {319}{}{Perche' mi parli in quel modo?}
 {320}{}{Non e' molto carino.}
 {321}{}{Grazie. }
-{322}{}{This is good.}
+{322}{}{Questo è un bene.}
 {323}{}{Questo non va bene.}
 {324}{}{Questo mi piace. Un sacco. }
-{325}{}{I have a bad feeling about this.}
+{325}{}{Ho un brutto presentimento.}
 {326}{}{Queste persone sono degli idioti.}
 {327}{}{Non ho imparato nulla.}
 {328}{}{Ho imparato qualcosa.}
 {329}{}{C'e' nessuno sano di mente?}
 {330}{}{Ci dev'essere un'altra via.}
 {331}{}{Seguimi.}
-{332}{}{Try this.}
-{333}{}{Come here.}
+{332}{}{Prova questo.}
+{333}{}{Vieni qui.}
 {334}{}{Ho trovato qualcosa che forse vorresti vedere.}
 {335}{}{Per quanto ne so, questo e' un posto sicuro dove accamparsi.}
 {336}{}{Non e' sicuro accamparsi qui.}
 {337}{}{Possiamo riposare qui.}
-{338}{}{I got lucky.}
+{338}{}{Ho avuto fortuna.}
 {339}{}{Ripara questo, puoi?}
 {340}{}{Accendi questo.}
 {341}{}{Questa cosa deve essere aperta.}
 {342}{}{Potresti aprire questo?}
 {343}{}{Forse preferisci tornare piu' tardi.}
-{344}{}{I don't understand.}
+{344}{}{Non capisco.}
 {345}{}{Non so.}
 {346}{}{Ow.}
-{347}{}{That really hurts.}
+{347}{}{Questo fa davvero male.}
 {348}{}{Quello non puo' fare bene...}
 {349}{}{Uh... quando al Cat's Paw di New Reno hai detto "spero che non rimanga incinta", che cosa volevi dire?}
 {350}{mcs113}{La tua gente non te l'ha spiegato?}

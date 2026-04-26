@@ -91,8 +91,8 @@
 {190}{}{Un nuovo chip per scavatrici? Cos'e'?}
 {191}{}{Lascia che ti chieda qualcos'altro, Dan.}
 {192}{}{Capisco. Beh, se ne trovo uno te lo faccio sapere. Ci vediamo.}
-{193}{}{E' buffo che tra tutte le persone di questo mondo sia proprio tu a chiedermelo. Ci sono stati un sacco di avvenimenti in citta', ultimamente. }
-{194}{}{Come ti ho detto, se c'e' qualcuno che sa cosa sta succedendo in citta' quel qualcuno sei tu. }
+{193}{}{E' buffo che tra tutte le persone di questo mondo sia proprio tu a chiedermelo. Ci sono stati un sacco di avvenimenti in citta', ultimamente.}
+{194}{}{Come ti ho detto, se c'e' qualcuno che sa cosa sta succedendo in citta' quel qualcuno sei tu.}
 {195}{}{Stai parlando del chip di controllo per le macchine scavatrici?}
 {196}{}{Stai parlando di quella faccenda della prostituta sfregiata?}
 {197}{}{Stai parlando di quella rissa che ho sedato?}
@@ -197,5 +197,5 @@
 {296}{}{Me ne vado. Non serve che ti fai venire la schiuma alla bocca. Addio.}
 {297}{}{Nessuno dice una cosa del genere a Dan McGrew e la passa liscia.}
 {298}{}{Guarda me.}
-{299}{}{Gia', lo credo... "Dangerous Dan".}
+{299}{}{Gia', lo credo... "Dangerous Dan."}
 {300}{}{Scusami, Dan; non intendevo dire nulla. Stavo solo s-scherzando. Gia', proprio cosi'. Addio.}

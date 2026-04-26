@@ -37,7 +37,7 @@
 {260}{}{(Si incupisce.) Sparisci dalla mia vista. Fatti rivedere da queste parti e ti faro' sparare, hai capito?}
 {262}{}{Uh-uh}
 {263}{}{Tu baciare mamma con quella bocca?}
-{264}{}{Tu fare meglio NO sparare me. Sparare me fare ARRABBIARE me.}
+{264}{}{Tu fare meglio NO sparare me. Sparare me fare ARRABBIARE me}
 {265}{}{-Vattene via e cerca qualcuno con cui parlare che sia meno cattivo di questo qui-}
 {275}{}{(Quando ti vede, Wright esplode in un ringhio e comincia a urlare.) }
 {276}{}{(Wright esplode in un ringhio e comincia a urlare.) }
@@ -115,7 +115,7 @@
 {451}{}{Adesso BASTA! Non ne posso piu' delle tue stronzate. Adesso raggiungerai quel drogato di tuo figlio all'inferno.}
 {453}{}{Esci subito di qui.}
 {465}{}{Capita che, non troppo tempo fa, io sia entrato in possesso di una mappa che indica la posizione di una vecchia base dell'esercito nelle montagne, non lontano da qui. Trova il modo per entrarci e io sapro' ricompensarti…}
-{466}{}{Okee Signor Orderville }
+{466}{}{Okee Signor Orderville}
 {467}{}{ va. }
 {468}{}{D'accordo. Andro' a controllare.}
 {469}{}{Perche' dovrei andarci io? Non ha gia' mandato qualcuno?}
@@ -192,7 +192,7 @@
 {670}{}{Mettiamo per un secondo che io ti creda... e non dico che lo STO facendo... allora chi avrebbe AVVELENATO mio figlio? E perche' prendersi il disturbo di imbottirlo di Jet?}
 {671}{}{Si dice che siano stati i Salvatore. L'hanno riempito di Jet mischiato con veleno di radscorpione e poi l'hanno lasciato in un posto dove voi poteste trovarlo.}
 {672}{}{Non so quale dei Salvatore sia stato. Renesco ha adulterato del Jet per loro, non sapendo che l'avrebbero usato per avvelenare suo figlio.}
-{673}{}{I don't know.}
+{673}{}{Non lo so.}
 {680}{}{E perche' diavolo l'avrebbero fatto?}
 {681}{}{Per come la vedo io, i Mordino hanno il controllo del Jet a Reno. Di conseguenza, voi avreste accusato loro per l'overdose... e poi ci sarebbe stata una guerra. Nel remoto caso in cui non vi foste eliminati a vicenda, vi sareste comunque indeboliti entrambi. Questo avrebbe reso piu' facile la vita ai Salvatore... che a quel punto avrebbero dovuto guardarsi soltanto dai Bishop.}
 {682}{}{Non lo so. Forse dovrebbe chiederlo a loro.}

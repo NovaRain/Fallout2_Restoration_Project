@@ -12,7 +12,7 @@
 {111}{}{So che hai delle armi che ti avanzano. Me ne servono un po'.}
 {112}{}{Nulla.}
 {113}{}{Oh, dio... un altro piccolo mutante testa-bacata. Quand'e' che si decideranno a farli fuori, questi cosi?}
-{114}{}{Gurgle.}
+{114}{}{Gorgoglio.}
 {115}{}{Parla lentamente e in modo chiaro e forse potro' aiutarti.}
 {116}{}{Nn! Roba! Me!}
 {117}{}{Annive decci!}
@@ -61,7 +61,7 @@
 {160}{}{Bene. Voglio qualcos'altro.}
 {161}{}{Vabbe'. Ci vediamo.}
 {162}{}{Se ti interessa davvero uccidere i mutanti, magari dovresti andare a parlare con Jacob, il farmacista.}
-{163}{}{Jacob, eh? Lo faro'}
+{163}{}{Jacob, eh? Lo faro'.}
 {164}{}{L'avevo pensato. Adesso vattene.}
 {165}{}{Bene.}
 {166}{}{In questo caso, imbocca il passaggio segreto che c'e' nel pavimento della mia stanza e raggiungi la fortezza. Ho un piccolo arsenale, la' sotto. Muoviti.}

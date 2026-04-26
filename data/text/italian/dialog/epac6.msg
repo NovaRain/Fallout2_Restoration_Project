@@ -44,5 +44,5 @@
 {337}{}{Se solo i robot rispondessero ai comandi...}
 {338}{}{Lo so, sono un fallimento totale.}
 {339}{}{Mi scuso profondamente per lo stato dei terreni.}
-{340}{}{quando potreste fare qualcosa per evitarlo?}
+{340}{}{Se potessi fare qualcosa al riguardo, lo farei.}
 {341}{}{Forse 10001 ha ragione. Forse dovremmo semplicemente distruggere tutto.}

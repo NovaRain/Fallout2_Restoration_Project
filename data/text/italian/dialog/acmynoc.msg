@@ -99,7 +99,7 @@
 {415}{}{La sto ancora cercando.}
 {416}{}{Non ho voglia di parlarne.}
 {417}{}{Devi sbrigarti. Qui le cose vanno sempre peggio. Presto ci sara' poco cibo e l'Anziana sta pensando di razionare quello che abbiamo. Temo per il futuro di Arroyo.}
-{418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente.}
+{418}{}{Prescelto! Per favore, dimmi che hai portato a termine la tua missione. Il nostro villaggio sta morendo, cosi' come la nostra gente. }
 {419}{}{No, me ancora cercare.}
 {420}{}{No, sto ancora cercando.}
 {421}{}{Come vanno le cose?}
@@ -158,27 +158,27 @@
 {660}{}{[Mynoc annuisce cupamente.] Potrebbe essersi allontanato dal cammino, ma era un tempo un grande e rispettato guerriero. Spero che la sua anima tormentata abbia trovato pace nell'altro mondo.}
 {661}{}{Infatti. A presto, Mynoc.}
 {662}{}{Vabbene. Mi sembrava uno stronzo. A presto, Mynoc.}
-{1000}{}{Elder}
-{1001}{}{Founder}
+{1000}{}{Anziana}
+{1001}{}{Fondatore}
 {1002}{}{Vault Dweller}
 {1003}{}{Arroyo}
 {1004}{}{Klamath}
 {1005}{}{Vault}
-{1006}{}{Chosen One}
-{1007}{}{Shaman}
+{1006}{}{l'Eletto}
+{1007}{}{Sciamano}
 {1008}{}{Hakunin}
-{1009}{}{Healing Powder}
-{1010}{}{Bridge}
+{1009}{}{Polvere curativa}
+{1010}{}{Ponte}
 {1011}{}{Mynoc}
-{1100}{}{The Elder is your mother and our leader.}
-{1101}{}{Our great ancestor who gave us knowledge.}
-{1102}{}{The first to fight and win over chaos.}
-{1103}{}{That would be our beautiful village.}
+{1100}{}{L'Anziana e' tua madre e la nostra guida.}
+{1101}{}{Il nostro grande antenato che ci ha donato la conoscenza.}
+{1102}{}{I primi a combattere e a vincere sul caos.}
+{1103}{}{Quello sarebbe il nostro bellissimo villaggio.}
 {1104}{}{E' un avamposto commerciale a pochi giorni a est di qui.}
-{1105}{}{The Vault is heaven.}
-{1106}{}{You are the Chosen One.}
+{1105}{}{Il Vault e' il paradiso.}
+{1106}{}{Tu sei il Prescelto.}
 {1107}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1108}{}{Egli ci cura con le sue erbe e con la magia. Si trova nella zona nord del villaggio.}
 {1109}{}{E' una polvere magica che ti guarisce, ma che ti intorpidisce.}
-{1110}{}{The Great Bridge exits our village in the south.}
+{1110}{}{Il Grande Ponte esce dal nostro villaggio a sud.}
 {1111}{}{Si tratta di me.}

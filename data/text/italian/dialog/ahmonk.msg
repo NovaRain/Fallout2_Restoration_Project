@@ -13,7 +13,7 @@
 {401}{}{Capito. Vorrei sapere qualcos'altro.}
 {402}{}{Hmm... *sembra* familiare. Ebbene si', ricordo che Fratello Thomas ha menzionato qualcosa a riguardo di recente. Mi dispiace, ma non ricordo esattamente cosa ha detto.}
 {403}{}{Va bene. Indicami solo Fratello Thomas e vado a chiedergli.}
-{404}{}{I don't know anything about that.}
+{404}{}{Non ne so nulla.}
 {405}{}{Va bene, grazie lo stesso.}
 {406}{}{Temo di non poterlo fare. Vedi, ho l'impressione che Fratello Thomas non sia piu' tra i vivi. Ma, fortunatamente per te,
  era uno dei nostri trascrittori piu' affidabili. Sono sicuro che qualunque articolo abbia trovato riguardo alle informazioni che cerchi

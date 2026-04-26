@@ -4,11 +4,11 @@
 {200}{}{Fa' il bravo.}
 {201}{}{Eccoti qua.}
 {202}{}{La pagherai.}
-{203}{}{Come here.}
+{203}{}{Vieni qui.}
 {204}{}{Non te la faro' passare liscia.}
 {205}{}{Troia.}
 {225}{}{Mi domando quanto potranno andare avanti le cose, adesso che Metzger e' morto...}
-{226}{}{E cosi', alla fine Metzger e' morto...}
+{226}{}{Quindi, Metzger è finalmente morto?}
 {227}{}{E' stata opera tua?}
 {228}{}{Il Den non sara' mai piu' lo stesso.}
 {240}{}{Non posso crederci, li abbiamo sconfitti sul serio!}

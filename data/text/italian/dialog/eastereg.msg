@@ -41,7 +41,7 @@
 {514}{}{Ora... dove ho messo Leia...?}
 {600}{}{Vedi R2Qwerty.}
 {601}{}{Un robotino vivace. Lampeggia e bippa.}
-{610}{}{Beep beep!}
+{610}{}{Bip bip!}
 {611}{}{Rrrrrr bip Rrrrwow!}
 {612}{}{*lampeggia e si agita eccitato*}
 {613}{}{Balestre! Tattiche! Balestre!}
@@ -156,7 +156,7 @@
 {1313}{}{Nel caso non lo sapessi, sono semplicemente un tipo utile a tutto tondo.}
 {1400}{}{Vedi HawkEyE.}
 {1401}{}{Una gemma scintillante di odio.}
-{1410}{}{Bonjour. Je suis Hawk-Eye. J'ai translate le version Francais. }
+{1410}{}{Buongiorno. Sono Hawk-Eye. Ho tradotto il versione francese. }
 {1411}{}{Sono Hawk-EyE. Ho guidato la traduzione della versione francese. Vive la France!!}
 {1412}{}{Mi piace mangiare .... pesciolini cosi' dolciii!}
 {1413}{}{Qui non c'e' nessuno, solo noi polli.}

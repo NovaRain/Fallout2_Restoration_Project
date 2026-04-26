@@ -18,9 +18,9 @@
 {1001}{}{Una mucca mutante bicipite.}
 {1100}{}{un Ratto}
 {1101}{}{Un grosso ratto comune.}
-{1200}{}{Mantis}
+{1200}{}{Mantide}
 {1201}{}{Una mantide mutante.}
-{1300}{}{Elder}
+{1300}{}{Anziana}
 {1400}{}{Hakunin}
 {1500}{}{Mynoc}
 {1600}{}{una Pianta Sporigena}
@@ -109,7 +109,7 @@
 {9700}{}{Sulik}
 {9800}{}{Maida Buckner}
 {9900}{}{Torr}
-{10000}{}{Lumpy}
+{10000}{}{Bitorzoluto}
 {10100}{}{un Luminoso del Reattore}
 {10200}{}{un Ghoul del Reattore}
 {10300}{}{una Guardia del Reattore}
@@ -125,7 +125,7 @@
 {11300}{}{un Ratto-porco Tenace}
 {11400}{}{un Brahmin Debole}
 {11401}{}{Una mucca mutante bicipite.}
-{11500}{}{A.Pwr.Armor (don't use)}
+{11500}{}{A.Pwr.Armor (non usare)}
 {11600}{}{un Ratto Mutante}
 {11601}{}{Un tenace ratto mutante.}
 {11700}{}{un Ratto-talpa Mutante}
@@ -135,18 +135,18 @@
 {11900}{}{un Super Mutante}
 {12000}{}{Mutante Potente}
 {12100}{}{Melchior}
-{12200}{}{Hero Andro (don't use)}
-{12300}{}{Hero Andro (don't use)}
-{12400}{}{Hero Male (don't use)}
-{12500}{}{Hero Female (don't use)}
-{12600}{}{Hero Male (don't use)}
-{12700}{}{Hero Female (don't use)}
-{12800}{}{Hero Male (don't use)}
-{12900}{}{Hero Female (don't use)}
-{13000}{}{Hero Male (don't use)}
-{13100}{}{Hero Female (don't use)}
-{13200}{}{Hero Male (don't use)}
-{13300}{}{Hero Female (don't use)}
+{12200}{}{Eroe Andro (non usare)}
+{12300}{}{Eroe Andro (non usare)}
+{12400}{}{Eroe Maschio (non usare)}
+{12500}{}{Eroe Femmina (non usare)}
+{12600}{}{Eroe Maschio (non usare)}
+{12700}{}{Eroe Femmina (non usare)}
+{12800}{}{Eroe Maschio (non usare)}
+{12900}{}{Eroe Femmina (non usare)}
+{13000}{}{Eroe Maschio (non usare)}
+{13100}{}{Eroe Femmina (non usare)}
+{13200}{}{Eroe Maschio (non usare)}
+{13300}{}{Eroe Femmina (non usare)}
 {13400}{}{una Guardia di Vault City}
 {13500}{}{una Guardia di Vault City}
 {13600}{}{un Cybercane}
@@ -214,7 +214,7 @@
 {19700}{}{Jonny}
 {19800}{}{Jo}
 {19900}{}{Zeke}
-{20000}{}{Butcher}
+{20000}{}{Macellaio}
 {20100}{}{Petey}
 {20200}{}{una Cacciatrice Primitiva}
 {20300}{}{una Cacciatrice Primitiva}
@@ -230,7 +230,7 @@
 {21300}{}{una Donna Bandito}
 {21400}{}{una Contadina}
 {21500}{}{una Contadina}
-{21600}{}{Mantis}
+{21600}{}{Mantide}
 {21700}{}{Schiavista}
 {21800}{}{Schiavista}
 {21900}{}{un Brahmin Selvatico}
@@ -302,7 +302,7 @@
 {28500}{}{la Straniera Mistriosa}
 {28600}{}{la Straniera Mistriosa}
 {28700}{}{la Straniera Mistriosa}
-{28800}{}{il Gorilla del Pres.}
+{28800}{}{il Gorilla del Pres}
 {28900}{}{un Uovo di Deathclaw}
 {29000}{}{Metzger}
 {29100}{}{una Persona}
@@ -371,7 +371,7 @@
 {35400}{}{la Regina Aliena}
 {35500}{}{un Radscorpione Nero}
 {35600}{}{un Radscorpione Nero}
-{35700}{}{Spud}
+{35700}{}{Patata}
 {35800}{}{il Capitano dei Mercenari}
 {35900}{}{un Mercenario}
 {36000}{}{un Mercenario}
@@ -502,7 +502,7 @@
 {48301}{}{La Guardia del Corpo del Presidente.}
 {48400}{}{Nessa}
 {48401}{}{Il fantasma di Nessa.}
-{48500}{}{Shaman}
+{48500}{}{Sciamano}
 {48501}{}{Sciamano tribale.}
 {48600}{}{Guerriero	}
 {48601}{}{Guerriero della tribù.}

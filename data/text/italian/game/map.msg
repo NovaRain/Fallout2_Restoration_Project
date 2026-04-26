@@ -16,36 +16,36 @@
 {115}{}{Vault City}
 {116}{}{Vault City}
 {117}{}{Vault City}
-{118}{}{error:Map Name}
+{118}{}{errore:Nome mappa}
 {119}{}{Rovine di Citta'}
 {120}{}{Costa}
 {121}{}{Costa}
 {122}{}{Deserto}
 {123}{}{Deserto}
-{124}{}{error:Map Name}
-{125}{}{error:Map Name}
-{126}{}{error:Map Name}
-{127}{}{error:Map Name}
-{128}{}{error:Map Name}
-{129}{}{error:Map Name}
-{130}{}{error:Map Name}
-{131}{}{error:Map Name}
-{132}{}{error:Map Name}
-{133}{}{error:Map Name}
-{134}{}{error:Map Name}
-{135}{}{error:Map Name}
-{136}{}{error:Map Name}
+{124}{}{errore:Nome mappa}
+{125}{}{errore:Nome mappa}
+{126}{}{errore:Nome mappa}
+{127}{}{errore:Nome mappa}
+{128}{}{errore:Nome mappa}
+{129}{}{errore:Nome mappa}
+{130}{}{errore:Nome mappa}
+{131}{}{errore:Nome mappa}
+{132}{}{errore:Nome mappa}
+{133}{}{errore:Nome mappa}
+{134}{}{errore:Nome mappa}
+{135}{}{errore:Nome mappa}
+{136}{}{errore:Nome mappa}
 {137}{}{Hub}
 {138}{}{Hub}
 {139}{}{Hub}
 {140}{}{Hub}
 {141}{}{Hub}
-{142}{}{Glow}
-{143}{}{Glow}
-{144}{}{Boneyard}
-{145}{}{Boneyard}
-{146}{}{Boneyard}
-{147}{}{Cathedral}
+{142}{}{Bagliore}
+{143}{}{Bagliore}
+{144}{}{Cimitero}
+{145}{}{Cimitero}
+{146}{}{Cimitero}
+{147}{}{Cattedrale}
 {148}{}{Zona Militare}
 {149}{}{Montagne}
 {150}{}{Montagne}
@@ -83,7 +83,7 @@
 {212}{}{Villaggio}
 {213}{}{}
 {214}{}{}
-{215}{}{Bridge}
+{215}{}{Ponte}
 {216}{}{Ponte Distrutto}
 {217}{}{}
 {218}{}{Zona Ovest}
@@ -95,16 +95,16 @@
 {224}{}{Zona Residenziale}
 {225}{}{}
 {226}{}{}
-{227}{}{Downtown}
-{228}{}{Downtown}
-{229}{}{Downtown}
+{227}{}{Centro citta'}
+{228}{}{Centro citta'}
+{229}{}{Centro citta'}
 {230}{}{Viale}
 {231}{}{Viale}
 {232}{}{}
 {233}{}{Grotte dei Ratti}
 {234}{}{Grotte dei Ratti}
 {235}{}{Grotte dei Ratti}
-{236}{}{Entrance}
+{236}{}{Ingresso}
 {237}{}{Tunnel con Scorie Radioattive}
 {238}{}{Magazzini}
 {239}{}{Territorio di Caccia}
@@ -116,7 +116,7 @@
 {245}{}{Cortile}
 {246}{}{}
 {247}{}{}
-{248}{}{Downtown}
+{248}{}{Centro citta'}
 {249}{}{}
 {250}{}{}
 {251}{}{Consiglio}
@@ -194,7 +194,7 @@
 {323}{}{Caverna}
 {324}{}{}
 {325}{}{}
-{326}{}{Downtown}
+{326}{}{Centro citta'}
 {327}{}{}
 {328}{}{}
 {329}{}{Sala del Consiglio}
@@ -221,7 +221,7 @@
 {350}{}{Level 3}
 {351}{}{Level 4}
 {352}{}{}
-{353}{}{Entrance}
+{353}{}{Ingresso}
 {354}{}{}
 {355}{}{}
 {356}{}{Deserto}
@@ -260,9 +260,9 @@
 {389}{}{Miniera, Livello 1}
 {390}{}{Miniera, Livello 2}
 {391}{}{}
-{392}{}{Downtown}
-{393}{}{Downtown}
-{394}{}{Downtown}
+{392}{}{Centro citta'}
+{393}{}{Centro citta'}
+{394}{}{Centro citta'}
 {395}{}{Campo Minerario}
 {396}{}{Campo Minerario}
 {397}{}{Campo Minerario}
@@ -302,9 +302,9 @@
 {431}{}{Costa}
 {432}{}{Costa}
 {433}{}{Costa}
-{434}{}{Downtown}
+{434}{}{Centro citta'}
 {435}{}{Scantinato}
-{436}{}{Unused}
+{436}{}{Inutilizzato}
 {437}{}{Zona Residenziale}
 {438}{}{Sottoterra}
 {439}{}{Miniera}
@@ -521,13 +521,13 @@
 {650}{}{Deserto}
 {651}{}{Deserto}
 {652}{}{Deserto}
-{653}{}{Entrance}
+{653}{}{Ingresso}
 {654}{}{Secondo Piano}
 {655}{}{Terzo Piano}
 {656}{}{Scantinato}
 {657}{}{inserisci nome}
 {658}{}{inserisci nome}
-{659}{}{Cave}
+{659}{}{Grotta}
 {660}{}{inserisci nome}
 {661}{}{inserisci nome}
 {662}{}{Villaggio}
@@ -539,7 +539,7 @@
 {668}{}{Zona di Pesca}
 {669}{}{Piccola Grotta}
 {670}{}{inserisci nome}
-{671}{}{Entrance}
+{671}{}{Ingresso}
 {672}{}{Livello Impianto Aria, Acqua e Energia}
 {673}{}{Manutenzione Robot}
 {674}{}{Livello Uno}
@@ -554,7 +554,7 @@
 {683}{}{Deserto}
 {684}{}{Deserto}
 {685}{}{Deserto}
-{686}{}{Entrance}
+{686}{}{Ingresso}
 {687}{}{Livello Uno}
 {688}{}{Livello Due}
 {689}{}{Rifugio Sicuro dei Ranger}
@@ -597,7 +597,7 @@
 {1507}{}{New Reno}
 {1508}{}{Deposito Militare Sierra}
 {1509}{}{Vault 15}
-{1510}{}{New California Republic}
+{1510}{}{Nuova Repubblica della California}
 {1511}{}{Vault 13}
 {1512}{}{Base Militare}
 {1513}{}{Redding}
@@ -622,8 +622,8 @@
 {1532}{}{Uomo di Latta}
 {1533}{}{Testa Parlante}
 {1534}{}{Shuttle della Federazione}
-{1535}{}{Unwashed Villagers}
-{1536}{}{Bridge}
+{1535}{}{Paesani Sudici}
+{1536}{}{Ponte}
 {1537}{}{Caffe' dei Sogni Infranti}
 {1538}{}{Paladini}
 {1539}{}{Grotta del Ratto Vorpal}

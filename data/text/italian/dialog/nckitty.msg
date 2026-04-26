@@ -7,11 +7,11 @@
 {204}{}{Maledetti fogli di lavoro Macrosoft...}
 {205}{}{Passo cosi' tanto tempo ad aggiornare questi fogli di lavoro che non riesco mai a LAVORARE davvero.}
 {206}{}{Jules fara' meglio a mandarci presto un po' di persone arrapate... e danarose.}
-{215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw. }
+{215}{}{(La donna di fronte a te e' incredibilmente bella. Non appena ti rivolgi a lei, alza lo sguardo e sorride.) Ah, una faccia nuova! Io sono Miss Kitty... benvenuto al Cat's Paw.}
 {216}{}{Bentornato!}
 {217}{}{Ma guarda un po’, il più famoso pugile di Reno!}
 {218}{}{Mi stavo proprio chiedendo quand'e' che Mr. }
-{219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo! }
+{219}{}{Cielo! Che mi venga un colpo se questa non e' la star dello schermo!}
 {220}{}{ Che cosa desideri oggi?}
 {221}{}{ Che cosa desideri oggi, miss?}
 {222}{}{Derideri?}
@@ -73,7 +73,7 @@
 {355}{}{Jules mi ha detto di venire qui per un po' di... divertimento.}
 {361}{}{Veramente, adesso devo andare.}
 {375}{}{Molto probabilmente saremo in grado di accontentarti. La tua richiesta sarebbe...?}
-{376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta".}
+{376}{}{Voglio che la mia partner indossi una tuta da Vault aderente, che mi chiami "Abitante del Vault" e che faccia finta che io debba trovare il "Vault SESS-anta."}
 {377}{}{Mi piacerebbe essere "catturato" da una splendida donna-mutante, ed essere costretto con la forza ad immergermi nella sua "vasca" mutagena.}
 {378}{}{Mi piacerebbe interpretare il ruolo di "Herk", un giovane schiavo celibe strappato dal suo villaggio da una banda di vigorose femmine schiaviste. E qui arriva il bello... Herk puo' comunicare soltanto con il suo CORPO.}
 {379}{}{Mi piacerebbe interpretare il ruolo di "Zena", una giovane schiava nubile strappata dal suo villaggio da una banda di schiavisti. E qui arriva il bello... Zena puo' comunicare soltanto con il suo CORPO.}
@@ -183,25 +183,25 @@
 {701}{}{Sgodevole.}
 {702}{}{Wow. E' stato... intenso.}
 {703}{}{Wow.}
-{704}{}{*Whew*}
+{704}{}{*Uff*}
 {705}{}{Eh... spero proprio di non averla messa incinta.}
 {706}{}{Non e' la stessa cosa quando il loro sangue e' ancora caldo, sai?}
 {707}{}{Spero che tu abbia preso appunti.}
 {708}{}{Le ragazze sono diventate piuttosto strane dalla fine del mondo... mi piace.}
 {709}{}{...ed e' per questo che le ragazze mi chiamavano "Dex, il Duca del Sesso".}
 {710}{}{(Parlate per ore. Le ragazze del Cat's Paw hanno un incredibile intuito per la natura umana).}
-{711}{}{(L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle").}
+{711}{}{L'uomo di Mordino arriva, e sembra rimanere colpito da te. Ti conduce a nord, fuori citta', in un posto chiamato "Le Stalle."}
 {720}{}{*fischia*}
-{721}{}{*clap clap clap*}
+{721}{}{*applausi*}
 {722}{}{Cosi' si fa!}
 {723}{}{Wahoo.}
-{730}{}{*sob sob sob*}
+{730}{}{*singhiozzo*}
 {731}{}{Mi sento cosi'... cosi'... truffata...}
-{740}{}{*Grunt*}
+{740}{}{*Grugnito*}
 {750}{}{*Aaawoooo*}
 {760}{}{*Bzzzt*}
 {770}{}{Cosi' si fa, Boss! Anch'io non faccio sesso da mooooooooooooolto tempo.}
 {800}{}{Hai consegnato le riviste Cat's Paw a Miss Kitty.}
 {900}{}{Ti senti piu' coordinato e in sintonia con il tuo corpo adesso.}
-{1218}{}{ ti avrebbe mandato qui...(Ti fa l'occhiolino.) }
+{1218}{}{ ti avrebbe mandato qui...(Ti fa l'occhiolino.)}
 {1336}{}{ dollari a settimana.}

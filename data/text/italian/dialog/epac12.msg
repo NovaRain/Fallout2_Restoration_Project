@@ -124,7 +124,7 @@
 {338}{}{Ho inviato copie dell'holodisc a quasi tutte le principali testate giornalistiche del mondo. Ha praticamente distrutto qualunque simpatia il governo americano avesse ancora. Potrei aver rivelato la verita' al mondo, ma temo di aver anche messo in moto la sua distruzione... Le cose sono escalate rapidamente, e otto mesi dopo, le bombe sono state sganciate.}
 {339}{}{Come sei finita in quel serbatoio dove ti ho trovata?}
 {340}{}{Il governo americano stava dando la caccia alla persona responsabile della fuga di notizie. Mi hanno finalmente raggiunta appena prima della fine. Stavano gia' preparandosi a congelarmi quando le sirene hanno suonato per la prima volta. Probabilmente per preservarmi nel caso avessi altri segreti che non avevo detto loro.}
-{341}{}{Davvero? }
+{341}{}{Davvero?}
 {342}{}{Non ha importanza adesso. Sono tutti morti...}
 {345}{}{Hai la minima idea di cosa diavolo hai combinato?}
 {346}{}{Quello che *potrei* aver provocato. Il mondo si sarebbe fatto saltare in aria prima o poi, comunque. Era solo questione di tempo.}

@@ -17,7 +17,7 @@
 {250}{}{Certo, perche' no? Tanto qui non succede mai niente di interessante. Ci si vede.}
 {251}{}{In bocca al lupo.}
 {260}{}{Nuova recluta? Stronzate. I rinforzi sono troppo rari da queste parti. Sembra che abbiamo un topo tra le mani. Addio!}
-{300}{}{Ma che cazzo! Aston non ha mai chiesto di vedermi. Non so che diavolo stia succedendo ma non c'e' traccia del tuo permesso di stare qui. Mi sembra proprio che abbiamo un intruso tra le mani — presto un intruso morto.}
+{300}{}{Ma che cazzo! Aston non ha mai chiesto di vedermi. Non so che diavolo stia succedendo ma non c'e' traccia del tuo permesso di stare qui. Mi sembra proprio che abbiamo un intruso tra le mani — presto un intruso morto}
 {400}{}{Ehi, che diavolo credi di fare!? Cercando di derubarci, proprio davanti ai miei occhi... santo cielo, sei un idiota. Finalmente posso uccidere qualcuno.}
 {401}{}{Ehi, che diavolo credi di fare!? Questa e' proprieta' privata, quindi non toccare nulla. Questo e' il tuo unico avvertimento.}
 {402}{}{Te l'avevo detto. Cercando di derubarci, proprio davanti ai miei occhi... santo cielo, sei un idiota. Finalmente posso uccidere qualcuno.}

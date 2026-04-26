@@ -14,7 +14,7 @@
 {230}{}{Avanti allora, Schwachkopf, spiegati. Ma fallo bene, o faro' picchiare i robot e ti faro' trascinare alla sedia elettrica!}
 {231}{}{Va bene. Prima di tutto, non sono una spia cinese -- sono quello che potresti chiamare un tribale. Sono stato scelto per intraprendere una missione pericolosa per salvare la mia tribu' dalla distruzione. Sono entrato in questo complesso solo nella speranza di recuperare qualcosa che potesse aiutarmi nella mia missione.}
 {232}{}{Vaffanculo. Sul serio, sei un *ologramma*. La cosa peggiore che puoi fare e' cercare di urlarmi fino alla morte, e ci stai provando alla grande. Quanto a quei rottami che chiami robot, forse sarei piu' intimorito se ne vedessi uno che funziona davvero.}
-{240}{}{Saccheggiare! Tu, Pissnelke! Come osi screditare il nome dell'EPA in questo modo! Nessuno rimuove nemmeno un foglio di carta da questo edificio senza il mio permesso! Tuttavia, arrivare cosi' lontano nell'EPA richiede una certa abilita'... forse potrei trovare un uso per te dopotutto.}
+{240}{}{Saccheggiare! Tu, Pissnelke! Come osi screditare il nome dell'EPA in questo modo! Nessuno rimuove nemmeno un foglio di carta da questo edificio senza il mio permesso! Tuttavia, arrivare cosi' lontano nell'EPA richiede una certa abilita'... forse potrei trovare un uso per te dopotutto. }
 {241}{}{Eh?}
 {242}{}{No, credo che rovistero' ancora un po' e poi andro'. Ciao!}
 {250}{}{Insolenza! Che insolenza da un Blödes Arschloch! Quando iniziai il mio addestramento, l'insolenza veniva punita. E puniti lo eravamo! Ricorda le mie parole, scheisskopf, quella tua lingua biforcuta un giorno ti fara' morire.}

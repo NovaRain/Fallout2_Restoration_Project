@@ -26,5 +26,5 @@
 {359}{}{Ti prego, aiutaci!}
 {360}{}{Fammi uscire da qui.}
 {400}{}{Oh, perché proprio a me!}
-{401}{}{*cough*}
+{401}{}{*tosse*}
 {402}{}{*Si gratta*}

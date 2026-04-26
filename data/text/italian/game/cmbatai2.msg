@@ -50,10 +50,10 @@
 {1140}{}{Oof!}
 {1160}{}{Aggghhh! la gamba!}
 {1161}{}{La gamba!}
-{1162}{}{Ecco che il ginocchio va a farsi benedire.}
+{1162}{}{Ecco che il ginocchio va a farsi benedire}
 {1170}{}{Aggghhh! la gamba!}
 {1171}{}{La gamba!}
-{1172}{}{Ecco che il ginocchio va a farsi benedire.}
+{1172}{}{Ecco che il ginocchio va a farsi benedire}
 {1180}{}{Aggghhh! Sono cieco!}
 {1181}{}{Gli occhi! Gli occhi!}
 {1182}{}{Il mio occhio! La pagherai per questo!}
@@ -207,7 +207,7 @@
 {1545}{}{Non sento piu' le gambe.}
 {1546}{}{Improvvisamente, sento caldo e ho sonno.}
 {1547}{}{Errrggggg!}
-{1548}{}{Gack! cough, cough.}
+{1548}{}{Gack! Cof, cof.}
 {1549}{}{Devo andare avanti, devo ammazzare i nemici....}
 {1550}{}{Le tenebre mi stanno chiamando.}
 {1551}{}{L'ora della mia morte si avvicina.}
@@ -320,7 +320,7 @@
 {1674}{}{Sculacciami mammina, sono stato cattivo.}
 {1675}{}{Verra' fuori una bella crosta.}
 {1676}{}{E' tutto mio quel sangue?}
-{1677}{}{Marshall Dillon, Marshall Dillon!}
+{1677}{}{Walker Texas Ranger, Walker Texas Ranger!}
 {1678}{}{Mi verranno le vesciche.}
 {1679}{}{Kai, yai, yippee, ai, ay!}
 {1680}{}{Dannato sangue negli occhi!}
@@ -472,7 +472,7 @@
 {2149}{}{Ti meriti tutto quello che ti faremo!}
 {2160}{}{Io non miro cosi' male, vero?}
 {2161}{}{Ho visto brahmin piu' svegli di te}
-{2162}{}{Whew!}
+{2162}{}{Fiuu!}
 {2163}{}{Non e' cosi' facile sconfiggermi.}
 {2164}{}{Grazie al cielo!}
 {2165}{}{Mi hai mancato!}
@@ -498,11 +498,11 @@
 {2247}{}{Ti randellero' come un figliastro pel-di-carota.}
 {2248}{}{Animale!}
 {2249}{}{Ti pentirai di aver messo piede qui dentro!}
-{2260}{}{Non sei poi cosi' bravo come pensavi}
-{2261}{}{Patetico}
-{2262}{}{Sei solo un criminale da strapazzo}
-{2263}{}{Non sei niente di speciale}
-{2264}{}{Non saro' la tua vittima}
+{2260}{}{Non sei poi cosi' bravo come pensavi.}
+{2261}{}{Patetico.}
+{2262}{}{Sei solo un criminale da strapazzo.}
+{2263}{}{Non sei niente di speciale.}
+{2264}{}{Non saro' la tua vittima.}
 {2265}{}{Questo e' stato il tuo ultimo errore.}
 {2300}{}{Me ne vado all'estero.}
 {2301}{}{Tornero'!}
@@ -535,7 +535,7 @@
 {2400}{}{Me ne vado!}
 {2401}{}{Forse non e' stata una buona idea.}
 {2402}{}{Attacca qualcun altro, okay!}
-{2403}{}{Yikes!}
+{2403}{}{Urca!}
 {2404}{}{Non moriro' per questo!}
 {2405}{}{Questo e' troppo per me!}
 {2420}{}{Ehi tu!}
@@ -945,7 +945,7 @@
 {12243}{}{E' ora di mettere la tua fottuta carcassa nella fossa.}
 {12244}{}{Ti faro' sputare il cuore e ci camminero' sopra.}
 {12245}{}{Mi dispiace solo di non avere il tempo di mettere la tua testa in una pressa...}
-{12246}{}{Lascia che ti mostri cosa facciamo alla spazzatura, da queste parti}
+{12246}{}{Lasciatemi mostrare cosa facciamo con i rifiuti qui intorno...}
 {12247}{}{Ti colpiro' cosi' forte che penserai si tratti di un terremoto...}
 {12248}{}{Ne ho abbastanza di questo stronzo...}
 {12249}{}{Saluta gli angeli da parte mia...}
@@ -1089,7 +1089,7 @@
 {32126}{}{Se insisti nel volere la lotta...}
 {32128}{}{Pensi davvero di potermi sconfiggere?}
 {32140}{}{Haiiiiiiii-YA!}
-{32141}{}{Chop-socky!}
+{32141}{}{Hai?yaa!}
 {32142}{}{rooOOOooo!}
 {32143}{}{Hai!}
 {32144}{}{Huh!}
@@ -1126,7 +1126,7 @@
 {32245}{}{L'Inferno dei morti bolliti vivi ti attende!}
 {32246}{}{Saluta i tuoi antenati da parte mia!}
 {32247}{}{Sono immortale!}
-{32248}{}{Chop-suey!}
+{32248}{}{Hai?yaa!}
 {32249}{}{Hai-YA!}
 {32260}{}{Mi sento invincibile!}
 {32261}{}{Fammi vedere di cosa sei capace.}
@@ -1205,7 +1205,7 @@
 {32526}{}{Ne ho anche per te, oh yeah.}
 {32540}{}{Adesso devi ballare.}
 {32541}{}{::canta::}
-{32542}{}{Iii... will always love YOOUUUUU}
+{32542}{}{Iooo... ti amero' per SEMPREEEE}
 {32543}{}{Non possiamo semplicemente essere amici?}
 {32544}{}{Sei COSI' morto.}
 {32545}{}{Piegati un secondo...}
@@ -1275,7 +1275,7 @@
 {32790}{}{Ooooooooo, il pube! Ooooooo...}
 {32791}{}{Oww...brucia!}
 {32792}{}{Urp!}
-{32793}{}{::gasp::}
+{32793}{}{::sussulto::}
 {32794}{}{Non...posso...respirare...}
 {32795}{}{Non c'e' problema... sono gia'... sterile...}
 {32800}{}{Padre Stellare! Aiutaci Tu!}
@@ -1406,7 +1406,7 @@
 {36020}{}{Ow, il braccio}
 {36021}{}{Hai rotto il braccio!}
 {36022}{}{Te ne pentirai!}
-{36030}{}{(Grunt!)}
+{36030}{}{(Grugnisce!)}
 {36031}{}{E' solo una ferita della carne!}
 {36032}{}{Grrr!}
 {36033}{}{Te ne pentirai!}
@@ -1426,7 +1426,7 @@
 {36092}{}{Urg! Petey! Va tutto bene laggiu'?}
 {36093}{}{Che...wheeeeze...male!}
 {36094}{}{Urp!}
-{36095}{}{Gasp!}
+{36095}{}{Sussulta!}
 {36100}{}{Ci rivedremo!}
 {36101}{}{Tornero'...}
 {36102}{}{Non sono mai stato sconfitto prima d'ora!}
@@ -1466,7 +1466,7 @@
 {36240}{}{Assaggia l'ira di Kaga!}
 {36241}{}{Non scomodarti ad implorare pieta'...}
 {36242}{}{Penso proprio che mi divertiro'!}
-{36243}{}{Oooo, Kaga l'ha sentito da qui.}
+{36243}{}{Oooo, Kaga l'ha sentito da qui,}
 {36244}{}{Riportero' la tua testa all'Anziana!}
 {36245}{}{Ti cavero' il cuore con un cucchiaio!}
 {36246}{}{Spero che tu non muoia cosi' in fretta come gli altri!}

@@ -67,7 +67,7 @@
 {207}{}{Il terminale fa la sua scelta.....Calcolo.....Pareggio!}
 {300}{}{(Lo schermo del computer mostra vari schemi di colori.)}
 {301}{}{Ohhh! Che bei colori.}
-{302}{}{-Allontanati-}
+{302}{}{Allontanati.}
 {400}{}{Leggi altro.}
 {401}{}{Torna al menu.}
 {402}{}{Cerca per argomento.}

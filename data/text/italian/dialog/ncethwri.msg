@@ -3,7 +3,7 @@
 {151}{}{Vedi la signora Wright. Sembra depressa ed e' in preda a singhiozzi di autocommiserazione.}
 {175}{}{Vedi una donna paffuta, con le guance rosa. Sembra essere di buon umore e sta canticchiando tra se' e se'.}
 {176}{}{Vedi la signora Wright. Sembra essere di buon umore e sta canticchiando tra se' e se'.}
-{200}{}{*Sigh*}
+{200}{}{*Sospiro*}
 {201}{}{Come puo' aver fatto una cosa simile a *me*?}
 {205}{}{Un'altra splendida giornata, qui a Reno!}
 {206}{}{::Fischietta mentre lavora...::}
@@ -14,7 +14,7 @@
 {211}{}{(La signora Wright sobbalza.) Oh, cielo! Mi hai fatto davvero paura! (Ti guarda con gli occhi socchiusi.) Beh, bentornato!}
 {212}{}{Chi, chi?}
 {213}{}{Salve, salve!}
-{214}{}{Tu non mamma...Mamma? Mammaaaaaa...?! Mamma! Me va cercare mamma.}
+{214}{}{Tu non mamma...Mamma? Mammaaaaaa...?! Mamma! Me va cercare mamma}
 {215}{}{Chi sei?}
 {216}{}{L'ho vista mentre canticchiava e ho pensato di fermarmi a parlare un po' con lei, signora. Che tempo magnifico, non trova?}
 {217}{}{Scusa. Credevo fossi qualcun altro.}
@@ -204,6 +204,6 @@
 {1251}{}{. Avrei delle domande da farle riguardo a New Reno...}
 {1415}{}{(Sobbalza.) Oh, cielo! (Ti guarda di traverso, poi arriccia le labbra con disprezzo.) Beh, per Diana! }
 {1430}{}{(Sobbalza.) Oh, cielo! }
-{1431}{}{(Ti squadra, poi il suo sguardo diventa glaciale.)}
+{1431}{}{(Ti squadra, poi il suo sguardo diventa glaciale.) }
 {1480}{}{La distruggerai tu? Io... beh, d'accordo... (Il fumo dell'ira gli esce dalle orecchie.) }
 {1530}{}{. Faro' in modo che la famiglia Wright righi dritto, d'ora in poi.}

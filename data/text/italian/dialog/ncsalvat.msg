@@ -1,13 +1,13 @@
 {100}{}{Vedi Louis Salvatore.}
 {150}{}{Vedi un gentiluomo anziano e ben vestito. Si trascina dietro una bombola di ossigeno e sembra avere difficolta' a respirare.}
 {151}{}{Vedi Louis Salvatore. Si trascina dietro una bombola di ossigeno e sembra avere difficolta' a respirare.}
-{200}{}{*Cough*}
-{201}{}{::Wheeze::}
-{202}{}{*Cough* *Cough*}
+{200}{}{*Tosse*}
+{201}{}{::Respiro sibilante::}
+{202}{}{*Tosse* *Tosse*}
 {210}{}{Guardie! Gu...*cough* *cough*...Guardie!}
 {215}{}{(Salvatore si gira verso di te con un'espressione impietrita. Ti osserva per una frazione di secondo e poi fa uno strano gesto con la sua mano. Subito, un allarme risuona per tutto il casino'.)}
 {216}{}{Owwww! Abbassare suono! Bua a orecchie! BUA A ORECCHIE!}
-{217}{}{IO NON PARLA CON QUESTO RUMORE. SPEGNI. POI PARLA.}
+{217}{}{IO NON PARLA CON QUESTO RUMORE. SPEGNI. POI PARLA}
 {218}{}{Ti SPEZZO le gambe, vecchio! Non camminerai mai piu'!}
 {219}{}{Lo sapevo che dovevo chiedere l'autorizzazione, prima...}
 {220}{}{Merda!}
@@ -52,7 +52,7 @@
 {352}{}{Grazie, Mr. Salvatore. Chiedero' a Mason.}
 {360}{}{Allora tu non mi sei... utile. Vattene subito.}
 {361}{}{Uh, aspettaunsecondo... ho cambiato idea. Lo faro'.}
-{362}{}{-Vattene senza dire una parola-}
+{362}{}{Vattene senza dire una parola.}
 {370}{}{(Spalanca gli occhi. Le parole che seguono sono sputate fuori con un sibilo stridulo.) ::Non hai ancora dimostrato la tua LEALTA':: Adesso va' da Mason. Ti dara' i... dettagli riguardanti il tuo lavoro.}
 {371}{}{D'accordo, allora. Lasciamo perdere le pistole, per adesso.}
 {372}{}{Capisco, Mr. Salvatore. Voglia scusare la mia insolenza. Andro' subito da Mason.}
@@ -146,7 +146,7 @@ qualcosa per te.}
 {653}{}{...no...Io...*hurrkkk*}
 {654}{}{...aiuto...*gasp*...ti...*cough*...prego...}
 {655}{}{...abbi...pieta'...}
-{656}{}{*wheeze*}
+{656}{}{*respiro affannoso*}
 {657}{}{...Io...}
 {658}{}{...Io...}
 {659}{}{::Smette di respirare.::}

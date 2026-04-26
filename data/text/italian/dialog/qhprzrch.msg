@@ -206,34 +206,34 @@
 {305}{}{E come intendi farlo? Cosa sta succedendo qui?}
 {306}{}{Permettimi di toglierti questo fardello. Per sempre.}
 {307}{}{Dev'essere bello, dal tuo punto di vista. Ci vediamo, signor Testa Bacata.}
-{308}{}{To the North}
-{309}{}{To the Northwest}
-{310}{}{To the West}
-{311}{}{To the Southwest}
-{312}{}{To the South}
-{313}{}{To the Southeast}
-{314}{}{To the East of here}
-{315}{}{To the Northeast}
+{308}{}{A Nord}
+{309}{}{A Nordovest}
+{310}{}{A Ovest}
+{311}{}{A Sudovest}
+{312}{}{A Sud}
+{313}{}{A Sudest}
+{314}{}{A Est da qui}
+{315}{}{A Nordest}
 {316}{}{Si'}
 {317}{}{No}
-{318}{}{Ouch}
-{319}{}{(cry of pain)}
-{320}{}{Why are you talking to me like that?}
-{321}{}{I don't know anything about that.}
-{322}{}{You're not very nice.}
-{323}{}{Thank-you. }
-{324}{}{This is good.}
-{325}{}{This isn't good.}
-{326}{}{I have a good feeling about this.}
-{327}{}{I have a bad feeling about this.}
-{328}{}{You people are crazy.}
+{318}{}{Ahi}
+{319}{}{(grido di dolore)}
+{320}{}{Perche' mi parli in quel modo?}
+{321}{}{Non ne so nulla.}
+{322}{}{Non sei molto gentile.}
+{323}{}{Grazie, }
+{324}{}{Questo è un bene.}
+{325}{}{Questo non va bene.}
+{326}{}{Ho un buon presentimento al riguardo.}
+{327}{}{Ho un brutto presentimento.}
+{328}{}{Siete tutti pazzi.}
 {329}{}{Di cosa stai parlando?}
-{330}{}{Is everyone else crazy here?}
-{331}{}{There must be another way.}
-{332}{}{Come here.}
-{333}{}{I don't understand.}
-{334}{}{I don't know.}
-{335}{}{That hurts.}
-{336}{}{That really hurts.}
-{337}{}{That's got to hurt.}
-{338}{}{Actually, Mr. President, I'm back.}
+{330}{}{Sono tutti pazzi qui?}
+{331}{}{Ci deve essere un altro modo.}
+{332}{}{Vieni qui.}
+{333}{}{Non capisco.}
+{334}{}{Non lo so.}
+{335}{}{Questo fa male.}
+{336}{}{Questo fa davvero male.}
+{337}{}{Deve fare male.}
+{338}{}{A dire il vero, signor Presidente, sono tornato.}
