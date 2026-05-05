@@ -69,7 +69,7 @@
 {409}{}{Hai mai sentito parlare di un Vault o di una persona di nome Vic?}
 {410}{}{Cosa c'e' da fare, qui in citta'?}
 {411}{}{Cos'avete da mangiare, qui?}
-{417}{}{Oh, guarda chi c’è… il mio eroe. Cosa può fare Mom per te oggi?}
+{417}{}{Oh, guarda chi c’e'… il mio eroe. Cosa puo' fare Mom per te oggi?}
 {425}{}{Lo so. Ma qui tutti mi chiamano cosi'. Diamine, arrivo persino a trattare le persone come fossero miei figli - a patto che rispettino le mie regole.}
 {426}{}{Regole?}
 {435}{}{Esatto. Niente furti, bestemmie e risse - nel mio locale, no no no. Perche' se lo fai, fuori te ne andrai. A me piace la tranquillita'.}
@@ -122,7 +122,7 @@
  la maggior parte dei loro genitori inetti. Con un'istruzione e un po' d'amore e cura, questi bambini potrebbero diventare il tipo di
  gente perbene di cui abbiamo cosi' disperatamente bisogno in questo mondo. Ho provato a fondare un orfanotrofio per loro, ma purtroppo non e' andato in porto.}
 {804}{}{Forse e' ora di riprovare. Non restera' in citta' ancora per molto, ma faro' quello che posso per aiutare finche' sono qui.}
-{805}{}{Peccato. È stato un piacere parlare con te. Ciao.}
+{805}{}{Peccato. E' stato un piacere parlare con te. Ciao.}
 {806}{}{Si', forse *potresti* aiutare. Vedi, ho procurato un grande edificio sul lato sud-ovest che, con un po' di lavoro, farebbe un ottimo
  orfanotrofio. Ma un branco di miserabili lo occupa abusivamente e si rifiuta di andarsene a meno che non paghi una cifra assurda. Anche se *avessi* i soldi, non li darei
  a quei bulli -- li userebbero solo per avvelenarsi ulteriormente. Andrei dalle autorita', ma purtroppo non esistono al Den.

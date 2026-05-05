@@ -34,7 +34,7 @@
 {122}{}{Aiuti Bobby a trovare una vita migliore.}
 {123}{}{Ciao di nuovo! Grazie di tutto. Adoro questo nuovo posto. Mom e' davvero una grande donna!}
 {124}{}{Adoro questo nuovo posto. Mom e' davvero una grande donna!}
-{125}{}{Sono così emozionato! È ora di preparare le mie cose.}
+{125}{}{Sono cosi' emozionato! E' ora di preparare le mie cose.}
 {126}{}{Mi chiedo se papà si accorgerà che sono sparito.}
 {127}{}{Andrà molto meglio così.}
 {200}{}{Non mi piaci. Vai via!}

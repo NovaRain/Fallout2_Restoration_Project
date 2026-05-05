@@ -138,7 +138,7 @@
 {355}{}{La natura cerca di eliminarci da millenni. Tutte queste nuove malattie, disastri naturali. Eravamo una specie di errore evolutivo. Forse siamo apparsi troppo presto o non avremmo dovuto apparire affatto. Abbiamo fatto piu' danni a questo pianeta di qualsiasi altra cosa viva o morta.}
 {356}{}{Ma possiamo espiarlo. Questa e' la cosa speciale di noi.}
 {357}{}{Hai un modo davvero bello di dirlo. Grazie per avermi ascoltata. Mi sento quasi come se potessi andare avanti.}
-{360}{}{Senti, visto che eri una spia, sono sicuro che sei piuttosto abile nella furtività e cose del genere. C'è qualcosa che puoi insegnarmi?}
+{360}{}{Senti, visto che eri una spia, sono sicuro che sei piuttosto abile nella furtivita' e cose del genere. C'e' qualcosa che puoi insegnarmi?}
 {361}{}{Si', ho avuto parecchia pratica con lo sgattaiolare, lo scassinare e il rubare. Ecco, lasciami mostrare alcune cose
  che non ti insegnano sui libri.}
 {362}{}{Ora hai capito. Ricorda, la pratica rende perfetti.}

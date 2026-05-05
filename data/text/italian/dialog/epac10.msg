@@ -418,7 +418,7 @@
 {1703}{}{Sembra a posto. Altro?}
 {1704}{}{Sono noto per prendere a pugni qualche culo con il buon vecchio pugilato. Da adolescente, ho provato il Karate per
  un po', ma continuavano a riempirmi di tutta quella roba sull'essere piu' disciplinato, cosi' gli ho detto di andare a fanculo. Cos'altro hai bisogno di sapere?}
-{1705}{}{Direi che è tutto. Grazie.}
+{1705}{}{Direi che e' tutto. Grazie.}
 {1800}{}{Sono pronto all'azione.}
 {1801}{}{Ho passato giorni migliori, ma posso farcela.}
 {1802}{}{Non mi sento molto bene.}
@@ -441,7 +441,7 @@
 {2020}{}{Non mi sogno nemmeno di viaggiare con te. Sei brutto da far schifo.}
 {2030}{}{Andiamo.}
 {2031}{}{Era ora di rimetterci in marcia.}
-{3000}{}{Allora, qual è la tua storia?}
+{3000}{}{Allora, qual e' la tua storia?}
 {3001}{}{Cosa, tipo la storia della mia vita? Senti, so di essere piuttosto affascinante, ma non voglio stare qui a parlare per sempre.
  La bocca mi si secchera' tutta e non c'e' molta acqua in giro - non e' proprio una bella situazione.
  Ma suppongo di potertela riassumere se vuoi davvero sapere... In realta' MI piace parlare di me stesso quindi lascio
@@ -457,7 +457,7 @@
 {3012}{}{Poi un giorno ho beccato la mia ragazza a fare la bestia a due schiene con un altro. Li ho fatti a pezzi, ho dato fuoco
  al posto, poi me la sono filata da Chicago. Ho passato i dieci anni successivi a girare il paese, sedurre ragazze
  e poi farle a pezzi. Poi alla fine mi hanno beccato, e il mio processo mi ha reso una celebrità.}
-{3013}{}{E poi cosa è successo?}
+{3013}{}{E poi cosa e' successo?}
 {3014}{}{Poi una delle mie nuove fan, Alice, mi aiuta a scappare. Noi due ci lanciamo in tre settimane di massacri attraverso il paese
  prima di cadere infine in una sparatoria. Poi, per qualche ragione, Il Sistema decide di ricucirmi e sottopormi a tutti
  questi test. Ed e' cosi' che sono finito all'EPA dove mi hai trovato.}
@@ -487,7 +487,7 @@
 {3032}{}{L'ho beccata sul fatto, e ho perso la testa. Le cose si sono fatte davvero brutali. Era stato un lavoro sloppy e non avrei mai potuto
  semplicemente coprirlo. Cosi' ho dato fuoco al posto e sono andato via. Ho viaggiato molto, ho fatto molte ragazze e
  ne ho lasciate la maggior parte morte. Non era una brutta vita, sai? Ci hanno messo dieci anni, ma la legge mi ha finalmente raggiunto.}
-{3033}{}{Uh-oh. E poi cosa è successo?}
+{3033}{}{Uh-oh. E poi cosa e' successo?}
 {3034}{}{Poi mi hanno processato ed e' diventato un piccolo circo mediatico. Le ragazze adoravano perche' sono un gran bel tipo,
  e tutti gli altri adoravano perche' era una distrazione dalle notizie sulla Nuova Peste e dalla politica. Cosi' ho pensato di
  dargli un vero spettacolo.}

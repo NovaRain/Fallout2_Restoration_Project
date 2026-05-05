@@ -16,7 +16,7 @@
 {241}{}{Certo, posso eliminare tutte le piante di spore per te. Tornero' quando avro' finito.}
 {242}{}{E' stato facile. Li ho gia' uccisi tutti.}
 {250}{}{Ciao di nuovo. Cosa posso fare per te? *Sospiro*}
-{251}{}{Sembri piuttosto giù. Cosa c'è che non va?}
+{251}{}{Sembri piuttosto giù. Cosa c'e' che non va?}
 {260}{}{Salve di nuovo. Hai ripensato ad aiutarmi? Come ho detto prima, ne varra' la pena per te.}
 {261}{}{Sì, perché no. Non ho niente di meglio da fare.}
 {262}{}{No, sono ancora troppo impegnato. Tornerò un'altra volta.}
