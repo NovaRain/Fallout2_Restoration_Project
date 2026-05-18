@@ -2037,9 +2037,9 @@
 {117100}{}{Tubi arrugginiti}
 {117101}{}{Un insieme di vecchi tubi arrugginiti.}
 {117200}{}{Cisterna}
-{117300}{}{Gazie}
-{117400}{}{Gazie}
-{117500}{}{Gazie}
+{117300}{}{Serbatoi}
+{117400}{}{Serbatoi}
+{117500}{}{Serbatoi}
 {117600}{}{Presa d'Aria}
 {117700}{}{Presa d'Aria}
 {117800}{}{Insegna dell'Harp}
