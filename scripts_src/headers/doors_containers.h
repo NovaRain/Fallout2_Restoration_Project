@@ -1222,19 +1222,20 @@ the player locks it once more.
 ***************************************************************************************/
 #ifndef custom_map_enter_p_proc
   procedure map_enter_p_proc begin
+    call ensure_no_locked_open;
+
+    /* Don't change door state when player is already on the map */
+    if is_loading_game then return;
+
     /* Set up the door state when the player first enters the map */
     if (local_var(LVAR_Set_Door_Status) == 0) then begin
-      set_local_var(LVAR_Set_Door_Status,1);
-      set_local_var(LVAR_Locked,LOCKED_STATUS);
-      set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+      set_local_var(LVAR_Set_Door_Status, 1);
+      set_local_var(LVAR_Locked, LOCKED_STATUS);
+      set_local_var(LVAR_Trapped, TRAPPED_STATUS);
     end
+
     if (local_var(LVAR_Locked) == STATE_ACTIVE) then begin
-      // Ensure that we don't have objects "locked open"
-      if obj_is_open(self_obj) then begin
-        obj_close(self_obj);
-      end
-      // Ensure locked status
-      obj_lock(self_obj);
+      call close_and_lock_self;
     end else begin
       obj_unlock(self_obj);
     end

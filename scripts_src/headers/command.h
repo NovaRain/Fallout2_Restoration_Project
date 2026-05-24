@@ -1369,4 +1369,39 @@ variable removed_qty;
 )
 #define can_be_gas_poisoned(x) ((x == dude_obj) and not (protected_from_gas(x)))
 
+// DOORS //
+/**
+ * Ensure that we don't have objects "locked open".
+ * This shouldn't happen, but apparently does.
+ * If we're entering a map, and the object is "locked open", then close it.
+ * If we're loading a game, (already on the map) then just unlock.
+ */
+procedure ensure_no_locked_open begin
+  // If not "locked open", skip
+  if not (obj_is_open(self_obj) and obj_is_locked(self_obj)) then return;
+
+  // We don't want to close+re-lock the door on game load, that makes gameplay inconsistent. So we just unlock.
+  if is_loading_game then begin
+    obj_unlock(self_obj);
+  end else begin
+    // But if PC enters the map, close+lock is justified.
+    // defensive: if the object is "locked open", then unlock first, otherwise close fails
+    obj_unlock(self_obj);
+    obj_close(self_obj);
+    obj_lock(self_obj);
+  end
+end
+
+/**
+ * Optionally closes, then non-optionally locks `self_obj`.
+ * So that we don't have objects "locked open".
+ */
+procedure close_and_lock_self begin
+   if obj_is_open(self_obj) then begin
+      obj_close(self_obj);
+   end
+   obj_lock(self_obj);
+end
+// END DOORS
+
 #endif // COMMAND_H
