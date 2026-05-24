@@ -127,6 +127,7 @@ procedure Damage_Critter;
 procedure trap_search_result(variable found_trap, variable who);
 procedure real_explosion(variable explosive);
 procedure roll_critical;
+procedure ensure_no_locked_open;
 
 /*****************************************************************
 Local Variables which are saved. All Local Variables need to be
@@ -475,33 +476,49 @@ it through Mapper. After the door has been unlocked, it will remain as such, unl
 the player locks it once more.
 ***************************************************************************************/
 procedure map_enter_p_proc begin
+    call ensure_no_locked_open;
+
+    /* Set up the door state when the player enters the map */
+    if is_loading_game then return;
+
+    // Initial setup runs once per game
     if (local_var(LVAR_Set_Door_Status) == 0) then begin
       set_local_var(LVAR_Set_Door_Status, 1);
-      set_local_var(LVAR_Trapped,TRAPPED_STATUS);
+      obj_unlock(self_obj);
+      set_local_var(LVAR_Trapped, TRAPPED_STATUS);
     end
 
-    // Locked status: locked
+    // Repeating setup runs on every map enter (not game load to the same map)
+    // Some doors, like Rebecca's basement door, have dynamic LOCKED_STATUS. Active when she's alive, inactive when dead.
+    // Same for Eldrige, etc. They re-lock on re-entering the map.
     if (LOCKED_STATUS == STATE_ACTIVE) then begin
-      // Ensure that we don't have objects "locked open"
-      // Some doors, like Rebecca's basement door, have dynamic status. Active when she's alive, inactive when dead.
-      if obj_is_open(self_obj) and obj_is_locked(self_obj) then begin
-        // We don't want to close+re-lock the door on simple game load, that makes gameplay inconsistent.
-        // So we just unlock. (This shouldn't happen anyway, defensive code)
-        if is_loading_game then begin
-          obj_unlock(self_obj);
-        end else begin
-          // But if it's map change, close+lock is justified.
-          // defensive: if the door is "locked open", then unlock first, otherwise close fails
-          obj_unlock(self_obj);
-          obj_close(self_obj);
-          obj_lock(self_obj);
-        end
-      end
+      obj_lock(self_obj);
     end else begin
       obj_unlock(self_obj);
     end
 end
 
+/**
+ * Ensure that we don't have objects "locked open".
+ * This shouldn't happen, but apparently does.
+ * If we're entering a map, and the object is "locked open", then close it.
+ * If we're loading a game, (already on the map) then just unlock.
+ */
+procedure ensure_no_locked_open begin
+  // If not "locked open", skip
+  if not (obj_is_open(self_obj) and obj_is_locked(self_obj)) then return;
+
+  // We don't want to close+re-lock the door on simple game load, that makes gameplay inconsistent. So we just unlock.
+  if is_loading_game then begin
+    obj_unlock(self_obj);
+  end else begin
+    // But if it's map change, close+lock is justified.
+    // defensive: if the door is "locked open", then unlock first, otherwise close fails
+    obj_unlock(self_obj);
+    obj_close(self_obj);
+    obj_lock(self_obj);
+  end
+end
 
 /**************************************************************************************
 This procedure gets called roughly every 30 seconds of real time. It is used to make
