@@ -475,12 +475,10 @@ it through Mapper. After the door has been unlocked, it will remain as such, unl
 the player locks it once more.
 ***************************************************************************************/
 procedure map_enter_p_proc begin
-    call ensure_no_locked_open;
-
-    /* Don't change door state when player is already on the map */
+    /* Don't change state when player is already on the map */
     if is_loading_game then return;
 
-    // Initial setup runs once per game
+    /* Set up the state vars when the player first enters the map */
     if (local_var(LVAR_Set_Door_Status) == 0) then begin
       set_local_var(LVAR_Set_Door_Status, 1);
       obj_unlock(self_obj);
