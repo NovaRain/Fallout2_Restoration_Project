@@ -492,6 +492,9 @@ procedure map_enter_p_proc begin
     // Some doors, like Rebecca's basement door, have dynamic LOCKED_STATUS. Active when she's alive, inactive when dead.
     // Same for Eldrige, etc. They re-lock on re-entering the map.
     if (LOCKED_STATUS == STATE_ACTIVE) then begin
+      if obj_is_open(self_obj) then begin
+        obj_close(self_obj);
+      end
       obj_lock(self_obj);
     end else begin
       obj_unlock(self_obj);
