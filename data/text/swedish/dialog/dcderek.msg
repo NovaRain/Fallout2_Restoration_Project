@@ -60,4 +60,4 @@
 {313}{}{Hej då.}
 {314}{}{Ingenting.}
 {320}{}{Hey! Get away from me!}
-{321}{}{Don't touch me!}
+{321}{}{Rör mig inte!}
