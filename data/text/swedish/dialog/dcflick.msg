@@ -75,9 +75,9 @@
 {460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
  get to it. If not, fuck off.}
-{461}{}{Alright, let's see what you have in stock then.}
-{462}{}{I think I have all I need. Goodbye.}
-{463}{}{I think I'll stay... and kick your ass.}
+{461}{}{Okej, då ska vi väl se vad du har i lager.}
+{462}{}{Jag tror att jag har allt jag behöver. Hej då.}
+{463}{}{Jag tror jag stannar kvar... och ger dig en ordentlig omgång.}
 {470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
  In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
  trade, then I suggest you turn around and walk the fuck outta here.}
