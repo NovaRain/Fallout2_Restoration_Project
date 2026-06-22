@@ -84,5 +84,5 @@
 {471}{}{Let's trade.}
 {472}{}{Jag kollar bara. Hej då, Flick.}
 {480}{}{You done wastin' my time?}
-{481}{}{Let me take another look.}
-{482}{}{That should do it. Goodbye Flick.}
+{481}{}{Låt mig titta en gång till.}
+{482}{}{Det borde räcka. Hej då, Flick.}
