@@ -29,7 +29,7 @@
 {246}{}{Chả bao giờ mua được quần áo mới nữa.}
 {247}{}{Cần phải lên một kế hoạch mới...}
 {260}{}{Cám ơn đã trả giúp tôi!}
-{261}{}{Cậu đúng là cứu tinh đấy.}
+{261}{}{Cô đúng là cứu tinh đấy.}
 {262}{}{I'll have the money for you soon.}
 {263}{}{I'll win it big anytime soon!}
 {264}{}{You're the first person I'll see when I win big.}
