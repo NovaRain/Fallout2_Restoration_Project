@@ -4,7 +4,7 @@
 {200}{}{Draa hääifrån, din idiot.}
 {201}{}{Hörru, köttbullen! Ja, du. Draa hääirån.}
 {202}{}{Är du dum elle'?}
-{203}{}{Whatchur problem, eh?}
+{203}{}{Vad e de' me' dig, då?}
 {204}{}{Draa hääifrån, fö' i helvette}
 {220}{}{Hallå dä', jag ä' Flick. Vad i helvete vill du, va?}
 {221}{}{Now what? You wastin' my time heeya.}
@@ -16,7 +16,7 @@
 {241}{}{Egentligen skulle jag vilja ta en titt till på dina varor om jag får.}
 {242}{}{Jag skulle faktiskt vilja ställa en fråga till dig.}
 {243}{}{Det var allt. Vi ses, Flick.}
-{260}{}{I'm a fuckin' provider, waddya think? I'm like a good Samurai-itan guy.}
+{260}{}{Jag är en jävla försörjare, va' trodde 'u? Jag är som en god samuraj-it, eller nåt.}
 {261}{}{Vad sa du?}
 {262}{}{Ja, eh, nåja.. låt mig fråga dig något annat.}
 {263}{}{Eh, åh. OK, Hej då, Flick.}
@@ -46,12 +46,12 @@
 {364}{}{Tack för det. Låt mig fråga dig något annat.}
 {365}{}{Tack, det är allt jag behöver veta. Adjö.}
 {380}{}{Morsan driver ett matställe på östra sidan av stan. Precis efter kyrkogården. Trevligt ställe, hon har bra pasta, Mama mia.}
-{381}{}{Thanks, What about that Metzger fellow that's got Vic?}
+{381}{}{Tack, Hur blev det med den där Metzger som har tagit Vic?}
 {382}{}{Tack för det. Låt mig fråga dig något annat.}
 {383}{}{Tack, det är allt jag behöver veta. Adjö.}
-{400}{}{That's right. Metzger, that stronzo, he's dead. I don't know what happen to Vic.}
-{401}{}{That Metzger, he's a real rompiballe, that one. Runs the Slaver's Guild. East side of town, just north of Momma's. Anyhow, he got Vic, I know.}
-{402}{}{Thanks, now what about Momma?}
+{400}{}{Det stämmer. Metzger, den där stronzon, han är död. Jag vet inte vad som har hänt med Vic.}
+{401}{}{Den där Metzger, han är en riktig rompiballe, den jäveln. Han driver Slavhandlargillet. På stadens östra sida, precis norr om Morsans. Hur som helst, han har tagit Vic, det vet jag.}
+{402}{}{Tack, men hur är det med Morsan då?}
 {403}{}{Tack för det. Låt mig fråga dig något annat.}
 {404}{}{Tack, det är allt jag behöver veta. Adjö.}
 {410}{}{Well fuck me sideways, look who came by. The good samaritan who "saved the children" decided to grace me with his presence.
@@ -75,14 +75,14 @@
 {460}{}{Yeah... business was good 'til you came along. See, yer little stunt's gonna cost me. My business is gonna suffer thanks to you.
  Because of this, I don't really like you too much. In fact, I fuckin' hate you. But, I'm a business man, so if you need to barter,
  get to it. If not, fuck off.}
-{461}{}{Alright, let's see what you have in stock then.}
-{462}{}{I think I have all I need. Goodbye.}
-{463}{}{I think I'll stay... and kick your ass.}
+{461}{}{Okej, då ska vi väl se vad du har i lager.}
+{462}{}{Jag tror att jag har allt jag behöver. Hej då.}
+{463}{}{Jag tror jag stannar kvar... och ger dig en ordentlig omgång.}
 {470}{}{You again? You better be here to make some good trades, 'cause I'm getting real fuckin' sick of looking at you.
  In fact, I vomit in my mouth a little every time I see yer face. That's how much you disgust me. And if yer not here to
  trade, then I suggest you turn around and walk the fuck outta here.}
 {471}{}{Let's trade.}
 {472}{}{Jag kollar bara. Hej då, Flick.}
 {480}{}{You done wastin' my time?}
-{481}{}{Let me take another look.}
-{482}{}{That should do it. Goodbye Flick.}
+{481}{}{Låt mig titta en gång till.}
+{482}{}{Det borde räcka. Hej då, Flick.}
