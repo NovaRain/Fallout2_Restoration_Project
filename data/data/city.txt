@@ -318,7 +318,6 @@ entrance_0=On,130,150,Ghost Town: The Ghost Farm,-1,-1,0
 entrance_1=Off,-1,-1,Ghost Town: Main Cavern,-1,-1,0
 entrance_2=Off,-1,-1,Ghost Town: Underground Lake,-1,-1,0
 
-
 ; NOTE: This index # CANNOT CHANGE without a code change in Worldmap.c!
 [Area 21]                ; Car out of gas Sub-area
 area_name=Car Outta Gas
@@ -334,6 +333,7 @@ townmap_label_art_idx=-1
 entrance_0=On,130,150,Car: Desert,-1,-1,0
 
 
+
 [Area 22]                ; Destroyed Arroyo
 area_name=Arroyo
 world_pos=184,133
@@ -342,6 +342,7 @@ size=Medium
 townmap_art_idx=-1
 townmap_label_art_idx=370
 entrance_0=On,345,230,Destroyed Arroyo Bridge,-1,26719,0
+
 
 
 [Area 23]                ; Klamath Toxic Caves
@@ -462,7 +463,7 @@ start_state=Off
 size=Small
 townmap_art_idx=-1
 townmap_label_art_idx=-1
-entrance_0=On,345,230,New Reno Golgatha,0,-1,-1,0
+entrance_0=On,345,230,New Reno Golgatha,-1,-1,0
 
 
 [Area 31]		; Special Encounter Whale
@@ -473,7 +474,7 @@ lock_state=Off
 size=Small
 townmap_art_idx=-1
 townmap_label_art_idx=-1
-entrance_0=On,345,230,Special Whale Encounter,0,-1,-1,0
+entrance_0=On,345,230,Special Whale Encounter,-1,-1,0
 
 
 [Area 32]		; Special Encounter Tin Woodsman
