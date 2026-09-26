@@ -110,7 +110,7 @@ variable Delete_Self := 0;
 variable chamber := 0;
 
 #define CATJULES_HIB_HEX         (17096)
-#define CATJULES_LOCKER_HEX      (15700)
+#define CATJULES_LOCKER_HEX      (15696)
 
 procedure timed_event_p_proc;
 
