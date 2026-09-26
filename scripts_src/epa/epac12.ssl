@@ -204,7 +204,7 @@ variable Delete_Self := 0;
 variable chamber := 0;
 
 #define KITSUNE_HIB_HEX           (17102)
-#define KITSUNE_LOCKER_HEX        (15705)
+#define KITSUNE_LOCKER_HEX        (15702)
 
 procedure timed_event_p_proc;
 

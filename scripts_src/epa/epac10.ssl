@@ -238,7 +238,7 @@ procedure Node315;
 procedure Node316;
 
 #define DEX_HIB_HEX           (17090)
-#define DEX_LOCKER_HEX        (15694)
+#define DEX_LOCKER_HEX        (15690)
 
 procedure start begin
    //critter_add_trait(self_obj, TRAIT_OBJECT, OBJECT_AI_PACKET, AI_TOUGH_GUARD);
