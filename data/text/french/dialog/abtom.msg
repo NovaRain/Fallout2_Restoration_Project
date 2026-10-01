@@ -4,7 +4,7 @@
 {200}{}{[Le vieil homme semble surpris de te voir.] Ecoute, faut vraiment que j'y aille...}
 {201}{}{Attends une minute. [Tu agrippes l'homme par le bras alors qu'il tente de s'éloigner.] Qui es-tu et que fais-tu ici à une heure pareille ?}
 {202}{}{Quoi ? Pourquoi, euh... Mon nom est Tom et un vieil homme ne peut plus faire une promenade nocturne sans qu'on lui pose une foule de questions ?}
-{203}{}{Pas d'où je viens. Alors, pourquoi tu as besoin d'une pelle ?}
+{203}{}{Pas quand il rôde comme un voleur avec une pelle.}
 {204}{}{Très bien, mais la pelle, elle te sert à quoi ?}
 {205}{}{Qu'importe, je suis là aussi.}
 {206}{}{Ça ne fait rien. Je m'excuse de t'avoir dérangé.}
