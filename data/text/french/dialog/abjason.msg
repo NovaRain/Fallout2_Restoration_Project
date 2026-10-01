@@ -29,7 +29,7 @@
 {251}{}{Tu marques un point, ça semble complètement idiot.}
 {252}{}{Aussi con que de rester assis là à t'écouter cracher sur ta vie. Salut.}
 {253}{}{Si c'est aussi stupide que tu le dis, pourquoi n'essaies-tu pas de changer tout ça ?}
-{260}{}{Enfin, quelqu'un qui me comprend. Ecoute, j'ai une idée, et peut-être pourras-tu m'aider. Tu vois, les moines qui vivent ici ont passé des années à retranscrire toutes les informations concernant la période d'avant-guerre dans la base de données de notre ordinateur. Si quelqu'un venait à formater *accidentellement* la base de données, ils perdraient tout leur travail. Je pense que quelque chose comme ça pourrait pourrait les faire revenir à la réalité, et nous pourrions enfin nous débarrasser de cette stupide manière de vivre. Alors qu'en penses-tu ?}
+{260}{}{Enfin, quelqu'un qui me comprend. Ecoute, j'ai une idée, et peut-être pourras-tu m'aider. Tu vois, les moines qui vivent ici ont passé des années à retranscrire toutes les informations concernant la période d'avant-guerre dans la base de données de notre ordinateur. Si quelqu'un venait à formater *accidentellement* la base de données, ils perdraient tout leur travail. Je pense que quelque chose comme ça pourrait pourrait les faire revenir à la réalité, et nous pourrions enfin nous débarrasser de cette manière de vivre débile. Alors qu'en penses-tu ?}
 {261}{}{Je pense que c'est une idée horrible et que j'en ai assez de te parler.}
 {262}{}{Effacer des années d'un travail difficile ? Ca semble marrant. Je le ferai.}
 {263}{}{Pourquoi ne le formates-tu pas toi-même ?}

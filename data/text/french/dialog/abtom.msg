@@ -33,7 +33,7 @@
 {305}{}{[Le vieil homme hoche la tête et retourne à ce qu'il faisait avant.]}
 {306}{}{[Terminé]}
 {307}{}{Rebonjour. Merci pour tout !}
-{308}{}{::Siffle::}
+{308}{}{*Siffle*}
 {400}{}{Vous, les jeunes, vous n'apprenez jamais rien. T'es pas mon patron. J'vais t'buter.}
 {450}{}{Ecoute, j'ai pillé quelques tombes moi aussi. Je suis un peu kleptomane. Et toi, pourquoi fais-tu ça ?}
 {451}{}{Le pillage de tombes ne m'est pas étranger non plus, Tom. Tout le monde à ses petits plaisirs. Maintenant, c'est à toi de voir.}
