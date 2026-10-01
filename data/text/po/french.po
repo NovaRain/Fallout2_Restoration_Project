@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-01 01:31+0000\n"
+"PO-Revision-Date: 2026-10-01 02:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
@@ -3149,12 +3149,12 @@ msgstr "Tu dois faire vite ou nous allons tous..."
 #. indexed_txt
 #: cuts/timelim4.txt:1 cuts/timelim4.txt:2
 msgid "Chosen?"
-msgstr "Etre Elu ?"
+msgstr "Être Élu ?"
 
 #. indexed_txt
 #: cuts/timelim4.txt:3
 msgid "Do you hear me?"
-msgstr "Etre Elu ? M'entends-tu ?"
+msgstr "M'entends-tu ?"
 
 #. indexed_txt
 #: cuts/timelim4.txt:4
@@ -3240,10 +3240,15 @@ msgid ""
 "you should ask, I just might have something that\n"
 " would interest your friend here."
 msgstr ""
-"Hé hé, oui les habitants de l'Abbaye aiment collectionner les objets. C'est "
-"notre façon de nous remémorer le passé. [Il regarde Marcus.] C'est marrant "
-"que tu me demandes ça, car j'ai peut-être quelque chose qui pourrait "
-"t'intéresser."
+"Hé hé, alors tu as remarqué ça, hein ? Ouais, les habitants de l'Abbaye ont "
+"une certaine fascination pour tout ce qui date d'avant-guerre, surtout quand "
+"il s'agit de technologie. Ils ont créé une sorte de religion farfelue autour "
+"de ça. Je ne la comprends pas vraiment, moi-même, mais ce sont des gens "
+"sympathiques et ils paient bien pour tout objet d'avant-guerre que je "
+"parviens à récupérer. Mais bref, pour ce qui est de quelque chose de "
+"spécial... hmm, [Il jette un regard à Marcus.] C'est marrant que tu me poses "
+"la question, j'ai peut-être quelque chose qui pourrait intéresser ton ami "
+"ici."
 
 #: dialog/abbill.msg:212
 msgid ""
@@ -3257,10 +3262,15 @@ msgid ""
 "don't think I have anything special you'd find\n"
 " useful right now."
 msgstr ""
-"Hé hé, oui les habitants de l'Abbaye aiment collectionner les objets. C'est "
-"notre façon de nous remémorer le passé. [Il te regarde toi et tes "
-"compagnons.] Désolé, je ne pense pas avoir quelque chose qui pourrait t'être "
-"utile pour le moment."
+"Hé hé, alors tu as remarqué ça, hein ? Ouais, les habitants de l'Abbaye ont "
+"une certaine fascination pour tout ce qui date d'avant-guerre, surtout quand "
+"il s'agit de technologie. Ils ont créé une sorte de religion farfelue autour "
+"de ça. Je ne la comprends pas vraiment, moi-même, mais ce sont des gens "
+"sympathiques et ils paient bien pour tout objet d'avant-guerre que je "
+"parviens à récupérer. Mais bref, pour ce qui est de quelque chose de "
+"spécial... hmm, [Il jette un regard à Marcus.] C'est marrant que tu me poses "
+"la question, j'ai peut-être quelque chose qui pourrait intéresser ton ami "
+"ici."
 
 #: dialog/abbill.msg:213
 msgid "Oh, well. Let's see what you have in stock instead."
@@ -3716,7 +3726,7 @@ msgid ""
 " a trap in the doorframe."
 msgstr ""
 "Tu vois une porte solide sans dispositif de verrouillage apparent et un "
-"piège placé sur l'encadrement de la porte"
+"piège placé dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:125 dialog/bselev.msg:125 dialog/door.msg:125
 #: dialog/sislvdor.msg:125
@@ -3724,8 +3734,8 @@ msgid ""
 "You see a sturdy door with an old, rusty lock and a trap\n"
 " in the doorframe."
 msgstr ""
-"Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé sur "
-"l'encadrement de la porte."
+"Tu vois une porte robuste avec un vieux verrou rouillé et un piège placé "
+"dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:126 dialog/door.msg:126
 msgid ""
@@ -3733,7 +3743,7 @@ msgid ""
 " lockpicks) and a cut wire in the doorframe."
 msgstr ""
 "Tu vois une porte solide avec un verrou (pouvant être ouvert avec un passe-"
-"partout) et un fil sectionné sur l'encadrement de la porte."
+"partout) et un fil sectionné dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:127 dialog/bselev.msg:127 dialog/door.msg:127
 #: dialog/sislvdor.msg:127
@@ -3741,7 +3751,7 @@ msgid ""
 "You see a sturdy door with a lock on it and a severed wire\n"
 " in the doorframe."
 msgstr ""
-"Tu vois une porte robuste avec un verrou et un fil sectionné sur "
+"Tu vois une porte robuste avec un verrou et un fil sectionné dans "
 "l'encadrement de la porte."
 
 #: dialog/abdoor.msg:128 dialog/bselev.msg:128 dialog/door.msg:128
@@ -3751,7 +3761,7 @@ msgid ""
 " a severed wire in the doorframe."
 msgstr ""
 "Tu vois une porte solide sans dispositif de verrouillage apparent et un fil "
-"sectionné sur l'encadrement de la porte."
+"sectionné dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:129 dialog/bselev.msg:129 dialog/door.msg:129
 #: dialog/sislvdor.msg:129
