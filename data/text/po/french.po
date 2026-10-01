@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-01 04:31+0000\n"
+"PO-Revision-Date: 2026-10-01 05:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
@@ -3947,7 +3947,7 @@ msgid ""
 " a highly explosive trap in the doorframe."
 msgstr ""
 "Tu vois une vieille porte sans dispositif de verrouillage apparent et un "
-"piège hautement explosif sur sur l'encadrement de la porte."
+"piège hautement explosif dans l'encadrement de la porte."
 
 #: dialog/abdoor.msg:153 dialog/bselev.msg:153 dialog/door.msg:153
 #: dialog/sislvdor.msg:153
@@ -5069,7 +5069,7 @@ msgstr "[La garder]"
 
 #: dialog/abhank.msg:300
 msgid "Where did I put my lighter?"
-msgstr "Bordel où ai-je mis mon briquet?"
+msgstr "Bordel où j'ai mis mon briquet?"
 
 #: dialog/abhank.msg:301
 msgid "I need a lighter."
@@ -5234,7 +5234,7 @@ msgstr "Merci."
 #: dialog/amonk2.msg:500 dialog/amonk3.msg:500 dialog/amonk4.msg:500
 #: dialog/mcfarrel.msg:151
 msgid "Stop that!"
-msgstr "Arrête ça! "
+msgstr "Arrête ça!"
 
 #: dialog/abhealer.msg:403 dialog/abhealer.msg:406
 msgid "[GO ON]"
@@ -5272,7 +5272,7 @@ msgid ""
 "sick fuck?"
 msgstr ""
 "Tu as gagné %d points d'expérience pour avoir fait fondre Jack. T'es content "
-"maintenant, enfoiré !"
+"maintenant, enfoiré?"
 
 #: dialog/abhealer.msg:600
 msgid ""
@@ -5620,8 +5620,8 @@ msgstr ""
 "dans la base de données de notre ordinateur. Si quelqu'un venait à formater "
 "*accidentellement* la base de données, ils perdraient tout leur travail. Je "
 "pense que quelque chose comme ça pourrait pourrait les faire revenir à la "
-"réalité, et nous pourrions enfin nous débarrasser de cette stupide manière "
-"de vivre. Alors qu'en penses-tu ?"
+"réalité, et nous pourrions enfin nous débarrasser de cette manière de vivre "
+"débile. Alors qu'en penses-tu ?"
 
 #: dialog/abjason.msg:261 dialog/abjason.msg:271
 msgid "I say that's a terrible idea and that I'm done talking to you."
@@ -7573,7 +7573,7 @@ msgid ""
 msgstr ""
 "[Sous le choc, il ouvre grand ses yeux et il a l'air d'avoir soudainement "
 "dessoûlé.] C'est pas ce que je voulais dire, espèce de... de MONSTRE ! "
-"PERVERS ! Ne m'approche pas !"
+"PERVERS ! Ne m'approche pas ! "
 
 #: dialog/absamuel.msg:421
 msgid "Whatever, you drunk old fuck. You don't know what you're missing."
@@ -7738,24 +7738,24 @@ msgstr ""
 
 #: dialog/absamuel.msg:1000 dialog/abtom.msg:308
 msgid "*Whistle*"
-msgstr "::Siffle::"
+msgstr "*Siffle*"
 
 #: dialog/absamuel.msg:1001 dialog/ncbigjes.msg:211 dialog/ncsalvat.msg:202
 msgid "*Cough* *Cough*"
-msgstr "::Toux:: ::Toux::"
+msgstr "*Tousse* *Tousse*"
 
 #: dialog/absamuel.msg:1002
 msgid "*Clears throat*"
-msgstr "::Raclement de gorge::"
+msgstr "*Racle sa gorge*"
 
 #: dialog/absamuel.msg:1003 dialog/ncsalvat.msg:200
 msgid "*Cough*"
-msgstr "::Tousse::"
+msgstr "*Tousse*"
 
 #: dialog/absamuel.msg:1004 dialog/ecredhro.msg:114 dialog/ncethwri.msg:200
 #: dialog/nclabish.msg:480
 msgid "*Sigh*"
-msgstr "::Soupir::"
+msgstr "*Soupir*"
 
 #: dialog/absamuel.msg:1005
 msgid "*Hickup*"
@@ -8622,7 +8622,7 @@ msgstr "C'est vrai. Tu en veux, c'est ça ?"
 
 #: dialog/acmorlis.msg:108
 msgid "Well, yeah."
-msgstr "Euh, ouais."
+msgstr "Ben, ouais."
 
 #: dialog/acmorlis.msg:109
 msgid ""
@@ -8748,7 +8748,7 @@ msgid ""
 msgstr ""
 "Alors débarrasse-moi le plancher et ne reviens pas avant de l'avoir trouvé ! "
 "Pourquoi perdre ton temps à revenir ici alors que tu pourrais l'utiliser "
-"pour poursuivre tes recherches !"
+"pour poursuivre tes recherches ?!"
 
 #: dialog/acmorlis.msg:208
 msgid ""
@@ -9364,7 +9364,7 @@ msgstr "Moi faire mon mieux. Moi trouver J.E.K. Moi revenir."
 msgid "Why can't we trade with other villages for the food we need? "
 msgstr ""
 "Pourquoi ne pas traiter avec les autres villages pour la nourriture dont "
-"nous avons besoin ?"
+"nous avons besoin ? "
 
 #: dialog/acmynoc.msg:408
 msgid "I'm doing my best. When I find the GECK I'll return with it."
@@ -9822,7 +9822,7 @@ msgstr "Fondatrice"
 #: dialog/acmynoc.msg:1002 dialog/acvillgr.msg:1002 dialog/acwarior.msg:1002
 #: dialog/kchild.msg:1002 dialog/kcitizen.msg:1002
 msgid "Vault Dweller"
-msgstr "Habitant de l'Abri "
+msgstr "Habitant de l'Abri"
 
 #: dialog/acmynoc.msg:1003 dialog/acvillgr.msg:1003 dialog/acwarior.msg:1003
 #: dialog/eccvnmst.msg:200 dialog/kchild.msg:1003 dialog/kcitizen.msg:1003
@@ -10758,7 +10758,7 @@ msgstr "J'ai besoin d'un moment pour me préparer."
 
 #: dialog/actemvil.msg:111
 msgid "What would you like to know? "
-msgstr "Que voudrais-tu savoir ?"
+msgstr "Que voudrais-tu savoir ? "
 
 #: dialog/actemvil.msg:112
 msgid "Why we fight?"
@@ -12036,10 +12036,9 @@ msgid ""
 "cured with\n"
 " the GECK. Go, find the GECK and save our people."
 msgstr ""
-"Mon enfant, notre besoin est plus grand que jamais. Notre peuple est malade, "
-"les Brahmines se meurent et notre nourriture est presque épuisée. Seul le "
-"J.E.K combattra le fléau qui s'est abattu sur nos terres. Va, et trouve-le. "
-"Sauve notre peuple."
+"Les temps sont durs, mon enfant. Notre peuple est malade, les Brahmines se "
+"meurent et notre nourriture est épuisée. Seul le J.E.K combattra le fléau "
+"qui s'est abattu sur nos terres. Va, et trouve-le ! Sauve notre peuple !"
 
 #: dialog/ahelder.msg:181 dialog/scmerk.msg:262 dialog/vcconnar.msg:153
 msgid "I'm on my way."
@@ -12143,8 +12142,8 @@ msgid ""
 " Do you know what must be done, Chosen One?"
 msgstr ""
 "Puis, ils nous ont amenés ici, en enfer. Ils ont tué la plupart d'entre nous "
-"avec ce qu'ils appellent effeuvé. Ils nous tueront, jusqu'au dernier ! Tu "
-"sais ce que tu dois faire, Être Elu."
+"avec de l'effeuvé. Ils nous tueront, jusqu'au dernier ! Tu sais ce que tu "
+"dois faire, Être Elu."
 
 #: dialog/ahelder.msg:215
 msgid "Effeevee?"
@@ -12191,7 +12190,7 @@ msgstr "Excuse-moi, tu n'es pas une vieille peau. Que se passe-t-il ?"
 
 #: dialog/ahelder.msg:225
 msgid "Like you could help me in there? Fuck off and die."
-msgstr "Pff, comme si tu pouvais m'aider... Va te faire foutre et crève."
+msgstr "Pff, tu pourrais peut-être m'aider, non ? Va te faire foutre et crève."
 
 #: dialog/ahelder.msg:226
 msgctxt "eeld9"
@@ -12326,18 +12325,18 @@ msgstr ""
 
 #: dialog/ahhakun.msg:105 dialog/ahhakun.msg:112
 msgid "Uh? "
-msgstr "Euh ?"
+msgstr "Euh ? "
 
 #: dialog/ahhakun.msg:106 dialog/ahhakun.msg:113
 msgid "I've come to say goodbye. I'm leaving on my holy quest. "
-msgstr "Je suis là pour te dire au revoir. Je vais mener ma sainte quête."
+msgstr "Je suis là pour te dire au revoir. Je vais mener ma sainte quête. "
 
 #: dialog/ahhakun.msg:107 dialog/ahhakun.msg:114
 msgid ""
 "I'm heading out. I was hoping just this once you'd talk like a real person. "
 msgstr ""
 "Je m'en vais. J'espérais que pour une fois tu parlerais comme une vraie "
-"personne."
+"personne. "
 
 #: dialog/ahhakun.msg:108 dialog/ahhakun.msg:115
 msgid "You are doing just way too many drugs. I'm outta here. "
