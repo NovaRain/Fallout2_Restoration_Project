@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-01 00:31+0000\n"
+"PO-Revision-Date: 2026-10-01 01:31+0000\n"
 "Last-Translator: Fonteneau Léa <mogutsy@gmail.com>\n"
 "Language-Team: French <https://hive.bgforge.net/projects/fallout/rp/fr/>\n"
 "Language: french\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: cuts/afailed.sve:10
 msgid "Chosen. The village dies. All of our futures die, too."
-msgstr "Etre Elu. Le village se meurt. Tous nos avenirs meurent eux aussi."
+msgstr "Être Elu. Le village se meurt. Tous nos avenirs meurent, eux aussi."
 
 #: cuts/artimer1.sve:20
 msgid "Chosen, the spirits of our ancestors guide me to world of dreams"
@@ -89,8 +89,8 @@ msgid ""
 "RemindBoy message: Water supplies nearly gone in Vault 13.  Situation "
 "critical."
 msgstr ""
-"Message du Remind-Boy : réserves d'eau de l'Abri 13 bientôt à sec. Situation "
-"critique."
+"Message du Remind-Boy : réserves d'eau de l'Abri 13 presque épuisées. "
+"Situation critique."
 
 #: cuts/boil3.sve:1
 msgid ""
@@ -2985,8 +2985,7 @@ msgstr "Mais les blessures laissées par la guerre n'ont pas encore cicatrisé."
 #. indexed_txt
 #: cuts/narrate.txt:30
 msgid "The wounds run deep, and now they are being felt in Arroyo."
-msgstr ""
-"Les blessures sont profondes et maintenant elles se font sentir à Arroyo."
+msgstr "Les blessures étaient profondes, et atteignaient maintenant Arroyo."
 
 #. indexed_txt
 #: cuts/narrate.txt:31
@@ -259497,10 +259496,9 @@ msgid "hurt yourself"
 msgstr "t'es blessée"
 
 #: game/combat.msg:270
-#, fuzzy
 msgctxt "female_pc"
 msgid "hit randomly"
-msgstr "a été touchée au hasard"
+msgstr "touchée au hasard"
 
 #: game/combat.msg:271
 msgctxt "female_pc"
@@ -259810,11 +259808,9 @@ msgid "%s critically missed and took 1 hit point"
 msgstr "%s as complètement raté ta cible et as subis 1 point d'impact"
 
 #: game/combat.msg:584
-#, fuzzy
-#| msgid "%s critically missed and took %d hit points"
 msgctxt "female_pc"
 msgid "%s critically missed and took %d hit points"
-msgstr "%s a raté sa cible et a pris %d points d'impact"
+msgstr "%s a complètement raté sa cible et a pris %d points d'impact"
 
 #: game/combat.msg:608
 msgid "Oops! %s was hit instead of you!"
@@ -259898,11 +259894,9 @@ msgid "%s was hit for %d hit points"
 msgstr "%s a été touchée pour %d points d'impact"
 
 #: game/combat.msg:714
-#, fuzzy
-#| msgid "%s critically missed"
 msgctxt "female_npc"
 msgid "%s critically missed"
-msgstr "%s a complètement raté"
+msgstr "%s a complètement raté sa cible"
 
 #: game/combat.msg:715
 msgctxt "female_npc"
@@ -269337,11 +269331,9 @@ msgid "Unarmed Damage"
 msgstr "Dégâts en Corps à Corps"
 
 #: game/editor.msg:304
-#, fuzzy
-#| msgid "Melee Damage"
 msgctxt "editor"
 msgid "Melee Damage"
-msgstr "Dégâts en Rixe"
+msgstr "Dégâts au Corps à Corps"
 
 #: game/editor.msg:305
 msgid "Damage Res.  "
@@ -293986,143 +293978,97 @@ msgstr "Forteresse"
 msgid "Interior"
 msgstr "Intérieur"
 
-#, fuzzy
-#| msgid "%s was critically hit for %d hit points"
 msgctxt "female"
 msgid "%s was critically hit for %d hit points"
-msgstr "%s a été touchée (coup critique) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit for 1 hit point"
 msgctxt "female"
 msgid "%s was critically hit for 1 hit point"
-msgstr "%s a été touchée (coup critique) pour 1 point d'impact"
+msgstr "%s a été touchée par un coup critique pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit for no damage"
 msgctxt "female"
 msgid "%s was critically hit for no damage"
-msgstr "%s a été touchée (coup critique) mais sans aucun dégât"
+msgstr "%s a été touchée par un coup critique mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s was critically hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s was critically hit in %s for %d hit points"
-msgstr "%s a été touchée (coup critique) (%s) pour %d points d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s was critically hit in %s for 1 hit point"
-msgstr "%s a été touchée (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s a été touchée par un coup critique dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was critically hit in %s for no damage"
 msgctxt "female"
 msgid "%s was critically hit in %s for no damage"
-msgstr "%s a été touchée (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s a été touchée par un coup critique dans %s mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s was hit for %d hit points"
 msgctxt "female"
 msgid "%s was hit for %d hit points"
 msgstr "%s a été touchée pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was hit for 1 hit point"
 msgctxt "female"
 msgid "%s was hit for 1 hit point"
 msgstr "%s a été touchée pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s was hit in %s for %d hit points"
-msgstr "%s a été touchée (%s) pour %d points d'impact"
+msgstr "%s a été touchée dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s was hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s was hit in %s for 1 hit point"
-msgstr "%s a été touchée (%s) pour 1 point d'impact"
+msgstr "%s a été touchée dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s was hit in %s for no damage"
 msgctxt "female"
 msgid "%s was hit in %s for no damage"
-msgstr "%s a été touchée (%s) sans aucun dégât"
+msgstr "%s a été touchée dans %s sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were critically hit for %d hit points"
 msgctxt "female"
 msgid "%s were critically hit for %d hit points"
-msgstr "%s as été touchée (coup critique) pour %d points d'impact"
+msgstr "%s as été touchée par un coup critique pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit for 1 hit point"
 msgctxt "female"
 msgid "%s were critically hit for 1 hit point"
-msgstr "%s as été touchée (coup critique) pour 1 point d'impact"
+msgstr "%s as été touchée par un coup critique pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit for no damage"
 msgctxt "female"
 msgid "%s were critically hit for no damage"
-msgstr "%s as été touchée (coup critique) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were critically hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s were critically hit in %s for %d hit points"
-msgstr "%s as été touchée (coup critique) (%s) pour %d points d'impact"
+msgstr "%s as été touchée par un coup critique dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s were critically hit in %s for 1 hit point"
-msgstr "%s as été touchée (coup critique) (%s) pour 1 point d'impact"
+msgstr "%s as été touchée par un coup critique dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were critically hit in %s for no damage"
 msgctxt "female"
 msgid "%s were critically hit in %s for no damage"
-msgstr "%s as été touchée (coup critique) (%s) mais sans aucun dégât"
+msgstr "%s as été touchée par un coup critique dans %s mais sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were hit for %d hit points"
 msgctxt "female"
 msgid "%s were hit for %d hit points"
 msgstr "%s as été touchée pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were hit for 1 hit point"
 msgctxt "female"
 msgid "%s were hit for 1 hit point"
 msgstr "%s as été touchée pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were hit for no damage"
 msgctxt "female"
 msgid "%s were hit for no damage"
 msgstr "%s as été touchée sans aucun dégât"
 
-#, fuzzy
-#| msgid "%s were hit in %s for %d hit points"
 msgctxt "female"
 msgid "%s were hit in %s for %d hit points"
-msgstr "%s as été touchée (%s) pour %d points d'impact"
+msgstr "%s as été touchée dans %s pour %d points d'impact"
 
-#, fuzzy
-#| msgid "%s were hit in %s for 1 hit point"
 msgctxt "female"
 msgid "%s were hit in %s for 1 hit point"
-msgstr "%s as été touchée (%s) pour 1 point d'impact"
+msgstr "%s as été touchée dans %s pour 1 point d'impact"
 
-#, fuzzy
-#| msgid "%s were hit in %s for no damage"
 msgctxt "female"
 msgid "%s were hit in %s for no damage"
-msgstr "%s as été touchée (%s) sans aucun dégât"
+msgstr "%s as été touchée dans %s sans aucun dégât"
 
 msgctxt "female"
 msgid "Cousin, am I glad to see you! I need your help."
@@ -294167,23 +294113,17 @@ msgstr ""
 "Fumace, est mort... Il me manque tellement... Pardon, mais je ne peux "
 "vraiment pas te parler davantage..."
 
-#, fuzzy
-#| msgid "Oops! %s was hit instead of %s!"
 msgctxt "female"
 msgid "Oops! %s was hit instead of %s!"
-msgstr "Oh ! %s a été touchée à la place de %s !"
+msgstr "Oups ! %s a été touchée à la place de %s !"
 
-#, fuzzy
-#| msgid "Oops! %s was hit instead of you!"
 msgctxt "female"
 msgid "Oops! %s was hit instead of you!"
-msgstr "Oh ! %s a été touchée à ta place !"
+msgstr "Oups ! %s a été touchée à ta place !"
 
-#, fuzzy
-#| msgid "Oops! %s were hit instead of %s!"
 msgctxt "female"
 msgid "Oops! %s were hit instead of %s!"
-msgstr "Oh ! %s as été touchée à la place de %s !"
+msgstr "Oups ! %s as été touchée à la place de %s !"
 
 msgctxt "female"
 msgid ""
@@ -294194,20 +294134,14 @@ msgstr ""
 "Bienvenue à la maison, cousine. Les choses ne vont pas si bien que ça ici. "
 "As-tu trouvé le Saint-Treize et le J.E.K ?"
 
-#, fuzzy
-#| msgid "hit randomly"
 msgctxt "female"
 msgid "hit randomly"
-msgstr "a été touchée au hasard"
+msgstr "touchée au hasard"
 
-#, fuzzy
-#| msgid "was killed"
 msgctxt "female"
 msgid "was killed"
 msgstr "a été tuée"
 
-#, fuzzy
-#| msgid "were killed"
 msgctxt "female"
 msgid "were killed"
 msgstr "as été tuée"
