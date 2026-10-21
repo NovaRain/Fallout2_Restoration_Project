@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       - name: ShellCheck
-        uses: ludeeus/action-shellcheck@master
+        uses: ludeeus/action-shellcheck@00cae500b08a931fb5698e11e79bfbd38e612a38 # 2.0.0
 
       - name: Fallout tests
         uses: BGforgeNet/fallout-tests@main
@@ -59,7 +59,7 @@ jobs:
             259 628 776  # guard, slaves, Den caravan master; slaves are separate cargo
 
       - name: Install wine
-        uses: devopsx/gha-ubuntu-i386-fix@master
+        uses: devopsx/gha-ubuntu-i386-fix@857a708773e426df64597ec43c9cd3d5bb85abee # master, no releases
 
       - name: Install packages
         run: |
@@ -70,14 +70,14 @@ jobs:
         run: ./extra/full.sh
 
       - name: Upload artifacts - exe
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu.exe
           path: rpu*.exe
 
       - name: Upload artifacts - translations zip
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu_translations.zip
@@ -89,14 +89,14 @@ jobs:
         run: rm -f rpu*_translations.zip
 
       - name: Upload artifacts - main zip
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         if: "!startsWith(github.ref, 'refs/tags/')"
         with:
           name: rpu.zip
           path: rpu*.zip
 
       - name: Release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@efb35369e0ad2afab669f228072c1b0d510eae64 # v3.0.3
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
@@ -109,7 +109,7 @@ jobs:
       # Create torrents
       - name: Release torrents
         if: startsWith(github.ref, 'refs/tags/')
-        uses: devopsx/action-torrent@v1
+        uses: devopsx/action-torrent@18d1dfef495e73cb94093731e9e5c845653fbc11 # v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           local: false
