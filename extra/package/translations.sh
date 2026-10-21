@@ -36,14 +36,8 @@ cd "$trans_dir"
 rm -f ./*.dat
 for d in *; do
     # shellcheck disable=SC2154  # from env.sh
-    dat="${mod_name}_$d.dat"
-    cd "$d"
-    # shellcheck disable=SC2154  # from package.sh
-    find . -type f | sed -e 's|^\.\/||' -e 's|\/|\\|g' | sort >"$file_list"
-    # shellcheck disable=SC2154  # from package.sh
-    $dat2a "$dat" @"$file_list"
-    mv "$dat" ..
-    cd ..
+    DAT_FILE="${mod_name}_$d.dat"
+    $DAT3 a -c 9 -C "$d" "$DAT_FILE" '*'
 done
 cd ..
 

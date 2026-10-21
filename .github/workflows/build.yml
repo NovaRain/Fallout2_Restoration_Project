@@ -58,13 +58,9 @@ jobs:
             508 628      # slaver, slaves; separate teams, slaves fight back
             259 628 776  # guard, slaves, Den caravan master; slaves are separate cargo
 
-      - name: Install wine
-        uses: devopsx/gha-ubuntu-i386-fix@857a708773e426df64597ec43c9cd3d5bb85abee # master, no releases
-
       - name: Install packages
         run: |
           sudo DEBIAN_FRONTEND=noninteractive eatmydata apt-get install -o=Dpkg::Use-Pty=0 -y crudini dos2unix gcc p7zip
-          WINEARCH=win32 eatmydata wineboot
 
       - name: Build and package
         run: ./extra/full.sh

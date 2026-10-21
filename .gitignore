@@ -28,9 +28,7 @@ release/mods/*
 !release/mods/mods_order.txt
 
 extra/bin/*
-!extra/bin/dat2.exe
 extra/inno/Output
 extra/inno/release
 extra/inno/translations
 scripts_src/sfall
-dat2.list
