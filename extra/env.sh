@@ -16,6 +16,7 @@ trans_dir="$(realpath translations)"
 export trans_dir
 
 export appearance_repo="BGforgeNet/Fallout2_Hero_Appearance"
+export cassidy_head_repo="BGforgeNet/Fallout2_Cassidy_Head"
 export party_orders_repo="BGforgeNet/Fallout2_Party_Orders"
 export hq_music_repo="BGforgeNet/Fallout2-HQ-music"
 export npc_armor_repo="BGforgeNet/Fallout2_NPC_Armor"
