@@ -37,7 +37,7 @@ mv ./release/mods/rpu_improved_mysterious_stranger.dat optional/
 # shellcheck disable=SC2154  # from env.sh
 "$extra_dir"/package/animation_fixes.sh
 
-docker run --rm -i -v "$PWD":/work amake/innosetup "$install_iss"
+docker run --rm -i -v "$PWD":/work docker.io/amake/innosetup "$install_iss"
 rm -rf release translations
 popd
 
