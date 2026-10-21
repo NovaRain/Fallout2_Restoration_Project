@@ -100,8 +100,8 @@ jobs:
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            rpu*.zip
             rpu*.exe
+            rpu*.zip
             torrents/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
