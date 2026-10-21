@@ -4,7 +4,8 @@ set -xeu -o pipefail
 
 lang_dir="data/text"
 trans_dir="translations"
-russian_sound_url="$(curl -s https://api.github.com/repos/BGforgeNet/Fallout2_Sound/releases/latest | grep browser_download_url | awk -F '"' '{print $4}')"
+# shellcheck disable=SC2154  # from env.sh
+russian_sound_url="$("$extra_dir"/package/release_url.sh BGforgeNet/Fallout2_Sound 'upu_russian_sound\.dat')"
 
 # delete unnecessary files
 rm -rf "$lang_dir"/{po,readme.md,translation.patch}
