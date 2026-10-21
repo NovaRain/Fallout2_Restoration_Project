@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-24-17:41+0000\n"
-"PO-Revision-Date: 2026-10-21 09:13+0000\n"
-"Last-Translator: cocainecookie859-cpu <cocainecookie859@gmail.com>\n"
+"PO-Revision-Date: 2026-10-21 09:24+0000\n"
+"Last-Translator: tygyh <jonis9898@hotmail.com>\n"
 "Language-Team: none\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -3772,8 +3772,8 @@ msgid ""
 " to Percy's Survival Gear Locker at the Junkyard in Gecko or Happy Harry's in the Courtyard at Vault City."
 msgstr ""
 "Du kan hitta Bill, vår lokala köpman, i byggnaden mittemot här. Annars bör "
-"du gå till Percy's Överlevnadsredskåp\n"
-" i skrotgården i Gecko eller Glada Glen's I gården i Valvstaden."
+"du gå till Percys Överlevnadsredskap\n"
+" i skrotgården i Gecko eller Glada Glenns på innergården i Valvstaden."
 
 #: dialog/abguard.msg:401
 msgid "Good to know. I have another question."
@@ -180212,7 +180212,7 @@ msgstr ""
 
 #: dialog/vcharry.msg:101
 msgid "You see Happy Harry, the store owner."
-msgstr ""
+msgstr "Du ser Glada Glenn, butiksägaren."
 
 #: dialog/vcharry.msg:102
 msgid "Well, hello there... what can I do for you?"
