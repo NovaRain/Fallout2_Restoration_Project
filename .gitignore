@@ -18,6 +18,8 @@ release/data
 release/ddraw.dll
 release/ddraw.ini
 release/sfall-mods.ini
+release/sfall-FAQ.txt
+release/sfall-readme.txt
 release/translations/
 
 release/mods/*
@@ -28,6 +30,7 @@ release/mods/*
 !release/mods/mods_order.txt
 
 extra/bin/*
+extra/inno/optional
 extra/inno/Output
 extra/inno/release
 extra/inno/translations
