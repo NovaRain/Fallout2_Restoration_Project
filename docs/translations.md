@@ -4,7 +4,6 @@
 - Most translations are **incomplete**, they are provided as is. If you use an incomplete translation, you'll see bits of English in the game.
 - You can [help with completion](https://hive.bgforge.net/projects/fallout/rp/). For additional info, see the [forums](https://forums.bgforge.net/viewtopic.php?f=9&t=22).
 
-
 ### Installation
 - Translations are **already included** into Windows installer. If you use it, no special configuration is required.
 - If you install [manually](linux.md) _and_ want to play a localized version:
