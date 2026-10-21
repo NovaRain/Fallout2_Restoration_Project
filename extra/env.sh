@@ -21,7 +21,7 @@ export party_orders_repo="BGforgeNet/Fallout2_Party_Orders"
 export hq_music_repo="BGforgeNet/Fallout2-HQ-music"
 export npc_armor_repo="BGforgeNet/Fallout2_NPC_Armor"
 
-SSLC_VERSION="2026-03-15-12-52-25"
+SSLC_VERSION="2026-09-17-13-26-18"
 export SSLC_URL="https://github.com/sfall-team/sslc/releases/download/${SSLC_VERSION}/sslc-linux"
 export COMPILE="$bin_dir/sslc"
 
