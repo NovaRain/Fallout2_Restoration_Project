@@ -35,7 +35,8 @@ for f in $optional_files; do
     fi
 done
 
-docker run --rm -i -v "$PWD":/work docker.io/amake/innosetup "$install_iss"
+# shellcheck disable=SC2154  # from env.sh
+docker run --rm -i -v "$PWD":/work "$INNO_IMAGE" "$install_iss"
 rm -rf release translations
 popd
 
