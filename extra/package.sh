@@ -38,11 +38,9 @@ DAT_FILE="$mod_name.dat"
 # shellcheck disable=SC2154  # from env.sh
 mkdir -p "$mods_dir"
 
-# Original music stays out: hq_music.sh ships the HQ music loose.
-file_list="$(mktemp)"
-(cd data && find . -path ./sound/music -prune -o -type f -print | sed 's|^\./||' | sort) >"$file_list"
-"$DAT3" a -c "$DAT3_LEVEL" -C data "$mods_dir/$DAT_FILE" @"$file_list"
-rm -f "$file_list"
+# Original music stays out: hq_music.sh ships the HQ music loose. Restored by the cleanup below.
+rm -rf data/sound/music
+"$DAT3" a -c "$DAT3_LEVEL" -C data "$mods_dir/$DAT_FILE" '*'
 
 # pack components into separate dat files
 "$extra_dir"/package/components.sh
@@ -84,6 +82,6 @@ mv "$release_dir/${mod_name}_${vversion}.zip" .
 "$extra_dir"/package/inno.sh
 
 # cleanup for local build
-git checkout -- data/text release extra/inno/inno.iss
+git checkout -- data/text data/sound/music release extra/inno/inno.iss
 git clean -fd translations
 git clean -fdX translations
