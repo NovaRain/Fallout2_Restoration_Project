@@ -41,7 +41,7 @@ mkdir -p "$mods_dir"
 # Original music stays out: hq_music.sh ships the HQ music loose.
 file_list="$(mktemp)"
 (cd data && find . -path ./sound/music -prune -o -type f -print | sed 's|^\./||' | sort) >"$file_list"
-"$DAT3" a -c 9 -C data "$mods_dir/$DAT_FILE" @"$file_list"
+"$DAT3" a -c "$DAT3_LEVEL" -C data "$mods_dir/$DAT_FILE" @"$file_list"
 rm -f "$file_list"
 
 # pack components into separate dat files
@@ -75,7 +75,8 @@ rm -f "$file_list"
 pushd .
 # shellcheck disable=SC2154  # from env.sh
 cd "$release_dir"
-zip -r "${mod_name}_${vversion}.zip" -- * # our package
+# .dat and .acm are already compressed: storing them is far faster, deflate gains well under 1%.
+zip -r -n .dat:.acm "${mod_name}_${vversion}.zip" -- * # our package
 popd
 mv "$release_dir/${mod_name}_${vversion}.zip" .
 

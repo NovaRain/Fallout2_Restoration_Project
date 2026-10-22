@@ -12,7 +12,7 @@ if [[ -d "$comp_dir" ]]; then
         # shellcheck disable=SC2154  # from env.sh
         DAT_FILE="${mod_name}_$c.dat"
         # shellcheck disable=SC2154  # from env.sh
-        "$DAT3" a -c 9 -C "$c" "$mods_dir/$DAT_FILE" '*'
+        "$DAT3" a -c "$DAT3_LEVEL" -C "$c" "$mods_dir/$DAT_FILE" '*'
     done
     cd ..
 fi

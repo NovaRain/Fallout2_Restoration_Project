@@ -37,7 +37,7 @@ rm -f ./*.dat
 for d in *; do
     # shellcheck disable=SC2154  # from env.sh
     DAT_FILE="${mod_name}_$d.dat"
-    $DAT3 a -c 9 -C "$d" "$DAT_FILE" '*'
+    $DAT3 a -c "$DAT3_LEVEL" -C "$d" "$DAT_FILE" '*'
 done
 cd ..
 
@@ -46,6 +46,7 @@ cd "$trans_dir"
 # russian sound packaged separately
 wget "$russian_sound_url"
 # shellcheck disable=SC2154  # from package.sh
-zip -r "${mod_name}_${vversion}_translations.zip" -- *.dat # all translations, just text and graphics
+# .dat files are already compressed: stored, not deflated again.
+zip -r -0 "${mod_name}_${vversion}_translations.zip" -- *.dat # all translations, just text and graphics
 popd
 mv "$trans_dir/${mod_name}_${vversion}_translations.zip" .
